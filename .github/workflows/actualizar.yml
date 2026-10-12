@@ -1,12 +1,11 @@
 name: Actualizar agenda
 
-# La web la publica el servicio de alojamiento (Cloudflare Pages) al detectar
-# cada commit en main, incluido el que hace este workflow con los datos nuevos.
+# La web la publica el alojamiento (Cloudflare Pages) al detectar cada commit
+# en main, incluido el que hace este workflow con los datos nuevos.
+
 on:
   schedule:
-    - cr# La web la publica el servicio de alojamiento (Cloudflare Pages) al detectar
-# cada commit en main, incluido el que hace este workflow con los datos nuevos.
-on: "17 */6 * * *"   # cada 6 horas
+    - cron: "17 */6 * * *"   # cada 6 horas
   workflow_dispatch:          # botón "Run workflow" para lanzarlo a mano
   push:
     branches: [main]
@@ -20,16 +19,12 @@ concurrency:
 
 jobs:
   actualizar:
-    runs-# La web la publica el servicio de alojamiento (Cloudflare Pages) al detectar
-# cada commit en main, incluido el que hace este workflow con los datos nuevos.
-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-versi# La web la publica el servicio de alojamiento (Cloudflare Pages) al detectar
-# cada commit en main, incluido el que hace este workflow con los datos nuevos.
-on: "3.12"
+          python-version: "3.12"
           cache: pip
           cache-dependency-path: collector/requirements.txt
       - run: pip install -r collector/requirements.txt
