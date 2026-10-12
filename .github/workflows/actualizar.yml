@@ -1,16 +1,18 @@
 name: Actualizar agenda
 
+# La web la publica el servicio de alojamiento (Cloudflare Pages) al detectar
+# cada commit en main, incluido el que hace este workflow con los datos nuevos.
 on:
   schedule:
-    - cron: "17 */6 * * *"   # cada 6 horas
+    - cr# La web la publica el servicio de alojamiento (Cloudflare Pages) al detectar
+# cada commit en main, incluido el que hace este workflow con los datos nuevos.
+on: "17 */6 * * *"   # cada 6 horas
   workflow_dispatch:          # botón "Run workflow" para lanzarlo a mano
   push:
     branches: [main]
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: agenda
@@ -18,15 +20,16 @@ concurrency:
 
 jobs:
   actualizar:
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+    runs-# La web la publica el servicio de alojamiento (Cloudflare Pages) al detectar
+# cada commit en main, incluido el que hace este workflow con los datos nuevos.
+on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-versi# La web la publica el servicio de alojamiento (Cloudflare Pages) al detectar
+# cada commit en main, incluido el que hace este workflow con los datos nuevos.
+on: "3.12"
           cache: pip
           cache-dependency-path: collector/requirements.txt
       - run: pip install -r collector/requirements.txt
@@ -41,9 +44,3 @@ jobs:
           git add web/data
           git diff --cached --quiet || git commit -m "Actualizar agenda"
           git push
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: web
-      - id: deploy
-        uses: actions/deploy-pages@v4

@@ -5,7 +5,7 @@ Agenda de conciertos en salas medianas y espacios pequeños de Madrid, pensada p
 - `collector/`: recolector en Python que lee la agenda de cada sala sin IA (API de eventos de WordPress, RSS o datos schema.org) y escribe `web/data/agenda.json` y una ficha por concierto en `web/data/events/`.
 - `collector/venues.yaml`: lista de salas y de dónde se lee cada una. Las marcadas `pendiente` aún no tienen lector.
 - `web/`: web estática (HTML, CSS y JavaScript sin dependencias). La agenda descarga un único JSON y filtra en el propio navegador.
-- `.github/workflows/actualizar.yml`: cada 6 horas ejecuta el recolector, guarda los datos y publica la web en GitHub Pages.
+- `.github/workflows/actualizar.yml`: cada 6 horas ejecuta el recolector y guarda los datos en `main`. El alojamiento (Cloudflare Pages, carpeta `web`, sin comando de build) publica la web en cada commit.
 
 ## Probar en local
 
