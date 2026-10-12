@@ -1,0 +1,15 @@
+{
+ "titulo": "Rebrote",
+ "fecha": "2027-06-26",
+ "hora": "19:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://www.entradas.com/event/rebrote-sala-la-riviera-22194997/?affiliate=ABG",
+ "url": "https://salariviera.com/event/rebrote/",
+ "imagen": "https://salariviera.com/wp-content/uploads/2026/10/2027-06262027-REBROTE.png",
+ "generos": [],
+ "descripcion": "",
+ "sala": "la-riviera",
+ "id": "la-riviera-2027-06-26-rebrote"
+}

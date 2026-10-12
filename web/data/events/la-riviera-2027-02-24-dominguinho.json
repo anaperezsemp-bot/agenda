@@ -1,0 +1,15 @@
+{
+ "titulo": "Dominguinho",
+ "fecha": "2027-02-24",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://www.ingresse.com/dominguinho-en-concierto-en-madrid/",
+ "url": "https://salariviera.com/event/dominguinho/",
+ "imagen": "https://salariviera.com/wp-content/uploads/2026/05/2027-02242027-DOMINGUINHO-2.png",
+ "generos": [],
+ "descripcion": "",
+ "sala": "la-riviera",
+ "id": "la-riviera-2027-02-24-dominguinho"
+}

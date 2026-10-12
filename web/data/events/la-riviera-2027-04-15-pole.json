@@ -1,0 +1,15 @@
+{
+ "titulo": "Pole",
+ "fecha": "2027-04-15",
+ "hora": "21:30",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://www.enterticket.es/eventos/pole-en-madrid-232735",
+ "url": "https://salariviera.com/event/pole/",
+ "imagen": "https://salariviera.com/wp-content/uploads/2026/09/2027-04152027-POLE.png",
+ "generos": [],
+ "descripcion": "",
+ "sala": "la-riviera",
+ "id": "la-riviera-2027-04-15-pole"
+}

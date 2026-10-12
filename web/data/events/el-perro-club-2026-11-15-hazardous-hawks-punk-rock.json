@@ -1,0 +1,18 @@
+{
+ "titulo": "HAZARDOUS HAWKS (Punk Rock)",
+ "fecha": "2026-11-15",
+ "hora": "21:00",
+ "precio_min": 7.0,
+ "precio_max": 9.0,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/hazardous-punk-rock/",
+ "url": "https://elperroclub.es/evento/hazardous-punk-rock/",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/10/hazardous-277-1.png",
+ "generos": [
+  "Conciertos",
+  "Conciertos"
+ ],
+ "descripcion": "Los Hazardous Hawks vuelven para dar el concierto de la temporada! Con un sonido rockero y gamberro nos presentan sus nuevas canciones originales llenas de adrenalina y ganas de saltar. No te lo pierdas!\n\n21:00 hs. Anticipadas 7€ – Taquilla 9€",
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2026-11-15-hazardous-hawks-punk-rock"
+}

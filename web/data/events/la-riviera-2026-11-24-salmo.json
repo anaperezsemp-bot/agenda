@@ -1,0 +1,15 @@
+{
+ "titulo": "Salmo",
+ "fecha": "2026-11-24",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://www.entradas.com/event/salmo-live-2026-sala-la-riviera-21372849/?affiliate=RIV",
+ "url": "https://salariviera.com/event/salmo/",
+ "imagen": "https://salariviera.com/wp-content/uploads/2026/03/2026-11242026-SALMO.png",
+ "generos": [],
+ "descripcion": "",
+ "sala": "la-riviera",
+ "id": "la-riviera-2026-11-24-salmo"
+}

@@ -1,0 +1,18 @@
+{
+ "titulo": "X-STAR (Disco · Funk)",
+ "fecha": "2026-12-12",
+ "hora": "21:30",
+ "precio_min": 11.0,
+ "precio_max": 13.0,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/x-star-disco-%c2%b7-funk/",
+ "url": "https://elperroclub.es/evento/x-star-disco-%c2%b7-funk/",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/09/277-X-STAR.png",
+ "generos": [
+  "Conciertos",
+  "Conciertos"
+ ],
+ "descripcion": "X-Star propone un viaje por los grandes clásicos del disco y el funk de todas las épocas. Un repertorio cargado de groove que conecta el sonido de Earth, Wind & Fire con el funk y acid jazz de Jamiroquai, llegando hasta referentes actuales como Bruno Mars.\n\nClásicos y grandes hits reinterpretados en directo por una banda con un objetivo claro: hacer bailar al público de principio a fin.\n\n21:30 hs. Anticipadas 11€ – Taquilla 13€",
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2026-12-12-x-star-disco-funk"
+}

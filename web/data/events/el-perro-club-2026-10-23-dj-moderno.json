@@ -1,0 +1,17 @@
+{
+ "titulo": "DJ MODERNO",
+ "fecha": "2026-10-23",
+ "hora": "23:30",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/dj-moderno-22/",
+ "url": "https://elperroclub.es/evento/dj-moderno-22/",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/09/MODERNO_277x277_V23_Oct.png",
+ "generos": [
+  "DJs"
+ ],
+ "descripcion": "DJ Moderno es uno de los nombres más sólidos de la escena indie-electrónica nacional. Con más de 20 años de trayectoria, ha pasado por festivales como Festival Internacional de Benicàssim, Sonorama o Cooltural, además de ser residente habitual en algunos de los clubs más importantes de Madrid.\n\nSus sesiones mezclan indie, pop, rock alternativo y electrónica con mashups y remixes en directo, construyendo sets dinámicos, bailables y llenos de energía. Una apuesta segura para la pista.\n\n23:30 hs.",
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2026-10-23-dj-moderno"
+}

@@ -1,0 +1,15 @@
+{
+ "titulo": "Sho-Hai",
+ "fecha": "2027-01-10",
+ "hora": "20:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://inverfest.com/events/sho-hai/",
+ "url": "https://salariviera.com/event/sho-hai-2/",
+ "imagen": "https://salariviera.com/wp-content/uploads/2026/05/2027-01102027-SHO-HAI.png",
+ "generos": [],
+ "descripcion": "",
+ "sala": "la-riviera",
+ "id": "la-riviera-2027-01-10-sho-hai"
+}

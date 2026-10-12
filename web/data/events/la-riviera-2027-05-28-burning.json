@@ -1,0 +1,15 @@
+{
+ "titulo": "Burning",
+ "fecha": "2027-05-28",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://www.enterticket.es/eventos/burning-50-anos-de-rock-madrid-531380",
+ "url": "https://salariviera.com/event/burning/",
+ "imagen": "https://salariviera.com/wp-content/uploads/2026/10/2027-05282027-BURNING-1.png",
+ "generos": [],
+ "descripcion": "",
+ "sala": "la-riviera",
+ "id": "la-riviera-2027-05-28-burning"
+}

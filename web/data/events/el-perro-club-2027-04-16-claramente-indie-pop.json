@@ -1,0 +1,18 @@
+{
+ "titulo": "CLARAMENTE (Indie Pop)",
+ "fecha": "2027-04-16",
+ "hora": "21:00",
+ "precio_min": 12.0,
+ "precio_max": 15.0,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/claramente-indie-pop-2/",
+ "url": "https://elperroclub.es/evento/claramente-indie-pop-2/",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/09/277-clara-mente-.png",
+ "generos": [
+  "Conciertos",
+  "Conciertos"
+ ],
+ "descripcion": "Claramente presenta en Madrid su primer LP «Mensajes Sin Enviar» en un concierto con banda completa cargado de emociones.\n\nUn disco que reúne su particular visión del indie pop y el indie folk, con melodías dulces y letras íntimas y vulnerables sobre las cosas que se quedan sin decir. \n\n21:00 hs. Anticipadas 12€ – Taquilla 15€",
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2027-04-16-claramente-indie-pop"
+}

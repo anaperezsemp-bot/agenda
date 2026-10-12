@@ -1,0 +1,15 @@
+{
+ "titulo": "Benito Kamelas",
+ "fecha": "2027-06-04",
+ "hora": "20:30",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://movingtickets.com/Entradas-Benito-Kamelas-concierto-La-Riviera-Madrid/",
+ "url": "https://salariviera.com/event/benito-kamelas/",
+ "imagen": "https://salariviera.com/wp-content/uploads/2026/06/2027-06042027-BENITO-KAMELAS.png",
+ "generos": [],
+ "descripcion": "",
+ "sala": "la-riviera",
+ "id": "la-riviera-2027-06-04-benito-kamelas"
+}

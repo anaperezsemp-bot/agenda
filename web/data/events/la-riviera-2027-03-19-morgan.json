@@ -1,0 +1,15 @@
+{
+ "titulo": "Morgan",
+ "fecha": "2027-03-19",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://www.entradas.com/artist/morgan/?Affiliate=RIV",
+ "url": "https://salariviera.com/event/morgan-2/",
+ "imagen": "https://salariviera.com/wp-content/uploads/2026/06/2027-03192027-MORGAN.png",
+ "generos": [],
+ "descripcion": "",
+ "sala": "la-riviera",
+ "id": "la-riviera-2027-03-19-morgan"
+}

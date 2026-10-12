@@ -1,0 +1,15 @@
+{
+ "titulo": "Kamelot",
+ "fecha": "2026-11-22",
+ "hora": "19:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://www.ticketmaster.es/event/kamelot--exit-eden--temperance-entradas/2050409112",
+ "url": "https://salariviera.com/event/kamelot-2/",
+ "imagen": "https://salariviera.com/wp-content/uploads/2026/02/2026-11222026-KAMELOT.png",
+ "generos": [],
+ "descripcion": "",
+ "sala": "la-riviera",
+ "id": "la-riviera-2026-11-22-kamelot"
+}

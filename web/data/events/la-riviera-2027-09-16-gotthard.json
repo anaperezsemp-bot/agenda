@@ -1,0 +1,15 @@
+{
+ "titulo": "Gotthard",
+ "fecha": "2027-09-16",
+ "hora": "19:30",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://ticketgate.es/es/events/gotthard-en-madrid",
+ "url": "https://salariviera.com/event/gotthard/",
+ "imagen": "https://salariviera.com/wp-content/uploads/2026/10/2027-09162027-GOTTHARD.png",
+ "generos": [],
+ "descripcion": "",
+ "sala": "la-riviera",
+ "id": "la-riviera-2027-09-16-gotthard"
+}

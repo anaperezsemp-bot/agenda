@@ -1,0 +1,15 @@
+{
+ "titulo": "Comandante Twin",
+ "fecha": "2026-12-26",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://entradas1.tomaticket.es/es/events/comandante-twin-la-riviera",
+ "url": "https://salariviera.com/event/comandante-twin/",
+ "imagen": "https://salariviera.com/wp-content/uploads/2026/05/2026-12262026-COMANDANTE-TWIN.png",
+ "generos": [],
+ "descripcion": "",
+ "sala": "la-riviera",
+ "id": "la-riviera-2026-12-26-comandante-twin"
+}
