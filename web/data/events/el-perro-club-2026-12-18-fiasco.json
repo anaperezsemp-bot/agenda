@@ -1,0 +1,18 @@
+{
+ "titulo": "FIASCO",
+ "fecha": "2026-12-18",
+ "hora": "21:30",
+ "precio_min": 10.0,
+ "precio_max": 12.0,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/fiasco-rock-alternativo-experimental/",
+ "url": "https://elperroclub.es/evento/fiasco-rock-alternativo-experimental/",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/08/277-FIASCO.png",
+ "generos": [
+  "Rock",
+  "Experimental"
+ ],
+ "descripcion": "FIASCO es un proyecto madrileño de rock alternativo con influencias experimentales.\n\nUna mezcla de personas altamente disfuncionales que intentan ver si pueden hacer algo valioso con sus vidas se conocieron a principios de la década de 2020 y comenzaron este proyecto a finales de 2024. Nick D’Amico (voz) y Aitor García (guitarra) se conocieron en 2022 y comenzaron a componer canciones y tocar en vivo en Madrid. Sin embargo, no fue hasta que Celia Martín Navas (coros, teclados) y Raúl Hidalgo (batería) se unieron que el proyecto realmente tomó forma y se convirtió en una mezcla de influencias del rock clásico, noise, punk y rock progresivo.\n\nEsto no es un producto.\n\n21:30 hs. Anticipadas 10€ – Taquilla 12€",
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2026-12-18-fiasco"
+}

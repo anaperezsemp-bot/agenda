@@ -1,0 +1,17 @@
+{
+ "titulo": "SONORA",
+ "fecha": "2027-01-16",
+ "hora": "21:30",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/sonora-indie-rock/",
+ "url": "https://elperroclub.es/evento/sonora-indie-rock/",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/09/SONORA-277.png",
+ "generos": [
+  "Indie"
+ ],
+ "descripcion": "Sonora! Indie Rock Band es una banda vibrante y enérgica que reinterpreta lo mejor del indie en castellano. Con un sonido fresco, guitarras envolventes y una presencia escénica que conecta con el público desde el primer acorde, Sonora! transforma cada presentación en una experiencia única. Nuestro repertorio recorre clásicos y joyas ocultas del indie rock castellano, rindiendo homenaje a sus raíces mientras le damos nuestro propio sello.\n\n21:30 hs. Anticipadas 10€ – Taquilla 12€",
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2027-01-16-sonora"
+}

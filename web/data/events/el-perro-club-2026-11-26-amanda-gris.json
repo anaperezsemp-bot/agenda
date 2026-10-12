@@ -1,0 +1,17 @@
+{
+ "titulo": "AMANDA GRIS",
+ "fecha": "2026-11-26",
+ "hora": "21:00",
+ "precio_min": 5.0,
+ "precio_max": 7.0,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/amanda-gris-rock-alternativo/",
+ "url": "https://elperroclub.es/evento/amanda-gris-rock-alternativo/",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/09/26_11_AmandaGris_web.png",
+ "generos": [
+  "Rock"
+ ],
+ "descripcion": "Amor, Brotons, Figueroa, Galera y Postigo. El destino les unió en una escuela de música de barrio. Tras un año de práctica concienzuda, nació Amanda Gris, uno de los mayores secretos de la escena pop/rock madrileña actual.\n\nTras su paso por conocidas salas Madrid, por fin en El Perro, como  concierto de anticipado Fin de Año. No te lo puedes perder!\n21:00 hs. Anticipadas 5€ – Taquilla 7€",
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2026-11-26-amanda-gris"
+}

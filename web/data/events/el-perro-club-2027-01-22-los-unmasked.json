@@ -1,0 +1,17 @@
+{
+ "titulo": "LOS UNMASKED",
+ "fecha": "2027-01-22",
+ "hora": "21:30",
+ "precio_min": 11.0,
+ "precio_max": 14.0,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/los-unmasked-tributo-a-kiss/",
+ "url": "https://elperroclub.es/evento/los-unmasked-tributo-a-kiss/",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/09/277-unmasked.png",
+ "generos": [
+  "Tributo"
+ ],
+ "descripcion": "Los Unmasked son una banda tributo a Kiss formada por músicos profesionales que viven de la música. Su propuesta se aleja del tributo tradicional: sin maquillaje ni vestuario de la banda original, todo el foco está puesto en la música. El repertorio es fiel al legado de Kiss, tocado con energía, cuidado en el sonido y un profundo respeto por una banda que marcó su forma de entender la música y dio sus primeros pasos como músicos. Una propuesta pensada para quienes buscan la esencia sonora de Kiss por encima de la estética.\n\n21:30 hs. Anticipadas 11€ – Taquilla 14€",
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2027-01-22-los-unmasked"
+}

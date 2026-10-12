@@ -1,0 +1,18 @@
+{
+ "titulo": "BLOODY VELVET BONES",
+ "fecha": "2026-11-13",
+ "hora": "21:30",
+ "precio_min": 10.0,
+ "precio_max": 12.0,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/bloody-velvet-bones-rock-blues/",
+ "url": "https://elperroclub.es/evento/bloody-velvet-bones-rock-blues/",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/10/13_BloodyVelvet_web.png",
+ "generos": [
+  "Rock",
+  "Blues"
+ ],
+ "descripcion": "Bloody Velvet Bones es una banda de Madrid que hace un rock de corte clásico pero potente al que añaden matices de blues, rockabilly y hard rock. Sus temas son elegantes, melódicos y con contrastes. Su repertorio incluye versiones de diferentes estilos, en línea con sus influencias. Los componentes tienen una extensa experiencia tocando en bandas dentro y fuera del país. Ahora se unen para defender un proyecto con personalidad y abrirse paso en la escena. Vienen al Perro a presentar su single Ain’t gonna do it y a ofrecer un buen concierto de rock n’ roll.\n\n21:30 hs. Anticipadas 10€ – Taquilla 12€",
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2026-11-13-bloody-velvet-bones"
+}

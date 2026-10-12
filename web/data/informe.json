@@ -1,0 +1,25 @@
+{
+ "generado": "2026-10-12T18:40:15+00:00",
+ "salas": [
+  {
+   "sala": "Café La Palma",
+   "conciertos": 49,
+   "error": null
+  },
+  {
+   "sala": "La Riviera",
+   "conciertos": 107,
+   "error": null
+  },
+  {
+   "sala": "El Perro Club",
+   "conciertos": 53,
+   "error": null
+  },
+  {
+   "sala": "Maravillas Club",
+   "conciertos": 3,
+   "error": null
+  }
+ ]
+}

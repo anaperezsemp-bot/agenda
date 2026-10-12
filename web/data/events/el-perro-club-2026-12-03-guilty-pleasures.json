@@ -1,0 +1,17 @@
+{
+ "titulo": "GUILTY PLEASURES",
+ "fecha": "2026-12-03",
+ "hora": "21:00",
+ "precio_min": 8.0,
+ "precio_max": 10.0,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/guilty-pleasures-rock/",
+ "url": "https://elperroclub.es/evento/guilty-pleasures-rock/",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/10/guilty-277.png",
+ "generos": [
+  "Rock"
+ ],
+ "descripcion": "Vuelven los Guilty Pleasures! ¡Revival de una de las mejores bandas de versiones de Madrid!\n\n21:00 hs. Anticipadas 8€ – Taquilla 10€",
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2026-12-03-guilty-pleasures"
+}
