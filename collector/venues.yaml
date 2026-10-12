@@ -1,0 +1,137 @@
+# Salas que sigue la agenda.
+# fuente:
+#   tec   -> plugin The Events Calendar de WordPress (API /wp-json/tribe/events/v1/events)
+#   rss   -> feed RSS (p. ej. la categoría "conciertos" de un WordPress)
+#   jsonld -> página con datos schema.org Event / MusicEvent
+#   pendiente -> todavía sin lector; la sala aparece en los filtros pero no aporta conciertos
+# Las salas "pendiente" se irán activando una a una (ver docs/salas.md).
+
+salas:
+  - id: cafe-la-palma
+    nombre: Café La Palma
+    barrio: Malasaña
+    web: https://cafelapalma.com/agenda-de-conciertos/
+    fuente: tec
+    base: https://cafelapalma.com
+
+  - id: la-riviera
+    nombre: La Riviera
+    barrio: Arganzuela
+    web: https://salariviera.com/conciertossalariviera/
+    fuente: tec
+    base: https://salariviera.com
+
+  - id: el-perro-club
+    nombre: El Perro Club
+    barrio: Malasaña
+    web: https://elperroclub.es/conciertos/
+    fuente: tec
+    base: https://elperroclub.es
+
+  - id: maravillas
+    nombre: Maravillas Club
+    barrio: Malasaña
+    web: https://www.maravillasclub.com/category/conciertos/
+    fuente: rss
+    url: https://www.maravillasclub.com/category/conciertos/feed/
+
+  - id: galileo
+    nombre: Sala Galileo Galilei
+    barrio: Chamberí
+    web: https://salagalileo.es/programacion/
+    fuente: pendiente
+    nota: Modern Events Calendar; filtrar la categoría "Concierto live"
+
+  - id: cafe-berlin
+    nombre: Café Berlín
+    barrio: Centro
+    web: https://berlincafe.es/programas/
+    fuente: pendiente
+  - id: sala-but
+    nombre: Sala But
+    barrio: Malasaña
+    web: https://www.salabut.es/agenda-conciertos/
+    fuente: pendiente
+  - id: copernico
+    nombre: Copérnico
+    barrio: Chamberí
+    web: https://conciertoscopernico.com/conciertos-copernico/
+    fuente: pendiente
+  - id: el-sol
+    nombre: Sala El Sol
+    barrio: Centro
+    web: https://salaelsol.com/agenda/
+    fuente: pendiente
+  - id: siroco
+    nombre: Siroco
+    barrio: Malasaña
+    web: https://siroco.es/conciertos/
+    fuente: pendiente
+  - id: fun-house
+    nombre: Fun House
+    barrio: Chamberí
+    web: https://www.funhousemusicbar.com/conciertos
+    fuente: pendiente
+  - id: el-sotano
+    nombre: El Sótano
+    barrio: La Latina
+    web: https://www.salaelsotano.com/
+    fuente: pendiente
+  - id: wurlitzer
+    nombre: Wurlitzer Ballroom
+    barrio: Centro
+    web: https://wurlitzerballroom.com/agenda
+    fuente: pendiente
+  - id: cadavra
+    nombre: Cadavra
+    barrio: Centro
+    web: https://cadavraclub.com/
+    fuente: pendiente
+  - id: clamores
+    nombre: Clamores
+    barrio: Chamberí
+    web: https://www.salaclamores.es/calendario
+    fuente: pendiente
+  - id: moby-dick
+    nombre: Moby Dick
+    barrio: Tetuán
+    web: https://www.mobydickclub.com/programacion.php
+    fuente: pendiente
+  - id: fotomaton
+    nombre: Fotomatón Bar
+    barrio: Conde Duque
+    web: https://mutick.com/v/fotomaton
+    fuente: pendiente
+  - id: shoko
+    nombre: Shôko
+    barrio: Embajadores
+    web: https://shokomadrid.com/collections/eventos-shoko-madrid
+    fuente: pendiente
+  - id: nazca
+    nombre: Sala Nazca
+    barrio: Tetuán
+    fuente: pendiente
+  - id: chango
+    nombre: Changó
+    barrio: Chamberí
+    fuente: pendiente
+  - id: villanos
+    nombre: Villanos
+    barrio: Embajadores
+    fuente: pendiente
+  - id: lab-wagon
+    nombre: Lab Wagon
+    barrio: Chamartín
+    fuente: pendiente
+  - id: sala-uni
+    nombre: Sala Uni
+    barrio: Chamberí
+    fuente: pendiente
+  - id: mon-live
+    nombre: Mon Live
+    barrio: Argüelles
+    fuente: pendiente
+  - id: lula
+    nombre: Lula Club
+    barrio: Centro
+    fuente: pendiente

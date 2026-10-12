@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Agenda de conciertos</title>
+  <meta name="description" content="Conciertos en salas medianas y espacios pequeños de Madrid">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preload" href="data/agenda.json" as="fetch" crossorigin>
+</head>
+<body>
+  <header class="top" id="top">
+    <div class="top-row">
+      <h1>Agenda</h1>
+      <button class="btn" id="abrir-filtros" type="button">Filtros<span class="badge" id="n-filtros" hidden></span></button>
+    </div>
+    <nav class="days" id="dias" aria-label="Elegir día"></nav>
+    <div class="chips" id="chips"></div>
+  </header>
+
+  <main id="lista"><p class="estado">Cargando conciertos…</p></main>
+  <footer class="pie" id="pie"></footer>
+
+  <dialog class="filtros" id="filtros">
+    <form method="dialog" id="form-filtros">
+      <header>
+        <h2>Filtros</h2>
+        <button class="btn" value="cerrar" type="submit" aria-label="Cerrar">✕</button>
+      </header>
+      <div class="cuerpo">
+        <fieldset>
+          <legend>Fecha</legend>
+          <div class="fila">
+            <label>Desde<input type="date" name="desde"></label>
+            <label>Hasta<input type="date" name="hasta"></label>
+          </div>
+        </fieldset>
+        <fieldset>
+          <legend>Precio</legend>
+          <select name="pmax" aria-label="Precio máximo">
+            <option value="">Cualquiera</option>
+            <option value="0">Gratis</option>
+            <option value="10">Hasta 10 €</option>
+            <option value="15">Hasta 15 €</option>
+            <option value="20">Hasta 20 €</option>
+            <option value="30">Hasta 30 €</option>
+          </select>
+        </fieldset>
+        <fieldset>
+          <legend>Entradas</legend>
+          <label class="switch"><input type="checkbox" name="sinagotados" value="1"> Ocultar agotados</label>
+        </fieldset>
+        <fieldset>
+          <legend>Ubicación</legend>
+          <div class="opciones" id="op-barrio"></div>
+        </fieldset>
+        <fieldset>
+          <legend>Sala</legend>
+          <div class="opciones" id="op-sala"></div>
+        </fieldset>
+        <fieldset>
+          <legend>Género</legend>
+          <div class="opciones" id="op-gen"></div>
+        </fieldset>
+      </div>
+      <footer>
+        <button class="btn" type="button" id="limpiar">Quitar filtros</button>
+        <button class="btn btn-primary" value="aplicar" type="submit">Ver conciertos</button>
+      </footer>
+    </form>
+  </dialog>
+
+  <script src="comun.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

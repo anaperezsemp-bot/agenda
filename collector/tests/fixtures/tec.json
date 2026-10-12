@@ -1,0 +1,5 @@
+{"events":[
+ {"title":"Los Punsetes","description":"<p>Indie desde Madrid.</p>","start_date":"2026-10-17 21:00:00","all_day":false,"url":"https://cafelapalma.com/evento/los-punsetes/","website":"https://entradas.cafelapalma.com/punsetes","cost":"12 € – 15 €","image":{"url":"https://cafelapalma.com/img/punsetes.jpg"},"categories":[{"name":"Indie"}]},
+ {"title":"Jam session &#8211; AGOTADO","description":"","start_date":"2026-10-14 20:30:00","all_day":false,"url":"https://cafelapalma.com/evento/jam/","website":"","cost":"Gratis","image":false,"categories":[]},
+ {"title":"Concierto pasado","description":"","start_date":"2026-10-01 21:00:00","all_day":false,"url":"x","cost":"","image":false,"categories":[]}
+],"next_rest_url":null}
