@@ -13,6 +13,10 @@
   "Rock"
  ],
  "descripcion": "Los Hazardous Hawks vuelven para dar el concierto de la temporada! Con un sonido rockero y gamberro nos presentan sus nuevas canciones originales llenas de adrenalina y ganas de saltar. No te lo pierdas!\n\n21:00 hs. Anticipadas 7€ – Taquilla 9€",
+ "categorias": [
+  "Conciertos",
+  "Conciertos"
+ ],
  "sala": "el-perro-club",
  "id": "el-perro-club-2026-11-15-hazardous-hawks"
 }
