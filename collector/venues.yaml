@@ -13,6 +13,7 @@ salas:
     web: https://cafelapalma.com/agenda-de-conciertos/
     fuente: tec
     base: https://cafelapalma.com
+    excluir_categorias: [Clubbing, Club, DJ, DJs]
 
   - id: la-riviera
     nombre: La Riviera

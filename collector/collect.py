@@ -89,7 +89,7 @@ def main():
             if excluir & {g.lower() for g in ev["generos"]}:
                 continue  # p. ej. sesiones de DJ en salas que mezclan conciertos y club
             titulo, generos = generos_y_titulo(ev["titulo"], ev["generos"])
-            ev = dict(ev, titulo=titulo, generos=generos)
+            ev = dict(ev, titulo=titulo, generos=generos, categorias=ev["generos"])
             c = dict(ev, sala=sala["id"], fecha=ev["fecha"].isoformat())
             c["id"] = id_concierto(sala["id"], ev["fecha"], ev["titulo"])
             nuevos.append(c)
