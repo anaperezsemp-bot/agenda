@@ -3,10 +3,10 @@
 #   tec   -> plugin The Events Calendar de WordPress (API /wp-json/tribe/events/v1/events)
 #   rss   -> feed RSS (p. ej. la categoría "conciertos" de un WordPress)
 #   jsonld -> página con datos schema.org Event / MusicEvent
+#   pendiente -> todavía sin lector; la sala no aporta conciertos todavía
 # Opcionales: excluir_categorias (quita, p. ej., las sesiones de DJ) y
 # solo_categorias (se queda solo con esas categorías de la sala).
-#   pendiente -> todavía sin lector; la sala aparece en los filtros pero no aporta conciertos
-# Las salas "pendiente" se irán activando una a una (ver docs/salas.md).
+# Las salas "pendiente" se irán activando una a una (ver README.md).
 
 salas:
   - id: cafe-la-palma
