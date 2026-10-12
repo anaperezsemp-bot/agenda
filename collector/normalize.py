@@ -86,3 +86,51 @@ def slug(texto):
 
 def id_concierto(sala_id, fecha, titulo):
     return f"{sala_id}-{fecha.isoformat()}-{slug(titulo)}"
+
+
+# Vocabulario de géneros: lo que no esté aquí (etiquetas como "Madrid" o "Conciertos") se descarta.
+GENEROS = {
+    "rock": "Rock", "pop": "Pop", "indie": "Indie", "indie pop": "Indie", "indie rock": "Indie",
+    "punk": "Punk", "post punk": "Punk", "post-punk": "Punk", "hardcore": "Punk",
+    "metal": "Metal", "heavy": "Metal", "garage": "Garage", "garaje": "Garage",
+    "psicodelia": "Psicodelia", "psych": "Psicodelia", "jazz": "Jazz", "blues": "Blues",
+    "soul": "Soul", "funk": "Funk", "folk": "Folk", "cantautor": "Cantautor", "cantautora": "Cantautor",
+    "flamenco": "Flamenco", "rumba": "Flamenco", "electronica": "Electrónica", "electrónica": "Electrónica",
+    "techno": "Electrónica", "house": "Electrónica", "hip hop": "Hip hop", "hip-hop": "Hip hop",
+    "rap": "Hip hop", "trap": "Hip hop", "reggae": "Reggae", "ska": "Ska", "latin": "Latino",
+    "latino": "Latino", "salsa": "Latino", "cumbia": "Latino", "reggaeton": "Latino",
+    "experimental": "Experimental", "noise": "Experimental", "ambient": "Experimental",
+    "country": "Country", "americana": "Country", "rockabilly": "Rockabilly", "swing": "Jazz",
+    "clasica": "Clásica", "clásica": "Clásica", "world": "Músicas del mundo", "r&b": "Soul",
+    "tributo": "Tributo", "tributos": "Tributo",
+}
+_SEPARADORES = re.compile(r"\s*(?:[·/,|+]|\by\b)\s*")
+_PARENTESIS_FINAL = re.compile(r"\s*\(([^()]+)\)\s*$")
+
+
+def _generos_de(texto):
+    encontrados = []
+    for trozo in _SEPARADORES.split(texto.lower()):
+        trozo = trozo.strip()
+        if trozo in GENEROS:
+            encontrados.append(GENEROS[trozo])
+        else:
+            encontrados += [GENEROS[p] for p in trozo.split() if p in GENEROS]
+    return encontrados
+
+
+def generos_y_titulo(titulo, etiquetas):
+    """Separa los géneros que algunas salas ponen entre paréntesis al final del título
+    ("GRUPO (Pop · Rock)") y filtra las etiquetas contra el vocabulario de géneros."""
+    generos = []
+    m = _PARENTESIS_FINAL.search(titulo)
+    if m:
+        del_titulo = _generos_de(m.group(1))
+        if del_titulo:
+            generos += del_titulo
+            titulo = titulo[: m.start()].strip()
+    for etiqueta in etiquetas:
+        clave = etiqueta.strip().lower()
+        if clave in GENEROS:
+            generos.append(GENEROS[clave])
+    return titulo, list(dict.fromkeys(generos))  # sin repetidos, en orden

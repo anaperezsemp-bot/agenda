@@ -27,6 +27,7 @@ salas:
     web: https://elperroclub.es/conciertos/
     fuente: tec
     base: https://elperroclub.es
+    excluir_categorias: [DJs]
 
   - id: maravillas
     nombre: Maravillas Club

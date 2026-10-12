@@ -50,3 +50,13 @@ def test_jsonld():
     (ev,) = jsonld.leer({"url": "u"}, lambda url: texto, HOY)
     assert ev["titulo"] == "Hinds" and ev["agotado"] and ev["precio_min"] == 18.0
     assert ev["hora"] == "20:00" and ev["url_entradas"] == "https://dice.fm/hinds"
+
+
+def test_generos():
+    from normalize import generos_y_titulo
+    assert generos_y_titulo("LINDA BURNETTI + MIRAGÜANO (Blues Rock Indie Pop)", ["Conciertos"]) == (
+        "LINDA BURNETTI + MIRAGÜANO", ["Blues", "Rock", "Indie", "Pop"])
+    assert generos_y_titulo("ALBERTO BALLESTEROS (Pop · Rock · Folk)", []) == (
+        "ALBERTO BALLESTEROS", ["Pop", "Rock", "Folk"])
+    assert generos_y_titulo("Chema Saiz (Festival JazzMadrid)", ["Madrid", "jazz", "blues", "Maravillas"]) == (
+        "Chema Saiz (Festival JazzMadrid)", ["Jazz", "Blues"])

@@ -12,7 +12,7 @@ from pathlib import Path
 import requests
 import yaml
 
-from normalize import id_concierto
+from normalize import generos_y_titulo, id_concierto
 from sources import jsonld, rss, tec
 
 AQUI = Path(__file__).resolve().parent
@@ -81,10 +81,15 @@ def main():
         except Exception as e:  # una sala rota no debe tumbar la agenda entera
             leidos, error = [], f"{type(e).__name__}: {e}"
 
+        excluir = {x.lower() for x in sala.get("excluir_categorias", [])}
         nuevos = []
         for ev in leidos:
             if ev["fecha"] < hoy or not ev["titulo"]:
                 continue
+            if excluir & {g.lower() for g in ev["generos"]}:
+                continue  # p. ej. sesiones de DJ en salas que mezclan conciertos y club
+            titulo, generos = generos_y_titulo(ev["titulo"], ev["generos"])
+            ev = dict(ev, titulo=titulo, generos=generos)
             c = dict(ev, sala=sala["id"], fecha=ev["fecha"].isoformat())
             c["id"] = id_concierto(sala["id"], ev["fecha"], ev["titulo"])
             nuevos.append(c)
@@ -117,6 +122,15 @@ def main():
             json.dumps(c, ensure_ascii=False, indent=1), encoding="utf-8"
         )
 
+    # Informe por sala, para ver desde GitHub qué salas fallan sin abrir los registros.
+    (salida / "informe.json").write_text(
+        json.dumps(
+            {"generado": agenda["generado"],
+             "salas": [{"sala": n, "conciertos": k, "error": e} for n, k, e in informe]},
+            ensure_ascii=False, indent=1,
+        ),
+        encoding="utf-8",
+    )
     print(f"{len(ordenados)} conciertos desde {hoy.isoformat()}")
     for nombre, n, error in informe:
         print(f"  {nombre}: {n}" + (f"  ⚠ {error}" if error else ""))
