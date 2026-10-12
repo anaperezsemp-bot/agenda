@@ -82,12 +82,15 @@ def main():
             leidos, error = [], f"{type(e).__name__}: {e}"
 
         excluir = {x.lower() for x in sala.get("excluir_categorias", [])}
+        incluir = {x.lower() for x in sala.get("solo_categorias", [])}
         nuevos = []
         for ev in leidos:
             if ev["fecha"] < hoy or not ev["titulo"]:
                 continue
             if excluir & {g.lower() for g in ev["generos"]}:
                 continue  # p. ej. sesiones de DJ en salas que mezclan conciertos y club
+            if incluir and not incluir & {g.lower() for g in ev["generos"]}:
+                continue  # p. ej. exposiciones o presentaciones de libros
             titulo, generos = generos_y_titulo(ev["titulo"], ev["generos"])
             ev = dict(ev, titulo=titulo, generos=generos, categorias=ev["generos"])
             c = dict(ev, sala=sala["id"], fecha=ev["fecha"].isoformat())
