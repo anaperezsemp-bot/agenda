@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-13T12:47:18+00:00",
+ "generado": "2026-10-13T18:44:27+00:00",
  "salas": [
   {
    "sala": "Café La Palma",
@@ -13,12 +13,12 @@
   },
   {
    "sala": "El Perro Club",
-   "conciertos": 53,
+   "conciertos": 54,
    "error": null
   },
   {
    "sala": "Maravillas Club",
-   "conciertos": 3,
+   "conciertos": 5,
    "error": null
   }
  ]
