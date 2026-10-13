@@ -1,0 +1,18 @@
+{
+ "titulo": "HAZAS",
+ "fecha": "2027-04-17",
+ "hora": "22:00",
+ "precio_min": 12.0,
+ "precio_max": 12.0,
+ "agotado": false,
+ "url_entradas": "https://entradas.cafelapalma.com/hazas",
+ "url": "https://cafelapalma.com/programacion/hazas/",
+ "imagen": "https://cafelapalma.com/wp-content/uploads/2026/10/CARTEL-BAILA-6.png",
+ "generos": [],
+ "descripcion": "@ \n\n + gg Anticipada | 14€ Taquilla\n\nHazas es un cantante y compositor nacido en Lasarte-Oria, muy cerca de Donostia. \n\nSu historia con la música comenzó en 2020, cuando un amigo le\nanimó a escribir por primera vez, aunque no fue hasta 2024 cuando decidió dar el paso firme y lanzar sus primeras canciones.\nEl joven artista de Lasarte ha logrado acaparar la atención de públicos de todas las edades gracias a una propuesta que fusiona sin complejos\ngéneros como el pop urbano, el mambo, el electrolatino, el flamenco y la rumba, combinando de forma natural el euskera y el castellano. Su versatilidad y frescura lo han convertido en uno de los referentes indiscutibles de la música urbana en el norte, consolidándose hoy en día dentro del Top 4 de artistas más escuchados de la escena de Euskadi.\nEl crecimiento de Hazas ha sido orgánico, rápido y masivo. Sus números en plataformas digitales avalan la enorme acogida de sus canciones entre el público joven y general.\n\nEscucha en Spotify.",
+ "categorias": [
+  "Concierto"
+ ],
+ "sala": "cafe-la-palma",
+ "id": "cafe-la-palma-2027-04-17-hazas"
+}
