@@ -2,8 +2,8 @@
  "titulo": "PUNTO DE EQUILIBRIO",
  "fecha": "2026-11-29",
  "hora": "19:00",
- "precio_min": null,
- "precio_max": null,
+ "precio_min": 5.0,
+ "precio_max": 7.0,
  "agotado": false,
  "url_entradas": "https://elperroclub.es/evento/punto-de-equilibrio-rock-pop/",
  "url": "https://elperroclub.es/evento/punto-de-equilibrio-rock-pop/",
@@ -12,7 +12,7 @@
   "Rock",
   "Pop"
  ],
- "descripcion": "Tres países, una banda y muchas ganas de tocar. Punto de Equilibrio reúne músicos de Colombia, Chile y Venezuela en una propuesta que se mueve entre el rock y el pop, con energía, buen rollo y espíritu de directo.\n\nUna noche para disfrutar, compartir y dejar que la música haga el resto.\n\n19:00 hs. Anticipadas – Taquilla",
+ "descripcion": "Tres países, una banda y muchas ganas de tocar. Punto de Equilibrio reúne músicos de Colombia, Chile y Venezuela en una propuesta que se mueve entre el rock y el pop, con energía, buen rollo y espíritu de directo.\n\nUna noche para disfrutar, compartir y dejar que la música haga el resto.\n\n19:00 hs. Anticipadas 5€ – Taquilla 7€",
  "categorias": [
   "Conciertos",
   "Conciertos"
