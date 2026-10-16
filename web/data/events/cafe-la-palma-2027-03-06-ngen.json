@@ -1,0 +1,18 @@
+{
+ "titulo": "NØGEN",
+ "fecha": "2027-03-06",
+ "hora": "22:00",
+ "precio_min": 15.0,
+ "precio_max": 15.0,
+ "agotado": false,
+ "url_entradas": "https://entradas.cafelapalma.com/nogen-06-mar-madrid-entradas",
+ "url": "https://cafelapalma.com/programacion/nogen/",
+ "imagen": "https://cafelapalma.com/wp-content/uploads/2026/10/CARTEL-WEB-NOGEN.jpg",
+ "generos": [],
+ "descripcion": "@ \n\n + gg Anticipada | 18€ Taquilla\n\nNøgen es una banda donostiarra de folk-pop en euskera nacida en 2016. Su nombre significa «desnudo» en danés, y así han sido siempre sus canciones: sin artificio y hablando de la vida cotidiana. En estos diez años ha publicado el EP Lys y tres álbumes, Liv Til Døden (2018), Under Alt (2020) y Åben Cirkel (2023), y ha llevado su directo por todo el Estado, a países como Japón, Corea, Finlandia o Cuba y a festivales como el BBK Live o el Jazzaldia, donde este verano celebró su décimo aniversario.\n\nÅben Cirkel dejó el círculo abierto; ahora la banda lo cierra. Nøgen publicará su último disco a principios de 2027, del que ya puede escucharse el primer single, «Onak eta Txarrak», y se despedirá con la gira «ETXERA NOLA HELDU» («Cómo llegar a casa»): un recorrido por salas y teatros que es también el camino de vuelta. Esta será una de las últimas oportunidades de vivirlos en directo.",
+ "categorias": [
+  "Concierto"
+ ],
+ "sala": "cafe-la-palma",
+ "id": "cafe-la-palma-2027-03-06-ngen"
+}
