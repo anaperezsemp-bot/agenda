@@ -1,0 +1,18 @@
+{
+ "titulo": "CASAMARELA",
+ "fecha": "2026-12-30",
+ "hora": "22:00",
+ "precio_min": 12.0,
+ "precio_max": 12.0,
+ "agotado": false,
+ "url_entradas": "https://entradas.cafelapalma.com/casamarela-30-dic-madrid-entradas",
+ "url": "https://cafelapalma.com/programacion/casamarela-3/",
+ "imagen": "https://cafelapalma.com/wp-content/uploads/2026/10/Cartel-Tematico-La-Palma-30.12.26-PNG-1-1-scaled.png",
+ "generos": [],
+ "descripcion": "@ \n\n + gg | 15€ Taquilla\n\nCasamarela vuelve a casa por Navidad para mostrar una de sus mejores virtudes, su cuidado sonido en directo. Y hacernos bailar y cantar con un repertorio a la altura de los mejores festivales. No dejes pasar la oportunidad de disfrutar de un concierto grande en tu Sala de confianza.",
+ "categorias": [
+  "Concierto"
+ ],
+ "sala": "cafe-la-palma",
+ "id": "cafe-la-palma-2026-12-30-casamarela"
+}

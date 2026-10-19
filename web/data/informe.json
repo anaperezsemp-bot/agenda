@@ -1,14 +1,14 @@
 {
- "generado": "2026-10-19T07:08:38+00:00",
+ "generado": "2026-10-19T13:02:08+00:00",
  "salas": [
   {
    "sala": "Café La Palma",
-   "conciertos": 33,
+   "conciertos": 34,
    "error": null
   },
   {
    "sala": "La Riviera",
-   "conciertos": 106,
+   "conciertos": 108,
    "error": null
   },
   {
