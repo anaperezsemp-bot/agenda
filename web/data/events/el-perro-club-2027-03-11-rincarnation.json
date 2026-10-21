@@ -1,0 +1,23 @@
+{
+ "titulo": "RÆINCARNATION",
+ "fecha": "2027-03-11",
+ "hora": "21:00",
+ "precio_min": 10.0,
+ "precio_max": 12.0,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/raeincarnation-punk-rock-%c2%b7-metal/",
+ "url": "https://elperroclub.es/evento/raeincarnation-punk-rock-%c2%b7-metal/",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/10/277-RAEINCARNATION.png",
+ "generos": [
+  "Punk",
+  "Rock",
+  "Metal"
+ ],
+ "descripcion": "RÆINCARNATION\n\nPunk Rock · Metal\n\nRÆINCARNATION es una banda madrileña que lleva varios años recorriendo algunas de las salas más emblemáticas de la ciudad con un directo cargado de energía, en el que reinterpretan clásicos del rock, punk y metal desde una perspectiva propia.\n\nJunto a estas versiones, la banda ha ido incorporando a su repertorio sus composiciones originales, dando forma a un sonido cada vez más personal.\n\nEl 11 de marzo, RÆINCARNATION llega a El Perro Club con un concierto especial que servirá como presentación y anuncio del lanzamiento de su próximo EP.\n\n21:00 HS. ANTICIPADAS 10€ – TAQUILLA 12€",
+ "categorias": [
+  "Conciertos",
+  "Conciertos"
+ ],
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2027-03-11-rincarnation"
+}
