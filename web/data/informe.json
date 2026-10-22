@@ -1,14 +1,14 @@
 {
- "generado": "2026-10-21T18:58:46+00:00",
+ "generado": "2026-10-22T01:00:56+00:00",
  "salas": [
   {
    "sala": "Café La Palma",
-   "conciertos": 34,
+   "conciertos": 33,
    "error": null
   },
   {
    "sala": "La Riviera",
-   "conciertos": 106,
+   "conciertos": 105,
    "error": null
   },
   {
@@ -19,7 +19,7 @@
   {
    "sala": "Maravillas Club",
    "conciertos": 5,
-   "error": null
+   "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://www.maravillasclub.com/category/conciertos/feed/"
   }
  ]
 }
