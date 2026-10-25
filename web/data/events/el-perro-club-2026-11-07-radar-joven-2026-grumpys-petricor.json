@@ -1,5 +1,5 @@
 {
- "titulo": "Grumpys + Petricor",
+ "titulo": "Radar JOVEN 2026: Grumpys + Petricor",
  "fecha": "2026-11-07",
  "hora": "21:00",
  "precio_min": 7.0,
@@ -8,12 +8,14 @@
  "url_entradas": "https://elperroclub.es/evento/grumpys-petricor/",
  "url": "https://elperroclub.es/evento/grumpys-petricor/",
  "imagen": "https://elperroclub.es/wp-content/uploads/2026/09/277-radar-perro-2026.png",
- "generos": [],
+ "generos": [
+  "Rock"
+ ],
  "descripcion": "Grumpys es un grupo de rock alternativo nacido en Madrid que combina pinceladas de shoegaze y dreampop para explorar el contraste entre la intimidad y la intensidad. Formado a finales de 2024 a partir de una canción de Lucía y Martín, el proyecto creció junto a Juan, Kaoru y Sofía hasta convertirse en una banda de sonido ecléctico, onírico y lleno de texturas. Entre sus influencias destacan Cocteau Twins, Gazella, Wolf Alice y Neptune’s Core.\n\nTras publicar su primer single en 2025, entrar en playlists como Fresh Finds y sonar en la radio Ibero 90.9, Grumpys debutó en Wurlitzer Ballroom y ha pasado por salas madrileñas como Cadavra y Barracudas. Actualmente prepara Serena, un EP de cinco canciones producido en Moba Studios, donde exploran una sensibilidad nostálgica, íntima y desgarradora, jugando con la sensación de flotar y hundirse entre melodías, ruido y emoción.\n\n21:00 hs. Entrada general 7€ – Con Carnet Joven 3,50€",
  "categorias": [
   "Conciertos",
   "Conciertos"
  ],
  "sala": "el-perro-club",
- "id": "el-perro-club-2026-11-07-grumpys-petricor"
+ "id": "el-perro-club-2026-11-07-radar-joven-2026-grumpys-petricor"
 }
