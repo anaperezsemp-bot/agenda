@@ -1,9 +1,9 @@
 {
- "generado": "2026-10-25T18:51:25+00:00",
+ "generado": "2026-10-26T01:12:26+00:00",
  "salas": [
   {
    "sala": "Café La Palma",
-   "conciertos": 30,
+   "conciertos": 29,
    "error": null
   },
   {
@@ -13,7 +13,7 @@
   },
   {
    "sala": "El Perro Club",
-   "conciertos": 47,
+   "conciertos": 46,
    "error": null
   },
   {
