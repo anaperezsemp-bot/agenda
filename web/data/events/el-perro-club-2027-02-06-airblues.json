@@ -1,0 +1,24 @@
+{
+ "titulo": "AIRBLUES",
+ "fecha": "2027-02-06",
+ "hora": "21:30",
+ "precio_min": 10.0,
+ "precio_max": 12.0,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/airblues-blues-soul-funk-rock/",
+ "url": "https://elperroclub.es/evento/airblues-blues-soul-funk-rock/",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/10/277-AIRBLUES.png",
+ "generos": [
+  "Blues",
+  "Soul",
+  "Funk",
+  "Rock"
+ ],
+ "descripcion": "Formada en Madrid en 2018, AirBlues propone un viaje por el blues abierto al soul, el jazz, el rock y el funk, con un sonido fresco, potente y cargado de groove.\n\nAl frente, la voz expresiva de Esmeralda dialoga con la armónica de Tony, acompañados por Juan Torres al bajo, Miguel Ángel Torrenova a la batería y Eduardo Moreno a la guitarra. Una formación sólida que combina elegancia, energía y espíritu blues.\n\nEn temas como «Every Day I Have the Blues», «Zapatos de tacón» o «Winter Blues», la banda muestra su versatilidad y su capacidad para moverse entre distintos estilos sin perder de vista sus raíces.\n\nBlues, soul, rock y mucho groove en directo.\n\n21:30hs. Anticipadas 10€ – Taquilla 12€",
+ "categorias": [
+  "Conciertos",
+  "Conciertos"
+ ],
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2027-02-06-airblues"
+}
