@@ -1,5 +1,5 @@
 {
- "titulo": "TARZÁN Y SU MADRE + TBC",
+ "titulo": "TARZÁN Y SU MADRE + ARTISTA INVITADO",
  "fecha": "2026-12-20",
  "hora": "19:00",
  "precio_min": 4.0,
@@ -7,7 +7,7 @@
  "agotado": false,
  "url_entradas": "https://elperroclub.es/evento/tarzan-y-su-madre-tbc-punk-rock/",
  "url": "https://elperroclub.es/evento/tarzan-y-su-madre-tbc-punk-rock/",
- "imagen": "https://elperroclub.es/wp-content/uploads/2026/10/277-TARZAN-Y-SU-MADRE.png",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/10/20-12_Tarzan_web.jpg",
  "generos": [
   "Punk",
   "Rock"
@@ -18,5 +18,5 @@
   "Conciertos"
  ],
  "sala": "el-perro-club",
- "id": "el-perro-club-2026-12-20-tarzan-y-su-madre-tbc"
+ "id": "el-perro-club-2026-12-20-tarzan-y-su-madre-artista-invitado"
 }
