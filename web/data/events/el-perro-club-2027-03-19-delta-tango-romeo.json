@@ -1,0 +1,22 @@
+{
+ "titulo": "DELTA TANGO ROMEO",
+ "fecha": "2027-03-19",
+ "hora": "21:30",
+ "precio_min": 12.0,
+ "precio_max": 14.0,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/delta-tango-romeo-pop-rock/",
+ "url": "https://elperroclub.es/evento/delta-tango-romeo-pop-rock/",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/10/277-DELTA-TANGO-ROMEO.png",
+ "generos": [
+  "Pop",
+  "Rock"
+ ],
+ "descripcion": "Delta Tango Romeo fusiona guitarras electrizantes, bajos infalibles, baterías contundentes y voces auténticas. El resultado es un pop rock yeyé y macarra con influencias de soul, R&B, funk y punk.\n\n21:30 hs. Anticipadas 12€ – Taquilla 14€",
+ "categorias": [
+  "Conciertos",
+  "Conciertos"
+ ],
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2027-03-19-delta-tango-romeo"
+}
