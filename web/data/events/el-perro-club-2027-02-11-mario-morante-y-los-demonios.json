@@ -1,0 +1,22 @@
+{
+ "titulo": "MARIO MORANTE Y LOS DEMONIOS",
+ "fecha": "2027-02-11",
+ "hora": "18:00",
+ "precio_min": 12.0,
+ "precio_max": 15.0,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/mario-morante-y-los-demonios-pop-rock/",
+ "url": "https://elperroclub.es/evento/mario-morante-y-los-demonios-pop-rock/",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/10/277-MARIO-MORANTE.png",
+ "generos": [
+  "Pop",
+  "Rock"
+ ],
+ "descripcion": "Concierto para celebrar los 10 años de la salida del primer disco de Mario Morante «En mi sitio» junto con toda la banda, en el que se revisará el disco al completo así como algunas canciones de «Demonios fuera» y se escuchará algún avance del próximo disco.\n\n21:00 hs. Anticipadas 12€ – Taquilla 15€",
+ "categorias": [
+  "Conciertos",
+  "Conciertos"
+ ],
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2027-02-11-mario-morante-y-los-demonios"
+}
