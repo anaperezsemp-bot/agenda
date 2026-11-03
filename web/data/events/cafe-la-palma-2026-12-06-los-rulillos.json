@@ -1,0 +1,18 @@
+{
+ "titulo": "LOS RULILLOS",
+ "fecha": "2026-12-06",
+ "hora": "21:00",
+ "precio_min": 9.0,
+ "precio_max": 9.0,
+ "agotado": false,
+ "url_entradas": "https://entradas.cafelapalma.com/los-rulillos-06-dic-madrid-entradas",
+ "url": "https://cafelapalma.com/programacion/los-rulillos/",
+ "imagen": "https://cafelapalma.com/wp-content/uploads/2026/11/image00008.jpg",
+ "generos": [],
+ "descripcion": "@ \n\n + gg | 11€ Taquilla\n\nLos Rulillos aterrizan por primera vez en los escenarios madrileños. \n\nSu repertorio es un viaje por los clásicos del soul, blues, pop y rock. \nMarga (voz), Marcos (guitarra), Luis (bajo), Fabio (batería), Marta (teclados) y Arturo (saxofón) forman una banda que nació entre clases y ensayos de la Escuela de Música Creativa de Malasaña.",
+ "categorias": [
+  "Concierto"
+ ],
+ "sala": "cafe-la-palma",
+ "id": "cafe-la-palma-2026-12-06-los-rulillos"
+}
