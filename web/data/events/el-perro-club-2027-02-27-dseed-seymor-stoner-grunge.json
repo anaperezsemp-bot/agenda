@@ -1,0 +1,19 @@
+{
+ "titulo": "DSEED + SEYMOR (Stoner Grunge)",
+ "fecha": "2027-02-27",
+ "hora": "21:00",
+ "precio_min": 10.0,
+ "precio_max": 15.0,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/dseed-seymor-stoner-grunge/",
+ "url": "https://elperroclub.es/evento/dseed-seymor-stoner-grunge/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "DSEED + Seymour, el mejor Grunge de Madrid en directo desde el Perro de la parte de atrás del coche, en el corazón de Madrid.\n\n21:00 hs. Anticipadas 10€ – Taquilla 15€",
+ "categorias": [
+  "Conciertos",
+  "Conciertos"
+ ],
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2027-02-27-dseed-seymor-stoner-grunge"
+}
