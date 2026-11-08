@@ -1,19 +1,19 @@
 {
- "generado": "2026-11-07T19:00:26+00:00",
+ "generado": "2026-11-08T01:25:22+00:00",
  "salas": [
   {
    "sala": "Café La Palma",
-   "conciertos": 29,
+   "conciertos": 28,
    "error": null
   },
   {
    "sala": "La Riviera",
-   "conciertos": 99,
+   "conciertos": 98,
    "error": null
   },
   {
    "sala": "El Perro Club",
-   "conciertos": 46,
+   "conciertos": 45,
    "error": null
   },
   {
