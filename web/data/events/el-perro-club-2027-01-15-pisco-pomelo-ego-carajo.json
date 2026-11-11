@@ -1,0 +1,22 @@
+{
+ "titulo": "PISCO POMELO + EGO CARAJO",
+ "fecha": "2027-01-15",
+ "hora": "21:00",
+ "precio_min": 8.0,
+ "precio_max": 10.0,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/pisco-pomelo-ego-carajo-pop-rock-fusion/",
+ "url": "https://elperroclub.es/evento/pisco-pomelo-ego-carajo-pop-rock-fusion/",
+ "imagen": null,
+ "generos": [
+  "Pop",
+  "Rock"
+ ],
+ "descripcion": "Desde Madrid y Toledo llegan Pisco Pomelo, acompañados por Ego Carajo, para dar la bienvenida al año con una noche de música en directo. Dos bandas, dos formas de entender el rock y un punto en común: las ganas de compartir canciones, guitarras y buenos momentos. Pop rock, fusión y ritmos con sabor a rumba para empezar 2027 como se merece.\n\nUna buena mezcla para empezar el año con buen sabor de boca. ¡Os esperamos!\n21:00 hs. Anticipadas 8€ – Taquilla 10€",
+ "categorias": [
+  "Conciertos",
+  "Conciertos"
+ ],
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2027-01-15-pisco-pomelo-ego-carajo"
+}
