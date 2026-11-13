@@ -1,13 +1,13 @@
 {
  "titulo": "APRICOT JAM – IMPROV SESSION",
- "fecha": "2026-11-22",
+ "fecha": "2026-12-20",
  "hora": "19:00",
  "precio_min": 6.0,
  "precio_max": 7.0,
  "agotado": false,
  "url_entradas": "https://elperroclub.es/evento/apricot-jam-improv-session-rb-jazz-funk-pop-hip-hop-3/",
  "url": "https://elperroclub.es/evento/apricot-jam-improv-session-rb-jazz-funk-pop-hip-hop-3/",
- "imagen": "https://elperroclub.es/wp-content/uploads/2026/10/277-APRICOT-22.11.png",
+ "imagen": null,
  "generos": [
   "Soul",
   "Jazz",
@@ -20,5 +20,5 @@
   "Conciertos"
  ],
  "sala": "el-perro-club",
- "id": "el-perro-club-2026-11-22-apricot-jam-improv-session"
+ "id": "el-perro-club-2026-12-20-apricot-jam-improv-session"
 }
