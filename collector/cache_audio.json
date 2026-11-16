@@ -1,4 +1,8 @@
 {
+"50-anos-sin-exitos": {
+"f": "2026-11-16",
+"r": null
+},
 "acto-reflejo": {
 "f": "2026-11-16",
 "r": {
@@ -58,6 +62,14 @@
 "apricot-jam-improv-session": {
 "f": "2026-11-16",
 "r": null
+},
+"arde-bogota": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a0/a1/55/a0a15559-f4c2-6732-6b94-b887963b44d9/mzaf_8477933693415821627.plus.aac.p.m4a",
+"cancion": "Olivos",
+"enlace": "https://music.apple.com/es/album/olivos/6803932365?i=6803932706&uo=4"
+}
 },
 "arde-bogota-sold-out": {
 "f": "2026-11-16",
@@ -146,6 +158,14 @@
 "cancion": "Si Quieres",
 "enlace": "https://music.apple.com/es/album/si-quieres/1599787496?i=1599787926&uo=4"
 }
+},
+"carles-benavent-trio": {
+"f": "2026-11-16",
+"r": null
+},
+"carles-benavent-trio-segundo-pase": {
+"f": "2026-11-16",
+"r": null
 },
 "casamarela": {
 "f": "2026-11-16",
@@ -299,6 +319,10 @@
 "enlace": "https://music.apple.com/es/album/surface-echo-sound/6773928610?i=6773928618&uo=4"
 }
 },
+"editors-big-sleep": {
+"f": "2026-11-16",
+"r": null
+},
 "editors-big-sleep-sold-out": {
 "f": "2026-11-16",
 "r": null
@@ -334,6 +358,14 @@
 "elyella-febrero": {
 "f": "2026-11-16",
 "r": null
+},
+"estrella-fugaz": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e2/d3/c9/e2d3c9a9-4f3d-d271-1acf-03755974117a/mzaf_11555031471556475138.plus.aac.p.m4a",
+"cancion": "Estrella Fugaz",
+"enlace": "https://music.apple.com/es/album/estrella-fugaz/1466731745?i=1466731750&uo=4"
+}
 },
 "extasis": {
 "f": "2026-11-16",
@@ -432,6 +464,10 @@
 "r": null
 },
 "jazz-con-sabor-a-club-2026-aciz": {
+"f": "2026-11-16",
+"r": null
+},
+"jazz-con-sabor-a-club-2026-carles-benavent-trio": {
 "f": "2026-11-16",
 "r": null
 },
@@ -695,6 +731,14 @@
 "enlace": "https://music.apple.com/es/album/negroni-love/1888569367?i=1888569645&uo=4"
 }
 },
+"minibus-intergalactic": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3e/d0/86/3ed08673-72b6-11cd-e3c8-a21e4e0d09e4/mzaf_4569119573454932496.plus.aac.p.m4a",
+"cancion": "Per sentir-me ple",
+"enlace": "https://music.apple.com/es/album/per-sentir-me-ple/1884917412?i=1884917414&uo=4"
+}
+},
 "ministry": {
 "f": "2026-11-16",
 "r": {
@@ -790,6 +834,10 @@
 "cancion": "Loreak Eman Arte",
 "enlace": "https://music.apple.com/es/album/loreak-eman-arte/1804709344?i=1804709468&uo=4"
 }
+},
+"noches-caleidoscopicas": {
+"f": "2026-11-16",
+"r": null
 },
 "palaye-royale": {
 "f": "2026-11-16",
@@ -982,6 +1030,14 @@
 "samurai": {
 "f": "2026-11-16",
 "r": null
+},
+"sanisidro": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f7/24/71/f72471f6-2a76-8ca4-d5e1-6f6efd72b048/mzaf_1285801906561771743.plus.aac.p.m4a",
+"cancion": "Puente de plata",
+"enlace": "https://music.apple.com/es/album/puente-de-plata/1701977276?i=1701977556&uo=4"
+}
 },
 "selene-casas": {
 "f": "2026-11-16",
