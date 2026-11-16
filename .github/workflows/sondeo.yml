@@ -1,0 +1,15 @@
+name: Sondeo de salas
+on:
+  push:
+    branches: [sondeo]
+jobs:
+  sondeo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests
+      - run: cd sondeo && python sondeo.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sondeo
+          path: sondeo/sondeo.json
