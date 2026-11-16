@@ -109,3 +109,41 @@ def test_escuchar_ciclo(tmp_path):
     c = [{"titulo": "Jazz con Sabor A Club 2026: CARLES BENAVENT TRÍO"}]
     escuchar.enriquecer(c, tmp_path / "c.json", get_json, HOY, dormir=lambda s: None)
     assert c[0]["audio"] == "https://a/c.m4a"
+
+
+def test_madridenvivo():
+    import json
+    from pathlib import Path
+    from sources import madridenvivo
+    datos = json.loads((Path(__file__).parent / "datos" / "madridenvivo.json").read_text())
+    madridenvivo._cache.clear()
+    pedidas = []
+    def get_json(url):
+        pedidas.append(url)
+        return datos if "page=1&" in url else []
+    sala = {"mev": 61555}
+    evs = madridenvivo.leer(sala, get_json, HOY, dormir=lambda s: None)
+    assert len(evs) == 1
+    ev = evs[0]
+    assert ev["titulo"] == "CANAL STREET JAZZ BAND" and ev["hora"] == "20:00" and ev["precio_min"] == 24
+    assert ev["fecha"].isoformat() == "2026-12-13" and "Jazz" in ev["generos"]
+    # el evento de clubbing de la otra sala se descarta, y la descarga se hace una vez por ejecución
+    assert madridenvivo.leer({"mev": 61582}, get_json, HOY, dormir=lambda s: None) == []
+    assert len(pedidas) == 2
+
+
+def test_html():
+    import yaml
+    from pathlib import Path
+    from sources import html
+    aqui = Path(__file__).parent
+    salas = {s["id"]: s for s in yaml.safe_load((aqui.parent / "venues.yaml").read_text())["salas"]}
+    pagina = (aqui / "datos" / "wurlitzer.html").read_text()
+    evs = html.leer(salas["wurlitzer"], lambda url: pagina, HOY)
+    assert [e["titulo"] for e in evs] == [
+        "JOHNNY IRION + TESS LIAUTAUD + TIM EASTON", "miaw", "Penny & The Pits + tovar"]
+    primero = evs[0]
+    assert primero["fecha"].isoformat() == "2026-11-16" and primero["hora"] == "21:00"
+    assert (primero["precio_min"], primero["precio_max"]) == (18, 21)
+    assert primero["generos"] == ["americana", "folk", "country"]
+    assert primero["url_entradas"].startswith("https://mutick.com/")

@@ -14,11 +14,11 @@ import yaml
 
 import escuchar
 from normalize import generos_y_titulo, id_concierto, quitar_agotado
-from sources import jsonld, rss, tec
+from sources import html, jsonld, madridenvivo, rss, tec
 
 AQUI = Path(__file__).resolve().parent
 USER_AGENT = "AgendaConciertosMadrid/0.1 (agenda personal sin animo de lucro)"
-LECTORES = {"tec": (tec, "json"), "rss": (rss, "text"), "jsonld": (jsonld, "text")}
+LECTORES = {"tec": (tec, "json"), "madridenvivo": (madridenvivo, "json"), "rss": (rss, "text"), "jsonld": (jsonld, "text"), "html": (html, "text")}
 
 
 def _sesion():
@@ -33,6 +33,8 @@ def leer_sala(sala, sesion, hoy):
     def get(url):
         r = sesion.get(url, timeout=30)
         r.raise_for_status()
+        if "charset" not in r.headers.get("content-type", "").lower():
+            r.encoding = "utf-8"  # sin charset, requests supone latin-1 y estropea las tildes
         return r.json() if formato == "json" else r.text
 
     return lector.leer(sala, get, hoy)

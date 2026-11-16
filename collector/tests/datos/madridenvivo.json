@@ -1,0 +1,120 @@
+[
+ {
+  "id": 802401,
+  "date": "2026-11-16T15:42:29",
+  "link": "https://madridenvivo.com/evento/canal-street-jazz-band-26/",
+  "title": {
+   "rendered": "CANAL STREET JAZZ BAND"
+  },
+  "content": {
+   "rendered": "\n<p class=\"wp-block-paragraph\"><strong>La Canal</strong>, con sus cinco miembros, cada uno aportando sus ideas, desarrollando no sólo un estilo de Jazz,<br>sino creando un estilo propio de música que demuestra el suficiente gancho y energía como para contagiar la alegría propia del Jazz en casi todas sus vertientes. Con su experiencia La Canal transmite perfectamente el Jazz y corrobora su imagen de la banda con más solera de España. Sencillamente luce una dignidad y una escuela envidiables.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Jim Kashishian &#8211; trombón, voz<br>Benjamín Mitte &#8211; piano<br>Antonio Domínguez &#8211; contrabajo<br>Yehven Riechkalov &#8211; trompeta<br>Raúl Rodríguez  &#8211; batería</p>\n",
+   "protected": false
+  },
+  "acf": {
+   "destacado": false,
+   "subtitulo": "",
+   "relacion_con_sala": 61555,
+   "fecha_del_evento": "20261213",
+   "hora_del_pase": [
+    {
+     "hora": "20:00"
+    },
+    {
+     "hora": "22:00"
+    }
+   ],
+   "precio_del_evento": "24€",
+   "entrada_libre": false,
+   "venta_de_entradas_url": "https://cafecentralmadrid.com/events/canal-street-jazz-band-c2404be8/",
+   "venta_de_entradas_texto": "",
+   "comunidad_autonoma": "",
+   "artista_mujer": false,
+   "a_borrador": false,
+   "descripcion_de_la_promo": "",
+   "imagen_de_destacado": "",
+   "media": null,
+   "no_exportable": false,
+   "a_eliminar": false,
+   "posicion_de_foto_de_cabecera": "center center",
+   "etiquetas_texto": "",
+   "enlace_al_evento": "",
+   "artista": null,
+   "id_de_categoria": "",
+   "precioaux": "",
+   "precioantaux": "",
+   "preciotaqaux": "",
+   "id_evento": ""
+  },
+  "estilo_evento": [
+   778
+  ],
+  "taxonomy_info": {
+   "post_tag": [
+    {
+     "value": 832,
+     "label": "Jazz"
+    }
+   ]
+  },
+  "featured_image_src_large": [
+   "https://madridenvivo.com/wp-content/uploads/2026/11/08-CLUB-CANAL-STREET-1-1024x683.jpg",
+   1024,
+   683,
+   true
+  ]
+ },
+ {
+  "id": 802382,
+  "date": "2026-11-16T12:46:48",
+  "link": "https://madridenvivo.com/evento/denorte-6/",
+  "title": {
+   "rendered": "DENORTE"
+  },
+  "content": {
+   "rendered": "\n<p class=\"wp-block-paragraph\"><strong>Denorte </strong>es un intérprete y compositor riojano inquieto, con la esencia de un cantautor y un estilo marcado por la rotundidad del pop, la cadencia melódica, la experimentación y unas letras muy cuidadas. Pero, sobre todo, lleva dentro una verdad plena con la que trata de hacer especial cada escenario, con el único objetivo de conectar y transmitir. </p>\n\n\n\n<p class=\"wp-block-paragraph\">Sus influencias son claras: Manolo García, Pablo López y Manuel Carrasco reflejan esa marca de autor que siempre le acompaña, combinada con el descaro y la energía de nuevos valores como Dani Fernández o Paula Mattheus, sin obviar el influjo del indie nacional.</p>\n",
+   "protected": false
+  },
+  "acf": {
+   "destacado": false,
+   "subtitulo": "",
+   "relacion_con_sala": 61582,
+   "fecha_del_evento": "20261226",
+   "hora_del_pase": [
+    {
+     "hora": "19:00"
+    }
+   ],
+   "precio_del_evento": "Anticipada: 10€ Taquilla: 12€",
+   "entrada_libre": false,
+   "venta_de_entradas_url": "https://ticketandroll.com/evento/concierto-denorte",
+   "venta_de_entradas_texto": "",
+   "comunidad_autonoma": "",
+   "artista_mujer": false,
+   "a_borrador": false,
+   "descripcion_de_la_promo": "",
+   "imagen_de_destacado": "",
+   "media": null,
+   "no_exportable": false,
+   "a_eliminar": false,
+   "posicion_de_foto_de_cabecera": "center center",
+   "etiquetas_texto": "",
+   "enlace_al_evento": "",
+   "artista": null,
+   "id_de_categoria": "",
+   "precioaux": "",
+   "precioantaux": "",
+   "preciotaqaux": "",
+   "id_evento": ""
+  },
+  "estilo_evento": [
+   772
+  ],
+  "taxonomy_info": [],
+  "featured_image_src_large": [
+   "https://madridenvivo.com/wp-content/uploads/2026/11/FOTO-26-DIDCIEMBRE-26-1-683x1024.jpeg",
+   683,
+   1024,
+   true
+  ]
+ }
+]

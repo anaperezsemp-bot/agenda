@@ -3,6 +3,7 @@
 #   tec   -> plugin The Events Calendar de WordPress (API /wp-json/tribe/events/v1/events)
 #   rss   -> feed RSS (p. ej. la categoría "conciertos" de un WordPress)
 #   jsonld -> página con datos schema.org Event / MusicEvent
+#   madridenvivo -> agenda de la asociación Madrid en Vivo (mev = id de la sala allí)
 #   pendiente -> todavía sin lector; la sala no aporta conciertos todavía
 # Opcionales: excluir_categorias (quita, p. ej., las sesiones de DJ) y
 # solo_categorias (se queda solo con esas categorías de la sala).
@@ -43,74 +44,103 @@ salas:
     nombre: Sala Galileo Galilei
     barrio: Chamberí
     web: https://salagalileo.es/programacion/
-    fuente: pendiente
-    nota: Modern Events Calendar; filtrar la categoría "Concierto live"
+    fuente: madridenvivo
+    mev: 61584
 
   - id: cafe-berlin
     nombre: Café Berlín
     barrio: Centro
     web: https://berlincafe.es/programas/
-    fuente: pendiente
+    fuente: madridenvivo
+    mev: 61554
   - id: sala-but
     nombre: Sala But
     barrio: Malasaña
     web: https://www.salabut.es/agenda-conciertos/
-    fuente: pendiente
+    fuente: madridenvivo
+    mev: 406357
   - id: copernico
     nombre: Copérnico
     barrio: Chamberí
     web: https://conciertoscopernico.com/conciertos-copernico/
-    fuente: pendiente
+    fuente: html
+    url: https://conciertoscopernico.com/conciertos-copernico/
+    html:
+      bloque: '<article id="blog-'
+      titulo: '<h2 class="blog-shortcode-post-title[^>]*>(.*?)</h2>'
+      fecha: '<h2 class="blog-shortcode-post-title[^>]*>(.*?)</h2>'
+      quitar: '\s*[–-]\s*\d{1,2}\s*(de\s+)?[a-záéíóú]+\s*$'
+      enlace: '<h2 class="blog-shortcode-post-title[^>]*>\s*<a href="([^"]+)"'
+      imagen: '<img[^>]+src="([^"]+)"'
   - id: el-sol
     nombre: Sala El Sol
     barrio: Centro
     web: https://salaelsol.com/agenda/
-    fuente: pendiente
+    fuente: madridenvivo
+    mev: 61576
   - id: siroco
     nombre: Siroco
     barrio: Malasaña
     web: https://siroco.es/conciertos/
-    fuente: pendiente
+    fuente: madridenvivo
+    mev: 61619
   - id: fun-house
     nombre: Fun House
     barrio: Chamberí
     web: https://www.funhousemusicbar.com/conciertos
-    fuente: pendiente
+    fuente: madridenvivo
+    mev: 61583
   - id: el-sotano
     nombre: El Sótano
     barrio: La Latina
     web: https://www.salaelsotano.com/
-    fuente: pendiente
+    fuente: madridenvivo
+    mev: 61577
   - id: wurlitzer
     nombre: Wurlitzer Ballroom
     barrio: Centro
     web: https://wurlitzerballroom.com/agenda
-    fuente: pendiente
+    fuente: html
+    url: https://wurlitzerballroom.com/agenda
+    html:
+      bloque: '<article class="flyer'
+      titulo: '<h3[^>]*>(.*?</h3>(?:<p class="mt-2 font-display[^"]*">.*?</p>)?)'
+      fecha: 'href="/concierto/[^"]*?(\d{4}-\d{2}-\d{2})"'
+      hora: 'Puertas ([0-9:.]+)'
+      precio: 'class="mark-fluor">([^<]*)<'
+      enlace: '<h3[^>]*>\s*<a[^>]+href="([^"]+)"'
+      entradas: 'href="(https?://[^"]+)"[^>]*>Entradas'
+      generos: 'gap-y-1 text-muted-foreground">(.*?)</p>'
   - id: cadavra
     nombre: Cadavra
     barrio: Centro
     web: https://cadavraclub.com/
-    fuente: pendiente
+    fuente: madridenvivo
+    mev: 61552
   - id: clamores
     nombre: Clamores
     barrio: Chamberí
     web: https://www.salaclamores.es/calendario
-    fuente: pendiente
+    fuente: madridenvivo
+    mev: 61562
   - id: moby-dick
     nombre: Moby Dick
     barrio: Tetuán
     web: https://www.mobydickclub.com/programacion.php
-    fuente: pendiente
+    fuente: madridenvivo
+    mev: 61601
   - id: fotomaton
     nombre: Fotomatón Bar
     barrio: Conde Duque
     web: https://mutick.com/v/fotomaton
-    fuente: pendiente
+    fuente: madridenvivo
+    mev: 61581
   - id: shoko
     nombre: Shôko
     barrio: Embajadores
     web: https://shokomadrid.com/collections/eventos-shoko-madrid
-    fuente: pendiente
+    fuente: madridenvivo
+    mev: 61616
   - id: nazca
     nombre: Sala Nazca
     barrio: Tetuán
@@ -122,7 +152,8 @@ salas:
   - id: villanos
     nombre: Villanos
     barrio: Embajadores
-    fuente: pendiente
+    fuente: madridenvivo
+    mev: 459040
   - id: lab-wagon
     nombre: Lab Wagon
     barrio: Chamartín
@@ -130,7 +161,8 @@ salas:
   - id: sala-uni
     nombre: Sala Uni
     barrio: Chamberí
-    fuente: pendiente
+    fuente: madridenvivo
+    mev: 764664
   - id: mon-live
     nombre: Mon Live
     barrio: Argüelles
