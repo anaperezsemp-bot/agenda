@@ -8,7 +8,11 @@ CONTENT = "{http://purl.org/rss/1.0/modules/content/}encoded"
 
 
 def leer(sala, get_text, hoy):
-    raiz = ET.fromstring(get_text(sala["url"]))
+    texto = get_text(sala["url"])
+    try:
+        raiz = ET.fromstring(texto)
+    except ET.ParseError as e:
+        raise ValueError(f"{e}; empieza por: {texto[:160]!r}") from e
     eventos = []
     for item in raiz.iter("item"):
         titulo = limpiar_html(item.findtext("title", ""))

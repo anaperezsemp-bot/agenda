@@ -34,6 +34,9 @@ def leer(sala, get_text, hoy):
     cfg = sala["html"]
     pagina = get_text(sala["url"])
     inicios = [m.start() for m in re.finditer(cfg["bloque"], pagina)]
+    if not inicios:
+        resumen = re.sub(r"\s+", " ", _texto(pagina))[:160]
+        raise ValueError(f"no se encuentran fichas ({len(pagina)} caracteres): {resumen}")
     eventos = []
     for i, inicio in enumerate(inicios):
         fin = inicios[i + 1] if i + 1 < len(inicios) else inicio + 8000
