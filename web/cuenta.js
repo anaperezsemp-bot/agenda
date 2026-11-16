@@ -4,7 +4,7 @@
 const Cuenta = (() => {
   const cfg = window.AGENDA_CONFIG || {};
   const activa = Boolean(cfg.supabaseUrl && cfg.supabaseKey);
-  const LIB = "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js";
+  const LIB = "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.110.0/dist/umd/supabase.min.js";
   let cliente = null;
   let cargando = null;
 
