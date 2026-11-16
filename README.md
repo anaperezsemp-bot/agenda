@@ -18,7 +18,7 @@ python -m http.server -d web 8000   # y abrir http://localhost:8000
 
 ## Añadir una sala
 
-1. Añadir una entrada en `collector/venues.yaml` con `fuente: tec`, `rss` o `jsonld`.
+1. Añadir una entrada en `collector/venues.yaml` con `fuente: tec`, `rss`, `jsonld`, `madridenvivo` (si la sala publica en la agenda de la asociación Madrid en Vivo) o `html` (páginas sin datos estructurados; ver `collector/sources/html.py`).
 2. Si la sala necesita un lector nuevo, crear `collector/sources/<nombre>.py` con una función `leer(sala, get, hoy)` que devuelva la lista de conciertos, y registrarlo en `LECTORES` de `collect.py`.
 
 ## Cuentas (Supabase)

@@ -3,6 +3,7 @@
 #   tec   -> plugin The Events Calendar de WordPress (API /wp-json/tribe/events/v1/events)
 #   rss   -> feed RSS (p. ej. la categoría "conciertos" de un WordPress)
 #   jsonld -> página con datos schema.org Event / MusicEvent
+#   html  -> página sin datos estructurados, troceada con las regex de `html:` (ver sources/html.py)
 #   madridenvivo -> agenda de la asociación Madrid en Vivo (mev = id de la sala allí)
 #   pendiente -> todavía sin lector; la sala no aporta conciertos todavía
 # Opcionales: excluir_categorias (quita, p. ej., las sesiones de DJ) y
@@ -177,10 +178,12 @@ salas:
     nombre: Sala Nazca
     barrio: Tetuán
     fuente: pendiente
+    nota: sin web propia con agenda ni ficha en Madrid en Vivo (revisado nov. 2026)
   - id: chango
     nombre: Changó
     barrio: Chamberí
     fuente: pendiente
+    nota: sin web propia con agenda ni ficha en Madrid en Vivo (revisado nov. 2026)
   - id: villanos
     nombre: Villanos
     barrio: Embajadores
@@ -190,6 +193,7 @@ salas:
     nombre: Lab Wagon
     barrio: Chamartín
     fuente: pendiente
+    nota: sin web propia con agenda ni ficha en Madrid en Vivo (revisado nov. 2026)
   - id: sala-uni
     nombre: Sala Uni
     barrio: Chamberí
@@ -199,7 +203,9 @@ salas:
     nombre: Mon Live
     barrio: Argüelles
     fuente: pendiente
+    nota: sin web propia con agenda ni ficha en Madrid en Vivo (revisado nov. 2026)
   - id: lula
     nombre: Lula Club
     barrio: Centro
     fuente: pendiente
+    nota: sin web propia con agenda ni ficha en Madrid en Vivo (revisado nov. 2026)
