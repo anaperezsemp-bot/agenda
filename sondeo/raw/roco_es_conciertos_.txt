@@ -1,0 +1,2202 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.8 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Conciertos - Siroco</title>
+<link data-rocket-prefetch href="https://www.gstatic.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://www.googletagmanager.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://www.google.com" rel="dns-prefetch"><link rel="preload" data-rocket-preload as="image" href="https://siroco.es/wp-content/uploads/2019/09/banner_conciertos_Siroco_Web_2019_dafy_ok_hq.jpg" fetchpriority="high">
+	<link rel="canonical" href="https://siroco.es/conciertos/" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Conciertos - Siroco" />
+	<meta property="og:description" content="Conciertos Ver programación conciertos Club ARTLAB Espacio Club Siroco Club  se encuentra en la planta baja de la sala y ha sido testigo de directos para el recuerdo, albergando conciertos de todo tipo de música, trayendo a artistas y promotoras tanto del panorama nacional como internacional, y apostando por la música de calidad en el&hellip; Seguir leyendo Conciertos" />
+	<meta property="og:url" content="https://siroco.es/conciertos/" />
+	<meta property="og:site_name" content="Siroco" />
+	<meta property="article:publisher" content="https://www.facebook.com/siroco.sala/" />
+	<meta property="article:modified_time" content="2025-06-02T15:07:57+00:00" />
+	<meta property="og:image" content="https://siroco.es/wp-content/uploads/2019/09/banner_conciertos_Siroco_Web_2019_dafy_ok_hq.jpg" />
+	<meta property="og:image:width" content="1080" />
+	<meta property="og:image:height" content="720" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@sirocosala" />
+	<meta name="twitter:label1" content="Tiempo de lectura" />
+	<meta name="twitter:data1" content="2 minutos" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/siroco.es\/conciertos\/","url":"https:\/\/siroco.es\/conciertos\/","name":"Conciertos - Siroco","isPartOf":{"@id":"https:\/\/siroco.es\/#website"},"primaryImageOfPage":{"@id":"https:\/\/siroco.es\/conciertos\/#primaryimage"},"image":{"@id":"https:\/\/siroco.es\/conciertos\/#primaryimage"},"thumbnailUrl":"https:\/\/siroco.es\/wp-content\/uploads\/2019\/09\/banner_conciertos_Siroco_Web_2019_dafy_ok_hq.jpg","datePublished":"2017-12-28T13:26:33+00:00","dateModified":"2025-06-02T15:07:57+00:00","breadcrumb":{"@id":"https:\/\/siroco.es\/conciertos\/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https:\/\/siroco.es\/conciertos\/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"https:\/\/siroco.es\/conciertos\/#primaryimage","url":"https:\/\/siroco.es\/wp-content\/uploads\/2019\/09\/banner_conciertos_Siroco_Web_2019_dafy_ok_hq.jpg","contentUrl":"https:\/\/siroco.es\/wp-content\/uploads\/2019\/09\/banner_conciertos_Siroco_Web_2019_dafy_ok_hq.jpg","width":1080,"height":720},{"@type":"BreadcrumbList","@id":"https:\/\/siroco.es\/conciertos\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada","item":"https:\/\/siroco.es\/"},{"@type":"ListItem","position":2,"name":"Conciertos"}]},{"@type":"WebSite","@id":"https:\/\/siroco.es\/#website","url":"https:\/\/siroco.es\/","name":"Siroco","description":"Sala de Conciertos y Clubbing","publisher":{"@id":"https:\/\/siroco.es\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/siroco.es\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es"},{"@type":"Organization","@id":"https:\/\/siroco.es\/#organization","name":"Sala Siroco","url":"https:\/\/siroco.es\/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https:\/\/siroco.es\/#\/schema\/logo\/image\/","url":"https:\/\/siroco.es\/wp-content\/uploads\/2019\/02\/siroco-logo-white.webp","contentUrl":"https:\/\/siroco.es\/wp-content\/uploads\/2019\/02\/siroco-logo-white.webp","width":1,"height":1,"caption":"Sala Siroco"},"image":{"@id":"https:\/\/siroco.es\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/siroco.sala\/","https:\/\/x.com\/sirocosala","https:\/\/www.instagram.com\/sirocosala\/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+
+<link rel="alternate" type="application/rss+xml" title="Siroco &raquo; Feed" href="https://siroco.es/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Siroco &raquo; Feed de los comentarios" href="https://siroco.es/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://siroco.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsiroco.es%2Fconciertos%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://siroco.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsiroco.es%2Fconciertos%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link data-minify="1" rel='stylesheet' id='hfe-widgets-style-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1794851733' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFFFFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--dark-gray: #28303D;--wp--preset--color--gray: #39414D;--wp--preset--color--green: #D1E4DD;--wp--preset--color--blue: #D1DFE4;--wp--preset--color--purple: #D1D1E4;--wp--preset--color--red: #E4D1D1;--wp--preset--color--orange: #E4DAD1;--wp--preset--color--yellow: #EEEADD;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--purple-to-yellow: linear-gradient(160deg, #D1D1E4 0%, #EEEADD 100%);--wp--preset--gradient--yellow-to-purple: linear-gradient(160deg, #EEEADD 0%, #D1D1E4 100%);--wp--preset--gradient--green-to-yellow: linear-gradient(160deg, #D1E4DD 0%, #EEEADD 100%);--wp--preset--gradient--yellow-to-green: linear-gradient(160deg, #EEEADD 0%, #D1E4DD 100%);--wp--preset--gradient--red-to-yellow: linear-gradient(160deg, #E4D1D1 0%, #EEEADD 100%);--wp--preset--gradient--yellow-to-red: linear-gradient(160deg, #EEEADD 0%, #E4D1D1 100%);--wp--preset--gradient--purple-to-red: linear-gradient(160deg, #D1D1E4 0%, #E4D1D1 100%);--wp--preset--gradient--red-to-purple: linear-gradient(160deg, #E4D1D1 0%, #D1D1E4 100%);--wp--preset--font-size--small: 18px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 24px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--extra-small: 16px;--wp--preset--font-size--normal: 20px;--wp--preset--font-size--extra-large: 40px;--wp--preset--font-size--huge: 96px;--wp--preset--font-size--gigantic: 144px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-dark-gray-color{color: var(--wp--preset--color--dark-gray) !important;}.has-gray-color{color: var(--wp--preset--color--gray) !important;}.has-green-color{color: var(--wp--preset--color--green) !important;}.has-blue-color{color: var(--wp--preset--color--blue) !important;}.has-purple-color{color: var(--wp--preset--color--purple) !important;}.has-red-color{color: var(--wp--preset--color--red) !important;}.has-orange-color{color: var(--wp--preset--color--orange) !important;}.has-yellow-color{color: var(--wp--preset--color--yellow) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-dark-gray-background-color{background-color: var(--wp--preset--color--dark-gray) !important;}.has-gray-background-color{background-color: var(--wp--preset--color--gray) !important;}.has-green-background-color{background-color: var(--wp--preset--color--green) !important;}.has-blue-background-color{background-color: var(--wp--preset--color--blue) !important;}.has-purple-background-color{background-color: var(--wp--preset--color--purple) !important;}.has-red-background-color{background-color: var(--wp--preset--color--red) !important;}.has-orange-background-color{background-color: var(--wp--preset--color--orange) !important;}.has-yellow-background-color{background-color: var(--wp--preset--color--yellow) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-dark-gray-border-color{border-color: var(--wp--preset--color--dark-gray) !important;}.has-gray-border-color{border-color: var(--wp--preset--color--gray) !important;}.has-green-border-color{border-color: var(--wp--preset--color--green) !important;}.has-blue-border-color{border-color: var(--wp--preset--color--blue) !important;}.has-purple-border-color{border-color: var(--wp--preset--color--purple) !important;}.has-red-border-color{border-color: var(--wp--preset--color--red) !important;}.has-orange-border-color{border-color: var(--wp--preset--color--orange) !important;}.has-yellow-border-color{border-color: var(--wp--preset--color--yellow) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-purple-to-yellow-gradient-background{background: var(--wp--preset--gradient--purple-to-yellow) !important;}.has-yellow-to-purple-gradient-background{background: var(--wp--preset--gradient--yellow-to-purple) !important;}.has-green-to-yellow-gradient-background{background: var(--wp--preset--gradient--green-to-yellow) !important;}.has-yellow-to-green-gradient-background{background: var(--wp--preset--gradient--yellow-to-green) !important;}.has-red-to-yellow-gradient-background{background: var(--wp--preset--gradient--red-to-yellow) !important;}.has-yellow-to-red-gradient-background{background: var(--wp--preset--gradient--yellow-to-red) !important;}.has-purple-to-red-gradient-background{background: var(--wp--preset--gradient--purple-to-red) !important;}.has-red-to-purple-gradient-background{background: var(--wp--preset--gradient--red-to-purple) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-extra-small-font-size{font-size: var(--wp--preset--font-size--extra-small) !important;}.has-normal-font-size{font-size: var(--wp--preset--font-size--normal) !important;}.has-extra-large-font-size{font-size: var(--wp--preset--font-size--extra-large) !important;}.has-huge-font-size{font-size: var(--wp--preset--font-size--huge) !important;}.has-gigantic-font-size{font-size: var(--wp--preset--font-size--gigantic) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:where(.wp-block-gallery.is-layout-flex){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}:where(.wp-block-gallery.is-layout-grid){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+:where(.wp-block-latest-posts.is-layout-flex){gap: 1.25em;}:where(.wp-block-latest-posts.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link data-minify="1" rel='stylesheet' id='cookie-law-info-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=1794851733' media='all' />
+<link data-minify="1" rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=1794851733' media='all' />
+<link data-minify="1" rel='stylesheet' id='wordpress-file-upload-style-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_style.css?ver=1794851733' media='all' />
+<link data-minify="1" rel='stylesheet' id='wordpress-file-upload-style-safe-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_style_safe.css?ver=1794851733' media='all' />
+<link data-minify="1" rel='stylesheet' id='wordpress-file-upload-adminbar-style-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_adminbarstyle.css?ver=1794851733' media='all' />
+<link rel='stylesheet' id='jquery-ui-css-css' href='https://siroco.es/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui.min.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='jquery-ui-timepicker-addon-css-css' href='https://siroco.es/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui-timepicker-addon.min.css?ver=7.1.4' media='all' />
+<link data-minify="1" rel='stylesheet' id='hfe-style-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1794851733' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-icons-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1794851733' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://siroco.es/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.4.0' media='all' />
+<link rel='stylesheet' id='elementor-post-13523-css' href='https://siroco.es/wp-content/uploads/elementor/css/post-13523.css?ver=1794851732' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://siroco.es/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.4.0' media='all' />
+<link rel='stylesheet' id='widget-spacer-css' href='https://siroco.es/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=4.4.0' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://siroco.es/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.4.0' media='all' />
+<link rel='stylesheet' id='widget-divider-css' href='https://siroco.es/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.4.0' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://siroco.es/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.4.0' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://siroco.es/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.4.0' media='all' />
+<link rel='stylesheet' id='elementor-post-5529-css' href='https://siroco.es/wp-content/uploads/elementor/css/post-5529.css?ver=1794852703' media='all' />
+<link data-minify="1" rel='stylesheet' id='twenty-twenty-one-style-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/themes/twentytwentyone/style.css?ver=1794851733' media='all' />
+<style id="twenty-twenty-one-style-inline-css">
+:root{--global--color-background: #292929;--global--color-primary: #fff;--global--color-secondary: #fff;--button--color-background: #fff;--button--color-text-hover: #fff;--table--stripes-border-color: rgba(240, 240, 240, 0.15);--table--stripes-background-color: rgba(240, 240, 240, 0.15);}
+/*# sourceURL=twenty-twenty-one-style-inline-css */
+</style>
+<link rel='stylesheet' id='twenty-twenty-one-print-style-css' href='https://siroco.es/wp-content/themes/twentytwentyone/assets/css/print.css?ver=2.9' media='print' />
+<link rel='stylesheet' id='widget-nav-menu-css' href='https://siroco.es/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=4.0.4' media='all' />
+<link rel='stylesheet' id='e-sticky-css' href='https://siroco.es/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=4.0.4' media='all' />
+<link rel='stylesheet' id='e-animation-shrink-css' href='https://siroco.es/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css?ver=4.4.0' media='all' />
+<link rel='stylesheet' id='elementor-post-13543-css' href='https://siroco.es/wp-content/uploads/elementor/css/post-13543.css?ver=1794851733' media='all' />
+<link rel='stylesheet' id='elementor-post-13553-css' href='https://siroco.es/wp-content/uploads/elementor/css/post-13553.css?ver=1794851734' media='all' />
+<link data-minify="1" rel='stylesheet' id='hfe-elementor-icons-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1794851733' media='all' />
+<link rel='stylesheet' id='hfe-icons-list-css' href='https://siroco.es/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3' media='all' />
+<link rel='stylesheet' id='hfe-social-icons-css' href='https://siroco.es/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0' media='all' />
+<link data-minify="1" rel='stylesheet' id='hfe-social-share-icons-brands-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=1794851733' media='all' />
+<link data-minify="1" rel='stylesheet' id='hfe-social-share-icons-fontawesome-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=1794851733' media='all' />
+<link data-minify="1" rel='stylesheet' id='hfe-nav-menu-icons-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=1794851733' media='all' />
+<link rel='stylesheet' id='hfe-widget-blockquote-css' href='https://siroco.es/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css?ver=3.25.0' media='all' />
+<link rel='stylesheet' id='hfe-mega-menu-css' href='https://siroco.es/wp-content/plugins/elementor-pro/assets/css/widget-mega-menu.min.css?ver=3.26.2' media='all' />
+<link rel='stylesheet' id='hfe-nav-menu-widget-css' href='https://siroco.es/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.26.0' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1794851733' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1794851733' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-gf-local-poppins-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1794851733' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-gf-local-raleway-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/raleway.css?ver=1794851733' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://siroco.es/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=1794851733' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=1794851733' media='all' />
+<!--n2css--><!--n2js--><script id="jquery-core-js" src="https://siroco.es/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" data-rocket-defer defer></script>
+<script id="jquery-migrate-js" src="https://siroco.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" data-rocket-defer defer></script>
+<script id="jquery-js-after">window.addEventListener('DOMContentLoaded', function() {
+!function($){"use strict";$(document).ready(function(){$(this).scrollTop()>100&&$(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"),$(window).scroll(function(){$(this).scrollTop()<100?$(".hfe-scroll-to-top-wrap").fadeOut(300):$(".hfe-scroll-to-top-wrap").fadeIn(300)}),$(".hfe-scroll-to-top-wrap").on("click",function(){$("html, body").animate({scrollTop:0},300);return!1})})}(jQuery);
+!function($){'use strict';$(document).ready(function(){var bar=$('.hfe-reading-progress-bar');if(!bar.length)return;$(window).on('scroll',function(){var s=$(window).scrollTop(),d=$(document).height()-$(window).height(),p=d? s/d*100:0;bar.css('width',p+'%')});});}(jQuery);
+//# sourceURL=jquery-js-after
+});</script>
+<script id="cookie-law-info-js-extra">
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"","custom_integration":"","triggerDomRefresh":"","secure_cookies":"","is_scan":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#232322","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#2bfb9c","button_1_button_hover":"#22c97d","button_1_link_colour":"#0a0a0a","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#ffffff","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#2bfb9c","button_3_button_hover":"#22c97d","button_3_link_colour":"#0a0a0a","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#fff","button_4_as_button":"1","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#ffffff","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https://siroco.es/wp-admin/admin-ajax.php"};
+//# sourceURL=cookie-law-info-js-extra
+</script>
+<script data-minify="1" id="cookie-law-info-js" src="https://siroco.es/wp-content/cache/min/1/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=1781544124" data-rocket-defer defer></script>
+<script data-minify="1" id="wordpress_file_upload_script-js" src="https://siroco.es/wp-content/cache/min/1/wp-content/plugins/wp-file-upload/js/wordpress_file_upload_functions.js?ver=1781544124" data-rocket-defer defer></script>
+<script id="jquery-ui-core-js-before">window.addEventListener('DOMContentLoaded', function() {
+jQuery.uiBackCompat = true;
+//# sourceURL=jquery-ui-core-js-before
+});</script>
+<script id="jquery-ui-core-js" src="https://siroco.es/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2" data-rocket-defer defer></script>
+<script id="jquery-ui-datepicker-js" src="https://siroco.es/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.14.2" data-rocket-defer defer></script>
+<script id="jquery-ui-datepicker-js-after">window.addEventListener('DOMContentLoaded', function() {
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Cerrar","currentText":"Hoy","monthNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"monthNamesShort":["Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic"],"nextText":"Siguiente","prevText":"Anterior","dayNames":["domingo","lunes","martes","mi\u00e9rcoles","jueves","viernes","s\u00e1bado"],"dayNamesShort":["Dom","Lun","Mar","Mi\u00e9","Jue","Vie","S\u00e1b"],"dayNamesMin":["D","L","M","X","J","V","S"],"dateFormat":"d MM, yy","firstDay":1,"isRTL":false});});
+//# sourceURL=jquery-ui-datepicker-js-after
+});</script>
+<script id="jquery-ui-timepicker-addon-js-js" src="https://siroco.es/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui-timepicker-addon.min.js?ver=7.1.4" data-rocket-defer defer></script>
+<script data-minify="1" data-wp-strategy="defer" defer id="twenty-twenty-one-primary-navigation-script-js" src="https://siroco.es/wp-content/cache/min/1/wp-content/themes/twentytwentyone/assets/js/primary-navigation.js?ver=1781544124"></script>
+
+<!-- Fragmento de código de la etiqueta de Google (gtag.js) añadida por Site Kit -->
+<!-- Fragmento de código de Google Analytics añadido por Site Kit -->
+<script id="google_gtagjs-js" src="https://www.googletagmanager.com/gtag/js?id=G-HHBEECHFPH" async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["siroco.es"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-HHBEECHFPH", {"googlesitekit_post_type":"page"});
+//# sourceURL=google_gtagjs-js-after
+</script>
+<link rel="https://api.w.org/" href="https://siroco.es/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://siroco.es/wp-json/wp/v2/pages/5529" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://siroco.es/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.4" />
+<link rel='shortlink' href='https://siroco.es/?p=5529' />
+<meta name="generator" content="Site Kit by Google 1.191.0" /> <meta name="generator" content="Elementor 4.4.0; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<script type='text/javascript'>window.addEventListener('DOMContentLoaded', function() {
+jQuery(function(){
+	// Obtener el elemento con la clase "Clubbing "
+	var clubElement = document.querySelector('.Clubbing');
+
+	// Verificar si existe el elemento con la clase "Clubbing"
+	if (clubElement) {
+			// Obtener el elemento con el id "cabify"
+			var partnerElement = document.getElementById('cabify');
+
+			// Verificar si existe el elemento con el id "partnerElement"
+			if (partnerElement) {
+				// Ocultar el elemento con el id "partnerElement"
+				partnerElement.style.display = 'none';
+			}
+	}
+});
+});</script>
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<style id="custom-background-css">
+body.custom-background { background-color: #292929; }
+</style>
+<link rel="icon" href="https://siroco.es/wp-content/uploads/2019/02/logo_negro_72px.png" sizes="32x32" />
+<link rel="icon" href="https://siroco.es/wp-content/uploads/2019/02/logo_negro_72px.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://siroco.es/wp-content/uploads/2019/02/logo_negro_72px.png" />
+<meta name="msapplication-TileImage" content="https://siroco.es/wp-content/uploads/2019/02/logo_negro_72px.png" />
+<style id="wp-custom-css">
+@media only screen and (min-width: 1024px) {
+    /* Sobrescribir el max-width restrictivo del tema */
+    .entry-content > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.wp-block-separator), 
+    *[class*="inner-container"] > *:not(.entry-content):not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.wp-block-separator), 
+    .default-max-width {
+        max-width: 100% !important;
+    }
+}
+
+
+/* ESPACIO SUPERIOR PÁGINA DE EVENTOS */
+.event-template-default{
+	margin-top: -4.3vh;
+}
+
+/* ARCHIVO AGENDA */
+
+.archive h2.entry-title{
+	position: initial;
+	top:0px;
+	margin-top: 0em;
+	transform: inherit;
+	text-align:center;
+	font-size: 2em;
+}
+
+.archive .entry-content > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.wp-block-separator):not(.woocommerce){
+	max-width:65%;
+	width:65%;
+}
+
+@media only screen and (max-width: 600px) {
+.archive .entry-content > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.wp-block-separator):not(.woocommerce){
+	max-width:80%;
+	width:80%;
+}
+}
+
+/* AGENDA */
+/*Eventos agenda border-top*/
+.eventos-agenda {
+	border-top: 1px solid #777
+}
+
+
+
+/*Pointer click botones filtro*/
+.b-caja {
+	cursor: pointer;
+}
+
+.page-header {
+    display: none;
+}
+/* Calendario */
+
+@media only screen and (max-width: 600px) {
+	.calendario-agenda{
+	padding-left:2% !important;
+		padding-right:2% !important;
+		width:90% !important;
+	}
+	.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-closed, .elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-opened{
+		margin-top:0px !important;
+	}
+}
+
+@media (max-width: 767px){
+.elementor-accordion .elementor-tab-title {
+	margin-right: 43%;}
+}
+
+.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-closed, .elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-opened{
+	margin-top:-4.7em;
+}
+
+.elementor-accordion .elementor-accordion-item {
+    border: 0px;
+}
+
+.elementor-accordion .elementor-tab-content{
+	border-top: 0px;
+}
+
+.elementor-widget-accordion .elementor-accordion-icon{
+	color:#2dfa9b !important;
+}
+
+i.fas.fa-calendar-alt, i.fas.fa-times-circle{
+	font-size:2em;
+}
+
+.elementor-8615 .elementor-element.elementor-element-225a790 .elementor-tab-content {
+    margin-top: 3em;
+}
+
+table.em-calendar td {
+    border: 0px !important;
+}
+
+table.em-calendar td.eventful a, table.em-calendar td.eventful-today a {
+    color: #292929;
+    background-color: #2dfa9b;
+    padding: 0.3em;
+    border-radius: 25px;
+}
+
+table.em-calendar td {
+    padding: 0.4em;
+}
+
+table.em-calendar td.eventless-today, table.em-calendar td.eventful-today {
+    background-color: transparent;
+	color: #cccccc;
+}
+
+table.em-calendar td.eventless-pre, .em-calendar td.eventless-post {
+    color: #7a7a7a !important;
+}
+
+table.em-calendar td.eventless{
+	color:#ccc !important;
+}
+
+td.month_name{
+	color: white;
+	text-transform: uppercase;
+}
+
+tr.days-names{
+	color: white;
+}
+
+/**ESTILOS GRID_HOME EVENTS**/
+/***FUENTES-EVENTOS-HOME***/
+
+.cajas-eventos.descripcion-corta p{
+	font-size: 0.7em !important;
+  font-weight: 400 !important;
+}
+.eventos-home span, .eventos-home p, .eventos-home a {
+	font-family: 'Poppins';
+	font-weight: 700;
+}
+.eventos-home .fecha-superior-home {
+	font-size: 1em !important;
+		font-weight: 400 !important;
+    text-transform: capitalize;
+}
+/**************************/
+/*.css-events-list .eventos {
+	display: flex !important;
+	flex-wrap: wrap !important;
+	flex-direction: column !important;
+	align-content: center !important;
+	align-items: center !important;
+	text-align: center;
+}
+.css-events-list .eventos-home {
+	margin: 0px !important;
+}*/
+
+/*OCULTAR BOTON AGENDA*/
+.boton-agenda {
+	display: none;
+}
+/*TIPO EVENTO HOME*/
+.wbp_wrapper span{
+	font-weight:700;
+}
+/**EVENTOS EM HOME**/
+.eventos-home.contenedor {
+	height: 14em;
+	width: 14em;
+	align-items: center;
+	overflow:hidden !important;
+}
+.eventos-home .contenedor-2 {
+	padding: .5em 1.4em;
+	width: 100%;
+	align-content: center; 
+	box-sizing: border-box !important;
+}
+.eventos-home .cajas-eventos {
+	padding: .7em 0 !important;
+}
+.cajas-eventos p{
+	width: 100%;
+	text-align:left;
+}
+.eventos-home img {
+	width: 700px;
+	height: 600px;
+	object-fit:cover !important;
+	opacity:.5 !important;
+}
+.eventos-home div {
+	border: none !important
+}
+.eventos-home .cajas-eventos.cajas-a a {
+	font-size: 1em;
+  margin-right: 1em;
+}
+
+.eventos-home .cajas-eventos.cajas-eventos-p {
+	display: block;
+}
+.eventos-home .cajas-eventos p, .eventos-home .cajas-eventos span {
+	padding: 0
+}
+/**************/
+/**************/
+/**Floating Header**/
+.header {
+	position: absolute;
+	width: 100%;
+	z-index: 999;
+}
+.header.elementor-sticky--effects { 
+background-color: #000 !Important
+;
+}
+/**********/
+/***HEADER ORIGINAL EVENTOS***/
+.event .entry-header.alignwide {
+	display: none;
+}
+/**Página eventos SINGLE**/
+.event .entry-content {
+	max-width: 100% !important;
+}
+/**FLEX**/
+.single-event-box {
+	display: flex;
+	max-width: 80% !important
+}
+.event-banner {
+	max-width: 100%!important;
+	height: 35vw !important;
+	overflow:hidden !important;
+	margin-bottom: 5vh;
+	text-align:center !important;
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
+	align-items: center;
+margin-top:-160px;
+}
+.event-banner img {
+	width: 100vw !important;
+	opacity: 0.4;
+	position: relative;
+}
+.event-title {
+	position: absolute;
+	/*z-index:999;*/
+	font-size: 1em !important;
+	font-family: 'Poppins';
+	padding: 1em;
+	font-weight: 600;
+	line-height:1;
+}
+.event-title a {
+	text-decoration: none;
+}
+.event-image {
+	width: 30%;
+	text-align: center;
+}
+.event-info {
+	width: 70%;
+	padding: 0 2em;
+}
+.event-info p:not(:first-child) {
+	margin-top: 1em;
+}
+.event-info p:first-child {
+	margin-top: 0px !important;
+}
+.volver-agenda {
+	margin-top: 1.4em;
+	font-weight: bold;
+}
+.Gratis-bottom {
+	background-color: #2bfb9c;
+	color: #212121;
+	padding: .6em 3.2em;
+	text-decoration: none;
+	font-family: 'Poppins';
+	font-size: .7em;
+	font-weight: bold;
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
+	align-items: center;
+}
+/**********/
+.event {
+	margin-top: 6em
+}
+.event .entry-title {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	z-index:999;
+	transform: translatex(-50%) translatey(-50%);
+	font-family:'Poppins';
+	font-size: 4em;
+	font-weight: 600;	
+}
+/***BOTONES REDES ARTISTA***/
+.rrss-artista {
+	background-color: #000;
+	padding: .6em 3.2em;
+	text-decoration: none;
+	font-family: 'Poppins';
+	font-size: .7em;
+	font-weight: bold;
+}
+/**BOTON TICKETS**/
+.Tickets-bottom, .Vacio-bottom {
+	display: none;
+}
+.event .Tickets, .Tickets-bottom  {
+	background-color: #2bfb9c;
+	color: #212121;
+	padding: .6em 4em;
+	text-decoration: none;
+	font-family:'Poppins';
+	font-size: .7em;
+	font-weight: bold;
+}
+/**Botones agenda**/
+.volver-agenda a {
+	background-color: #2bfb9c;
+	color: #212121;
+	padding: .8em;
+	text-decoration: none;
+	margin-right: 15px;
+	font-family:'Poppins';
+	font-size: .7em;
+}
+/**Formularios**/
+.form-contacto input, .form-contacto textarea {
+	margin: 10px 0;
+	font-family: 'Poppins';
+	width: 100%;
+	background-color: #fff !important;
+	font-size:.7em;
+	padding: 1em
+}
+.wpcf7-form-control.wpcf7-submit.wpcf7-button-fullwidth{
+	background-color: #2bfb9c !important;
+	color: #FFF !important;
+	width: 100%;
+}
+/**********/
+/**********/
+/* AGENDA */
+
+.evento-informacion-recuadro{
+	margin-top: 0em !important;
+	background-color: #000;
+	padding: 1em;
+}
+
+span.etiqueta-espacio{
+	color:black !important;
+	text-transform:capitalize;
+	border-radius: 5px;
+	padding: 5px 7px 5px 8px !important;
+	font-size:0.5em;
+	background-color:#eaeaea;
+}
+
+/*BOTON TIPO TICKET*/
+.Vacio {display: none;}
+.Gratis{cursor: default !important}
+/* TAMAÑO NOMBRE ARTISTA */
+.nombre_evento a {
+	font-size: 25px;
+	line-height: 1em;
+	letter-spacing: .3px}
+
+/* FECHA SUPERIOR EVENTOS AGENDA */
+/* DIV BUSCA POR FECHA */
+.fecha-superior-2 p {margin-bottom: 0 !important}
+.fecha-superior-2 {margin-bottom: 0 !important}
+.fecha-superior, .fecha-superior-2 {
+	font-family: poppins;
+	text-align: right;
+	font-size: 1em;
+	font-weight: 700;
+padding-right:1.5em;
+padding-top: 1.8em;}
+
+.fecha-superior {text-transform: capitalize;}
+
+.sep-verde {
+	width: 60px;
+	height: 7px;
+	background-color: #2bfb9c;
+	margin: 20px auto;}
+
+/* CAJA */
+.caja-fechas {margin-top: 30px}
+.caja-fechas.activo {
+  display:block !important;
+}
+/*
+.eventos-agenda .caja-fechas.activo ~ .eventos-agenda .caja-fechas.activo {
+    display:none !important;
+}*/
+.inactivo {display:none !important}
+/* FECHA ANTIGUA */
+.dia-movil {display: none}
+/* FILTROS IMAGEN HOVER */
+.caja-img img {
+	filter: brightness(95%) contrast(90%);
+	transform: scalex(1.1) scaley(1.1);
+	transform-origin:center;
+	transition: all.5s}
+.contenedor:hover img {
+	transform: scalex(1) scaley(1);
+	transform-origin: center;
+	transition: all.5s	}
+/*CAJAS COLUMNAS BOTONES EVENTOS*/
+.cajas-a {
+	justify-content: space-around !important;
+	margin-top: 2em;
+}
+/*CAJAS COLUMNAS HORA Y ESPACIO*/
+.cajas-eventos-div span {
+	padding: 0px;
+}
+.cajas-eventos-div:first-child {
+	width:70% !important;
+}
+
+
+
+.cajas-eventos-div p strong {
+	text-align: center;
+}
+/* IMAGEN EN CAJA */
+.caja-img {
+	width: 240px;
+	height: 240px;
+	display: flex;
+  overflow: hidden;
+}
+
+.caja-img img {
+    object-fit: cover !important;
+    filter: brightness(95%) contrast(90%);
+    transform: scalex(1.1) scaley(1.1);
+    transform-origin: center;
+    transition: all.5s;
+	width: 240px;
+}
+
+.cajas-eventos {
+	padding: 0.2em 0 !important;
+/*	display: flex;*/
+	justify-content: center;
+	align-items: center;
+	border-bottom: 0px;
+	/*border:1px solid white*/
+}
+.cajas-eventos p, .cajas-eventos-p p {
+	margin: auto;
+	text-align: left;}
+.cajas-eventos-p {
+	display: flex;
+	justify-content:space-between;}
+.cajas-eventos-p p {
+	padding-left: 40px;}
+.cajas-161 {
+	opacity:.4}
+
+/* ESTILOS Y HOVER VER-TICKETS */
+.cajas-a a{
+	border: 1px solid #fff; 
+	padding: 5px 15px;
+	color:#fff;
+	transition: all.5s;
+	margin-right:2em;
+}
+.cajas-a a:hover:not(.Gratis) {
+	border: 1px solid #2bfb9c;
+	color: #2bfb9c!important;
+	transition: all.5s;
+margin-right:2em;
+}
+
+/*CATEGORÍAS */
+.categoria-151, .categoria-153, .categoria-154, .categoria-155, .categoria-161, .categoria-164, .categoria-167 {
+	color:#232322!important;
+	text-transform:capitalize;
+	border-radius: 5px;
+	padding: 5px 7px 5px 8px;
+	font-size:0.5em;}
+.categoria-155 {
+	background-color: #eac30f;}
+.categoria-154 {
+	background-color: #7809f6;}
+.categoria-151 {
+	background-color: #0feab9;}
+.categoria-153 {
+	background-color: #33a1e2;}
+.categoria-161 {
+	background-color: #c11e35;}
+.categoria-164 {
+	background-color: #FFFF00;}
+.categoria-167 {
+	background-color: #5cd1c1;}
+
+.cajas-161 .cajas-eventos.cajas-a, .cajas-161 .cajas-a, .cajas-161 .nombre_evento{
+	cursor: not-allowed;
+  pointer-events:none;
+}
+
+/* BOTONES DENTRO EVENTOS */
+.boton-cat-m { display:none; }
+.cancelado {
+	display:none;
+}
+.otros {
+	display:none;
+}
+/********/
+
+/********/
+/*********/
+/***MOVIL***/
+@media (max-width:600px) {
+	
+	p.fecha-superior{
+		text-align:center !important;
+		padding-right:0;
+	}
+	
+	.sep-verde{
+		display:none !important;
+	}
+	
+	.evento-informacion-recuadro{
+	margin-top: 1.5em !important;
+	}
+	
+	.eventos-agenda {display:none !important;
+	}
+	
+	.eventos-home .contenedor-2 {
+    position: absolute;
+    display: flex;
+    flex-flow: column wrap;
+    width: 100% !important;
+    height: 100%;
+}
+.cajas-eventos-div:first-child {
+	    text-align: center;
+    width: 100% !important;
+}	
+	.cajas-a {
+text-align:center;
+		margin-top:0 ;
+}
+	
+	.eventos-home.contenedor {
+	align-items: start;
+}
+	
+	.cajas-eventos-div {
+	    text-align: center;
+		    margin-top: 0.8rem;
+}	
+		.cajas-eventos-div p{
+	    text-align: center;
+}	
+	.eventos-home .cajas-eventos {
+    padding: 0 !important;
+}
+	
+	.cajas-eventos.descripcion-corta {
+		flex-grow:1;
+		 margin-top: 0.8rem;
+	}
+	
+	.elementor-widget-container {
+		padding:0.4rem;
+	}
+	
+	.eventos-home .cajas-eventos.cajas-a a.Tickets {
+		margin-right:0;
+	}
+	/**Single Event Page**/
+	.event {
+		margin-top: 2em
+	}
+	.event-banner {
+		overflow: visible !important;
+		margin: 3em 0 !important;
+	}
+	.event-title {
+	position: absolute;
+	z-index:999;
+	font-size: 1em;
+	font-family: 'Poppins';
+}
+	.event .entry-title {
+		margin-top: .6em
+	}
+	.event-info {
+		width: 100%;
+		padding: 10px;
+		
+	}
+	.volver-agenda a {
+		margin-top: 3em;
+	}
+	.Tickets-bottom {
+		display: block !important;
+		text-align: center;
+	}
+	/**IMAGE-BOX*/
+.single-event-box {
+	display: block;
+}
+	.event-image {
+		
+	}
+	/******/
+	/**Mailchimp**/
+	.mailchimp {
+		display: block !important;
+		text-align: center;
+	}
+	.mailchimp p {
+		margin-top: 10px
+	}
+	/******/
+	/**Ttulos Fechas**/
+	.fecha-superior {
+		font-size: 1em
+	}
+	/*BOTON 2 VER DENTRO EVENTOS*/
+	.volver-agenda a {padding:10px 15px}
+	.boton-cat-m {display:inline-block}
+	.boton-cat-esc {display:none;}
+	/* BOTON AGENDA */
+	.eventos-landing:nth-child(5n){
+		padding-top:35px !important;
+	}
+	div.movil img{
+		width: 100%;
+		filter:brightness(0.35) !important;
+		height:100%;
+	}
+	.b-caja h2 {
+		font-size:12px !important;
+	}
+	.flotante {
+		position: absolute;
+		display: flex;
+		flex-flow: column wrap;
+		width:90% !important;
+		height:90%;
+	}
+	.tp-mask-wrap span {
+		font-size: 12px !important;
+	}
+	.movil-si {
+		display:flex !important
+	}
+	.movil {
+		width: 100% !important;
+		position:relative;
+		height: 400px;
+		overflow: hidden;
+		margin-bottom: 15px !important
+	}
+	/*.contenedor {display: none !important;
+	}*/
+	.css-events-list .eventos {
+flex-direction: column;
+}
+	.home .contenedor {
+		width: 100% !important;
+		height: 520px;
+		margin-top:1rem;
+	}
+	.home .eventos .home img {
+		height: 500px !important;
+		opacity: .3 !important
+	}
+	.event-info {
+		margin-top: 10em !important
+	}
+	.cajas-eventos-2 {
+		display: flex;
+		justify-content:center;
+		width: 100%;
+	}
+		div.cajas-eventos-2:nth-of-type(4){
+			flex-grow:1;
+	}
+	.cajas-eventos-2 span {
+		margin-left: 5px;
+	}
+	.cajas-eventos-2 p {
+		text-align: center;
+		margin:7px 0;
+	}
+	.cajas-eventos-2-a {
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: center;
+		padding: 0 10px;
+		margin-top:10px;
+		/*align-items: center;*/
+	}
+	.cajas-eventos-2-a a {
+		text-align: center;
+		margin-left: 10px;
+	}
+	.caja-fechas p {margin: 0 16px}
+	#cookie-law-info-bar {
+	padding: 10px 15px !important;}
+	
+	.siroco-sponsor-caja-p {
+	width: 50% !important;
+	margin: auto;}
+	#cookie-law-info-bar {
+		display: none !important;}
+}
+
+@media (min-width: 601px) and (max-width: 767px) {
+	.event-title {
+		font-size: 2em;
+	}
+	
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+	.event-title {
+	font-size: 2em;
+	padding: 1em;
+	font-weight: 600;
+	line-height:1.4;
+}
+	.eventos-agenda .caja-fechas.activo {
+	width:20% !important;
+}
+
+.eventos-agenda .contenedor.activo {
+	width:80% !important;
+}
+	
+}
+/**** cambio kj 
+.alignwide img{
+* 	height: 65%!important;
+  width: 20%!important; *
+	width: 240px!important;
+    height: 240px!important;
+    display: flex;
+    overflow: hidden;
+}
+.default-max-width{
+	margin-top: 150px;
+}
+.fecha-superior-publico{
+	text-height:600!important;
+}
+.fecha-superior{
+	display:none
+}
+.event-categories-concierto > .entry-content p{
+	text-align: -webkit-center;
+}
+
+.event-info > p{
+	text-align: left!important;
+}
+
+* header nuevo siroco eventos *
+
+.elementor-element-3118390 > .elementor-widget-container > .elementor-image > a > img{
+	margin-top: 43px;
+}
+.elementor-13543 .elementor-element.elementor-element-3118390 img{
+	width: 25%!important;
+}
+.elementor-nav-menu__align-right .elementor-nav-menu{
+	margin-top: 40px;
+}  
+.event{
+	margin-top: -1em!important;
+}
+.elementor-16950 .elementor-element.elementor-element-c7207bd img {
+    width: 75px!important;
+    max-width: 75px!important;
+    height: 75px!important;
+    margin-top: 6px;
+}****/
+/*MENÚ EVENTOS dafy.*/
+.event{
+	margin-top:0px !important;
+}
+.elementor-16950 .elementor-element .elementor-element-b5bb1de .elementor-widget-container {
+	padding-top:5vh !important;
+}
+.elementor-16950 .elementor-element .elementor-element-c7207bd img {
+	width:100%
+}
+.elementor-column-gap-default .elementor-row .elementor-column .elementor-element-populated .elementor-widget-wrap
+{
+	padding-top:5vh !important;
+	padding:0px;
+}
+
+/* AGENDA CAMBIOS KJ */
+.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-closed{
+	margin-top: -1.7em;
+  margin-left: 27em;
+	
+}
+.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-opened{
+	margin-top: -1.7em;
+  margin-left: 27em;
+}
+
+@media only screen and (max-width: 600px) {
+.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-closed{
+	margin-top: -1.7em;
+  margin-left: 8em;
+	
+}
+.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-opened{
+	margin-top: -1.7em;
+  margin-left: 8em;
+}
+.archive h2.entry-title{
+	margin-top: 4em;
+}
+/***MENÚ EVENTO INDIVIDUAL DAFY MÓVIL***/
+.event{
+	margin-top:0px !important;
+}
+.elementor-16950 .elementor-element .elementor-element-b5bb1de .elementor-widget-container {
+	padding-top:0vh !important;
+}
+.elementor-16950 .elementor-element .elementor-element-c7207bd img {
+	width:100%
+}
+.elementor-column-gap-default .elementor-row .elementor-column .elementor-element-populated .elementor-widget-wrap
+{
+	padding-top:5vh !important;
+	padding:0px;
+}
+/*BANNER EVENTOS CABIFY*/
+#cabify {
+	@if $event-categories-clubbing {
+		display:none;
+  }
+  @else {
+    display:inline;
+  }
+}
+
+	
+@media only screen and (min-width: 1024px) {
+    /* Activamos Flexbox en el contenedor ahora que contiene a ambas columnas */
+    .single-event-box {
+        display: flex !important;
+        flex-direction: row !important;
+        justify-content: space-between !important;
+        align-items: flex-start !important;
+        max-width: 100% !important;
+        width: 100% !important;
+        gap: 5% !important; /* Espacio de separación entre columnas */
+    }
+
+    /* Columna de la izquierda (Foto + Botones) */
+    .single-event-box .event-image {
+        display: block !important;
+        flex: 0 0 35% !important;
+        max-width: 35% !important;
+        width: 35% !important;
+        text-align: center !important;
+    }
+
+    /* Forzamos que la foto no se desborde */
+    .single-event-box .event-image img {
+        width: 100% !important;
+        max-width: 100% !important;
+        height: auto !important;
+    }
+
+    /* Hacemos que el botón de RRSS actúe como bloque para que se vea igual que el de Tickets */
+    .single-event-box .rrss-artista {
+        display: inline-block !important;
+        margin-top: 10px !important;
+        width: 100% !important;
+        box-sizing: border-box !important;
+        text-align: center !important;
+    }
+
+    /* Columna de la derecha (Textos) */
+    .single-event-box .event-info {
+        display: block !important;
+        flex: 0 0 60% !important;
+        max-width: 60% !important;
+        width: 60% !important;
+        margin-top: 0px !important;
+        padding: 0px !important;
+    }
+}
+
+/* AJUSTE TAMAÑO TÍTULO EN MÓVILES */
+@media only screen and (max-width: 767px) {
+    .event-banner .event-title h1,
+    .event-banner .event-title h1 a {
+        font-size: 1.3em !important; /* Reduce el tamaño del texto */
+        line-height: 1 !important;  /* Junta un poco las líneas si el título es largo */
+        padding: 0 !important;
+    }
+}
+
+/* AJUSTE ANCHO COMPLETO EN MÓVILES (CON IMAGEN OCULTA) */
+@media only screen and (max-width: 1023px) {
+    /* Forzamos al contenedor principal a comportarse en vertical */
+    .single-event-box {
+        display: block !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
+    /* ¡AQUÍ ESTÁ EL CAMBIO!: Ocultamos por completo la columna de la imagen y sus botones en móvil */
+    .single-event-box .event-image {
+        display: none !important;
+    }
+
+    /* Columna de la información al 100% */
+    .single-event-box .event-info {
+        display: block !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        margin-top: 10px !important; /* Menos espacio arriba ya que no está la foto */
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    
+    /* El recuadro negro de los datos del evento al 100% */
+    .evento-informacion-recuadro {
+        width: 100% !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+}
+
+/* SEPARACIÓN Y ESTILO DEL BOTÓN DE TICKETS EN MÓVIL */
+@media only screen and (max-width: 1023px) {
+    .event-info .Tickets-bottom {
+        display: block !important;
+        margin-top: 60px !important;    /* Espacio de separación con la imagen superior */
+        margin-bottom: 20px !important; /* Espacio de separación con el recuadro negro */
+        width: 100% !important;         /* Hace que ocupe todo el ancho si lo deseas */
+        box-sizing: border-box !important;
+        text-align: center !important;
+    }
+}
+</style>
+				<style type="text/css" id="c4wp-checkout-css">
+					.woocommerce-checkout .c4wp_captcha_field {
+						margin-bottom: 10px;
+						margin-top: 15px;
+						position: relative;
+						display: inline-block;
+					}
+				</style>
+							<style type="text/css" id="c4wp-v3-lp-form-css">
+				.login #login, .login #lostpasswordform {
+					min-width: 350px !important;
+				}
+				.wpforms-field-c4wp iframe {
+					width: 100% !important;
+				}
+			</style>
+			<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><meta name="generator" content="WP Rocket 3.20.2" data-wpr-features="wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_lazyload_iframes wpr_preconnect_external_domains wpr_oci wpr_image_dimensions wpr_minify_css wpr_preload_links wpr_desktop" /></head>
+<body class="wp-singular page-template page-template-elementor_header_footer page page-id-5529 custom-background wp-embed-responsive wp-theme-twentytwentyone ehf-template-twentytwentyone ehf-stylesheet-twentytwentyone is-dark-theme no-js singular has-main-navigation elementor-default elementor-template-full-width elementor-kit-13523 elementor-page elementor-page-5529 modula-best-grid-gallery">
+		<header  data-elementor-type="header" data-elementor-id="13543" class="elementor elementor-13543 elementor-location-header" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-2023b74 elementor-section-full_width elementor-section-content-middle header elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="2023b74" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_effects_offset&quot;:10,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
+							<div  class="elementor-background-overlay"></div>
+							<div  class="elementor-container elementor-column-gap-narrow">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ec19fa6" data-id="ec19fa6" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3118390 elementor-widget elementor-widget-image" data-id="3118390" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://siroco.es/">
+							<img width="250" height="266" src="https://siroco.es/wp-content/uploads/2019/03/logo_-blanco_250px.png" title="logo_ blanco_250px" alt="logo_ blanco_250px"  />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e9229eb" data-id="e9229eb" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5c04523 elementor-nav-menu__align-end elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="5c04523" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menú" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-5c04523" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19211"><a href="https://siroco.es/agenda/" class="elementor-item">Agenda</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19212"><a href="https://siroco.es/clubbing/" class="elementor-item">Clubbing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5529 current_page_item menu-item-19213"><a href="https://siroco.es/conciertos/" aria-current="page" class="elementor-item elementor-item-active">Conciertos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20504"><a target="_blank" href="https://sirocoartlab.es/" class="elementor-item">ARTLAB</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19214"><a href="https://siroco.es/contacto/" class="elementor-item">Contacto</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Alternar menú" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-5c04523" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19211"><a href="https://siroco.es/agenda/" class="elementor-item" tabindex="-1">Agenda</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19212"><a href="https://siroco.es/clubbing/" class="elementor-item" tabindex="-1">Clubbing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5529 current_page_item menu-item-19213"><a href="https://siroco.es/conciertos/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Conciertos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20504"><a target="_blank" href="https://sirocoartlab.es/" class="elementor-item" tabindex="-1">ARTLAB</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19214"><a href="https://siroco.es/contacto/" class="elementor-item" tabindex="-1">Contacto</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</header>
+				<div  data-elementor-type="wp-page" data-elementor-id="5529" class="elementor elementor-5529" data-elementor-post-type="page">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-228f660 elementor-section-height-min-height elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="228f660" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div  class="elementor-background-overlay"></div>
+							<div  class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fa39836" data-id="fa39836" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-35cebdd elementor-widget elementor-widget-heading" data-id="35cebdd" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Conciertos</h1>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section  class="elementor-section elementor-top-section elementor-element elementor-element-d8668dc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d8668dc" data-element_type="section" data-e-type="section">
+						<div  class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1344030" data-id="1344030" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b61e014 elementor-widget elementor-widget-spacer" data-id="b61e014" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-035f5f1 elementor-align-justify elementor-widget elementor-widget-button" data-id="035f5f1" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://siroco.es/agenda/#Conciertos">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Ver programación conciertos</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-aa95a6b elementor-widget elementor-widget-spacer" data-id="aa95a6b" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section  class="elementor-section elementor-top-section elementor-element elementor-element-7e2081f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7e2081f" data-element_type="section" data-e-type="section">
+						<div  class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6bebf17" data-id="6bebf17" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d477ea6 elementor-align-center elementor-widget elementor-widget-button" data-id="d477ea6" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://siroco.es/conciertos/#club">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Club</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9e7419f" data-id="9e7419f" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-750f342 elementor-align-center elementor-widget elementor-widget-button" data-id="750f342" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://siroco.es/conciertos/#lounge">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ARTLAB</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section  class="elementor-section elementor-top-section elementor-element elementor-element-5628cbf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5628cbf" data-element_type="section" data-e-type="section">
+						<div  class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b3c5be9" data-id="b3c5be9" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-59ac656 elementor-widget elementor-widget-spacer" data-id="59ac656" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section  class="elementor-section elementor-top-section elementor-element elementor-element-33c1889 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="33c1889" data-element_type="section" data-e-type="section" id="club">
+						<div  class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3385a59" data-id="3385a59" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-38aa21e elementor-widget elementor-widget-image" data-id="38aa21e" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="750" height="500" src="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-3-1024x683.jpg" class="attachment-large size-large wp-image-12417" alt="" srcset="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-3-1024x683.jpg 1024w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-3-300x200.jpg 300w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-3-768x512.jpg 768w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-3-855x570.jpg 855w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-3-500x333.jpg 500w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-3-550x367.jpg 550w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-3-400x267.jpg 400w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-3.jpg 1152w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:66.67%;max-width:1152px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-efc4b83" data-id="efc4b83" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d58cb59 elementor-widget elementor-widget-heading" data-id="d58cb59" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Espacio Club</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-61e290b elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="61e290b" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-dab775a elementor-widget elementor-widget-text-editor" data-id="dab775a" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>Siroco Club</strong>  se encuentra en la planta baja de la sala y ha sido testigo de directos para el recuerdo, albergando conciertos de todo tipo de música, trayendo a artistas y promotoras tanto del panorama nacional como internacional, y apostando por la música de calidad en el ocio nocturno de Madrid.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section  class="elementor-section elementor-top-section elementor-element elementor-element-6a74058 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6a74058" data-element_type="section" data-e-type="section">
+						<div  class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7c10077" data-id="7c10077" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-756fbbd elementor-widget elementor-widget-shortcode" data-id="756fbbd" data-element_type="widget" data-e-type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-shortcode"><div  id="jtg-11870" class="modula modula-gallery modula-custom-grid" data-config="{&quot;height&quot;:800,&quot;tabletHeight&quot;:800,&quot;mobileHeight&quot;:800,&quot;desktopHeight&quot;:800,&quot;enableTwitter&quot;:true,&quot;enableWhatsapp&quot;:true,&quot;enableFacebook&quot;:true,&quot;enablePinterest&quot;:true,&quot;enableLinkedin&quot;:true,&quot;enableEmail&quot;:false,&quot;randomFactor&quot;:0.5,&quot;type&quot;:&quot;custom-grid&quot;,&quot;columns&quot;:12,&quot;gutter&quot;:10,&quot;mobileGutter&quot;:10,&quot;tabletGutter&quot;:10,&quot;desktopGutter&quot;:10,&quot;enableResponsive&quot;:&quot;0&quot;,&quot;tabletColumns&quot;:&quot;2&quot;,&quot;mobileColumns&quot;:&quot;1&quot;,&quot;lazyLoad&quot;:0,&quot;lightboxOpts&quot;:{&quot;animated&quot;:true,&quot;Thumbs&quot;:{&quot;type&quot;:&quot;modern&quot;,&quot;showOnStart&quot;:false},&quot;Toolbar&quot;:{&quot;display&quot;:{&quot;right&quot;:[&quot;close&quot;]},&quot;enabled&quot;:true},&quot;Carousel&quot;:{&quot;Panzoom&quot;:{&quot;touch&quot;:true},&quot;infinite&quot;:false},&quot;keyboard&quot;:{&quot;Escape&quot;:&quot;close&quot;,&quot;Delete&quot;:&quot;close&quot;,&quot;Backspace&quot;:&quot;close&quot;,&quot;PageUp&quot;:&quot;next&quot;,&quot;PageDown&quot;:&quot;prev&quot;,&quot;ArrowUp&quot;:&quot;prev&quot;,&quot;ArrowDown&quot;:&quot;next&quot;,&quot;ArrowRight&quot;:&quot;next&quot;,&quot;ArrowLeft&quot;:&quot;prev&quot;},&quot;wheel&quot;:&quot;slide&quot;,&quot;touch&quot;:true,&quot;backdropClick&quot;:&quot;close&quot;,&quot;l10n&quot;:{&quot;CLOSE&quot;:&quot;Cerrar&quot;,&quot;NEXT&quot;:&quot;Siguiente&quot;,&quot;PREV&quot;:&quot;Anterior&quot;,&quot;Error&quot;:&quot;No se ha podido cargar el contenido solicitado. Por favor, int\u00e9ntalo de nuevo m\u00e1s tarde.&quot;,&quot;PLAY_START&quot;:&quot;Empezar la presentaci\u00f3n&quot;,&quot;PLAY_STOP&quot;:&quot;Pausar la presentaci\u00f3n&quot;,&quot;FULL_SCREEN&quot;:&quot;Pantalla completa&quot;,&quot;THUMBS&quot;:&quot;Miniaturas&quot;,&quot;DOWNLOAD&quot;:&quot;Descargar&quot;,&quot;SHARE&quot;:&quot;Compartir&quot;,&quot;ZOOM&quot;:&quot;Zoom&quot;,&quot;EMAIL&quot;:&quot;Here is the link to the image : %%image_link%% and this is the link to the gallery : %%gallery_link%%&quot;,&quot;MODAL&quot;:&quot;Puedes cerrar este contenido emergente con la tecla ESC&quot;,&quot;ERROR&quot;:&quot;Algo ha ido mal, pro favor, prueba de nuevo m\u00e1s tarde&quot;,&quot;IMAGE_ERROR&quot;:&quot;Imagen no encontrada&quot;,&quot;ELEMENT_NOT_FOUND&quot;:&quot;No se ha encontrado el elemento HTML&quot;,&quot;AJAX_NOT_FOUND&quot;:&quot;Error al cargar AJAX: No encontrado&quot;,&quot;AJAX_FORBIDDEN&quot;:&quot;Error al cargar AJAX: Prohibido&quot;,&quot;IFRAME_ERROR&quot;:&quot;Error al cargar la p\u00e1gina&quot;,&quot;TOGGLE_ZOOM&quot;:&quot;Alternar nivel de ampliar\/acercar&quot;,&quot;TOGGLE_THUMBS&quot;:&quot;Alternar miniaturas&quot;,&quot;TOGGLE_SLIDESHOW&quot;:&quot;Alternar diapositiva&quot;,&quot;TOGGLE_FULLSCREEN&quot;:&quot;Cambiar al modo de pantalla completa&quot;},&quot;Images&quot;:{&quot;Panzoom&quot;:{&quot;maxScale&quot;:2}},&quot;mainClass&quot;:&quot;modula-fancybox-container modula-lightbox-jtg-11870&quot;,&quot;Html&quot;:{&quot;videoAutoplay&quot;:0,&quot;videoTpl&quot;:&quot;&lt;video class=\&quot;fancybox__html5video\&quot; controls muted playsinline controlsList controlsList=\&quot;nodownload\&quot; poster=\&quot;{{poster}}\&quot; src=\&quot;{{src}}\&quot; type=\&quot;{{format}}\&quot; &gt;  Sorry, your browser doesn&#039;t support embedded videos, &lt;a href=\&quot;{{src}}\&quot;&gt; download &lt;\/a&gt; and watch with your favorite video player! &lt;\/video&gt;&quot;}},&quot;inView&quot;:false,&quot;email_subject&quot;:&quot;\u00a1\u00a1Mira esta impresionante imagen!!&quot;,&quot;email_message&quot;:&quot;Este es el enlace a la imagen: %%image_link%% y este es el enlace a la galer\u00eda: %%gallery_link%% &quot;,&quot;lightbox&quot;:&quot;fancybox&quot;,&quot;lightbox_devices&quot;:&quot;both&quot;}">
+		<div  class="modula-items">
+		<div class="modula-item effect-pufrobo"  data-width="3" data-height="2">
+	<div class="modula-item-overlay"></div>
+
+	<div class="modula-item-content">
+
+				<a data-image-id="12420" role="button" data-elementor-open-lightbox="no" tabindex="0" rel="jtg-11870" data-caption="" aria-label="Abrir la imagen en una caja de luz" class="tile-inner modula-item-link"></a>
+			<img decoding="async" class="pic wp-image-12420"  data-valign="middle" data-halign="center" alt="" data-full="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019.jpg" title="conciertos-club-siroco-web-2019" crop="" width="300" height="200" src="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-300x200.jpg" data-src="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-300x200.jpg" data-caption="" srcset="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019.jpg 1152w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-300x200.jpg 300w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-768x512.jpg 768w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-1024x683.jpg 1024w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-855x570.jpg 855w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-500x333.jpg 500w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-550x367.jpg 550w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-400x267.jpg 400w" sizes="(max-width: 600px) 25vw, (max-width: 1024px) 25vw, 25vw" />
+			<div class="figc no-description">
+				<div class="figc-inner">
+																			</div>
+			</div>
+
+	</div>
+
+</div><div class="modula-item effect-pufrobo"  data-width="3" data-height="2">
+	<div class="modula-item-overlay"></div>
+
+	<div class="modula-item-content">
+
+				<a data-image-id="12418" role="button" data-elementor-open-lightbox="no" tabindex="0" rel="jtg-11870" data-caption="" aria-label="Abrir la imagen en una caja de luz" class="tile-inner modula-item-link"></a>
+			<img decoding="async" class="pic wp-image-12418"  data-valign="top" data-halign="center" alt="" data-full="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-4.jpg" title="conciertos-club-siroco-web-2019-4" crop="" width="185" height="300" src="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-4-185x300.jpg" data-src="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-4-185x300.jpg" data-caption="" srcset="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-4.jpg 473w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-4-185x300.jpg 185w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-4-351x570.jpg 351w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-4-308x500.jpg 308w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-4-246x400.jpg 246w" sizes="(max-width: 600px) 25vw, (max-width: 1024px) 25vw, 25vw" />
+			<div class="figc no-description">
+				<div class="figc-inner">
+																			</div>
+			</div>
+
+	</div>
+
+</div><div class="modula-item effect-pufrobo"  data-width="3" data-height="2">
+	<div class="modula-item-overlay"></div>
+
+	<div class="modula-item-content">
+
+				<a data-image-id="12416" role="button" data-elementor-open-lightbox="no" tabindex="0" rel="jtg-11870" data-caption="" aria-label="Abrir la imagen en una caja de luz" class="tile-inner modula-item-link"></a>
+			<img  decoding="async" class="pic wp-image-12416"  data-valign="middle" data-halign="center" alt="" data-full="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-2.jpg" title="conciertos-club-siroco-web-2019-2" crop="" width="300" height="200" src="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-2-300x200.jpg" data-src="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-2-300x200.jpg" data-caption="" srcset="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-2.jpg 1152w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-2-300x200.jpg 300w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-2-768x512.jpg 768w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-2-1024x683.jpg 1024w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-2-855x570.jpg 855w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-2-500x333.jpg 500w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-2-550x367.jpg 550w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-2-400x267.jpg 400w" sizes="(max-width: 600px) 25vw, (max-width: 1024px) 25vw, 25vw" />
+			<div class="figc no-description">
+				<div class="figc-inner">
+																			</div>
+			</div>
+
+	</div>
+
+</div><div class="modula-item effect-pufrobo"  data-width="3" data-height="2">
+	<div class="modula-item-overlay"></div>
+
+	<div class="modula-item-content">
+
+				<a data-image-id="12419" role="button" data-elementor-open-lightbox="no" tabindex="0" rel="jtg-11870" data-caption="" aria-label="Abrir la imagen en una caja de luz" class="tile-inner modula-item-link"></a>
+			<img  decoding="async" class="pic wp-image-12419"  data-valign="middle" data-halign="center" alt="" data-full="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-5.jpg" title="conciertos-club-siroco-web-2019-5" crop="" width="300" height="200" src="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-5-300x200.jpg" data-src="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-5-300x200.jpg" data-caption="" srcset="https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-5.jpg 900w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-5-300x200.jpg 300w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-5-768x512.jpg 768w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-5-855x570.jpg 855w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-5-500x333.jpg 500w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-5-550x367.jpg 550w, https://siroco.es/wp-content/uploads/2019/09/conciertos-club-siroco-web-2019-5-400x267.jpg 400w" sizes="(max-width: 600px) 25vw, (max-width: 1024px) 25vw, 25vw" />
+			<div class="figc no-description">
+				<div class="figc-inner">
+																			</div>
+			</div>
+
+	</div>
+
+</div>	</div>
+	
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "ImageGallery",
+			"id": "https://siroco.es/conciertos/#modula-gallery-11870",
+			"url": "https://siroco.es/conciertos/"
+		}
+	</script>
+
+	</div>
+</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section  class="elementor-section elementor-top-section elementor-element elementor-element-de2c3f4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="de2c3f4" data-element_type="section" data-e-type="section">
+						<div  class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1f38f69" data-id="1f38f69" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3a1510a elementor-widget elementor-widget-spacer" data-id="3a1510a" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section  class="elementor-section elementor-top-section elementor-element elementor-element-22f4178 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="22f4178" data-element_type="section" data-e-type="section" id="lounge">
+						<div  class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b159fcd" data-id="b159fcd" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d3bda99 elementor-widget elementor-widget-heading" data-id="d3bda99" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Espacio ARTLAB</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-6312f80 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="6312f80" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-eca25ab elementor-widget elementor-widget-text-editor" data-id="eca25ab" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="p1"><b>Siroco ArtLab</b>, el nuevo espacio a pie de calle, es un espacio para el arte digital y toda la Industria Creativa y Cultural, donde el mundo físico y el mundo digital se fusionan.</p><p> </p><p class="p1">Transformamos nuestro espacio para satisfacer necesidades culturales actuales y futuras, integrando nuevos lenguajes y públicos con una infraestructura y equipamientos digitales devanguardia.</p><p> </p><p class="p1">Un espacio multidisciplinar con 12 pantallas digitales, un techo de LED inteligente y un sistema de audio de máxima calidad d&amp;b audiotechnik.</p><p>Acogemos exposiciones de arte digital, showcases, acústicos, presentaciones de libros, sesiones de música electrónica en directo, programas de radio… son algunas de las propuestas que han tenido cabida en esta última temporada.</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7401206" data-id="7401206" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-aaf23ff elementor-widget elementor-widget-image" data-id="aaf23ff" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="750" height="500" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20750%20500'%3E%3C/svg%3E" class="attachment-large size-large wp-image-20112" alt="" data-lazy-srcset="https://siroco.es/wp-content/uploads/2025/01/DSC_2778-2-1024x683.jpeg 1024w, https://siroco.es/wp-content/uploads/2025/01/DSC_2778-2-300x200.jpeg 300w, https://siroco.es/wp-content/uploads/2025/01/DSC_2778-2-768x512.jpeg 768w, https://siroco.es/wp-content/uploads/2025/01/DSC_2778-2-1536x1024.jpeg 1536w, https://siroco.es/wp-content/uploads/2025/01/DSC_2778-2-2048x1365.jpeg 2048w, https://siroco.es/wp-content/uploads/2025/01/DSC_2778-2-1568x1045.jpeg 1568w" data-lazy-sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:66.68%;max-width:2560px" data-lazy-src="https://siroco.es/wp-content/uploads/2025/01/DSC_2778-2-1024x683.jpeg" /><noscript><img loading="lazy" decoding="async" width="750" height="500" src="https://siroco.es/wp-content/uploads/2025/01/DSC_2778-2-1024x683.jpeg" class="attachment-large size-large wp-image-20112" alt="" srcset="https://siroco.es/wp-content/uploads/2025/01/DSC_2778-2-1024x683.jpeg 1024w, https://siroco.es/wp-content/uploads/2025/01/DSC_2778-2-300x200.jpeg 300w, https://siroco.es/wp-content/uploads/2025/01/DSC_2778-2-768x512.jpeg 768w, https://siroco.es/wp-content/uploads/2025/01/DSC_2778-2-1536x1024.jpeg 1536w, https://siroco.es/wp-content/uploads/2025/01/DSC_2778-2-2048x1365.jpeg 2048w, https://siroco.es/wp-content/uploads/2025/01/DSC_2778-2-1568x1045.jpeg 1568w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:66.68%;max-width:2560px" /></noscript>															</div>
+				</div>
+				<div class="elementor-element elementor-element-78f0f2a elementor-widget elementor-widget-image" data-id="78f0f2a" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="750" height="492" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20750%20492'%3E%3C/svg%3E" class="attachment-large size-large wp-image-20114" alt="" data-lazy-srcset="https://siroco.es/wp-content/uploads/2025/01/Captura-de-pantalla-2024-09-15-a-las-19.00.40-1024x672.jpeg 1024w, https://siroco.es/wp-content/uploads/2025/01/Captura-de-pantalla-2024-09-15-a-las-19.00.40-300x197.jpeg 300w, https://siroco.es/wp-content/uploads/2025/01/Captura-de-pantalla-2024-09-15-a-las-19.00.40-768x504.jpeg 768w, https://siroco.es/wp-content/uploads/2025/01/Captura-de-pantalla-2024-09-15-a-las-19.00.40-1536x1008.jpeg 1536w, https://siroco.es/wp-content/uploads/2025/01/Captura-de-pantalla-2024-09-15-a-las-19.00.40-2048x1343.jpeg 2048w, https://siroco.es/wp-content/uploads/2025/01/Captura-de-pantalla-2024-09-15-a-las-19.00.40-1568x1029.jpeg 1568w" data-lazy-sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:65.6%;max-width:2186px" data-lazy-src="https://siroco.es/wp-content/uploads/2025/01/Captura-de-pantalla-2024-09-15-a-las-19.00.40-1024x672.jpeg" /><noscript><img loading="lazy" decoding="async" width="750" height="492" src="https://siroco.es/wp-content/uploads/2025/01/Captura-de-pantalla-2024-09-15-a-las-19.00.40-1024x672.jpeg" class="attachment-large size-large wp-image-20114" alt="" srcset="https://siroco.es/wp-content/uploads/2025/01/Captura-de-pantalla-2024-09-15-a-las-19.00.40-1024x672.jpeg 1024w, https://siroco.es/wp-content/uploads/2025/01/Captura-de-pantalla-2024-09-15-a-las-19.00.40-300x197.jpeg 300w, https://siroco.es/wp-content/uploads/2025/01/Captura-de-pantalla-2024-09-15-a-las-19.00.40-768x504.jpeg 768w, https://siroco.es/wp-content/uploads/2025/01/Captura-de-pantalla-2024-09-15-a-las-19.00.40-1536x1008.jpeg 1536w, https://siroco.es/wp-content/uploads/2025/01/Captura-de-pantalla-2024-09-15-a-las-19.00.40-2048x1343.jpeg 2048w, https://siroco.es/wp-content/uploads/2025/01/Captura-de-pantalla-2024-09-15-a-las-19.00.40-1568x1029.jpeg 1568w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:65.6%;max-width:2186px" /></noscript>															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section  class="elementor-section elementor-top-section elementor-element elementor-element-ee78b31 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ee78b31" data-element_type="section" data-e-type="section">
+						<div  class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fd8506f" data-id="fd8506f" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f2474bc elementor-widget elementor-widget-image" data-id="f2474bc" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="250" height="266" decoding="async" src="https://siroco.es/wp-content/uploads/2019/03/logo_-blanco_250px.png" title="logo_ blanco_250px" alt="logo_ blanco_250px"  />															</div>
+				</div>
+				<div class="elementor-element elementor-element-f68b81f elementor-widget elementor-widget-spacer" data-id="f68b81f" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-105dde2 elementor-widget elementor-widget-shortcode" data-id="105dde2" data-element_type="widget" data-e-type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-shortcode"><script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.15.0 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-13646" method="post" data-id="13646" data-name="Newsletter" ><div class="mc4wp-form-fields"><div class="mailchimp" style="display: flex; width: 100%; justify-content: center; align-items: center;">
+  <p>
+		<input style="border-color:#2bfb9c; width: 600px" type="email" name="EMAIL" placeholder="E-mail" required />
+</p>
+<p>
+	<input  style="background-color: #2bfb9c; color: #fff; border: none" type="submit" value="Suscríbete" />
+</p>
+</div>
+</div><label style="display: none !important;">Deja vacío este campo si eres humano: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1794852703" /><input type="hidden" name="_mc4wp_form_id" value="13646" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-638a670 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="638a670" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-3c62a01" href="https://www.instagram.com/sirocosala/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-8fa300c" href="https://www.facebook.com/siroco.sala" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i aria-hidden="true" class="fab fa-facebook"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-57a444d" href="https://twitter.com/sirocosala" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i aria-hidden="true" class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-0ef45ba" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i aria-hidden="true" class="fab fa-youtube"></i>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+				<footer data-elementor-type="footer" data-elementor-id="13553" class="elementor elementor-13553 elementor-location-footer" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-55f10c7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="55f10c7" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-88458b9" data-id="88458b9" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0a2739a elementor-widget elementor-widget-spacer" data-id="0a2739a" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-713b451 elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="713b451" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-bb31fd2" data-id="bb31fd2" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6acab20 elementor-widget elementor-widget-image" data-id="6acab20" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="250" height="266" src="https://siroco.es/wp-content/uploads/2019/03/logo_-blanco_250px.png" title="logo_ blanco_250px" alt="logo_ blanco_250px"  />															</div>
+				</div>
+				<div class="elementor-element elementor-element-ee69715 elementor-widget elementor-widget-text-editor" data-id="ee69715" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Desde 1989 en Madrid.<br /><strong>// <a class="internal-link" href="https://siroco.es/conciertos/">Conciertos</a> //</strong><br /><strong>// <a class="internal-link" href="https://siroco.es/clubbing/">Clubbing</a> //</strong><br /><strong>// <a class="internal-link" href="https:/siroco.es/fast-expos/">Fast Expos</a> //</strong><br />Calle San Dimas 3<br />28015, Madrid</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0016095" data-id="0016095" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-11a4fab elementor-widget elementor-widget-heading" data-id="11a4fab" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">La Sala</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1e3666a elementor-widget elementor-widget-text-editor" data-id="1e3666a" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>• <a class="internal-link" href="https://siroco.es/nosotros/">Nosotros</a><br />• <a class="internal-link" href="https://siroco.es/rider/">Rider</a><br />• <a class="internal-link" href="https://siroco.es/fotos-y-videos/">Fotos / Vídeos</a><br />• <a class="internal-link" href="https://siroco.es/descargas/">Descargas</a><br />• <a class="internal-link" href="https://siroco.es/flayers/">Nuestros Flyers</a><br />• <a class="internal-link" href="https://siroco.es.es/acceso-menores/">Acceso Menores</a><br />• <a class="internal-link" href="https://siroco.es/sponsors/">Sponsors</a><br />• <a href="https://siroco.es/faq/">FAQ</a><br />• <a class="internal-link" href="https://siroco.es/privacidad-cookies/">Privacidad y Cookies</a></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4350bbb" data-id="4350bbb" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ab2772e elementor-widget elementor-widget-heading" data-id="ab2772e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Facebook</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b8d47d1 elementor-widget elementor-widget-image" data-id="b8d47d1" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="http://www.facebook.com/siroco.sala/">
+							<img width="259" height="264" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20259%20264'%3E%3C/svg%3E" title="Widget-Facebook-Siroco-Web-2019_Footer_b" alt="Widget-Facebook-Siroco-Web-2019_Footer_b" data-lazy-src="https://siroco.es/wp-content/uploads/2020/02/Widget-Facebook-Siroco-Web-2019_Footer_b.png" /><noscript><img width="259" height="264" src="https://siroco.es/wp-content/uploads/2020/02/Widget-Facebook-Siroco-Web-2019_Footer_b.png" title="Widget-Facebook-Siroco-Web-2019_Footer_b" alt="Widget-Facebook-Siroco-Web-2019_Footer_b" loading="lazy" /></noscript>								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-c269358" data-id="c269358" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5a33fbf elementor-widget elementor-widget-heading" data-id="5a33fbf" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Instagram</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4c704a7 elementor-widget elementor-widget-image" data-id="4c704a7" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.instagram.com/sirocosala/">
+							<img width="259" height="264" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20259%20264'%3E%3C/svg%3E" title="Widget-Footer-Siroco-Web-2020_OK" alt="Widget-Footer-Siroco-Web-2020_OK" data-lazy-src="https://siroco.es/wp-content/uploads/2020/02/Widget-Footer-Siroco-Web-2020_OK.png" /><noscript><img width="259" height="264" src="https://siroco.es/wp-content/uploads/2020/02/Widget-Footer-Siroco-Web-2020_OK.png" title="Widget-Footer-Siroco-Web-2020_OK" alt="Widget-Footer-Siroco-Web-2020_OK" loading="lazy" /></noscript>								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-02b6a71 elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="02b6a71" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4701236" data-id="4701236" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-beccc3f elementor-widget elementor-widget-image" data-id="beccc3f" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="250" height="266" src="https://siroco.es/wp-content/uploads/2019/03/logo_-blanco_250px.png" title="logo_ blanco_250px" alt="logo_ blanco_250px"  />															</div>
+				</div>
+				<div class="elementor-element elementor-element-f809840 elementor-widget elementor-widget-text-editor" data-id="f809840" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Desde 1989 en Madrid.<br /><strong>// <a class="internal-link" href="https://siroco.es/conciertos/">Conciertos</a> //</strong><br /><strong>// <a class="internal-link" href="https://siroco.es/clubbing/">Clubbing</a> //</strong><br /><strong>// <a class="internal-link" href="https:/siroco.es/fast-expos/">Fast Expos</a> //</strong><br />Calle San Dimas 3<br />28015, Madrid</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-e39c834" data-id="e39c834" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c37e8bb elementor-widget elementor-widget-heading" data-id="c37e8bb" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Agenda</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-e4bb418 elementor-widget elementor-widget-text-editor" data-id="e4bb418" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>• <a class="internal-link" href="https://siroco.es/clubbing/">Clubbing</a><br />• <a class="internal-link" href="https://siroco.es/conciertos/">Conciertos</a><br />• <a class="internal-link" href="https://siroco.es/fast-expos/">Fast Expos</a><br />• <a href="https://siroco.es/festival-tributos/">Festival Tributos</a><br /><br /><br /></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-86aa914" data-id="86aa914" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-28579a9 elementor-widget elementor-widget-heading" data-id="28579a9" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default"><a href="https://siroco.es/la-sala/">La Sala</a></h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-52d0693 elementor-widget elementor-widget-text-editor" data-id="52d0693" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>• <a class="internal-link" href="https://siroco.es/nosotros/">Nosotros</a><br />• <a class="internal-link" href="https://siroco.es/rider/">Rider</a><br />• Premios Siroco<br />• <a class="internal-link" href="https://siroco.es/flayers/">Prensa</a></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-d23f8a3" data-id="d23f8a3" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-be2f5d1 elementor-widget elementor-widget-heading" data-id="be2f5d1" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Info</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-bd06108 elementor-widget elementor-widget-text-editor" data-id="bd06108" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>• <a href="https://siroco.es/faq/">FAQ</a><br />• <a class="internal-link" href="https://siroco.es.es/acceso-menores/">Acceso Menores</a><br />• <a href="https://siroco.es/contacto/">Contacto</a><br />• <a class="internal-link" href="https://siroco.es/privacidad-cookies/">Privacidad y Cookies</a></p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-109265c elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="109265c" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-02d3031" data-id="02d3031" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-46ee8aa elementor-widget elementor-widget-image" data-id="46ee8aa" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="250" height="266" src="https://siroco.es/wp-content/uploads/2019/03/logo_-blanco_250px.png" title="logo_ blanco_250px" alt="logo_ blanco_250px"  />															</div>
+				</div>
+				<div class="elementor-element elementor-element-326446e elementor-widget elementor-widget-text-editor" data-id="326446e" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Desde 1989 en Madrid.<br /><strong>// <a class="internal-link" href="https://siroco.es/conciertos/">Conciertos</a> //</strong><br /><strong>// <a class="internal-link" href="https://siroco.es/clubbing/">Clubbing</a> //</strong><br /><strong>// <a class="internal-link" href="https:/siroco.es/fast-expos/">Fast Expos</a> //</strong><br />Calle San Dimas 3<br />28015, Madrid</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-9b6675d" data-id="9b6675d" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e9ab628 elementor-widget elementor-widget-heading" data-id="e9ab628" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Agenda</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-763b040 elementor-widget elementor-widget-text-editor" data-id="763b040" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>•&nbsp;<a class="internal-link" href="https://siroco.es/clubbing/">Clubbing</a><br>•&nbsp;<a class="internal-link" href="https://siroco.es/conciertos/">Conciertos</a><br>• <a href="https://siroco.es/festival-tributos/">Festival Tributos</a></p>
+<p></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-5a3ef18" data-id="5a3ef18" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-48d42ac elementor-widget elementor-widget-heading" data-id="48d42ac" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default"><a href="https://siroco.es/la-sala/">La Sala</a></h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-dc6c4f9 elementor-widget elementor-widget-text-editor" data-id="dc6c4f9" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>• <a class="internal-link" href="https://siroco.es/nosotros/">Nosotros</a><br />• <a class="internal-link" href="https://siroco.es/rider/">Rider</a><br />• <a href="https://premios.siroco.es/">Premios Siroco</a></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-751cfdc" data-id="751cfdc" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c4c5c8d elementor-widget elementor-widget-heading" data-id="c4c5c8d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Info</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0448596 elementor-widget elementor-widget-text-editor" data-id="0448596" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>• <a href="https://siroco.es/faq/">FAQ</a><br />• <a class="internal-link" href="https://siroco.es/acceso-menores/">Acceso Menores</a><br />• <a href="https://siroco.es/contacto/">Contacto</a><br />• <a class="internal-link" href="https://siroco.es/privacidad-cookies/">Privacidad y Cookies</a></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-0acc063" data-id="0acc063" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-71c23af elementor-widget elementor-widget-heading" data-id="71c23af" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Síguenos</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-f57f4d2 e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="f57f4d2" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-shrink elementor-repeater-item-18a799a" href="https://www.instagram.com/sirocosala/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-shrink elementor-repeater-item-46f3951" href="https://www.facebook.com/siroco.sala" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i aria-hidden="true" class="fab fa-facebook"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-shrink elementor-repeater-item-2117cd2" href="https://x.com/SirocoSala" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i aria-hidden="true" class="fab fa-twitter"></i>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-af58151 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="af58151" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-690b1a4" data-id="690b1a4" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-df226ac elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="df226ac" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ae71844" data-id="ae71844" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-dcfe5e5 elementor-widget elementor-widget-heading" data-id="dcfe5e5" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Newsletter</h3>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-763ec71" data-id="763ec71" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ddc65d0 elementor-widget elementor-widget-shortcode" data-id="ddc65d0" data-element_type="widget" data-e-type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-shortcode"><script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.15.0 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-2" class="mc4wp-form mc4wp-form-13646" method="post" data-id="13646" data-name="Newsletter" ><div class="mc4wp-form-fields"><div class="mailchimp" style="display: flex; width: 100%; justify-content: center; align-items: center;">
+  <p>
+		<input style="border-color:#2bfb9c; width: 600px" type="email" name="EMAIL" placeholder="E-mail" required />
+</p>
+<p>
+	<input  style="background-color: #2bfb9c; color: #fff; border: none" type="submit" value="Suscríbete" />
+</p>
+</div>
+</div><label style="display: none !important;">Deja vacío este campo si eres humano: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1794852703" /><input type="hidden" name="_mc4wp_form_id" value="13646" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-2" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-5bc14f3 elementor-widget elementor-widget-spacer" data-id="5bc14f3" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-508ddc5 elementor-section-content-middle elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="508ddc5" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-wide">
+					<div class="elementor-column elementor-col-11 elementor-top-column elementor-element elementor-element-f287cdf" data-id="f287cdf" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-91b82c6 elementor-widget elementor-widget-image" data-id="91b82c6" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="2964" height="428" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202964%20428'%3E%3C/svg%3E" class="attachment-full size-full wp-image-22135" alt="" data-lazy-srcset="https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco.png 2964w, https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco-300x43.png 300w, https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco-1024x148.png 1024w, https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco-768x111.png 768w, https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco-1536x222.png 1536w, https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco-2048x296.png 2048w, https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco-1568x226.png 1568w" data-lazy-sizes="(max-width: 2964px) 100vw, 2964px" style="width:100%;height:14.44%;max-width:2964px" data-lazy-src="https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco.png" /><noscript><img width="2964" height="428" src="https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco.png" class="attachment-full size-full wp-image-22135" alt="" srcset="https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco.png 2964w, https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco-300x43.png 300w, https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco-1024x148.png 1024w, https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco-768x111.png 768w, https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco-1536x222.png 1536w, https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco-2048x296.png 2048w, https://siroco.es/wp-content/uploads/2021/09/Marca-AytoCulturaTurismoyDeporte_blanco-1568x226.png 1568w" sizes="(max-width: 2964px) 100vw, 2964px" style="width:100%;height:14.44%;max-width:2964px" /></noscript>															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-11 elementor-top-column elementor-element elementor-element-6d9a461" data-id="6d9a461" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c82a7a6 elementor-widget elementor-widget-image" data-id="c82a7a6" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="200" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20200'%3E%3C/svg%3E" title="madrid-en-vivo-logo-siroco-dafy" alt="madrid-en-vivo-logo-siroco-dafy" data-lazy-src="https://siroco.es/wp-content/uploads/2022/10/madrid-en-vivo-logo-siroco-dafy.png" /><noscript><img width="200" height="200" src="https://siroco.es/wp-content/uploads/2022/10/madrid-en-vivo-logo-siroco-dafy.png" title="madrid-en-vivo-logo-siroco-dafy" alt="madrid-en-vivo-logo-siroco-dafy" loading="lazy" /></noscript>															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-11 elementor-top-column elementor-element elementor-element-b629fe2" data-id="b629fe2" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-134fa2d elementor-widget elementor-widget-image" data-id="134fa2d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="750" height="202" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20750%20202'%3E%3C/svg%3E" class="attachment-large size-large wp-image-17856" alt="" data-lazy-srcset="https://siroco.es/wp-content/uploads/2023/09/comunidad-madrid-logo-siroco-web-2023-1-1024x276.png 1024w, https://siroco.es/wp-content/uploads/2023/09/comunidad-madrid-logo-siroco-web-2023-1-300x81.png 300w, https://siroco.es/wp-content/uploads/2023/09/comunidad-madrid-logo-siroco-web-2023-1-768x207.png 768w, https://siroco.es/wp-content/uploads/2023/09/comunidad-madrid-logo-siroco-web-2023-1-1536x414.png 1536w, https://siroco.es/wp-content/uploads/2023/09/comunidad-madrid-logo-siroco-web-2023-1-1568x423.png 1568w, https://siroco.es/wp-content/uploads/2023/09/comunidad-madrid-logo-siroco-web-2023-1.png 1920w" data-lazy-sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:26.98%;max-width:1920px" data-lazy-src="https://siroco.es/wp-content/uploads/2023/09/comunidad-madrid-logo-siroco-web-2023-1-1024x276.png" /><noscript><img width="750" height="202" src="https://siroco.es/wp-content/uploads/2023/09/comunidad-madrid-logo-siroco-web-2023-1-1024x276.png" class="attachment-large size-large wp-image-17856" alt="" srcset="https://siroco.es/wp-content/uploads/2023/09/comunidad-madrid-logo-siroco-web-2023-1-1024x276.png 1024w, https://siroco.es/wp-content/uploads/2023/09/comunidad-madrid-logo-siroco-web-2023-1-300x81.png 300w, https://siroco.es/wp-content/uploads/2023/09/comunidad-madrid-logo-siroco-web-2023-1-768x207.png 768w, https://siroco.es/wp-content/uploads/2023/09/comunidad-madrid-logo-siroco-web-2023-1-1536x414.png 1536w, https://siroco.es/wp-content/uploads/2023/09/comunidad-madrid-logo-siroco-web-2023-1-1568x423.png 1568w, https://siroco.es/wp-content/uploads/2023/09/comunidad-madrid-logo-siroco-web-2023-1.png 1920w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:26.98%;max-width:1920px" /></noscript>															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-11 elementor-top-column elementor-element elementor-element-62d7218" data-id="62d7218" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b5d3c98 elementor-widget elementor-widget-image" data-id="b5d3c98" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="750" height="422" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20750%20422'%3E%3C/svg%3E" class="attachment-large size-large wp-image-17857" alt="" data-lazy-srcset="https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_plan-de-recuperacion-transformacion-y-resiliencia_blanco-1024x576.png 1024w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_plan-de-recuperacion-transformacion-y-resiliencia_blanco-300x169.png 300w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_plan-de-recuperacion-transformacion-y-resiliencia_blanco-768x432.png 768w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_plan-de-recuperacion-transformacion-y-resiliencia_blanco-1536x864.png 1536w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_plan-de-recuperacion-transformacion-y-resiliencia_blanco-1568x882.png 1568w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_plan-de-recuperacion-transformacion-y-resiliencia_blanco.png 1920w" data-lazy-sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:56.25%;max-width:1920px" data-lazy-src="https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_plan-de-recuperacion-transformacion-y-resiliencia_blanco-1024x576.png" /><noscript><img width="750" height="422" src="https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_plan-de-recuperacion-transformacion-y-resiliencia_blanco-1024x576.png" class="attachment-large size-large wp-image-17857" alt="" srcset="https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_plan-de-recuperacion-transformacion-y-resiliencia_blanco-1024x576.png 1024w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_plan-de-recuperacion-transformacion-y-resiliencia_blanco-300x169.png 300w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_plan-de-recuperacion-transformacion-y-resiliencia_blanco-768x432.png 768w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_plan-de-recuperacion-transformacion-y-resiliencia_blanco-1536x864.png 1536w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_plan-de-recuperacion-transformacion-y-resiliencia_blanco-1568x882.png 1568w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_plan-de-recuperacion-transformacion-y-resiliencia_blanco.png 1920w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:56.25%;max-width:1920px" /></noscript>															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-11 elementor-top-column elementor-element elementor-element-65920d6" data-id="65920d6" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8f01e4b elementor-widget elementor-widget-image" data-id="8f01e4b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="750" height="179" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20750%20179'%3E%3C/svg%3E" class="attachment-large size-large wp-image-17858" alt="" data-lazy-srcset="https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_financiado_por_la_union_europea_pantone-1-1024x244.png 1024w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_financiado_por_la_union_europea_pantone-1-300x71.png 300w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_financiado_por_la_union_europea_pantone-1-768x183.png 768w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_financiado_por_la_union_europea_pantone-1.png 1080w" data-lazy-sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:23.8%;max-width:1080px" data-lazy-src="https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_financiado_por_la_union_europea_pantone-1-1024x244.png" /><noscript><img width="750" height="179" src="https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_financiado_por_la_union_europea_pantone-1-1024x244.png" class="attachment-large size-large wp-image-17858" alt="" srcset="https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_financiado_por_la_union_europea_pantone-1-1024x244.png 1024w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_financiado_por_la_union_europea_pantone-1-300x71.png 300w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_financiado_por_la_union_europea_pantone-1-768x183.png 768w, https://siroco.es/wp-content/uploads/2023/09/siroco_Madrid_es_financiado_por_la_union_europea_pantone-1.png 1080w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:23.8%;max-width:1080px" /></noscript>															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-11 elementor-top-column elementor-element elementor-element-9e6d4ae" data-id="9e6d4ae" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1363a00 elementor-widget elementor-widget-image" data-id="1363a00" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="750" height="133" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20750%20133'%3E%3C/svg%3E" class="attachment-large size-large wp-image-20580" alt="" data-lazy-srcset="https://siroco.es/wp-content/uploads/2021/09/INAEM-02-MONOCROMATICO-BLANCO-1024x181.png 1024w, https://siroco.es/wp-content/uploads/2021/09/INAEM-02-MONOCROMATICO-BLANCO-300x53.png 300w, https://siroco.es/wp-content/uploads/2021/09/INAEM-02-MONOCROMATICO-BLANCO-768x135.png 768w, https://siroco.es/wp-content/uploads/2021/09/INAEM-02-MONOCROMATICO-BLANCO-1536x271.png 1536w, https://siroco.es/wp-content/uploads/2021/09/INAEM-02-MONOCROMATICO-BLANCO-2048x361.png 2048w, https://siroco.es/wp-content/uploads/2021/09/INAEM-02-MONOCROMATICO-BLANCO-1568x276.png 1568w" data-lazy-sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:17.63%;max-width:7548px" data-lazy-src="https://siroco.es/wp-content/uploads/2021/09/INAEM-02-MONOCROMATICO-BLANCO-1024x181.png" /><noscript><img width="750" height="133" src="https://siroco.es/wp-content/uploads/2021/09/INAEM-02-MONOCROMATICO-BLANCO-1024x181.png" class="attachment-large size-large wp-image-20580" alt="" srcset="https://siroco.es/wp-content/uploads/2021/09/INAEM-02-MONOCROMATICO-BLANCO-1024x181.png 1024w, https://siroco.es/wp-content/uploads/2021/09/INAEM-02-MONOCROMATICO-BLANCO-300x53.png 300w, https://siroco.es/wp-content/uploads/2021/09/INAEM-02-MONOCROMATICO-BLANCO-768x135.png 768w, https://siroco.es/wp-content/uploads/2021/09/INAEM-02-MONOCROMATICO-BLANCO-1536x271.png 1536w, https://siroco.es/wp-content/uploads/2021/09/INAEM-02-MONOCROMATICO-BLANCO-2048x361.png 2048w, https://siroco.es/wp-content/uploads/2021/09/INAEM-02-MONOCROMATICO-BLANCO-1568x276.png 1568w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:17.63%;max-width:7548px" /></noscript>															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-11 elementor-top-column elementor-element elementor-element-3aac936" data-id="3aac936" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7399ecb elementor-widget elementor-widget-image" data-id="7399ecb" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="3826" height="2021" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203826%202021'%3E%3C/svg%3E" title="dice_logo_web-siroco" alt="dice_logo_web-siroco" data-lazy-src="https://siroco.es/wp-content/uploads/2022/10/dice_logo_web-siroco.png" /><noscript><img width="3826" height="2021" src="https://siroco.es/wp-content/uploads/2022/10/dice_logo_web-siroco.png" title="dice_logo_web-siroco" alt="dice_logo_web-siroco" loading="lazy" /></noscript>															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-11 elementor-top-column elementor-element elementor-element-831a059" data-id="831a059" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c900547 elementor-widget elementor-widget-image" data-id="c900547" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="500" height="500" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" class="attachment-large size-large wp-image-10112" alt="" data-lazy-srcset="https://siroco.es/wp-content/uploads/2019/03/mahou-logo-siroco-web-2019.png 500w, https://siroco.es/wp-content/uploads/2019/03/mahou-logo-siroco-web-2019-150x150.png 150w, https://siroco.es/wp-content/uploads/2019/03/mahou-logo-siroco-web-2019-300x300.png 300w, https://siroco.es/wp-content/uploads/2019/03/mahou-logo-siroco-web-2019-400x400.png 400w, https://siroco.es/wp-content/uploads/2019/03/mahou-logo-siroco-web-2019-100x100.png 100w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" style="width:100%;height:100%;max-width:500px" data-lazy-src="https://siroco.es/wp-content/uploads/2019/03/mahou-logo-siroco-web-2019.png" /><noscript><img width="500" height="500" src="https://siroco.es/wp-content/uploads/2019/03/mahou-logo-siroco-web-2019.png" class="attachment-large size-large wp-image-10112" alt="" srcset="https://siroco.es/wp-content/uploads/2019/03/mahou-logo-siroco-web-2019.png 500w, https://siroco.es/wp-content/uploads/2019/03/mahou-logo-siroco-web-2019-150x150.png 150w, https://siroco.es/wp-content/uploads/2019/03/mahou-logo-siroco-web-2019-300x300.png 300w, https://siroco.es/wp-content/uploads/2019/03/mahou-logo-siroco-web-2019-400x400.png 400w, https://siroco.es/wp-content/uploads/2019/03/mahou-logo-siroco-web-2019-100x100.png 100w" sizes="(max-width: 500px) 100vw, 500px" style="width:100%;height:100%;max-width:500px" /></noscript>															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-11 elementor-top-column elementor-element elementor-element-98d153a" data-id="98d153a" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c675212 elementor-widget elementor-widget-image" data-id="c675212" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="500" height="500" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" class="attachment-large size-large wp-image-10107" alt="" data-lazy-srcset="https://siroco.es/wp-content/uploads/2019/03/coca-cola-logo-siroco-web-2019.png 500w, https://siroco.es/wp-content/uploads/2019/03/coca-cola-logo-siroco-web-2019-150x150.png 150w, https://siroco.es/wp-content/uploads/2019/03/coca-cola-logo-siroco-web-2019-300x300.png 300w, https://siroco.es/wp-content/uploads/2019/03/coca-cola-logo-siroco-web-2019-400x400.png 400w, https://siroco.es/wp-content/uploads/2019/03/coca-cola-logo-siroco-web-2019-100x100.png 100w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" style="width:100%;height:100%;max-width:500px" data-lazy-src="https://siroco.es/wp-content/uploads/2019/03/coca-cola-logo-siroco-web-2019.png" /><noscript><img width="500" height="500" src="https://siroco.es/wp-content/uploads/2019/03/coca-cola-logo-siroco-web-2019.png" class="attachment-large size-large wp-image-10107" alt="" srcset="https://siroco.es/wp-content/uploads/2019/03/coca-cola-logo-siroco-web-2019.png 500w, https://siroco.es/wp-content/uploads/2019/03/coca-cola-logo-siroco-web-2019-150x150.png 150w, https://siroco.es/wp-content/uploads/2019/03/coca-cola-logo-siroco-web-2019-300x300.png 300w, https://siroco.es/wp-content/uploads/2019/03/coca-cola-logo-siroco-web-2019-400x400.png 400w, https://siroco.es/wp-content/uploads/2019/03/coca-cola-logo-siroco-web-2019-100x100.png 100w" sizes="(max-width: 500px) 100vw, 500px" style="width:100%;height:100%;max-width:500px" /></noscript>															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1dce1d4 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1dce1d4" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-wide">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bad1474" data-id="bad1474" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5c3eb85 elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="5c3eb85" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="2560" height="203" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202560%20203'%3E%3C/svg%3E" class="attachment-full size-full wp-image-23182" alt="" data-lazy-srcset="https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-scaled.png 2560w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-300x24.png 300w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-1024x81.png 1024w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-768x61.png 768w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-1536x122.png 1536w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-2048x162.png 2048w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-1568x124.png 1568w" data-lazy-sizes="(max-width: 2560px) 100vw, 2560px" style="width:100%;height:7.93%;max-width:2560px" data-lazy-src="https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-scaled.png" /><noscript><img width="2560" height="203" src="https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-scaled.png" class="attachment-full size-full wp-image-23182" alt="" srcset="https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-scaled.png 2560w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-300x24.png 300w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-1024x81.png 1024w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-768x61.png 768w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-1536x122.png 1536w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-2048x162.png 2048w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-2-1568x124.png 1568w" sizes="(max-width: 2560px) 100vw, 2560px" style="width:100%;height:7.93%;max-width:2560px" /></noscript>															</div>
+				</div>
+				<div class="elementor-element elementor-element-9564384 elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-image" data-id="9564384" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="750" height="498" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20750%20498'%3E%3C/svg%3E" class="attachment-large size-large wp-image-23184" alt="" data-lazy-srcset="https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-movil-1-1024x680.png 1024w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-movil-1-300x199.png 300w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-movil-1-768x510.png 768w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-movil-1.png 1183w" data-lazy-sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:66.44%;max-width:1183px" data-lazy-src="https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-movil-1-1024x680.png" /><noscript><img width="750" height="498" src="https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-movil-1-1024x680.png" class="attachment-large size-large wp-image-23184" alt="" srcset="https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-movil-1-1024x680.png 1024w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-movil-1-300x199.png 300w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-movil-1-768x510.png 768w, https://siroco.es/wp-content/uploads/2021/09/faldon-siroco-2026-movil-1.png 1183w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:66.44%;max-width:1183px" /></noscript>															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-77fb89a elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77fb89a" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9e826ad" data-id="9e826ad" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-36358bb elementor-widget elementor-widget-spacer" data-id="36358bb" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-eb7aada elementor-widget elementor-widget-image" data-id="eb7aada" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://premios.siroco.es/" target="_blank">
+							<img width="500" height="486" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20486'%3E%3C/svg%3E" title="logo-siroco-30-aniversario-web-2020-500-b" alt="logo-siroco-30-aniversario-web-2020-500-b" data-lazy-src="https://siroco.es/wp-content/uploads/2020/02/logo-siroco-30-aniversario-web-2020-500-b.png" /><noscript><img width="500" height="486" src="https://siroco.es/wp-content/uploads/2020/02/logo-siroco-30-aniversario-web-2020-500-b.png" title="logo-siroco-30-aniversario-web-2020-500-b" alt="logo-siroco-30-aniversario-web-2020-500-b" loading="lazy" /></noscript>								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-1c285e1 elementor-widget elementor-widget-spacer" data-id="1c285e1" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f9f298e" data-id="f9f298e" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-94f7214 elementor-widget elementor-widget-spacer" data-id="94f7214" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9f5139e elementor-widget elementor-widget-image" data-id="9f5139e" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://30aniversario.siroco.es/" target="_blank">
+							<img width="500" height="486" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20486'%3E%3C/svg%3E" title="logo-siroco-30-aniversario-web-2020-c" alt="logo-siroco-30-aniversario-web-2020-c" data-lazy-src="https://siroco.es/wp-content/uploads/2020/02/logo-siroco-30-aniversario-web-2020-c.png" /><noscript><img width="500" height="486" src="https://siroco.es/wp-content/uploads/2020/02/logo-siroco-30-aniversario-web-2020-c.png" title="logo-siroco-30-aniversario-web-2020-c" alt="logo-siroco-30-aniversario-web-2020-c" loading="lazy" /></noscript>								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-041b0e1 elementor-widget elementor-widget-spacer" data-id="041b0e1" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-fdd8fc8" data-id="fdd8fc8" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0ff0df2 elementor-widget elementor-widget-spacer" data-id="0ff0df2" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-a6d21aa elementor-widget elementor-widget-image" data-id="a6d21aa" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://summerinthecity.es/" target="_blank">
+							<img width="800" height="800" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E" title="Logo-summer-in-the-city-web-2020-negro_Sala Siroco_Madrid" alt="Logo-summer-in-the-city-web-2020-negro_Sala Siroco_Madrid" data-lazy-src="https://siroco.es/wp-content/uploads/2021/09/Logo-summer-in-the-city-web-2020-negro_Sala-Siroco_Madrid.png" /><noscript><img width="800" height="800" src="https://siroco.es/wp-content/uploads/2021/09/Logo-summer-in-the-city-web-2020-negro_Sala-Siroco_Madrid.png" title="Logo-summer-in-the-city-web-2020-negro_Sala Siroco_Madrid" alt="Logo-summer-in-the-city-web-2020-negro_Sala Siroco_Madrid" loading="lazy" /></noscript>								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-fc910ca elementor-widget elementor-widget-spacer" data-id="fc910ca" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a585f7a elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="a585f7a" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2eb6df4" data-id="2eb6df4" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a1f7905 elementor-widget elementor-widget-text-editor" data-id="a1f7905" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>diseñado por tempusfugit.es</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</footer>
+		
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/twentytwentyone/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span>Utilizamos cookies propias y de terceros para mejorar nuestros servicios y mostrarte publicidad relacionada con sus preferencias mediante el análisis de tus hábitos de navegación. Si continuas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener más información. <a role="button" tabindex="0" data-cli_action="accept" id="cookie_action_close_header" class="small cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn" style="display:inline-block;margin:3px">Aceptar</a><a role="button" tabindex="0" id="cookie_action_close_header_reject" class="small cli-plugin-button cli-plugin-main-button cookie_action_close_header_reject cli_action_button wt-cli-reject-btn" data-cli_action="reject" style="margin:3px">Rechazar</a> <a href="https://siroco.es/privacidad-cookies/" id="CONSTANT_OPEN_URL" target="_blank" class="cli-plugin-main-link" style="display:inline-block;margin:3px">Leer más</a></span></div><div id="cookie-law-info-again" style="display:none" data-nosnippet="true"><span id="cookie_hdr_showagain">Privacy &amp; Cookies Policy</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+		  <button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Cerrar</span>
+		  </button>
+		  <div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are as essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.</div>
+				</div>
+				<a class="cli-privacy-readmore" aria-label="Mostrar más" tabindex="0" role="button" data-readmore-text="Mostrar más" data-readless-text="Mostrar menos"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Necessary							</a>
+																						<div class="wt-cli-necessary-checkbox">
+									<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked" />
+									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+								</div>
+								<span class="cli-necessary-caption">Siempre activado</span>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<div class="wt-cli-cookie-description">
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								</div>
+							</div>
+						</div>
+					</div>
+																		</div>
+	</div>
+</div>
+		  </div>
+		  <div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">GUARDAR Y ACEPTAR</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div  class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div  class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--><style id="modula-gallery-styles">
+#jtg-11870 .modula-item .modula-social a, .lightbox-socials.modula-social a{ fill: #ffffff; color: #ffffff }#jtg-11870 .modula-item .modula-social-expandable a, #jtg-11870 .modula-item .modula-social-expandable-icons a{ fill: #ffffff; color: #ffffff }#jtg-11870 .modula-item .modula-social svg, .lightbox-socials.modula-social svg { height: 16px; width: 16px }#jtg-11870 .modula-item .modula-social-expandable svg { height: 16px; width: 16px }#jtg-11870 .modula-item .modula-social-expandable-icons svg { height: 16px; width: 16px }#jtg-11870 .modula-item .modula-social a:not(:last-child), .lightbox-socials.modula-social a:not(:last-child) { margin-right: 10px }#jtg-11870 .modula-item .modula-social-expandable-icons { gap: 10px }#jtg-11870 .modula-item .figc {color:#ffffff;}#jtg-11870 .modula-item:not(.modula-item--embedded) .modula-item-content { transform: scale(1); }#jtg-11870 .modula-items .figc p.description,#jtg-11870 .modula-items .figc .jtg-description { font-size:14px; }#jtg-11870 .modula-items .figc p.description,#jtg-11870 .modula-items .figc .jtg-description { color:#ffffff;}#jtg-11870.modula-gallery .modula-item > a, #jtg-11870.modula-gallery .modula-item a.modula-item-link, #jtg-11870.modula-gallery .modula-item-content > a:not(.modula-no-follow) { cursor:zoom-in; } #jtg-11870.modula-gallery .modula-item-content .modula-no-follow { cursor: default; } #jtg-11870 .modula-item .modula-item-overlay{background-color:#000000;}#jtg-11870 .modula-item:hover img{opacity:0.5;}@media screen and (max-width:480px){#jtg-11870 .modula-item .figc .modula-title {  font-size: 12px; }#jtg-11870 .modula-items .figc p.description,#jtg-11870 .modula-items .figc .jtg-description { color:#ffffff;font-size:10px; }}
+</style>
+<script>(function() {function maybePrefixUrlField () {
+  const value = this.value.trim()
+  if (value !== '' && value.indexOf('http') !== 0) {
+    this.value = 'http://' + value
+  }
+}
+
+const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]')
+for (let j = 0; j < urlFields.length; j++) {
+  urlFields[j].addEventListener('blur', maybePrefixUrlField)
+}
+})();</script><script>
+document.body.classList.remove('no-js');
+//# sourceURL=twenty_twenty_one_supports_js
+</script>
+			<script>
+				( () => {
+					const lazyloadRunObserver = () => {
+						const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+						const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+							entries.forEach( ( entry ) => {
+								if ( entry.isIntersecting ) {
+									let lazyloadBackground = entry.target;
+									if( lazyloadBackground ) {
+										lazyloadBackground.classList.add( 'e-lazyloaded' );
+									}
+									lazyloadBackgroundObserver.unobserve( entry.target );
+								}
+							});
+						}, { rootMargin: '200px 0px 200px 0px' } );
+						lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+							lazyloadBackgroundObserver.observe( lazyloadBackground );
+						} );
+					};
+					const events = [
+						'DOMContentLoaded',
+						'elementor/lazyload/observe',
+					];
+					events.forEach( ( event ) => {
+						document.addEventListener( event, lazyloadRunObserver );
+					} );
+				} )();
+			</script>
+			<link data-minify="1" rel='stylesheet' id='modula-css' href='https://siroco.es/wp-content/cache/min/1/wp-content/plugins/modula-best-grid-gallery/assets/css/front.css?ver=1794851847' media='all' />
+<script id="jquery-ui-mouse-js" src="https://siroco.es/wp-includes/js/jquery/ui/mouse.min.js?ver=1.14.2" data-rocket-defer defer></script>
+<script id="jquery-ui-slider-js" src="https://siroco.es/wp-includes/js/jquery/ui/slider.min.js?ver=1.14.2" data-rocket-defer defer></script>
+<script id="elementor-webpack-runtime-js" src="https://siroco.es/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.4.0" data-rocket-defer defer></script>
+<script id="elementor-frontend-modules-js" src="https://siroco.es/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.4.0" data-rocket-defer defer></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnX":"Compartir en X","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.4.0","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"theme_builder_v2":true,"e_mcp_revision_snapshots":true,"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_variables":true,"e_pro_interactions":true},"urls":{"assets":"https:\/\/siroco.es\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/siroco.es\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/siroco.es\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"8caca7763c","atomicFormsSendForm":"32998df20a"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":5529,"title":"Conciertos%20-%20Siroco","excerpt":"","featuredImage":"https:\/\/siroco.es\/wp-content\/uploads\/2019\/09\/banner_conciertos_Siroco_Web_2019_dafy_ok_hq-1024x683.jpg"}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script id="elementor-frontend-js" src="https://siroco.es/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.4.0" data-rocket-defer defer></script>
+<script id="rocket-browser-checker-js-after">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+//# sourceURL=rocket-browser-checker-js-after
+</script>
+<script id="rocket-preload-links-js-extra">
+var RocketPreloadLinksConfig = {"excludeUris":"/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/(index.php/)?(.*)wp-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https://siroco.es","onHoverDelay":"100","rateThrottle":"3"};
+//# sourceURL=rocket-preload-links-js-extra
+</script>
+<script id="rocket-preload-links-js-after">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+
+//# sourceURL=rocket-preload-links-js-after
+</script>
+<script data-minify="1" id="twenty-twenty-one-responsive-embeds-script-js" src="https://siroco.es/wp-content/cache/min/1/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1781544124" data-rocket-defer defer></script>
+<script data-wp-strategy="defer" defer id="c4wp-method-provider-js" src="https://www.google.com/recaptcha/api.js?onload=c4wp_onloadCallback&#038;render=explicit&#038;hl=en&#038;ver=7.6.2"></script>
+<script id="c4wp-method-js-extra">window.addEventListener('DOMContentLoaded', function() {
+var c4wpConfig = {"ajax_url":"https://siroco.es/wp-admin/admin-ajax.php","captcha_version":"v2_checkbox","disable_submit":"","site_key":"6LeUO5wUAAAAAECCRm1dPILEpjFU1VaNBjjgfWx9","size":"normal","theme":"dark","badge":"bottomright","failure_action":"nothing","additional_js":"","fallback_js":"\"\\t\\t\\t\\n\\t\\t\\t\\/* @v3-fallback-js:start *\\/\\n\\t\\t\\tif ( typeof captcha_div == 'undefined' && form.classList.contains( 'wc-block-checkout__form' ) ) {\\n\\t\\t\\t\\tvar captcha_div = form.querySelector( '#additional-information-c4wp-c4wp-wc-checkout' );\\n\\t\\t\\t}\\n\\n\\t\\t\\tif ( ! captcha_div && form.classList.contains( 'wc-block-checkout__form' ) ) {\\n\\t\\t\\t\\tvar captcha_div = form.querySelector( '#order-c4wp-c4wp-wc-checkout' );\\n\\t\\t\\t}\\n\\n\\t\\t\\tif ( typeof captcha_div == 'undefined' ) {\\n\\t\\t\\t\\tvar captcha_div = form.querySelector( '.c4wp_captcha_field_div' );\\n\\t\\t\\t}\\n\\n\\t\\t\\tvar parentElem = captcha_div.parentElement;\\n\\n\\t\\t\\tif ( ( form.classList.contains( 'c4wp-primed' ) ) || ( ! form.classList.contains( 'c4wp_verify_underway' ) && captcha_div.parentElement.getAttribute( 'data-c4wp-use-ajax' ) == 'true' ) ) {\\n\\n\\t\\t\\t\\tform.classList.add('c4wp_verify_underway' );\\n\\t\\t\\t\\tconst flagMarkup =  '\u003Cinput id=\\\"c4wp_ajax_flag\\\" type=\\\"hidden\\\" name=\\\"c4wp_ajax_flag\\\" value=\\\"c4wp_ajax_flag\\\"\u003E';\\n\\t\\t\\t\\tvar flagMarkupDiv = document.createElement('div');\\n\\t\\t\\t\\tflagMarkupDiv.innerHTML = flagMarkup.trim();\\n\\n\\t\\t\\t\\tform.appendChild( flagMarkupDiv );\\n\\t\\n\\t\\t\\t\\tvar nonce = captcha_div.parentElement.getAttribute( 'data-nonce' );\\n\\n\\t\\t\\t\\tvar formData = new FormData();\\n\\n\\t\\t\\t\\tformData.append( 'action', 'c4wp_ajax_verify' );\\n\\t\\t\\t\\tformData.append( 'nonce', nonce );\\n\\t\\t\\t\\tformData.append( 'response', data );\\n\\t\\t\\t\\t\\n\\t\\t\\t\\tfetch( 'https:\\/\\/siroco.es\\/wp-admin\\/admin-ajax.php', {\\n\\t\\t\\t\\t\\tmethod: 'POST',\\n\\t\\t\\t\\t\\tbody: formData,\\n\\t\\t\\t\\t} ) \\/\\/ wrapped\\n\\t\\t\\t\\t\\t.then( \\n\\t\\t\\t\\t\\t\\tres =\u003E res.json()\\n\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t.then( data =\u003E {\\n\\t\\t\\t\\t\\t\\tif ( data['success'] ) {\\n\\n\\t\\t\\t\\t\\t\\t\\tform.classList.add( 'c4wp_verified' );\\n\\n\\t\\t\\t\\t\\t\\t\\tvar existingFlag = document.getElementById('c4wp_ajax_flag');\\n\\t\\t\\t\\t\\t\\t\\tif (existingFlag) {\\n\\t\\t\\t\\t\\t\\t\\t\\texistingFlag.value = data.data.token; \\n\\t\\t\\t\\t\\t\\t\\t} else {\\n\\t\\t\\t\\t\\t\\t\\t\\tconst flagMarkup = '\u003Cinput id=\\\"c4wp_ajax_flag\\\" type=\\\"hidden\\\" name=\\\"c4wp_ajax_flag\\\" value=\\\"' + data.data.token + '\\\"\u003E';\\n\\t\\t\\t\\t\\t\\t\\t\\tvar flagMarkupDiv = document.createElement('div');\\n\\t\\t\\t\\t\\t\\t\\t\\tflagMarkupDiv.innerHTML = flagMarkup.trim();\\n\\t\\t\\t\\t\\t\\t\\t\\tform.appendChild( flagMarkupDiv );\\n\\t\\t\\t\\t\\t\\t\\t}\\n\\n\\t\\t\\t\\t\\t\\t\\t\\/\\/ Submit as usual.\\n\\t\\t\\t\\t\\t\\t\\tif ( foundSubmitBtn ) {\\n\\t\\t\\t\\t\\t\\t\\t\\tfoundSubmitBtn.click();\\n\\t\\t\\t\\t\\t\\t\\t} else if ( form.classList.contains( 'wc-block-checkout__form' ) ) {\\n\\t\\t\\t\\t\\t\\t\\t\\tjQuery( form ).find( '.wc-block-components-checkout-place-order-button:not(.c4wp-submit)' ).click(); \\n\\t\\t\\t\\t\\t\\t\\t} else {\\t\\t\\t\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t\\t\\t\\t\\tif ( typeof form.submit === 'function' ) {\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tform.submit();\\n\\t\\t\\t\\t\\t\\t\\t\\t} else {\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tHTMLFormElement.prototype.submit.call(form);\\n\\t\\t\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\t\\t}\\n\\n\\t\\t\\t\\t\\t\\t} else {\\n\\t\\t\\t\\t\\t\\t\\t\\/\\/jQuery( '.nf-form-cont' ).trigger( 'nfFormReady' );\\n\\n\\t\\t\\t\\t\\t\\t\\tif ( 'redirect' === 'nothing' ) {\\n\\t\\t\\t\\t\\t\\t\\t\\twindow.location.href = '';\\n\\t\\t\\t\\t\\t\\t\\t}\\n\\n\\t\\t\\t\\t\\t\\t\\tif ( 'v2_checkbox' === 'nothing' ) {\\n\\t\\t\\t\\t\\t\\t\\t\\tif ( form.classList.contains( 'wc-block-checkout__form' ) ) {\\n\\t\\t\\t\\t\\t\\t\\t\\t\\tcaptcha_div = captcha_div.parentElement;\\n\\t\\t\\t\\t\\t\\t\\t\\t}\\n\\n\\t\\t\\t\\t\\t\\t\\t\\tcaptcha_div.innerHTML = '';\\n\\t\\t\\t\\t\\t\\t\\t\\tform.classList.add( 'c4wp_v2_fallback_active' );\\n\\t\\t\\t\\t\\t\\t\\t\\tflagMarkupDiv.firstChild.setAttribute( 'name', 'c4wp_v2_fallback' );\\n\\n\\t\\t\\t\\t\\t\\t\\t\\tvar c4wp_captcha = grecaptcha.render( captcha_div,{\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t'sitekey' : '',\\t\\t\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t'size'  : 'normal',\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t'theme' : 'dark',\\t\\t\\t\\t\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t'expired-callback' : function(){\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\tgrecaptcha.reset( c4wp_captcha );\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\t\\t\\t}); \\n\\t\\t\\t\\t\\t\\t\\t\\tjQuery( '.ninja-forms-field.c4wp-submit' ).prop( 'disabled', false );\\n\\t\\t\\t\\t\\t\\t\\t}\\n\\n\\t\\t\\t\\t\\t\\t\\tif ( form.classList.contains( 'wc-block-checkout__form' ) ) {\\n\\t\\t\\t\\t\\t\\t\\t\\treturn true;\\n\\t\\t\\t\\t\\t\\t\\t}\\n\\n\\t\\t\\t\\t\\t\\t\\tif ( form.parentElement.classList.contains( 'nf-form-layout' ) ) {\\n\\t\\t\\t\\t\\t\\t\\t\\tjQuery( '.ninja-forms-field.c4wp-submit' ).prop( 'disabled', false );\\n\\t\\t\\t\\t\\t\\t\\t\\treturn false;\\n\\t\\t\\t\\t\\t\\t\\t}\\n\\n\\t\\t\\t\\t\\t\\t\\t\\/\\/ Prevent further submission\\n\\t\\t\\t\\t\\t\\t\\tevent.preventDefault();\\n\\t\\t\\t\\t\\t\\t\\treturn false;\\n\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t} )\\n\\t\\t\\t\\t\\t.catch( err =\u003E console.error( err ) );\\n\\n\\t\\t\\t\\t\\/\\/ Prevent further submission\\n\\t\\t\\t\\tevent.preventDefault();\\n\\t\\t\\t\\treturn false;\\n\\t\\t\\t}\\n\\t\\t\\t\\/* @v3-fallback-js:end *\\/\\n\\t\\t\\t\\n\\t\\t\\t\"","flag_markup":"\u003Cinput id=\"c4wp_ajax_flag\" type=\"hidden\" name=\"c4wp_ajax_flag\" value=\"c4wp_ajax_flag\"\u003E","field_markup":"\u003Cdiv class=\"c4wp_captcha_field\" style=\"margin-bottom: 10px;\" data-nonce=\"a0319c9682\" \u003E\u003Cdiv id=\"c4wp_captcha_field_0\" class=\"c4wp_captcha_field_div\"\u003E\u003C/div\u003E\u003C/div\u003E","redirect":"","failure_v2_site_key":""};
+//# sourceURL=c4wp-method-js-extra
+});</script>
+<script data-minify="1" data-wp-strategy="defer" defer id="c4wp-method-js" src="https://siroco.es/wp-content/cache/min/1/wp-content/plugins/advanced-nocaptcha-recaptcha/includes/methods/js/c4wp-v2_checkbox.js?ver=1787564542"></script>
+<script id="smartmenus-js" src="https://siroco.es/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1" data-rocket-defer defer></script>
+<script id="e-sticky-js" src="https://siroco.es/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.0.4" data-rocket-defer defer></script>
+<script id="heartbeat-js" src="https://siroco.es/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.20.2" data-rocket-defer defer></script>
+<script data-minify="1" id="mc4wp-forms-api-js" defer src="https://siroco.es/wp-content/cache/min/1/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=1781544124"></script>
+<script id="elementor-pro-webpack-runtime-js" src="https://siroco.es/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.0.4" data-rocket-defer defer></script>
+<script id="wp-hooks-js" src="https://siroco.es/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255"></script>
+<script id="wp-i18n-js" src="https://siroco.es/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/siroco.es\/wp-admin\/admin-ajax.php","nonce":"f443af0356","urls":{"assets":"https:\/\/siroco.es\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/siroco.es\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"es_ES","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/siroco.es\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script id="elementor-pro-frontend-js" src="https://siroco.es/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.0.4" data-rocket-defer defer></script>
+<script id="pro-elements-handlers-js" src="https://siroco.es/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.0.4" data-rocket-defer defer></script>
+<script id="modula-isotope-js" src="https://siroco.es/wp-content/plugins/modula-best-grid-gallery/assets/js/front/isotope.min.js?ver=3.0.20" data-rocket-defer defer></script>
+<script id="modula-isotope-packery-js" src="https://siroco.es/wp-content/plugins/modula-best-grid-gallery/assets/js/front/isotope-packery.min.js?ver=3.0.20" data-rocket-defer defer></script>
+<script id="dompurify-js" src="https://siroco.es/wp-content/plugins/modula-best-grid-gallery/assets/js/front/purify.min.js?ver=3.0.20" data-rocket-defer defer></script>
+<script id="modulaFancybox-js-before">
+window.ModulaShareButtons=window.ModulaShareButtons||'{\"facebook\":\"<a class=\\\"modula-fancybox-share__button modula-fancybox-share__button--fb\\\" href=\\\"https:\\/\\/www.facebook.com\\/sharer\\/sharer.php?u={modulaShareUrl}\\\">\\n\\t\\t\\t\\t<svg viewBox=\\\"0 0 512 512\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\"><path d=\\\"m287 456v-299c0-21 6-35 35-35h38v-63c-7-1-29-3-55-3-54 0-91 33-91 94v306m143-254h-205v72h196\\\" \\/><\\/svg>\\n\\t\\t\\t\\t<span>Facebook<\\/span><\\/a>\",\"twitter\":\"<a class=\\\"modula-fancybox-share__button modula-fancybox-share__button--tw\\\" href=\\\"https:\\/\\/twitter.com\\/intent\\/tweet?url={modulaShareUrl}&text={descr}\\\">\\n\\t\\t\\t\\t<svg xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\" viewBox=\\\"0 0 512 512\\\" width=\\\"512px\\\" height=\\\"512px\\\" clip-rule=\\\"evenodd\\\" baseProfile=\\\"basic\\\"><polygon fill=\\\"#fff\\\" points=\\\"437.333,64 105.245,448 66.867,448 393.955,64\\\"\\/><polygon fill=\\\"#1da1f2\\\" fill-rule=\\\"evenodd\\\" points=\\\"332.571,448 83.804,74.667 178.804,74.667 427.571,448\\\" clip-rule=\\\"evenodd\\\"\\/><path fill=\\\"#fff\\\" d=\\\"M168.104,96l219.628,320h-43.733L121.371,96H168.104 M184.723,64H61.538l263.542,384h121.185L184.723,64L184.723,64z\\\"\\/><\\/svg>\\n\\t\\t\\t\\t<span>X<\\/span><\\/a>\",\"pinterest\":\"<a class=\\\"modula-fancybox-share__button modula-fancybox-share__button--pt\\\" href=\\\"https:\\/\\/www.pinterest.com\\/pin\\/create\\/button\\/?url={modulaShareUrl}&description={descr}&media={media}\\\">\\n\\t\\t\\t\\t<svg viewBox=\\\"0 0 512 512\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\"><path d=\\\"m265 56c-109 0-164 78-164 144 0 39 15 74 47 87 5 2 10 0 12-5l4-19c2-6 1-8-3-13-9-11-15-25-15-45 0-58 43-110 113-110 62 0 96 38 96 88 0 67-30 122-73 122-24 0-42-19-36-44 6-29 20-60 20-81 0-19-10-35-31-35-25 0-44 26-44 60 0 21 7 36 7 36l-30 125c-8 37-1 83 0 87 0 3 4 4 5 2 2-3 32-39 42-75l16-64c8 16 31 29 56 29 74 0 124-67 124-157 0-69-58-132-146-132z\\\" fill=\\\"#fff\\\"\\/><\\/svg>\\n\\t\\t\\t\\t<span>Pinterest<\\/span><\\/a>\",\"whatsapp\":\"<a class=\\\"modula-fancybox-share__button modula-fancybox-share__button--wa\\\" href=\\\"https:\\/\\/api.whatsapp.com\\/send?text={modulaShareUrl}&review_url=true\\\">\\n\\t\\t\\t\\t<svg aria-hidden=\\\"true\\\" focusable=\\\"false\\\" style=\\\"-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);\\\" preserveAspectRatio=\\\"xMidYMid meet\\\" viewBox=\\\"0 0 1536 1600\\\"><path d=\\\"M985 878q13 0 97.5 44t89.5 53q2 5 2 15q0 33-17 76q-16 39-71 65.5T984 1158q-57 0-190-62q-98-45-170-118T476 793q-72-107-71-194v-8q3-91 74-158q24-22 52-22q6 0 18 1.5t19 1.5q19 0 26.5 6.5T610 448q8 20 33 88t25 75q0 21-34.5 57.5T599 715q0 7 5 15q34 73 102 137q56 53 151 101q12 7 22 7q15 0 54-48.5t52-48.5zm-203 530q127 0 243.5-50t200.5-134t134-200.5t50-243.5t-50-243.5T1226 336t-200.5-134T782 152t-243.5 50T338 336T204 536.5T154 780q0 203 120 368l-79 233l242-77q158 104 345 104zm0-1382q153 0 292.5 60T1315 247t161 240.5t60 292.5t-60 292.5t-161 240.5t-240.5 161t-292.5 60q-195 0-365-94L0 1574l136-405Q28 991 28 780q0-153 60-292.5T249 247T489.5 86T782 26z\\\" fill=\\\"currentColor\\\"\\/><\\/svg>\\n\\t\\t\\t\\t<span>WhatsApp<\\/span><\\/a>\",\"linkedin\":\"<a class=\\\"modula-fancybox-share__button modula-fancybox-share__button--li\\\" href=\\\"\\/\\/linkedin.com\\/shareArticle?mini=true&url={modulaShareUrl}\\\">\\n\\t\\t\\t\\t<svg aria-hidden=\\\"true\\\" focusable=\\\"false\\\" data-prefix=\\\"fab\\\" data-icon=\\\"linkedin-in\\\" class=\\\"svg-inline--fa fa-linkedin-in fa-w-14\\\" role=\\\"img\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\" viewBox=\\\"0 0 448 512\\\"><path fill=\\\"currentColor\\\" d=\\\"M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z\\\"><\\/path><\\/svg>\\n\\t\\t\\t\\t<span>LinkedIn<\\/span><\\/a>\",\"email\":\"<a class=\\\"modula-fancybox-share__button modula-fancybox-share__button--email\\\" href=\\\"mailto:?subject={subject}&body={emailMessage}\\\">\\n\\t\\t\\t\\t<svg xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\" width=\\\"24\\\" height=\\\"24\\\" viewBox=\\\"0 0 24 24\\\"><path d=\\\"M0 3v18h24v-18h-24zm6.623 7.929l-4.623 5.712v-9.458l4.623 3.746zm-4.141-5.929h19.035l-9.517 7.713-9.518-7.713zm5.694 7.188l3.824 3.099 3.83-3.104 5.612 6.817h-18.779l5.513-6.812zm9.208-1.264l4.616-3.741v9.348l-4.616-5.607z\\\" fill=\\\"currentColor\\\"><\\/path><\\/svg>\\n\\t\\t\\t\\t<span>Email<\\/span><\\/a>\"}';
+//# sourceURL=modulaFancybox-js-before
+</script>
+<script id="modulaFancybox-js" src="https://siroco.es/wp-content/plugins/modula-best-grid-gallery/assets/js/front/modula-fancybox.min.js?ver=3.0.20" data-rocket-defer defer></script>
+<script id="modula-fancybox-js" src="https://siroco.es/wp-content/plugins/modula-best-grid-gallery/assets/js/front/fancybox.min.js?ver=3.0.20" data-rocket-defer defer></script>
+<script id="modula-js-before">
+var modulaMetaVars = [];
+//# sourceURL=modula-js-before
+</script>
+<script id="modula-js" src="https://siroco.es/wp-content/plugins/modula-best-grid-gallery/assets/js/front/jquery-modula.min.js?ver=3.0.20" data-rocket-defer defer></script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://siroco.es/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
+</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1794852703 -->

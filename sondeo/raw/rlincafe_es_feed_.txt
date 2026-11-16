@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Café Berlín</title>
+	<atom:link href="https://berlincafe.es/feed/" rel="self" type="application/rss+xml" />
+	<link>https://berlincafe.es</link>
+	<description>Café Berlín - Madrid - Sala de Conciertos - Café Berlín CaféBerlínMusicClub</description>
+	<lastBuildDate>Sat, 08 Aug 2026 19:58:25 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.6</generator>
+
+<image>
+	<url>https://berlincafe.es/wp-content/uploads/2022/09/cropped-favicon_cafe_berlin_512x512-32x32.png</url>
+	<title>Café Berlín</title>
+	<link>https://berlincafe.es</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Volver al Berlín</title>
+		<link>https://berlincafe.es/volver-al-berlin/</link>
+		
+		<dc:creator><![CDATA[Café Berlín]]></dc:creator>
+		<pubDate>Thu, 28 May 2026 07:11:56 +0000</pubDate>
+				<category><![CDATA[Musica]]></category>
+		<guid isPermaLink="false">https://berlincafe.es/?p=4781</guid>
+
+					<description><![CDATA[Antonio Reyes y Rycardo Moreno nos sumergen en una experiencia como las de antes. Hay conciertos que hacen afición y hay lugares que también. Vuelvo al Café Berlín después de dos años y medio de ausencias y me pierdo “La leyenda del tiempo” la primera que han hecho Antonio Reyes y Rycardo Moreno. Me lo dicen oídos de &#8230; <br /><a href="https://berlincafe.es/volver-al-berlin/" class="more-link">Continue reading <span class="screen-reader-text">Volver al Berlín</span></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="4781" class="elementor elementor-4781">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-0cc8c85 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0cc8c85" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c177b8d" data-id="c177b8d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-79f2d55 elementor-widget elementor-widget-heading" data-id="79f2d55" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Antonio Reyes y Rycardo Moreno nos sumergen en una experiencia como las de antes.</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4ed55bd elementor-widget elementor-widget-text-editor" data-id="4ed55bd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Hay conciertos que hacen afición y hay lugares que también. Vuelvo al <strong>Café Berlín </strong>después de dos años y medio de ausencias y me pierdo “La leyenda del tiempo” la primera que han hecho <strong>Antonio Reyes y Rycardo Moreno</strong>. Me lo dicen oídos de confianza. Es la primera vez que se encuentran guitarrista y cantaor y se produce el milagro del flamenco de toda la vida. Una guitarra y una voz, no hay una combinación más potente (e inmersiva). Cuando bajo las escaleras Antonio está cantando por alegrías y te invaden los ecos de Camarón y de la bahía. Hay dos palmeros que asisten al encuentro con las sonrisas de las grandes ocasiones y que subrayan el compás en los momentos cruciales. Si no te gusta esto así difícilmente te vas a aficionar al flamenco. Podrás ir a los shows de Rosalía o podrás escuchar cantar por bulerías en los de C Tangana pero te perderás la esencia de este arte.</p><p>Estamos en el <strong>V festival flamenco de Club</strong>, un esfuerzo que hace el Berlín por ofrecer conciertos únicos en su ambiente. Hay docenas de clubes interesantes en Nueva York, París o Londres. Cada uno tiene su sello, su aroma y su ecosistema. El bar de al lado del Rock Ola, el gallego de enfrente del Suristán, el restaurante junto al Ronnie Scott, los pinchos de tortilla a la vuelta de la sala Revolver, la sonrisas de Germán Lopez en el Clamores o los silencios durante los conciertos de Riqueni en el Berlín. Cada club tiene su historia y sus leyendas; eso no lo encuentras en la comodidad de un teatro.</p><p>Durante el descanso en los camerinos Rycardo le dice al cantaor “parece que nos hemos criado juntos” y luego repasa los hallazgos de la primera parte “la falseta del Gastor se me ocurrió anoche cuando dormía”. ¿Sueñan los tocaores con falsetas eléctricas? Parece que Rycardo sueña en muchas direcciones, en la electrónica, también. Ha hecho un disco hermosísimo de guitarras con el turco Cenk Erdogan que aún no ha sido presentado en España. Ahora añade electrónica a la cantaora Fernanda Peña el penúltimo eslabón de los Peña, la saga de Lebrija que se ha caracterizado por mantener el clasicismo y la renovación, a la vez. Rycardo siempre ha ido más allá, a buscar los gritos y las esencias y con cada aventura siempre ha aportado algo nuevo.</p><p>Antonio Reyes Montoya es de Chiclana (Cádiz) y durante los últimos años se ha destacado como una de las voces de primera línea. A destacar su disco junto a Diego del Morao grabado en directo en el Círculo Flamenco de Madrid y “Que suene el cante” (2020) en el que repite con el Morao.</p><p>Rycardo comienza la segunda parte con una introducción en solitario a las seguiriyas que Antonio interpreta con el alma antigua y una afinación de lujo. Suena raro que suene tan bonito porque los antiguos nos han acostumbrado que abordan ese cante desde las gargantas heridas por la vida, ya fueran Tío Borrico o Agujetas. Concentrado en la tarea, Antonio se dirige por primera vez al personal para preguntar que qué les apetece escuchar y nos caen una tanda larga de bulerías que da gloria oírlas porque hay referencias camaroneras y Rycardo construye su parte con un espíritu minimalista que deconstruye casi todos los sonidos legendarios de Tomatito. Es eso, o lo he soñado, que este flamenco si que es una experiencia inmersiva y no el cuento ese del metaverso.</p><p><strong>Fotografías &amp; vídeo: @Manjavacas.flamenco</strong></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-f96150e elementor-widget elementor-widget-video" data-id="f96150e" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=CCKOnT36G4E&quot;,&quot;video_type&quot;:&quot;youtube&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-cee377f elementor-widget elementor-widget-apus_element_gallery" data-id="cee377f" data-element_type="widget" data-widget_type="apus_element_gallery.default">
+				<div class="elementor-widget-container">
+					        <div class="widget-gallery  carousel ">
+                        <div class="inner">
+                                    <div class="slick-carousel" data-items="4"
+                        data-large="4"
+                        data-smallmedium="2"
+                        data-extrasmall="1"
+                        data-pagination="true"
+                        data-nav="true"
+                        data-rows="1" data-infinite="true"
+                        data-autoplay="true">
+
+                                                    <a href="https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-085971.jpg" class="" data-elementor-lightbox-slideshow="gallery-A4guE">
+                                <div class="image-wrapper"><img fetchpriority="high" decoding="async" width="300" height="200" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 300 200&#039;%2F%3E" class="attachment-medium size-medium unveil-image" alt="Antonio Reyes y Rycardo Moreno" data-src="https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-085971-300x200.jpg" data-srcset="https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-085971-300x200.jpg 300w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-085971-768x512.jpg 768w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-085971-460x307.jpg 460w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-085971-600x400.jpg 600w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-085971.jpg 1000w" data-sizes="(max-width: 300px) 100vw, 300px" /></div>                            </a>
+                                                    <a href="https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-085691.jpg" class="" data-elementor-lightbox-slideshow="gallery-A4guE">
+                                <div class="image-wrapper"><img decoding="async" width="300" height="200" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 300 200&#039;%2F%3E" class="attachment-medium size-medium unveil-image" alt="Antonio Reyes y Rycardo Moreno" data-src="https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-085691-300x200.jpg" data-srcset="https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-085691-300x200.jpg 300w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-085691-768x512.jpg 768w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-085691-460x307.jpg 460w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-085691-600x400.jpg 600w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-085691.jpg 1000w" data-sizes="(max-width: 300px) 100vw, 300px" /></div>                            </a>
+                                                    <a href="https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-086561.jpg" class="" data-elementor-lightbox-slideshow="gallery-A4guE">
+                                <div class="image-wrapper"><img decoding="async" width="300" height="200" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 300 200&#039;%2F%3E" class="attachment-medium size-medium unveil-image" alt="Antonio Reyes y Rycardo Moreno" data-src="https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-086561-300x200.jpg" data-srcset="https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-086561-300x200.jpg 300w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-086561-768x512.jpg 768w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-086561-460x307.jpg 460w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-086561-600x400.jpg 600w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-086561.jpg 1000w" data-sizes="(max-width: 300px) 100vw, 300px" /></div>                            </a>
+                                                    <a href="https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-087331-1.jpg" class="" data-elementor-lightbox-slideshow="gallery-A4guE">
+                                <div class="image-wrapper"><img loading="lazy" decoding="async" width="300" height="200" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 300 200&#039;%2F%3E" class="attachment-medium size-medium unveil-image" alt="Antonio Reyes y Rycardo Moreno" data-src="https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-087331-1-300x200.jpg" data-srcset="https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-087331-1-300x200.jpg 300w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-087331-1-768x512.jpg 768w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-087331-1-460x307.jpg 460w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-087331-1-600x400.jpg 600w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-087331-1.jpg 1000w" data-sizes="(max-width: 300px) 100vw, 300px" /></div>                            </a>
+                                                    <a href="https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-087361.jpg" class="" data-elementor-lightbox-slideshow="gallery-A4guE">
+                                <div class="image-wrapper"><img loading="lazy" decoding="async" width="300" height="200" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 300 200&#039;%2F%3E" class="attachment-medium size-medium unveil-image" alt="Antonio Reyes y Rycardo Moreno" data-src="https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-087361-300x200.jpg" data-srcset="https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-087361-300x200.jpg 300w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-087361-768x512.jpg 768w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-087361-460x307.jpg 460w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-087361-600x400.jpg 600w, https://berlincafe.es/wp-content/uploads/2023/06/Antonio-Reyes-Rycardo-Moreno-087361.jpg 1000w" data-sizes="(max-width: 300px) 100vw, 300px" /></div>                            </a>
+                                            </div>
+                            </div>
+        </div>
+        				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Alfonso Losa, el minimalismo y el humo</title>
+		<link>https://berlincafe.es/alfonso-losa-el-minimalismo-y-el-humo/</link>
+		
+		<dc:creator><![CDATA[Café Berlín]]></dc:creator>
+		<pubDate>Thu, 28 May 2026 07:11:56 +0000</pubDate>
+				<category><![CDATA[Musica]]></category>
+		<guid isPermaLink="false">https://berlincafe.es/?p=4765</guid>
+
+					<description><![CDATA[Uno tiene la sensación de ir al espectáculo de Alfonso Losa a aprender. Es algo que rejuvenece, la sala parece repleta de discípulos que siguen los pasos de un maestro comprometido con el doble papel del que recuerda el canon, los códigos y la historia y -al mismo tiempo- muestra los caminos de la innovación. El público &#8230; <br /><a href="https://berlincafe.es/alfonso-losa-el-minimalismo-y-el-humo/" class="more-link">Continue reading <span class="screen-reader-text">Alfonso Losa, el minimalismo y el humo</span></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="4765" class="elementor elementor-4765">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-6389688 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6389688" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e35a996" data-id="e35a996" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6410659 elementor-widget elementor-widget-text-editor" data-id="6410659" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Uno tiene la sensación de ir al espectáculo de <strong>Alfonso Losa</strong> a aprender. Es algo que rejuvenece, la sala parece repleta de discípulos que siguen los pasos de un maestro comprometido con el doble papel del que recuerda el canon, los códigos y la historia y -al mismo tiempo- muestra los caminos de la innovación. El público parece que lo has soñado. Gente que aúna belleza y conocimiento. El sitio en el que hay que estar.</p><p>Su último espectáculo: <em>“Flamenco. Espacio creativo”</em> ha recaudado aplausos unánimes en los festivales de Jerez, Sevilla y Madrid. Ya saben que son localizaciones que se disputan los honores de ser (o no ser) el centro del universo, el ombligo del flamenco. Aún así, se han puesto de acuerdo con Alfonso Losa.</p><p>Ya hemos dicho que el festival flamenco del Berlín es especial, un espacio para que los artistas se expresen; así que el bailaor ha bautizado su aparición con la palabra “Exento” que a uno le suena a un tema tan “viejuno” como librarse de la mili y que la real academia de la lengua define como: 1) Libre, desembarazado de algo. 2) No sometido a la jurisdicción ordinaria. Y 3) Aislado, independiente.</p><p>Lo primero que sorprende en la aparición del bailaor es la música. Sobre la guitarra de <strong>Antonio Sánchez</strong> el cante de <strong>José del Calli y Joni Reyes </strong>superponen sus voces en un ejercicio novedoso que parece heredado de los juegos vocales que ponía en marcha Enrique Morente.</p><p>No nos da tiempo a la nostalgia, el bailaor nos muestra las esencias de los grandes bailaores que han pisado tablaos y teatros de todo el mundo, uno piensa en El Guito y Manolete pero hay más cosas. La limpieza del taconeo se pone de manifiesto en la farruca, una creación en la que se acompaña de un bastón con el que va tejiendo una rítmica que luego desarrolla exclusivamente con los piés.</p><p>Cuenta Blanca del Rey que en un tablao se ve de verdad a los bailaores que no hay luces ni trucos escénicos para esconderse o para resaltar la espectacularidad de un momento. El escenario del Berlín es más bajo de lo que suelen ser las plataformas de los tablaos. Aún así nos las apañamos para seguir el ritmo de suelas y tacones que parecen multiplicarse en un sinfonía de tintes minimalistas en el que hace su aparición un elemento procedente del rock: el cañón de humo.</p><p>El recurso no funciona ni bien ni mal. Enseguida se disipa la niebla y vemos los tacones volar en episodios que podrían formar parte de esos ejercicios cuya dificultad puntúan los jueces de la gimnasia deportiva. Nos guardamos los dieces para quedarnos con la sensación artística y ahí tampoco lo podemos expresar con un número, solo rendirnos a sus pies.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-f3df7b5 elementor-widget elementor-widget-video" data-id="f3df7b5" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=FRmHGFzGZqE&quot;,&quot;video_type&quot;:&quot;youtube&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-6e1d1ed elementor-widget elementor-widget-apus_element_gallery" data-id="6e1d1ed" data-element_type="widget" data-widget_type="apus_element_gallery.default">
+				<div class="elementor-widget-container">
+					        <div class="widget-gallery  carousel ">
+                        <div class="inner">
+                                    <div class="slick-carousel" data-items="4"
+                        data-large="4"
+                        data-smallmedium="2"
+                        data-extrasmall="1"
+                        data-pagination="true"
+                        data-nav="true"
+                        data-rows="1" data-infinite="true"
+                        data-autoplay="true">
+
+                                                    <a href="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-089971.jpg" class="" data-elementor-lightbox-slideshow="gallery-nWu96">
+                                <div class="image-wrapper"><img loading="lazy" decoding="async" width="300" height="200" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 300 200&#039;%2F%3E" class="attachment-medium size-medium unveil-image" alt="Alfonso Losa, el minimalismo y el humo" data-src="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-089971-300x200.jpg" data-srcset="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-089971-300x200.jpg 300w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-089971-768x512.jpg 768w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-089971-460x307.jpg 460w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-089971-600x400.jpg 600w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-089971.jpg 1000w" data-sizes="(max-width: 300px) 100vw, 300px" /></div>                            </a>
+                                                    <a href="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091021.jpg" class="" data-elementor-lightbox-slideshow="gallery-nWu96">
+                                <div class="image-wrapper"><img loading="lazy" decoding="async" width="300" height="200" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 300 200&#039;%2F%3E" class="attachment-medium size-medium unveil-image" alt="Alfonso Losa, el minimalismo y el humo" data-src="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091021-300x200.jpg" data-srcset="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091021-300x200.jpg 300w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091021-768x512.jpg 768w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091021-460x307.jpg 460w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091021-600x400.jpg 600w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091021.jpg 1000w" data-sizes="(max-width: 300px) 100vw, 300px" /></div>                            </a>
+                                                    <a href="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091101.jpg" class="" data-elementor-lightbox-slideshow="gallery-nWu96">
+                                <div class="image-wrapper"><img loading="lazy" decoding="async" width="300" height="200" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 300 200&#039;%2F%3E" class="attachment-medium size-medium unveil-image" alt="Alfonso Losa, el minimalismo y el humo" data-src="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091101-300x200.jpg" data-srcset="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091101-300x200.jpg 300w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091101-768x512.jpg 768w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091101-460x307.jpg 460w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091101-600x400.jpg 600w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091101.jpg 1000w" data-sizes="(max-width: 300px) 100vw, 300px" /></div>                            </a>
+                                                    <a href="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091861.jpg" class="" data-elementor-lightbox-slideshow="gallery-nWu96">
+                                <div class="image-wrapper"><img loading="lazy" decoding="async" width="300" height="200" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 300 200&#039;%2F%3E" class="attachment-medium size-medium unveil-image" alt="Alfonso Losa, el minimalismo y el humo" data-src="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091861-300x200.jpg" data-srcset="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091861-300x200.jpg 300w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091861-768x512.jpg 768w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091861-460x307.jpg 460w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091861-600x400.jpg 600w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-091861.jpg 1000w" data-sizes="(max-width: 300px) 100vw, 300px" /></div>                            </a>
+                                                    <a href="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092291.jpg" class="" data-elementor-lightbox-slideshow="gallery-nWu96">
+                                <div class="image-wrapper"><img loading="lazy" decoding="async" width="300" height="200" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 300 200&#039;%2F%3E" class="attachment-medium size-medium unveil-image" alt="Alfonso Losa, el minimalismo y el humo" data-src="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092291-300x200.jpg" data-srcset="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092291-300x200.jpg 300w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092291-768x512.jpg 768w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092291-460x307.jpg 460w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092291-600x400.jpg 600w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092291.jpg 1000w" data-sizes="(max-width: 300px) 100vw, 300px" /></div>                            </a>
+                                                    <a href="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092371.jpg" class="" data-elementor-lightbox-slideshow="gallery-nWu96">
+                                <div class="image-wrapper"><img loading="lazy" decoding="async" width="300" height="200" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 300 200&#039;%2F%3E" class="attachment-medium size-medium unveil-image" alt="Alfonso Losa, el minimalismo y el humo" data-src="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092371-300x200.jpg" data-srcset="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092371-300x200.jpg 300w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092371-768x512.jpg 768w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092371-460x307.jpg 460w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092371-600x400.jpg 600w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092371.jpg 1000w" data-sizes="(max-width: 300px) 100vw, 300px" /></div>                            </a>
+                                                    <a href="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092381-1.jpg" class="" data-elementor-lightbox-slideshow="gallery-nWu96">
+                                <div class="image-wrapper"><img loading="lazy" decoding="async" width="300" height="200" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 300 200&#039;%2F%3E" class="attachment-medium size-medium unveil-image" alt="Alfonso Losa, el minimalismo y el humo" data-src="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092381-1-300x200.jpg" data-srcset="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092381-1-300x200.jpg 300w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092381-1-768x512.jpg 768w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092381-1-460x307.jpg 460w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092381-1-600x400.jpg 600w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092381-1.jpg 1000w" data-sizes="(max-width: 300px) 100vw, 300px" /></div>                            </a>
+                                                    <a href="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092991.jpg" class="" data-elementor-lightbox-slideshow="gallery-nWu96">
+                                <div class="image-wrapper"><img loading="lazy" decoding="async" width="300" height="200" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 300 200&#039;%2F%3E" class="attachment-medium size-medium unveil-image" alt="Alfonso Losa, el minimalismo y el humo" data-src="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092991-300x200.jpg" data-srcset="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092991-300x200.jpg 300w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092991-768x512.jpg 768w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092991-460x307.jpg 460w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092991-600x400.jpg 600w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092991.jpg 1000w" data-sizes="(max-width: 300px) 100vw, 300px" /></div>                            </a>
+                                                    <a href="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-095041.jpg" class="" data-elementor-lightbox-slideshow="gallery-nWu96">
+                                <div class="image-wrapper"><img loading="lazy" decoding="async" width="300" height="200" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 300 200&#039;%2F%3E" class="attachment-medium size-medium unveil-image" alt="Alfonso Losa, el minimalismo y el humo" data-src="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-095041-300x200.jpg" data-srcset="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-095041-300x200.jpg 300w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-095041-768x512.jpg 768w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-095041-460x307.jpg 460w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-095041-600x400.jpg 600w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-095041.jpg 1000w" data-sizes="(max-width: 300px) 100vw, 300px" /></div>                            </a>
+                                                    <a href="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092381.jpg" class="" data-elementor-lightbox-slideshow="gallery-nWu96">
+                                <div class="image-wrapper"><img loading="lazy" decoding="async" width="300" height="200" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 300 200&#039;%2F%3E" class="attachment-medium size-medium unveil-image" alt="Alfonso Losa, el minimalismo y el humo" data-src="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092381-300x200.jpg" data-srcset="https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092381-300x200.jpg 300w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092381-768x512.jpg 768w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092381-460x307.jpg 460w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092381-600x400.jpg 600w, https://berlincafe.es/wp-content/uploads/2023/06/Alfonso-Losa-092381.jpg 1000w" data-sizes="(max-width: 300px) 100vw, 300px" /></div>                            </a>
+                                            </div>
+                            </div>
+        </div>
+        				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>El último bis en casa de los Porrina</title>
+		<link>https://berlincafe.es/el-ultimo-bis-en-casa-de-los-porrina/</link>
+		
+		<dc:creator><![CDATA[Café Berlín]]></dc:creator>
+		<pubDate>Thu, 28 May 2026 07:11:56 +0000</pubDate>
+				<category><![CDATA[Musica]]></category>
+		<guid isPermaLink="false">https://berlincafe.es/?p=4757</guid>
+
+					<description><![CDATA[La noche extremeña tuvo momentos deslumbrantes de heroísmo musical. Después de unas bulerías en las que no había sitio pa más arte, parecía que la cosa pasaba por disolver la fiesta y a otra cosa, mariposa, que todo el mundo es consciente de que nadie puede volar más alto. ¿Nadie? Ahí estaba Pato con su &#8230; <br /><a href="https://berlincafe.es/el-ultimo-bis-en-casa-de-los-porrina/" class="more-link">Continue reading <span class="screen-reader-text">El último bis en casa de los Porrina</span></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="4757" class="elementor elementor-4757">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-0007e8e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0007e8e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cfcc19d" data-id="cfcc19d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e5e06cb elementor-widget elementor-widget-text-editor" data-id="e5e06cb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>La noche extremeña tuvo momentos deslumbrantes de heroísmo musical. Después de unas bulerías en las que no había sitio pa más arte, parecía que la cosa pasaba por disolver la fiesta y a otra cosa, mariposa, que todo el mundo es consciente de que nadie puede volar más alto. ¿Nadie? Ahí estaba Pato con su abrigo y su bigote y anunció el último bis. Se hizo el silencio <strong>Pakete y Antonio Sanchez</strong> cruzaron las guitarras, José Suarez cedió el cajón a su tío Sabú y reapareció el cante de <strong>Juan Antonio Salazar </strong>pa cantar su himno “la calle la Costanilla, la calle de los enamorados”.</p><p>Vayamos al principio: empecé a escuchar a Juan Antonio Salazar por los videos que colgaba Pakete en las redes, unos videos grabados en la calle a deshoras en los que aparecía un cantaor diferente, anarquista y bohemio que era el compositor de cantes que interpretó Camarón…</p><p>-Ehhh que he dicho que vayamos al principio… de la noche.</p><p>Noche grande en el Berlín. <strong>Juanjosé Suárez “Pakete” </strong>es uno de los grandes guitarristas de la historia del flamenco, un maestro en plena madurez que debería grabar dos discos al año. Ya saben que en el flamenco no hay justicia, ni se venden discos así que cada noche de concierto <strong>Mr Paket</strong> nos demuestra que no hay nadie en el mundo como él. De pronto, suena una voz fantasmagórica que parece ser la del patriarca <strong>Porrina de Badajoz</strong>, al que llamaban “marqués” por el porte y las maneras. Me contaba Alfredo Grimaldos que en los años cincuenta tuvo un idilio con Amália Rodrigues que intentaba llegar hasta el cantaor metiendo su coche americano por las estrechas callejuelas que rodean la Plaza Alta. Así Amalia, la reina del fado, se quedaba atascada y desvelaba su pasión flamenca.</p><p>Al lío. Al lado de Pakete está un guitarrista llamado <strong>Antonio Sánchez</strong>, un sobrino de Paco de Lucía y se sientan dos cantaores: <strong>Guadiana y JuanFran Carrasco.</strong> Guadiana es un cantaor de esos que gustan a los que saben (y han escuchado mucha música); crecido a la sombra de su hermano Ramón el Portugués que inspiró varios cantes a Camarón y que dijo aquello de: “Camarón es una fuente y yo soy un caldero”.</p><p>A Guadiana hay que escucharlo, no es tan espectacular como lo era Ramón pero cuando se queda en el centro del escenario y Pakete comienza a desarrollar la guitarra que lleva dentro (en la que hay mucho jazz) Guadiana se convierte en un “crooner” flamenco. Me encuentro con el saxofonista Pablo Hernández Ramos que me cuenta que el próximo día 17 hay un homenaje a Ramón el Portugués y a la Kaita en Badajoz. Ramón se retiró cuando una operación nos arrebató varias cuerdas vocales y por allí andaba viendo triunfar a su hijo (Pakete) y a toda la familia que se subió al escenario que fueron pocos y muy bien elegidos.</p><p>El recuento de la primera parte cuenta con el deslumbramiento del cantaor <strong>Juanfran Carrasco</strong>, un extremeño que muy pronto estará en las programaciones. Es uno de esos talentos naturales que tiene un quejio de esos que no se pueden aguantar. Comenzó cantando a “El último mohicano”, algo que, de momento, supera mis entendederas literarias flamencas. Lo que sí es evidente es que llega con repertorio nuevo y que es uno de esos fenómenos de la naturaleza que esperamos que cuaje. No sabemos si tiene que seguir el consejo que se dio a sí mismo Juan Cantero: “Cuando llegué a Madrid, lo primero que hice fue construirme la chabola y después comprarme un tocadiscos para estudiar, porque con lo que yo sabía (tangos y jaleos extremeños) no podía salir adelante en el flamenco”.</p><p>La segunda parte fue como la primera pero con el añadido de varios milagros y otros prodigios. Pakete invitó a <strong>Niño Josele </strong>a unirse a la fiesta “y no sé si habrá un piano por ahí para su hijo Josele Heredia”. ¿Un piano? ¿Y por qué no añadimos un afinador y un ratito para hacer una prueba de sonido? En ese momento vi al héroe de la noche, el técnico de sonido que le dijo algo al oído a Pakete y… en lo que tardé en hacer aguas menores estaban interpretando “Ziryab” y detrás de las cortinas Josele Heredia estaba tocando un piano de media cola que sonaba afinado y ecualizado. Ya saben que esa composición es de Paco de Lucía que grabó junto a Chick Corea maestro y mentor de <strong>Josele Heredía </strong>hijo de Niño Josele al que acaba de cederle la silla y la guitarra Antonio Sánchez el sobrino de Paco… Esas son las conexiones que permiten que un estilo musical nacido hace 40 años, el jazz flamenco, sea la principal novedad en el mundo del jazz. Estaban en todo lo alto del “Ziryab” cuando apareció Guadiana y comenzó a cantar por bulerías sin parar el mecanismo que habían desencadenado Pakete y los Joseles. Otro prodigio digno del mejor Sinatra y que hubiera tenido que escuchar Wynton Marsalis para comprobar cómo se pasa del jazz a lo siguiente sin que ningún músico caiga herido. Luego ocurrió el prodigio final con Juan Antonio Salazar, un duende que hizo posible la libertad creativa de la que estamos hablando.</p><p>Juan Antonio Salazar es un caos, una montaña rusa en la que sus cuerdas vocales son incapaces de armonizar toda la belleza que alberga su concepción musical. Así que no se preocupen si no les gusta la primera vez que intentan conectar con su cante, pueden escuchar la maravillosa versión que ha hecho Israel Fernández de su “Carmen” cantada como Dios manda. Yo prefiero el original, me recuerda a muchos genios del siglo XX, una mezcla entre Charlie Parker, Jaco Pastorius y Ornette Coleman pero en flamenco.</p><p>Y otro día hablamos de los cajones de los Porrina. Pakete eres lo máximo.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-fd21b3f elementor-widget elementor-widget-video" data-id="fd21b3f" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=gpOJxsjIY2s&quot;,&quot;video_type&quot;:&quot;youtube&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>x</title>
+		<link>https://berlincafe.es/x-9/</link>
+		
+		<dc:creator><![CDATA[i.martin@digidisa.com]]></dc:creator>
+		<pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Volver al Berlín]]></description>
+										<content:encoded><![CDATA[<blockquote class="wp-embedded-content" data-secret="rxBWeMjAo8"><p><a href="https://berlincafe.es/volver-al-berlin/">Volver al Berlín</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="«Volver al Berlín» — Café Berlín" src="https://berlincafe.es/volver-al-berlin/embed/#?secret=j43llOPjsS#?secret=rxBWeMjAo8" data-secret="rxBWeMjAo8" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>x</title>
+		<link>https://berlincafe.es/x-8/</link>
+		
+		<dc:creator><![CDATA[i.martin@digidisa.com]]></dc:creator>
+		<pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Volver al Berlín]]></description>
+										<content:encoded><![CDATA[<blockquote class="wp-embedded-content" data-secret="gqeVhkzz19"><p><a href="https://berlincafe.es/volver-al-berlin/">Volver al Berlín</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="«Volver al Berlín» — Café Berlín" src="https://berlincafe.es/volver-al-berlin/embed/#?secret=GJLjDj8zus#?secret=gqeVhkzz19" data-secret="gqeVhkzz19" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>x</title>
+		<link>https://berlincafe.es/x-7/</link>
+		
+		<dc:creator><![CDATA[i.martin@digidisa.com]]></dc:creator>
+		<pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Volver al Berlín]]></description>
+										<content:encoded><![CDATA[<blockquote class="wp-embedded-content" data-secret="s5w3lmEeUg"><p><a href="https://berlincafe.es/volver-al-berlin/">Volver al Berlín</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="«Volver al Berlín» — Café Berlín" src="https://berlincafe.es/volver-al-berlin/embed/#?secret=71aOX8TbT6#?secret=s5w3lmEeUg" data-secret="s5w3lmEeUg" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>x</title>
+		<link>https://berlincafe.es/x-6/</link>
+		
+		<dc:creator><![CDATA[i.martin@digidisa.com]]></dc:creator>
+		<pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Volver al Berlín]]></description>
+										<content:encoded><![CDATA[<blockquote class="wp-embedded-content" data-secret="XrA7zkloG5"><p><a href="https://berlincafe.es/volver-al-berlin/">Volver al Berlín</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="«Volver al Berlín» — Café Berlín" src="https://berlincafe.es/volver-al-berlin/embed/#?secret=PIoKyjnTXu#?secret=XrA7zkloG5" data-secret="XrA7zkloG5" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>cache</title>
+		<link>https://berlincafe.es/cache/</link>
+		
+		<dc:creator><![CDATA[i.martin@digidisa.com]]></dc:creator>
+		<pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Volver al Berlín]]></description>
+										<content:encoded><![CDATA[<blockquote class="wp-embedded-content" data-secret="cuxBWQapn0"><p><a href="https://berlincafe.es/volver-al-berlin/">Volver al Berlín</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="«Volver al Berlín» — Café Berlín" src="https://berlincafe.es/volver-al-berlin/embed/#?secret=ru2eXkAi5b#?secret=cuxBWQapn0" data-secret="cuxBWQapn0" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>x</title>
+		<link>https://berlincafe.es/x-5/</link>
+		
+		<dc:creator><![CDATA[i.martin@digidisa.com]]></dc:creator>
+		<pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Volver al Berlín]]></description>
+										<content:encoded><![CDATA[<blockquote class="wp-embedded-content" data-secret="Re0rirrJmk"><p><a href="https://berlincafe.es/volver-al-berlin/">Volver al Berlín</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="«Volver al Berlín» — Café Berlín" src="https://berlincafe.es/volver-al-berlin/embed/#?secret=i29w3AipeW#?secret=Re0rirrJmk" data-secret="Re0rirrJmk" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>x</title>
+		<link>https://berlincafe.es/x-4/</link>
+		
+		<dc:creator><![CDATA[i.martin@digidisa.com]]></dc:creator>
+		<pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Volver al Berlín]]></description>
+										<content:encoded><![CDATA[<blockquote class="wp-embedded-content" data-secret="OyxrczXFGJ"><p><a href="https://berlincafe.es/volver-al-berlin/">Volver al Berlín</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="«Volver al Berlín» — Café Berlín" src="https://berlincafe.es/volver-al-berlin/embed/#?secret=oQxkq6Fxlx#?secret=OyxrczXFGJ" data-secret="OyxrczXFGJ" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

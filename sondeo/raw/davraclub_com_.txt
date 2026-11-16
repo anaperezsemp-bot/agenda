@@ -1,0 +1,528 @@
+    <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CADAVRA CLUB</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="static/frontend.css">
+    <link rel="icon" type="image/svg+xml" href="static/favicon_cdvr.svg">
+    <script
+  src="https://code.jquery.com/jquery-3.7.1.js"
+  integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+  crossorigin="anonymous"></script>    
+</head>
+<body>
+    <!-- Navigation -->
+    <div class="navbar-top">
+        <div class="nav-tags">
+            <a href="#" id="club-button" class="tag-filter club active" data-filter="club">CLUB</a>
+            <a href="#" id="live-button" class="tag-filter live" data-filter="live">LIVE</a>
+        </div>
+        
+        <div class="brand-logo">
+            <img src="/static/logo.png" alt="CDVR" height="40">
+        </div>
+        
+        <div class="social-links">
+            <a href="https://www.instagram.com/cadavra.club" target="_blank" class="social-link">INSTAGRAM</a>
+            <a href="https://www.facebook.com/cadavraclubmadrid" target="_blank" class="social-link">FACEBOOK</a>
+            <a href="https://www.soundcloud.com/cadavra-music" target="_blank" class="social-link">SOUNDCLOUD</a>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="container-fluid">
+       <div class="events-list">
+                                    <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://link.dice.fm/D616c4f96cfb" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://link.dice.fm/D616c4f96cfb" target="_blank">Wed 18th Nov</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://link.dice.fm/D616c4f96cfb" target="_blank">— CIRCUITO</a></span>
+                                      
+                                                <a class="tickets-link" href="https://link.dice.fm/D616c4f96cfb" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> MIDGVRD & Dani Rich + Ginia + Asha Montiel + Codrey + Sarazzz + Karlitos</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://tr.ee/AKfEnO" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://tr.ee/AKfEnO" target="_blank">Thu 19th Nov</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://tr.ee/AKfEnO" target="_blank">— CDVR</a></span>
+                                      
+                                                <a class="tickets-link" href="https://tr.ee/AKfEnO" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> Múltipla</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="club">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://es.ra.co/events/2568774" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://es.ra.co/events/2568774" target="_blank">Thu 19th Nov</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://es.ra.co/events/2568774" target="_blank">— ANFANG</a></span>
+                                      
+                                                <a class="tickets-link" href="https://es.ra.co/events/2568774" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> D-Leria + Serna</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://tr.ee/IUITPb" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://tr.ee/IUITPb" target="_blank">Fri 20th Nov</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://tr.ee/IUITPb" target="_blank">— RITMO URBANO FEST</a></span>
+                                      
+                                                <a class="tickets-link" href="https://tr.ee/IUITPb" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> Frijo</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://tr.ee/F1WS50" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://tr.ee/F1WS50" target="_blank">Sat 21st Nov</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://tr.ee/F1WS50" target="_blank">– CDVR</a></span>
+                                      
+                                                <a class="tickets-link" href="https://tr.ee/F1WS50" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> Mardom</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://tr.ee/Mb7wOl" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://tr.ee/Mb7wOl" target="_blank">Wed 25th Nov</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://tr.ee/Mb7wOl" target="_blank">– ARA</a></span>
+                                      
+                                                <a class="tickets-link" href="https://tr.ee/Mb7wOl" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> Prenda + Cecilia Lisbon</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://tr.ee/1WPHMc" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://tr.ee/1WPHMc" target="_blank">Thu 26th Nov</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://tr.ee/1WPHMc" target="_blank">– CDVR</a></span>
+                                      
+                                                <a class="tickets-link" href="https://tr.ee/1WPHMc" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> AGUASMIL + ERIC ROHMER</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="club">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://es.ra.co/events/2502696" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://es.ra.co/events/2502696" target="_blank">Fri 27th Nov</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://es.ra.co/events/2502696" target="_blank">— SIGH.CLUB 9 YEARS</a></span>
+                                      
+                                                <a class="tickets-link" href="https://es.ra.co/events/2502696" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> Carl Finlow aka Random Factor + Innuendo + Cesc</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://tr.ee/1dAP7f" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://tr.ee/1dAP7f" target="_blank">Fri 27th Nov</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://tr.ee/1dAP7f" target="_blank">– LOTURA</a></span>
+                                      
+                                                <a class="tickets-link" href="https://tr.ee/1dAP7f" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> SDH + RAWLA</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="club">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://es.ra.co/events/2390778" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://es.ra.co/events/2390778" target="_blank">Sat 28th Nov</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://es.ra.co/events/2390778" target="_blank">— CRIMINAL CRISIS</a></span>
+                                      
+                                                <a class="tickets-link" href="https://es.ra.co/events/2390778" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> Mor Elian + frankydrama + Bother + Valle + Dis.tant</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://link.dice.fm/za2b039c844a" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://link.dice.fm/za2b039c844a" target="_blank">Thu 03rd Dec</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://link.dice.fm/za2b039c844a" target="_blank">— CDVR</a></span>
+                                      
+                                                <a class="tickets-link" href="https://link.dice.fm/za2b039c844a" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> Henshin! + Ramona Flores + Todo Bien Todo Mal</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://tr.ee/rxNxmi" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://tr.ee/rxNxmi" target="_blank">Thu 03rd Dec</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://tr.ee/rxNxmi" target="_blank">– CDVR</a></span>
+                                      
+                                                <a class="tickets-link" href="https://tr.ee/rxNxmi" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> Henshin! + Ramona Flores + Todo Bien Todo Mal</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://tr.ee/yrKHXV" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://tr.ee/yrKHXV" target="_blank">Fri 04th Dec</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://tr.ee/yrKHXV" target="_blank">– CDVR</a></span>
+                                      
+                                                <a class="tickets-link" href="https://tr.ee/yrKHXV" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> Tikismikis</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://tr.ee/ZY0tCu" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://tr.ee/ZY0tCu" target="_blank">Sat 05th Dec</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://tr.ee/ZY0tCu" target="_blank">– CDVR</a></span>
+                                      
+                                                <a class="tickets-link" href="https://tr.ee/ZY0tCu" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> Hide Tyson</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://link.dice.fm/M517b8f7a975?dice_id=M517b8f7a975" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://link.dice.fm/M517b8f7a975?dice_id=M517b8f7a975" target="_blank">Wed 09th Dec</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://link.dice.fm/M517b8f7a975?dice_id=M517b8f7a975" target="_blank">– CDVR</a></span>
+                                      
+                                                <a class="tickets-link" href="https://link.dice.fm/M517b8f7a975?dice_id=M517b8f7a975" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> KARLAN</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://entradium.com/events/qrclan-the-qrband-presentacion-oficial-ep-crisol-club" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://entradium.com/events/qrclan-the-qrband-presentacion-oficial-ep-crisol-club" target="_blank">Thu 10th Dec</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://entradium.com/events/qrclan-the-qrband-presentacion-oficial-ep-crisol-club" target="_blank">– CDVR</a></span>
+                                      
+                                                <a class="tickets-link" href="https://entradium.com/events/qrclan-the-qrband-presentacion-oficial-ep-crisol-club" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> QRCLAN</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://link.dice.fm/S87b5b236cee" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://link.dice.fm/S87b5b236cee" target="_blank">Fri 11th Dec</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://link.dice.fm/S87b5b236cee" target="_blank">– CDVR</a></span>
+                                      
+                                                <a class="tickets-link" href="https://link.dice.fm/S87b5b236cee" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> The Fractal Sound</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="club">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://es.ra.co/events/2438977" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://es.ra.co/events/2438977" target="_blank">Sat 12th Dec</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://es.ra.co/events/2438977" target="_blank">— HOLLYWOOD</a></span>
+                                      
+                                                <a class="tickets-link" href="https://es.ra.co/events/2438977" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> DANIELLE + TWO EX</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://link.dice.fm/f2e9ad029d74" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://link.dice.fm/f2e9ad029d74" target="_blank">Sat 12th Dec</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://link.dice.fm/f2e9ad029d74" target="_blank">– CDVR</a></span>
+                                      
+                                                <a class="tickets-link" href="https://link.dice.fm/f2e9ad029d74" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> Pijama + Bravo Maldonado</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                                            <div class="event-row" data-type="live">
+                            <div class="row">
+                                <div class="col-12">
+                                    <span><a  class="tickets-link" href="https://link.dice.fm/i52354e47e27" target="_blank">TICKETS</a></span>                                    
+                                </div>
+                                <div class="col-12">                    
+                                    <span class="event-date"><a class="tickets-link" href="https://link.dice.fm/i52354e47e27" target="_blank">Fri 18th Dec</a></span>
+                                    <span class="event-title"><a class="tickets-link" href="https://link.dice.fm/i52354e47e27" target="_blank">– CDVR </a></span>
+                                      
+                                                <a class="tickets-link" href="https://link.dice.fm/i52354e47e27" target="_blank">
+                                                <span class="event-type hell"> w/  </span>
+                                                <span class="event-artists"> Los Domingos + Mea Culpa</span>
+                                                </a>
+                                                                            </div>
+                            </div>
+                        </div>   
+                      
+        </div>
+    </div>
+
+    <!-- Newsletter Bar -->
+    <div class="newsletter-bar">
+        SUBSCRIBE TO OUR NEWSLETTER
+    </div>
+
+    <!-- Ayuntamiento Bar -->
+    <div class="ayto-bar">
+        <img src="/static/logo_ayto.png" alt="Ayuntamiento" class="ayto-logo">
+    </div>
+
+    <!-- Newsletter Form -->
+    <div class="newsletter-form">
+        <span class="newsletter-form-close"></span>
+        <div class="newsletter-form-content">
+            <h3 class="mb-4">Suscríbete a nuestra newsletter</h3>
+            <form id="subscribeForm">
+                <div class="mb-3">
+                    <input type="email" name="email" class="form-control" placeholder="Tu email" required>
+                </div>
+                <button type="submit" class="btn-subscribe">SUSCRIBIRSE</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Toast notifications -->
+    <style>
+        .toast {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 15px 20px;
+            border-radius: 4px;
+            opacity: 0;
+            transition: opacity 0.3s;
+            z-index: 1100;
+        }
+        .toast.show {
+            opacity: 1;
+        }
+    </style>
+
+    <!-- Bootstrap JS Bundle -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            // Activar filtro "todos" por defecto
+            $('[data-type="live"]').hide();
+            const newsletterBar = $('.newsletter-bar');
+            const newsletterForm = $('.newsletter-form');
+            
+        });
+        var seccion = 'club';
+        $("#live-button").click(function(event){         
+            if(seccion!=='live'){
+                $('[data-type="live"]').show();
+                $('[data-type="club"]').hide();
+                $('.navbar-top').toggleClass('navbar-top-live');
+                $('.tickets-link').toggleClass('tickets-link-live');
+                $('.brand-logo').toggleClass('brand-logo-live');
+                $('.social-link').toggleClass('social-link-live');
+                $('.events-list').toggleClass('events-list-live');
+                $('.event-row').toggleClass('event-row-live');
+                $('.newsletter-bar').toggleClass('newsletter-bar-live');
+                $('html').css('background-color','#888');
+            }   
+            seccion = 'live';
+        });
+        $("#club-button").click(function(event){       
+            if(seccion!=='club'){
+                $('[data-type="club"]').show();
+                $('[data-type="live"]').hide();
+                $('.navbar-top').toggleClass('navbar-top-live');
+                $('.tickets-link').toggleClass('tickets-link-live');
+                $('.brand-logo').toggleClass('brand-logo-live');
+                $('.social-link').toggleClass('social-link-live');
+                $('.events-list').toggleClass('events-list-live');
+                $('.event-row').toggleClass('event-row-live');
+                $('.newsletter-bar').toggleClass('newsletter-bar-live');
+                $('html').css('background-color','#000');
+                seccion = 'club';
+            }
+            
+
+        });  
+    function showToast(message) {
+        const toast = document.createElement('div');
+        toast.className = 'toast';
+        toast.innerHTML = message;
+        document.body.appendChild(toast);
+        
+        setTimeout(() => {
+            toast.classList.add('show');
+        }, 100);
+        
+        setTimeout(() => {
+            toast.classList.remove('show');
+            setTimeout(() => {
+                document.body.removeChild(toast);
+            }, 300);
+        }, 3000);
+    }
+    const newsletterBar = document.querySelector('.newsletter-bar');
+    const newsletterForm = document.querySelector('.newsletter-form');
+    const closeForm = document.querySelector('.newsletter-form-close');    
+        if (newsletterBar) {
+            newsletterBar.addEventListener('click', function() {
+                newsletterForm.style.display = 'flex';
+            });
+        }
+        if (closeForm) {
+            closeForm.addEventListener('click', function() {
+                newsletterForm.style.display = 'none';
+            });
+        }
+        // Cerrar formulario al hacer clic fuera
+        newsletterForm.addEventListener('click', function(e) {
+            if (e.target === this) {
+                this.style.display = 'none';
+            }
+        });
+        // Validación del formulario
+        const subscribeForm = document.getElementById('subscribeForm'); 
+        if (subscribeForm) {
+            subscribeForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                const emailInput = this.querySelector('input[type="email"]');
+                const email = emailInput.value.trim();
+                
+                if (!email) {
+                    showToast('Por favor, introduce tu email');
+                    return;
+                }
+                
+                // Enviar datos al servidor
+                fetch('/subscribe', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/x-www-form-urlencoded',
+                    },
+                    body: `email=${encodeURIComponent(email)}`
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        showToast(data.message);
+                        emailInput.value = '';
+                        newsletterForm.style.display = 'none';
+                    } else {
+                        showToast(data.message || 'Ha ocurrido un error');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    showToast('Ha ocurrido un error');
+                });
+            });
+        }                                     
+    </script>
+</body>
+</html>

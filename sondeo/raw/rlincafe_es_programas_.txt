@@ -1,0 +1,2623 @@
+<!DOCTYPE html>
+<html lang="es" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+	<link rel="profile" href="//gmpg.org/xfn/11">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J9PTBZ59RZ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-J9PTBZ59RZ');
+    </script>
+
+	<title>Programa &#8211; Café Berlín</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />
+<link rel="alternate" type="application/rss+xml" title="Café Berlín &raquo; Feed" href="https://berlincafe.es/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Café Berlín &raquo; Feed de los comentarios" href="https://berlincafe.es/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://berlincafe.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fberlincafe.es%2Fprogramas%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://berlincafe.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fberlincafe.es%2Fprogramas%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='joinchat-button-style-inline-css' type='text/css'>
+.wp-block-joinchat-button{align-items:center;display:flex;flex-flow:row nowrap}.wp-block-joinchat-button.is-vertical{flex-direction:column}.wp-block-joinchat-button.is-vertical.is-content-justification-left{align-items:flex-start}.wp-block-joinchat-button.is-vertical.is-content-justification-center{align-items:center}.wp-block-joinchat-button.is-vertical.is-content-justification-right{align-items:flex-end}.wp-block-joinchat-button:not(.is-vertical).is-content-justification-left{justify-content:flex-start}.wp-block-joinchat-button:not(.is-vertical).is-content-justification-center{justify-content:center}.wp-block-joinchat-button:not(.is-vertical).is-content-justification-right{justify-content:flex-end}.wp-block-joinchat-button:not(.is-vertical).is-content-justification-space-between{justify-content:space-between}.wp-block-joinchat-button figure{align-items:center;display:flex;flex-direction:column;flex-shrink:0;margin:0;padding:0}.wp-block-joinchat-button figcaption{font:normal normal 400 .6em/2em var(--wp--preset--font-family--system-font,sans-serif);margin:0;padding:0}.wp-block-joinchat-button .joinchat-button__qr{background-color:#fff;box-sizing:content-box;display:block;height:200px;overflow:hidden;padding:10px;width:200px}.wp-block-joinchat-button .joinchat-button__qr canvas,.wp-block-joinchat-button .joinchat-button__qr img{display:block;margin:auto}.wp-block-joinchat-button .wp-block-buttons{flex:1 1 auto;margin:0;max-width:100%;min-width:0;width:100%}.wp-block-joinchat-button .wp-block-button.wp-block-button__width-25{min-width:25%;width:calc(25% - var(--wp--style--block-gap, .5em)*.75)}.wp-block-joinchat-button .wp-block-button.wp-block-button__width-50{min-width:50%;width:calc(50% - var(--wp--style--block-gap, .5em)*.5)}.wp-block-joinchat-button .wp-block-button.wp-block-button__width-75{min-width:75%;width:calc(75% - var(--wp--style--block-gap, .5em)*.25)}.wp-block-joinchat-button .wp-block-button.wp-block-button__width-100{min-width:100%;width:100%}.wp-block-joinchat-button .joinchat-button__link,.wp-block-joinchat-button .wp-block-button__link{align-items:center;display:inline-flex;flex-flow:row nowrap;justify-content:center;width:100%}.wp-block-joinchat-button .joinchat-button__link:before,.wp-block-joinchat-button .wp-block-button__link:before{background:transparent var(--joinchat-ico) no-repeat center;background-size:100%;content:"";display:block;height:1.5em;margin:-.75em .75em -.75em 0;width:1.5em}.wp-block-joinchat-button .joinchat-button__link{width:auto}.wp-block-joinchat-button:has(.joinchat-button__link){border:none!important;display:flex;flex-direction:column}@media (orientation:landscape)and (height >= 481px),(orientation:portrait)and (width >= 481px){.wp-block-joinchat-button.joinchat-button--qr-only .wp-block-buttons{display:none}}@media (orientation:landscape)and (height <= 480px),(width <= 480px){.wp-block-joinchat-button figure{display:none}}
+
+/*# sourceURL=https://berlincafe.es/wp-content/plugins/creame-whatsapp-me/gutenberg/build/style-index.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+:where(.wp-block-joinchat-button.is-layout-flex){gap: 10px;}:where(.wp-block-joinchat-button.is-layout-grid){gap: 10px;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://berlincafe.es/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://berlincafe.es/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=10.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://berlincafe.es/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=10.6.2' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://berlincafe.es/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=10.6.2' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+/*# sourceURL=woocommerce-inline-inline-css */
+</style>
+<link rel='stylesheet' id='elementor-icons-css' href='https://berlincafe.es/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.46.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://berlincafe.es/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.34.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-7-css' href='https://berlincafe.es/wp-content/uploads/elementor/css/post-7.css?ver=1786353680' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://berlincafe.es/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.34.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-774-css' href='https://berlincafe.es/wp-content/uploads/elementor/css/post-774.css?ver=1786353756' type='text/css' media='all' />
+<link rel='stylesheet' id='rekon-woocommerce-css' href='https://berlincafe.es/wp-content/themes/rekon/css/woocommerce.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-add-css' href='https://berlincafe.es/wp-content/themes/rekon-child/css/bootstrap_add.css?ver=5.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-6-css' href='https://berlincafe.es/wp-content/themes/rekon-child/fonts/font-awesome/css/all.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rekon-theme-fonts-css' href='https://fonts.googleapis.com/css?family=Heebo:300,400,500,700|Rubik:400,400i,500,700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-css' href='https://berlincafe.es/wp-content/themes/rekon/css/all.min.css?ver=5.11.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-flaticon-css' href='https://berlincafe.es/wp-content/themes/rekon/css/flaticon.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='https://berlincafe.es/wp-content/themes/rekon/css/animate.css?ver=3.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://berlincafe.es/wp-content/themes/rekon/css/bootstrap.css?ver=3.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='https://berlincafe.es/wp-content/themes/rekon/css/slick.css?ver=1.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css' href='https://berlincafe.es/wp-content/themes/rekon/css/magnific-popup.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='perfect-scrollbar-css' href='https://berlincafe.es/wp-content/themes/rekon/css/perfect-scrollbar.css?ver=0.6.12' type='text/css' media='all' />
+<link rel='stylesheet' id='rekon-template-css' href='https://berlincafe.es/wp-content/themes/rekon/css/template.css?ver=1.0' type='text/css' media='all' />
+<style id='rekon-template-inline-css' type='text/css'>
+/* Main Font */body{font-family:'Roboto',sans-serif;}/* Heading Font */h1, h2, h3, h4, h5, h6, .widget-title,.widgettitle{font-family:  'Roboto', sans-serif;}
+/*# sourceURL=rekon-template-inline-css */
+</style>
+<link rel='stylesheet' id='rekon-style-css' href='https://berlincafe.es/wp-content/themes/rekon/style.css?ver=1.0' type='text/css' media='all' />
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900,100italic,300italic,400italic,500italic,700italic,900italic&#038;subset=latin-ext&#038;display=swap&#038;ver=1679297304" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900,100italic,300italic,400italic,500italic,700italic,900italic&#038;subset=latin-ext&#038;display=swap&#038;ver=1679297304" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900,100italic,300italic,400italic,500italic,700italic,900italic&#038;subset=latin-ext&#038;display=swap&#038;ver=1679297304" /></noscript><link rel='stylesheet' id='rekon-child-style-css' href='https://berlincafe.es/wp-content/themes/rekon-child/style.css?ver=6.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-roboto-css' href='https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=auto' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-robotoslab-css' href='https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=auto' type='text/css' media='all' />
+<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p role="alert">Lo siento, este producto no está disponible. Por favor, elige otra combinación.</p>
+</script>
+<script type="text/javascript" src="https://berlincafe.es/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.6.2" id="wc-jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrito","cart_url":"https://berlincafe.es/carrito/","is_cart":"","cart_redirect_after_add":"yes"};
+//# sourceURL=wc-add-to-cart-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.6.2" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.6.2" id="wc-js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_password_show":"Mostrar contrase\u00f1a","i18n_password_hide":"Ocultar contrase\u00f1a"};
+//# sourceURL=woocommerce-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.6.2" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"/wp-admin/admin-ajax.php"}};
+//# sourceURL=wp-util-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://berlincafe.es/wp-includes/js/wp-util.min.js?ver=6.9.6" id="wp-util-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-variation-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Lo siento, no hay productos que igualen tu selecci\u00f3n. Por favor, escoge una combinaci\u00f3n diferente.","i18n_make_a_selection_text":"Elige las opciones del producto antes de a\u00f1adir este producto a tu carrito.","i18n_unavailable_text":"Lo siento, este producto no est\u00e1 disponible. Por favor, elige otra combinaci\u00f3n.","i18n_reset_alert_text":"Se ha restablecido tu selecci\u00f3n. Por favor, elige alguna opci\u00f3n del producto antes de poder a\u00f1adir este producto a tu carrito."};
+//# sourceURL=wc-add-to-cart-variation-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=10.6.2" id="wc-add-to-cart-variation-js" defer="defer" data-wp-strategy="defer"></script>
+<link rel="https://api.w.org/" href="https://berlincafe.es/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://berlincafe.es/wp-json/wp/v2/pages/774" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://berlincafe.es/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.6" />
+<meta name="generator" content="WooCommerce 10.6.2" />
+<link rel="canonical" href="https://berlincafe.es/programas/" />
+<link rel='shortlink' href='https://berlincafe.es/?p=774' />
+<meta name="generator" content="Redux 4.4.17" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Elementor 3.34.4; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<meta name="generator" content="Powered by Slider Revolution 6.7.20 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://berlincafe.es/wp-content/uploads/2022/09/cropped-favicon_cafe_berlin_512x512-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://berlincafe.es/wp-content/uploads/2022/09/cropped-favicon_cafe_berlin_512x512-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://berlincafe.es/wp-content/uploads/2022/09/cropped-favicon_cafe_berlin_512x512-180x180.png" />
+<meta name="msapplication-TileImage" content="https://berlincafe.es/wp-content/uploads/2022/09/cropped-favicon_cafe_berlin_512x512-270x270.png" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+</head>
+<body class="wp-singular page-template page-template-elementor_header_footer page page-id-774 wp-embed-responsive wp-theme-rekon wp-child-theme-rekon-child theme-rekon woocommerce-no-js cafe-berlin-programa image-lazy-loading body-footer-mobile no-sticky elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-774">
+<div id="wrapper-container" class="wrapper-container">
+	
+	    
+	<div id="apus-mobile-menu" class="apus-offcanvas hidden-lg"> 
+    <div class="apus-offcanvas-body">
+        <div class="offcanvas-head bg-primary">
+            <a class="btn-toggle-canvas" data-toggle="offcanvas">
+                <i class="icon-apus-close"></i>             </a>
+        </div>
+
+        <nav class="navbar navbar-offcanvas navbar-static" role="navigation">
+            <div class="navbar-collapse navbar-offcanvas-collapse"><ul id="menu-main-menu" class="nav navbar-nav main-mobile-menu"><li id="menu-item-4167" class="active menu-item-4167"><a href="https://berlincafe.es/programas/">Programa</a></li>
+<li id="menu-item-4341" class="has-submenu menu-item-4341"><a href="https://berlincafe.es/info/">Info</a> <span class="icon-toggle"><i class="fas fa-plus"></i></span>
+<ul class="sub-menu">
+	<li id="menu-item-4343" class="menu-item-4343"><a href="https://berlincafe.es/info/alquiler-sala/">Alquiler Sala</a></li>
+	<li id="menu-item-4342" class="menu-item-4342"><a href="https://berlincafe.es/info/rider-tecnico/">Rider Técnico</a></li>
+	<li id="menu-item-4413" class="menu-item-4413"><a href="https://berlincafe.es/info/faqs/">FAQs</a></li>
+</ul>
+</li>
+<li id="menu-item-4344" class="menu-item-4344"><a href="https://berlincafe.es/berlineses/">Berlineses</a></li>
+<li id="menu-item-4062" class="menu-item-4062"><a href="https://www.ohjazz.tv/cafe-berlin">Streaming</a></li>
+<li id="menu-item-8429" class="menu-item-8429"><a href="https://berlincafe.es/newsletter/">Newsletter</a></li>
+<li id="menu-item-8484" class="menu-item-8484"><a href="/wp-content/uploads/2026/10/CARTA-OCT-26.pdf">Carta</a></li>
+<li id="menu-item-4331" class="menu-item-4331"><a href="https://berlincafe.es/tienda/">Tienda</a></li>
+</ul></div>        </nav>
+        
+    </div>
+</div>
+<div class="over-dark"></div>	<div id="apus-header-mobile" class="header-mobile hidden-lg clearfix">        
+    <div class="flex-middle">
+        <div class="logo-wrapper">
+                                        <div class="logo">
+                    <a href="https://berlincafe.es/" >
+                        <img src="https://berlincafe.es/wp-content/uploads/2019/11/cafe_berlin.svg" alt="Café Berlín">
+                    </a>
+                </div>
+                    </div>
+        
+        <div class="ali-right">
+                        <a href="#navbar-offcanvas" class="btn btn-theme btn-showmenu"><i class="icon-apus-menu"></i></a>
+        </div>        
+    </div>    
+</div>
+	<div id="apus-header" class="apus-header hidden-xs hidden-md hidden-sm header-transparent-379">		<div data-elementor-type="wp-post" data-elementor-id="379" class="elementor elementor-379">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-fd8d636 elementor-section-stretched elementor-section-content-middle elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="fd8d636" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-bfced44" data-id="bfced44" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a166b93 elementor-widget elementor-widget-apus_element_logo" data-id="a166b93" data-element_type="widget" id="logo-cabecera" data-widget_type="apus_element_logo.default">
+				<div class="elementor-widget-container">
+					        <div class="logo ">
+            <a href="https://berlincafe.es/" >
+                <span class="logo-main">
+                    <img width="207" height="37" src="https://berlincafe.es/wp-content/uploads/2019/11/cafe_berlin.svg" class="attachment-full size-full wp-image-4068" alt="" decoding="async" />                </span>
+            </a>
+        </div>
+        				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c4facff" data-id="c4facff" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0a6d4cb elementor-widget__width-auto elementor-widget elementor-widget-apus_element_primary_menu" data-id="0a6d4cb" data-element_type="widget" data-widget_type="apus_element_primary_menu.default">
+				<div class="elementor-widget-container">
+					            <div class="main-menu   style1">
+                <nav data-duration="400" class="apus-megamenu slide animate navbar p-static" role="navigation">
+                <div class="collapse navbar-collapse no-padding"><ul id="primary-menu" class="nav navbar-nav megamenu effect1"><li class="active menu-item-4167 aligned-left"><a href="https://berlincafe.es/programas/">Programa</a></li>
+<li class="dropdown menu-item-4341 aligned-left"><a href="https://berlincafe.es/info/" class="dropdown-toggle"  data-hover="dropdown" data-toggle="dropdown">Info <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-item-4343 aligned-left"><a href="https://berlincafe.es/info/alquiler-sala/">Alquiler Sala</a></li>
+	<li class="menu-item-4342 aligned-left"><a href="https://berlincafe.es/info/rider-tecnico/">Rider Técnico</a></li>
+	<li class="menu-item-4413 aligned-left"><a href="https://berlincafe.es/info/faqs/">FAQs</a></li>
+</ul>
+</li>
+<li class="menu-item-4344 aligned-left"><a href="https://berlincafe.es/berlineses/">Berlineses</a></li>
+<li class="menu-item-4062 aligned-left"><a href="https://www.ohjazz.tv/cafe-berlin">Streaming</a></li>
+<li class="menu-item-8429 aligned-left"><a href="https://berlincafe.es/newsletter/">Newsletter</a></li>
+<li class="menu-item-8484 aligned-left"><a href="/wp-content/uploads/2026/10/CARTA-OCT-26.pdf">Carta</a></li>
+<li class="menu-item-4331 aligned-left"><a href="https://berlincafe.es/tienda/">Tienda</a></li>
+</ul></div>                </nav>
+            </div>
+            				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-86eebbf elementor-hidden-tablet elementor-hidden-mobile" data-id="86eebbf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9eee765 elementor-shape-circle e-grid-align-right elementor-hidden-tablet elementor-hidden-mobile elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="9eee765" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-shopping-cart elementor-repeater-item-bcd70c5" href="/carrito/">
+						<span class="elementor-screen-only">Shopping-cart</span>
+						<i aria-hidden="true" class="fas fa-shopping-cart"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-dd86dae" href="https://www.instagram.com/cafeberlinmadrid/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-f30e129" href="https://www.facebook.com/CafeBerlinMad" target="_blank">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<i aria-hidden="true" class="fab fa-facebook-f"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-a620ed9" href="https://twitter.com/CafeBerlinMad" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i aria-hidden="true" class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-tiktok elementor-repeater-item-c3b8366" href="https://www.tiktok.com/@cafeberlinmadrid" target="_blank">
+						<span class="elementor-screen-only">Tiktok</span>
+						<i aria-hidden="true" class="fab fa-tiktok"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-dc28851" href="https://www.youtube.com/c/BERL%C3%8DNCAF%C3%89Madridberl%C3%ADncaf%C3%A9" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i aria-hidden="true" class="fab fa-youtube"></i>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<div class="apus-search-form-wrapper apus-search-form">		
+	<form action="https://berlincafe.es/" method="get" class="container">      
+		<div class="col-md-12 col-sm-12">
+			<div class="p-relative">
+				<div class="main-search">
+		            <input type="text" placeholder="Search..." name="s" class="apus-search form-control" autocomplete="off"/>
+		        </div>
+		        <input type="hidden" name="post_type" value="post">        
+		        <button type="submit" class="btn btn-search"><i class="icon-apus-magnifiying-glass"></i></button>				
+			</div>
+		</div>
+		<span class="close"></span>
+    </form>
+</div></div>	<div id="apus-main-content">		<div data-elementor-type="wp-page" data-elementor-id="774" class="elementor elementor-774">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-7556394 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="7556394" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a43b6e9" data-id="a43b6e9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8a0fa33 line-bottom elementor-widget elementor-widget-heading" data-id="8a0fa33" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Programa</h1>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3e20fdc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3e20fdc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ff93718" data-id="ff93718" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8cf9cca elementor-align-center elementor-widget elementor-widget-button" data-id="8cf9cca" data-element_type="widget" id="btn-newsletter" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="/newsletter/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Suscribete a nuestra Newsletter</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b1d6662 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b1d6662" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f7302b0" data-id="f7302b0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b953754 elementor-widget elementor-widget-apus_element_projects" data-id="b953754" data-element_type="widget" data-widget_type="apus_element_projects.default">
+				<div class="elementor-widget-container">
+					            <div data-jimp="" class="widget-projects mansory ">
+                <div class="widget-content">
+                    <div class="programas-lista">
+
+                        
+                        <div class="tab-content-top container style2">
+                                                        <ul class="isotope-filter" data-related-grid="our-projects-SY1pp">
+                                <li><a href="javascript:void(0);" data-filter=".all">All</a></li>
+                                                                        <li><a href="javascript:void(0);" data-filter=".berlin-club">Berlín Club</a></li>
+                                                                                <li><a href="javascript:void(0);" data-filter=".cafe-berlin">Café Berlín</a></li>
+                                                                    </ul>
+                        </div>
+
+                        <div id="our-projects-SY1pp"  class="isotope-items row" data-isotope-duration="400" data-columnwidth=".col-sm-">
+
+                            
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Mar</div><div class="evento-fecha-dia">17</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/blanco-palamera-en-madrid-son-estrella-galicia-cafe-berlin-360o/" title="Blanco Palamera en Madrid | SON Estrella Galicia – Café Berlín 360º" aria-hidden="true">
+                    <h2 class="h1 my-0">Blanco Palamera en Madrid | SON Estrella Galicia – Café Berlín 360º</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 16,69€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/blanco-palamera-en-madrid-son-estrella-galicia-cafe-berlin-360o/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://dice.fm/partner/tickets/event/92r8r9-blanco-palamera-en-madrid-son-estrella-galicia-caf-berln-360-17th-nov-caf-berln-madrid-tickets?dice_id=9665802&dice_channel=web&dice_tags=organic&dice_campaign=+Todomedre+Producciones+SL&dice_feature=mio_marketing&_branch_match_id=1510199508325033663&utm_source=web&utm_campaign=Todomedre+Producciones+SL&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1U9KSrMwMDI3NExJTrKvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQDDo15FOwAAAA" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Mié</div><div class="evento-fecha-dia">18</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/cloud-nothings-en-madrid-son-estrella-galicia/" title="Cloud Nothings en Madrid | SON Estrella Galicia" aria-hidden="true">
+                    <h2 class="h1 my-0">Cloud Nothings en Madrid | SON Estrella Galicia</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 18€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/cloud-nothings-en-madrid-son-estrella-galicia/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://link.dice.fm/Wff46f1a1e26" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">19</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/kabeaushe-presents-iggy-swaggering-ungrateful-incessant-little-peeeaaaaaaaa/" title="KABEAUSHÉ PRESENTS: IGGY SWAGGERING UNGRATEFUL INCESSANT LITTLE PEEEAAAAAAAA" aria-hidden="true">
+                    <h2 class="h1 my-0">KABEAUSHÉ PRESENTS: IGGY SWAGGERING UNGRATEFUL INCESSANT LITTLE PEEEAAAAAAAA</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 16,38€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/kabeaushe-presents-iggy-swaggering-ungrateful-incessant-little-peeeaaaaaaaa/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://dice.fm/partner/tickets/event/3o7edl-kabeaush-presents-iggy-swaggering-ungrateful-19th-nov-caf-berln-madrid-tickets?dice_id=9928851&dice_channel=outdoors&dice_tags=organic&dice_campaign=Caf+Berlin&dice_feature=mio_marketing&_branch_match_id=1510199508325033663&utm_source=outdoors&utm_campaign=Caf+Berlin&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1fcySk20TE5NTDNNMbSvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQDAnzoOwAAAA" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">19</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/afrojam-4/" title="AFROJAM" aria-hidden="true">
+                    <h2 class="h1 my-0">AFROJAM</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    22:00                    <br />
+                    Entradas desde: 8€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/afrojam-4/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/afrojam-madrid-cafe-berlin" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all berlin-club mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">19</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/danze-afrika-club-3/" title="Danze Afrika Club" aria-hidden="true">
+                    <h2 class="h1 my-0">Danze Afrika Club</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    23:59                    <br />
+                    Entradas desde: 12€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/danze-afrika-club-3/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://tickets.berlinclub.es/es/events/danze-afrika/sessions/19-11-2026-23-59" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Vie</div><div class="evento-fecha-dia">20</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/david-y-carlos-de-jacoba-presentan-lorqueando-federico-9offc/" title="David y Carlos de Jacoba presentan “Lorqueando Federico” &#8211; 9ºFFC" aria-hidden="true">
+                    <h2 class="h1 my-0">David y Carlos de Jacoba presentan “Lorqueando Federico” &#8211; 9ºFFC</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 16€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/david-y-carlos-de-jacoba-presentan-lorqueando-federico-9offc/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/david-y-carlos-de-jacoba-presentan-lorqueando-federico-9-ffc" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Vie</div><div class="evento-fecha-dia">20</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/svaneborg-kardyb-en-microdosis/" title="Svaneborg Kardyb en microdosis" aria-hidden="true">
+                    <h2 class="h1 my-0">Svaneborg Kardyb en microdosis</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    22:00                    <br />
+                    Entradas desde: 27,50€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/svaneborg-kardyb-en-microdosis/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://es.ra.co/events/2459704" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all berlin-club mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Vie</div><div class="evento-fecha-dia">20</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/pulso-%c2%b7-toni-aparisi-arnau-obiols/" title="Pulso · Toni Aparisi &amp; Arnau Obiols" aria-hidden="true">
+                    <h2 class="h1 my-0">Pulso · Toni Aparisi &amp; Arnau Obiols</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    23:59                    <br />
+                    Entradas desde: 12€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/pulso-%c2%b7-toni-aparisi-arnau-obiols/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://tickets.berlinclub.es/events/pulso-toni-aparisi-arnau-obiols" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Sáb</div><div class="evento-fecha-dia">21</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/miles-coltrane-100-anos-por-so-what-project-jazz-con-sabor-a-club-2026/" title="MILES &amp; COLTRANE 100 AÑOS por SO WHAT PROJECT &#8211; JAZZ CON SABOR A CLUB 2026" aria-hidden="true">
+                    <h2 class="h1 my-0">MILES &amp; COLTRANE 100 AÑOS por SO WHAT PROJECT &#8211; JAZZ CON SABOR A CLUB 2026</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 20€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/miles-coltrane-100-anos-por-so-what-project-jazz-con-sabor-a-club-2026/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/miles-coltrane-100-anos-por-pablo-torti-quintet" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Sáb</div><div class="evento-fecha-dia">21</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/luis-el-zambo-presenta-conexion-santiago-9o-ffc/" title="Luis “El Zambo” presenta “Conexión Santiago” &#8211; 9º FFC" aria-hidden="true">
+                    <h2 class="h1 my-0">Luis “El Zambo” presenta “Conexión Santiago” &#8211; 9º FFC</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    22:30                    <br />
+                    Entradas desde: 18€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/luis-el-zambo-presenta-conexion-santiago-9o-ffc/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/luis-el-zambo-presenta-conexion-santiago-9-ffc" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all berlin-club mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Sáb</div><div class="evento-fecha-dia">21</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/gilda-club-presenta-retiro-electronico-%c2%b7-maduro-toni-carot-cabin-luv-affair-yahaira/" title="Gilda Club presenta Retiro Electrónico · Maduro + Toni Carot + Cabin Luv Affair + Yahaira" aria-hidden="true">
+                    <h2 class="h1 my-0">Gilda Club presenta Retiro Electrónico · Maduro + Toni Carot + Cabin Luv Affair + Yahaira</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    23:59                    <br />
+                    Entradas desde: 12€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/gilda-club-presenta-retiro-electronico-%c2%b7-maduro-toni-carot-cabin-luv-affair-yahaira/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://tickets.berlinclub.es/events/gilda-club-presenta-retiro-electronico-maduro-toni-carot-cabin-luv-affair-yahaira" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Dom</div><div class="evento-fecha-dia">22</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/the-jazz-room-un-viaje-al-corazon-de-nueva-orleans-16/" title="The Jazz Room: Un Viaje al Corazón de Nueva Orleans" aria-hidden="true">
+                    <h2 class="h1 my-0">The Jazz Room: Un Viaje al Corazón de Nueva Orleans</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    17:30                    <br />
+                    Entradas desde: 25€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/the-jazz-room-un-viaje-al-corazon-de-nueva-orleans-16/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://feverup.com/m/250209" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Dom</div><div class="evento-fecha-dia">22</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/the-jazz-room-un-viaje-al-corazon-de-nueva-orleans-17/" title="The Jazz Room: Un Viaje al Corazón de Nueva Orleans" aria-hidden="true">
+                    <h2 class="h1 my-0">The Jazz Room: Un Viaje al Corazón de Nueva Orleans</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    19:30                    <br />
+                    Entradas desde: 25€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/the-jazz-room-un-viaje-al-corazon-de-nueva-orleans-17/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://feverup.com/m/250209" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Lun</div><div class="evento-fecha-dia">23</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/impulso-michael-mayo/" title="IMPULSO &#8211; MICHAEL MAYO" aria-hidden="true">
+                    <h2 class="h1 my-0">IMPULSO &#8211; MICHAEL MAYO</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 25€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/impulso-michael-mayo/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://mutick.com/e/entradas-michael-mayo-madrid" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Mar</div><div class="evento-fecha-dia">24</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/dimitri-papanikas-cuenta-pier-paolo-pasolini-ciclo-rebeldes/" title="DIMITRI PAPANIKAS cuenta PIER PAOLO PASOLINI (Ciclo “Rebeldes”)" aria-hidden="true">
+                    <h2 class="h1 my-0">DIMITRI PAPANIKAS cuenta PIER PAOLO PASOLINI (Ciclo “Rebeldes”)</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 18€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/dimitri-papanikas-cuenta-pier-paolo-pasolini-ciclo-rebeldes/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/dimitri-papanikas-ciclo-rebeldes" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Mar</div><div class="evento-fecha-dia">24</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/impulso-roberto-fonseca-trio-andres-coayo-buena-vista-social-club/" title="IMPULSO &#8211; ROBERTO FONSECA Trío + Andrés Coayo (Buena Vista Social Club)" aria-hidden="true">
+                    <h2 class="h1 my-0">IMPULSO &#8211; ROBERTO FONSECA Trío + Andrés Coayo (Buena Vista Social Club)</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    22:30                    <br />
+                    Entradas desde: 30€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/impulso-roberto-fonseca-trio-andres-coayo-buena-vista-social-club/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://mutick.com/e/entradas-roberto-fonseca-madrid-2026" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Mié</div><div class="evento-fecha-dia">25</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/chico-blanco-live-a-v-nazzz-juguete-en-madrid-son-estrella-galicia/" title="CHICO BLANCO LIVE A/V + NAZZZ + Juguete en Madrid | SON Estrella Galicia" aria-hidden="true">
+                    <h2 class="h1 my-0">CHICO BLANCO LIVE A/V + NAZZZ + Juguete en Madrid | SON Estrella Galicia</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    21:00                    <br />
+                    Entradas desde: 20,03€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/chico-blanco-live-a-v-nazzz-juguete-en-madrid-son-estrella-galicia/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://dice.fm/event/r32yqy-chico-blanco-live-av-nazzz-juguete-en-madrid-son-estrella-galicia-25th-nov-caf-berln-madrid-tickets?lng=es" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">26</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/julia-debis-la-memoria-en-vivo/" title="Julia Debis &#8211; La Memoria En Vivo" aria-hidden="true">
+                    <h2 class="h1 my-0">Julia Debis &#8211; La Memoria En Vivo</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 10€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/julia-debis-la-memoria-en-vivo/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/julia-debis-la-memoria-en-vivo" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">26</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/afrojam-5/" title="AFROJAM" aria-hidden="true">
+                    <h2 class="h1 my-0">AFROJAM</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    22:00                    <br />
+                    Entradas desde: 8€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/afrojam-5/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/afrojam-madrid-cafe-berlin" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all berlin-club mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">26</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/danze-afrika-club-4/" title="Danze Afrika Club" aria-hidden="true">
+                    <h2 class="h1 my-0">Danze Afrika Club</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    23:59                    <br />
+                    Entradas desde: 12€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/danze-afrika-club-4/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://tickets.berlinclub.es/es/events/danze-afrika/sessions/26-11-2026-23-59" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Vie</div><div class="evento-fecha-dia">27</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/perrate-presenta-sistema-tango-9o-ffc/" title="Perrate presenta “Sistema Tango” &#8211; 9º FFC" aria-hidden="true">
+                    <h2 class="h1 my-0">Perrate presenta “Sistema Tango” &#8211; 9º FFC</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 20€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/perrate-presenta-sistema-tango-9o-ffc/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/perrate-presenta-sistema-tango-9-ffc" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Vie</div><div class="evento-fecha-dia">27</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/micromambo-3/" title="MICROMAMBO" aria-hidden="true">
+                    <h2 class="h1 my-0">MICROMAMBO</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    22:30                    <br />
+                    Entradas desde: 25€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/micromambo-3/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/micromambo-madrid-cafe-berlin" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all berlin-club mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Vie</div><div class="evento-fecha-dia">27</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/la-descarguita-%c2%b7-dj-mois-karly-golden/" title="La Descarguita · DJ Mois &amp; Karly Golden" aria-hidden="true">
+                    <h2 class="h1 my-0">La Descarguita · DJ Mois &amp; Karly Golden</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    23:59                    <br />
+                    Entradas desde: 12€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/la-descarguita-%c2%b7-dj-mois-karly-golden/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://tickets.berlinclub.es/events/la-descarguita-dj-mois-karly-golden" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Sáb</div><div class="evento-fecha-dia">28</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/ciao-franco-tributo-a-franco-battiato/" title="Ciao Franco: Homenaje a Franco Battiato (Duo)" aria-hidden="true">
+                    <h2 class="h1 my-0">Ciao Franco: Homenaje a Franco Battiato (Duo)</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 20€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/ciao-franco-tributo-a-franco-battiato/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://entradas.italiaes.org/events/ciao-franco-homenaje-a-franco-battiato-madrid" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Sáb</div><div class="evento-fecha-dia">28</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/sandra-carrasco-y-david-de-arahal-9o-ffc/" title="Sandra Carrasco y David de Arahal &#8211; 9º FFC" aria-hidden="true">
+                    <h2 class="h1 my-0">Sandra Carrasco y David de Arahal &#8211; 9º FFC</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    22:30                    <br />
+                    Entradas desde: 20€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/sandra-carrasco-y-david-de-arahal-9o-ffc/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/sandra-carrasco-y-david-de-arahal-9-ffc" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all berlin-club mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Sáb</div><div class="evento-fecha-dia">28</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/blend-%c2%b7-johnny-reckless-nacho-larache-marcos-boricua/" title="Blend · Johnny Reckless + Nacho Larache + Marcos Boricua" aria-hidden="true">
+                    <h2 class="h1 my-0">Blend · Johnny Reckless + Nacho Larache + Marcos Boricua</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    23:59                    <br />
+                    Entradas desde: 16€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/blend-%c2%b7-johnny-reckless-nacho-larache-marcos-boricua/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://tickets.berlinclub.es/events/blend-johnny-reckless-nacho-larache-marcos-boricua" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Dom</div><div class="evento-fecha-dia">29</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/moranis/" title="Moranis" aria-hidden="true">
+                    <h2 class="h1 my-0">Moranis</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    18:30                    <br />
+                    Entradas desde: 15€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/moranis/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://mutick.com/e/moranis-en-concierto" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Dom</div><div class="evento-fecha-dia">29</div><div class="pb-2 evento-fecha-mes">Nov</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/impulso-yuley-diaz-en-madrid/" title="IMPULSO &#8211; YULEY DÍAZ en Madrid" aria-hidden="true">
+                    <h2 class="h1 my-0">IMPULSO &#8211; YULEY DÍAZ en Madrid</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    21:00                    <br />
+                    Entradas desde: 16€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/impulso-yuley-diaz-en-madrid/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://mutick.com/e/entradas-yuley-diaz-madrid" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">03</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/juan-belda/" title="Juan Belda presenta en Madrid ‘La otra cara del color azul’" aria-hidden="true">
+                    <h2 class="h1 my-0">Juan Belda presenta en Madrid ‘La otra cara del color azul’</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 12€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/juan-belda/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://tickeate.com/tickets/es/comprarEvento?idEvento=14&idSesion=14&tkn_x=6efb1449-9468-4812-8969-b493ec17ca75&tkn_c=e4895359-ed7b-4daa-9dad-9cab00002850" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">03</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/afrojam-6/" title="AFROJAM" aria-hidden="true">
+                    <h2 class="h1 my-0">AFROJAM</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    22:00                    <br />
+                    Entradas desde: 8€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/afrojam-6/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/afrojam-5f934d60-e9aa-43d2-a7d5-4b30413e017b" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Vie</div><div class="evento-fecha-dia">04</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/jamie-woon-en-madrid-son-estrella-galicia-cafe-berlin-360o/" title="Jamie Woon en Madrid | SON Estrella Galicia – Café Berlín 360º" aria-hidden="true">
+                    <h2 class="h1 my-0">Jamie Woon en Madrid | SON Estrella Galicia – Café Berlín 360º</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 20,03€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/jamie-woon-en-madrid-son-estrella-galicia-cafe-berlin-360o/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://link.dice.fm/jcac1186b815" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Vie</div><div class="evento-fecha-dia">04</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/ogun-afrobeat-ariya-nights-ft-samuel-akinola-ogunmola/" title="OGUN AFROBEAT «Ariya Nights» ft. Samuel Akinola Ogunmola" aria-hidden="true">
+                    <h2 class="h1 my-0">OGUN AFROBEAT «Ariya Nights» ft. Samuel Akinola Ogunmola</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    22:30                    <br />
+                    Entradas desde: 14€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/ogun-afrobeat-ariya-nights-ft-samuel-akinola-ogunmola/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/ogun-afrobeat" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all berlin-club mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Sáb</div><div class="evento-fecha-dia">05</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/jazzy-club-%c2%b7-dorian-paic-alvaro-medina-bday-dhermida-manu-rochina/" title="Jazzy Club · Dorian Paic + Álvaro Medina BDAY + Dhermida + Manu Rochina" aria-hidden="true">
+                    <h2 class="h1 my-0">Jazzy Club · Dorian Paic + Álvaro Medina BDAY + Dhermida + Manu Rochina</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    23:59                    <br />
+                    Entradas desde: 12€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/jazzy-club-%c2%b7-dorian-paic-alvaro-medina-bday-dhermida-manu-rochina/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://tickets.berlinclub.es/events/jazzy-club-dorian-paic-alvaro-medina-bday-dhermida-manu-rochina-en-berlin-club-madrid" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Dom</div><div class="evento-fecha-dia">06</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/la-argenta-orquesta-tipica-de-tango-milonga-9/" title="Tango – Milonga · Orquesta típica LA ARGENTA " aria-hidden="true">
+                    <h2 class="h1 my-0">Tango – Milonga · Orquesta típica LA ARGENTA </h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    17:00                    <br />
+                    Entradas desde: 15€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/la-argenta-orquesta-tipica-de-tango-milonga-9/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/la-argenta-orquesta-tipica-de-tango-milonga-7f2cf1b8-d5c3-45e7-b0db-ead2661266e6" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Dom</div><div class="evento-fecha-dia">06</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/rosado-in-blue/" title="Rosado in Blue" aria-hidden="true">
+                    <h2 class="h1 my-0">Rosado in Blue</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    21:00                    <br />
+                    Entradas desde: 12€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/rosado-in-blue/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/rosado-in-blue" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Mié</div><div class="evento-fecha-dia">09</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/gryto-concierto-showcase-presentacion/" title="GRYTO &#8211; Concierto Showcase presentación" aria-hidden="true">
+                    <h2 class="h1 my-0">GRYTO &#8211; Concierto Showcase presentación</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 0€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/gryto-concierto-showcase-presentacion/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                            </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">10</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/blue-bacon-frederico-vannini-jesus-de-los-campos/" title="BLUE BACON &#8211; Frederico Vannini &amp; Jesús de los Campos" aria-hidden="true">
+                    <h2 class="h1 my-0">BLUE BACON &#8211; Frederico Vannini &amp; Jesús de los Campos</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 10€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/blue-bacon-frederico-vannini-jesus-de-los-campos/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/blue-bacon-frederico-vannini-jesus-de-los-campos" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">10</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/afrojam-7/" title="AFROJAM" aria-hidden="true">
+                    <h2 class="h1 my-0">AFROJAM</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    22:00                    <br />
+                    Entradas desde: 8€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/afrojam-7/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/afrojam-5f934d60-e9aa-43d2-a7d5-4b30413e017b" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all berlin-club mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Vie</div><div class="evento-fecha-dia">11</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/decibel-%c2%b7-daya-dadlani-alex-sosa-x-mumbai-records-presentan-god-money-sex/" title="Decibel · Daya Dadlani &amp; Alex Sosa x Mumbai Records presentan GOD MONEY SEX" aria-hidden="true">
+                    <h2 class="h1 my-0">Decibel · Daya Dadlani &amp; Alex Sosa x Mumbai Records presentan GOD MONEY SEX</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    23:59                    <br />
+                    Entradas desde: 12€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/decibel-%c2%b7-daya-dadlani-alex-sosa-x-mumbai-records-presentan-god-money-sex/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://tickets.berlinclub.es/events/decibel-daya-dadlani-alex-sosa-x-mumbai-records-presentan-god-money-sex" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Sáb</div><div class="evento-fecha-dia">12</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/mabu-gira-el-sonido-de-una-tierra-escondida/" title="Mäbu Girä El Sonido De Una Tierra Escondida" aria-hidden="true">
+                    <h2 class="h1 my-0">Mäbu Girä El Sonido De Una Tierra Escondida</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 18,72€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/mabu-gira-el-sonido-de-una-tierra-escondida/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://ticketandroll.com/evento/mabu-gira-el-sonido-de-una-tierra-escondida-12-Dec" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Dom</div><div class="evento-fecha-dia">13</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/the-jazz-room-tributo-a-frank-sinatra-y-louis-armstrong/" title="The Jazz Room: Tributo a Frank Sinatra y Louis Armstrong" aria-hidden="true">
+                    <h2 class="h1 my-0">The Jazz Room: Tributo a Frank Sinatra y Louis Armstrong</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    17:30                    <br />
+                    Entradas desde: 25,50€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/the-jazz-room-tributo-a-frank-sinatra-y-louis-armstrong/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://feverup.com/m/562311" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Dom</div><div class="evento-fecha-dia">13</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/the-jazz-room-tributo-a-frank-sinatra-y-louis-armstrong-2/" title="The Jazz Room: Tributo a Frank Sinatra y Louis Armstrong" aria-hidden="true">
+                    <h2 class="h1 my-0">The Jazz Room: Tributo a Frank Sinatra y Louis Armstrong</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    19:30                    <br />
+                    Entradas desde: 25,50€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/the-jazz-room-tributo-a-frank-sinatra-y-louis-armstrong-2/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://feverup.com/m/562311" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Mié</div><div class="evento-fecha-dia">16</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/toninho-horta-intimos-en-el-berlin/" title="Toninho Horta | Íntimos en el Berlín" aria-hidden="true">
+                    <h2 class="h1 my-0">Toninho Horta | Íntimos en el Berlín</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 18€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/toninho-horta-intimos-en-el-berlin/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/toninho-horta-intimos-en-el-berlin" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">17</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/afrojam-8/" title="AFROJAM" aria-hidden="true">
+                    <h2 class="h1 my-0">AFROJAM</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    22:00                    <br />
+                    Entradas desde: 8€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/afrojam-8/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/afrojam-5f934d60-e9aa-43d2-a7d5-4b30413e017b" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all berlin-club mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Sáb</div><div class="evento-fecha-dia">19</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/girando-la-tarde-%c2%b7-ale-acosta-dj-set-nebari/" title="Girando la Tarde · Ale Acosta Dj Set + Nebari" aria-hidden="true">
+                    <h2 class="h1 my-0">Girando la Tarde · Ale Acosta Dj Set + Nebari</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    19:00                    <br />
+                    Entradas desde: 12€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/girando-la-tarde-%c2%b7-ale-acosta-dj-set-nebari/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://tickets.berlinclub.es/events/girando-la-tarde-ale-acosta-dj-set-nebari" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Dom</div><div class="evento-fecha-dia">20</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/donnys-black-shoes-celebran-songs-in-the-key-of-life-stevie-wonder-%c2%b7-50o-aniversario/" title="DONNY’S BLACK SHOES celebran «SONGS IN THE KEY OF LIFE» (Stevie Wonder) · 50º ANIVERSARIO" aria-hidden="true">
+                    <h2 class="h1 my-0">DONNY’S BLACK SHOES celebran «SONGS IN THE KEY OF LIFE» (Stevie Wonder) · 50º ANIVERSARIO</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    18:00                    <br />
+                    Entradas desde: 23€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/donnys-black-shoes-celebran-songs-in-the-key-of-life-stevie-wonder-%c2%b7-50o-aniversario/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://www.notikumi.com/channel/grey-coda-s-l/2026/12/20/concierto-de-donnys-black-shoes-song-in-the-key-of-life-en-madrid-1" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Dom</div><div class="evento-fecha-dia">20</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/donnys-black-shoes-celebran-songs-in-the-key-of-life-stevie-wonder-%c2%b7-50o-aniversario-2/" title="DONNY’S BLACK SHOES celebran «SONGS IN THE KEY OF LIFE» (Stevie Wonder) · 50º ANIVERSARIO" aria-hidden="true">
+                    <h2 class="h1 my-0">DONNY’S BLACK SHOES celebran «SONGS IN THE KEY OF LIFE» (Stevie Wonder) · 50º ANIVERSARIO</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:30                    <br />
+                    Entradas desde: 23€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/donnys-black-shoes-celebran-songs-in-the-key-of-life-stevie-wonder-%c2%b7-50o-aniversario-2/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://www.notikumi.com/channel/grey-coda-s-l/2026/12/20/concierto-de-donnys-black-shoes-song-in-the-key-of-life-en-madrid-1" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Sáb</div><div class="evento-fecha-dia">26</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/micromambo/" title="MICROMAMBO" aria-hidden="true">
+                    <h2 class="h1 my-0">MICROMAMBO</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    22:30                    <br />
+                    Entradas desde: 25€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/micromambo/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/micromambo-madrid-cafe-berlin" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Dom</div><div class="evento-fecha-dia">27</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/the-jazz-room-tributo-navideno/" title="The Jazz Room: Tributo navideño" aria-hidden="true">
+                    <h2 class="h1 my-0">The Jazz Room: Tributo navideño</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    17:30                    <br />
+                    Entradas desde: 28€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/the-jazz-room-tributo-navideno/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://feverup.com/m/801947" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Dom</div><div class="evento-fecha-dia">27</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/the-jazz-room-tributo-navideno-2/" title="The Jazz Room: Tributo navideño" aria-hidden="true">
+                    <h2 class="h1 my-0">The Jazz Room: Tributo navideño</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    19:30                    <br />
+                    Entradas desde: 28€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/the-jazz-room-tributo-navideno-2/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://feverup.com/m/801947" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Mar</div><div class="evento-fecha-dia">29</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/leganes-big-band-big-night/" title="Leganés Big Band. Big Night" aria-hidden="true">
+                    <h2 class="h1 my-0">Leganés Big Band. Big Night</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 15€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/leganes-big-band-big-night/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/leganes-big-band-big-night" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all berlin-club mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">31</div><div class="pb-2 evento-fecha-mes">Dic</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/nye-party-%c2%b7-yahaira-gaspar-elena-le-nomad-en-berlin-club-madrid/" title="NYE Party · Yahaira + Gaspar &#038; Elena + Le Nomad en Berlín Club Madrid" aria-hidden="true">
+                    <h2 class="h1 my-0">NYE Party · Yahaira + Gaspar &#038; Elena + Le Nomad en Berlín Club Madrid</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    23:59                    <br />
+                    Entradas desde: 50€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/nye-party-%c2%b7-yahaira-gaspar-elena-le-nomad-en-berlin-club-madrid/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://tickets.berlinclub.es/events/nye-party-yahaira-gaspar-elena-le-nomad-en-berlin-club-madrid" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">14</div><div class="pb-2 evento-fecha-mes">Ene</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/gitano-de-palo/" title="GITANO DE PALO" aria-hidden="true">
+                    <h2 class="h1 my-0">GITANO DE PALO</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 12€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/gitano-de-palo/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://mutick.com/e/entradas-gitano-de-palo-madrid-2027" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">21</div><div class="pb-2 evento-fecha-mes">Ene</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/toni-brunet-presenta-como-aprender-judo/" title="Toni Brunet presenta «Cómo aprender judo»" aria-hidden="true">
+                    <h2 class="h1 my-0">Toni Brunet presenta «Cómo aprender judo»</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 18€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/toni-brunet-presenta-como-aprender-judo/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/como-aprender-judo-en-cafe-berlin" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">18</div><div class="pb-2 evento-fecha-mes">Mar</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/anne-lukin-presentacion-de-nuevo-disco/" title="Anne Lukin &#8211; Presentación de nuevo disco" aria-hidden="true">
+                    <h2 class="h1 my-0">Anne Lukin &#8211; Presentación de nuevo disco</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 15€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/anne-lukin-presentacion-de-nuevo-disco/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/anne-lukin-presentacion-de-su-nuevo-disco" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Jue</div><div class="evento-fecha-dia">01</div><div class="pb-2 evento-fecha-mes">Abr</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/alex-ferreira-en-madrid/" title="ALEX FERREIRA en Madrid" aria-hidden="true">
+                    <h2 class="h1 my-0">ALEX FERREIRA en Madrid</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 20€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/alex-ferreira-en-madrid/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/alex-ferreira-en-madrid" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Vie</div><div class="evento-fecha-dia">02</div><div class="pb-2 evento-fecha-mes">Abr</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/pablo-martin-en-concierto/" title="PABLO MARTÍN EN CONCIERTO" aria-hidden="true">
+                    <h2 class="h1 my-0">PABLO MARTÍN EN CONCIERTO</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 15€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/pablo-martin-en-concierto/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/pablo-martin-en-concierto" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Sáb</div><div class="evento-fecha-dia">03</div><div class="pb-2 evento-fecha-mes">Abr</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/farther-on/" title="FARTHER ON" aria-hidden="true">
+                    <h2 class="h1 my-0">FARTHER ON</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    20:00                    <br />
+                    Entradas desde: 15€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/farther-on/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://mutick.com/e/entradas-farther-on-madrid-2027" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                                    <div class="isotope-item col-sm- col-xs-12 all cafe-berlin mb-4 mb-sm-5 pb-3 pb-sm-0 line-bottom solo-movil">
+                                        <article class="programas-lista-programa mb-4 mb-sm-0">
+	<div class="row">
+        <div class="col-xs-3 col-sm-1 mt-2 ps-0 pe-3 fecha-evento">
+            <div>
+                <div class="evento-fecha-dia-nombre">Vie</div><div class="evento-fecha-dia">09</div><div class="pb-2 evento-fecha-mes">Abr</div>            </div>
+        </div>
+
+        <div class="col-xs-8 col-sm-11 px-sm-0 pb-3 programa-informacion">
+            <div class="col-xs-12 col-sm-8 ps-0">
+                <a href="https://berlincafe.es/programa/seth-lee-jones-trio-2/" title="SETH LEE JONES Trio" aria-hidden="true">
+                    <h2 class="h1 my-0">SETH LEE JONES Trio</h2>
+                </a>
+                
+                <h5 class="my-0 font-400">
+                    22:30                    <br />
+                    Entradas desde: 23€                </h5>
+
+                <div class="mt-2">
+                    <a href="https://berlincafe.es/programa/seth-lee-jones-trio-2/" class="programa-mas-informacion" aria-hidden="true">
+                        Leer más                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 ps-0 px-sm-0 mt-2 mt-sm-0">
+                                    <a href="https://cafeberlinentradas.com/events/seth-lee-jones-trio-madrid" class="btn-entradas">ENTRADAS</a>
+                                </div>
+        </div>
+    </div>
+</article>                                    </div>
+
+                                    
+                        </div>
+                    </div>
+                </div>
+            </div>
+            				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+			</div><!-- .site-content -->
+			<div id="apus-footer" class="apus-footer footer-builder-wrapper footer-dark"><div class="apus-footer-inner">		<div data-elementor-type="wp-post" data-elementor-id="75" class="elementor elementor-75">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-34dafa6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="34dafa6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4cb527a" data-id="4cb527a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b7a5514 elementor-widget elementor-widget-image" data-id="b7a5514" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="660" height="70" src="https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-INSTITUCIONALES-FOOTER-WEB-2026-1-1024x109.png" class="attachment-large size-large wp-image-9612" alt="" srcset="https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-INSTITUCIONALES-FOOTER-WEB-2026-1-1024x109.png 1024w, https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-INSTITUCIONALES-FOOTER-WEB-2026-1-300x32.png 300w, https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-INSTITUCIONALES-FOOTER-WEB-2026-1-768x81.png 768w, https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-INSTITUCIONALES-FOOTER-WEB-2026-1-1536x163.png 1536w, https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-INSTITUCIONALES-FOOTER-WEB-2026-1-460x49.png 460w, https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-INSTITUCIONALES-FOOTER-WEB-2026-1-600x64.png 600w, https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-INSTITUCIONALES-FOOTER-WEB-2026-1.png 1839w" sizes="(max-width: 660px) 100vw, 660px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-bcdccaa elementor-section-stretched apus-copyright-builder elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bcdccaa" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ecdae14" data-id="ecdae14" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6f15bc3 elementor-widget-tablet__width-auto elementor-widget-mobile__width-auto elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="6f15bc3" data-element_type="widget" id="copyright" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>© 2024 Café Berlín. Diseñado por <a class="text-color-digidisa" href="//digidisa.com/" target="_blank" rel="noopener">Digidisa</a></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0ed11d4" data-id="0ed11d4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6786014 elementor-icon-list--layout-inline elementor-align-end elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6786014" data-element_type="widget" id="footer-legal" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://berlincafe.es/aviso-legal/">
+
+											<span class="elementor-icon-list-text">Aviso legal</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://berlincafe.es/politica-privacidad/">
+
+											<span class="elementor-icon-list-text">Privacidad</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://berlincafe.es/politica-de-cookies/">
+
+											<span class="elementor-icon-list-text">Cookies</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="/condiciones-de-venta/">
+
+											<span class="elementor-icon-list-text">Condiciones de Venta, Entrega y Devoluciones</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="/formulario-de-desistimiento/">
+
+											<span class="elementor-icon-list-text">Formulario de desistimiento</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://berlincafe.es/wp-content/uploads/2023/12/Autorizacion_Acceso-Menores.pdf" target="_blank">
+
+											<span class="elementor-icon-list-text">Autorización Menores</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-cb585ce elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cb585ce" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4b36800" data-id="4b36800" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-901a09d elementor-widget elementor-widget-image" data-id="901a09d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="660" height="45" src="https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-kit-digital-FOOTER-WEB-2026-1-1024x70.png" class="attachment-large size-large wp-image-9611" alt="" srcset="https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-kit-digital-FOOTER-WEB-2026-1-1024x70.png 1024w, https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-kit-digital-FOOTER-WEB-2026-1-300x21.png 300w, https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-kit-digital-FOOTER-WEB-2026-1-768x53.png 768w, https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-kit-digital-FOOTER-WEB-2026-1-1536x105.png 1536w, https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-kit-digital-FOOTER-WEB-2026-1-460x32.png 460w, https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-kit-digital-FOOTER-WEB-2026-1-600x41.png 600w, https://berlincafe.es/wp-content/uploads/2019/11/LOGOS-kit-digital-FOOTER-WEB-2026-1.png 1838w" sizes="(max-width: 660px) 100vw, 660px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-9a94fcc elementor-widget elementor-widget-image" data-id="9a94fcc" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://berlincafe.es/wp-content/uploads/elementor/thumbs/Cultura-Turismo-y-Deporte-Logo-ro416c90rsuu2npaxteqqqy5t35kpobjjy9exxlmcq.png" title="Cultura Turismo y Deporte Logo" alt="Cultura Turismo y Deporte Logo" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		</div></div>		
+			<a href="#" id="back-to-top" class="add-fix-top">			
+			<i class="fas fa-chevron-up"></i>					
+		</a>				
+	
+	</div><!-- .site -->
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/rekon-child/*","/wp-content/themes/rekon/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+				<script type='text/javascript'>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='wc-blocks-style-css' href='https://berlincafe.es/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-379-css' href='https://berlincafe.es/wp-content/uploads/elementor/css/post-379.css?ver=1786353680' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://berlincafe.es/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.34.4' type='text/css' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://berlincafe.es/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.34.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-75-css' href='https://berlincafe.es/wp-content/uploads/elementor/css/post-75.css?ver=1793092295' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://berlincafe.es/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.34.4' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='https://berlincafe.es/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.34.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://berlincafe.es/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://berlincafe.es/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://berlincafe.es/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='//berlincafe.es/wp-content/plugins/slider-revolution/sr6/assets/css/rs6.css?ver=6.7.20' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+/*# sourceURL=rs-plugin-settings-inline-css */
+</style>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/themes/rekon/js/bootstrap.min.js?ver=20150330" id="bootstrap-js"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/themes/rekon/js/slick.min.js?ver=1.8.0" id="slick-js"></script>
+<script type="text/javascript" id="countdown-js-extra">
+/* <![CDATA[ */
+var rekon_countdown_opts = {"days":"Days","hours":"Hrs","mins":"Mins","secs":"Secs"};
+//# sourceURL=countdown-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/themes/rekon/js/countdown.js?ver=20150315" id="countdown-js"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/themes/rekon/js/jquery.magnific-popup.min.js?ver=1.1.0" id="jquery-magnific-popup-js"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/themes/rekon/js/jquery.unveil.js?ver=1.1.0" id="jquery-unveil-js"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/themes/rekon/js/perfect-scrollbar.jquery.min.js?ver=0.6.12" id="perfect-scrollbar-js"></script>
+<script type="text/javascript" id="rekon-functions-js-extra">
+/* <![CDATA[ */
+var rekon_ajax = {"ajaxurl":"https://berlincafe.es/wp-admin/admin-ajax.php","previous":"Previous","next":"Next"};
+//# sourceURL=rekon-functions-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/themes/rekon/js/functions.js?ver=20150330" id="rekon-functions-js"></script>
+<script type="text/javascript" id="rekon-functions-js-after">
+/* <![CDATA[ */
+(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);
+//# sourceURL=rekon-functions-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://berlincafe.es/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.5" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-12-01 15:45:40+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"This contact form is placed in the wrong place.":["Este formulario de contacto est\u00e1 situado en el lugar incorrecto."],"Error:":["Error:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+//# sourceURL=contact-form-7-js-translations
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/berlincafe.es\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.5" id="contact-form-7-js"></script>
+<script type="text/javascript" src="//berlincafe.es/wp-content/plugins/slider-revolution/sr6/assets/js/rbtools.min.js?ver=6.7.20" defer async id="tp-tools-js"></script>
+<script type="text/javascript" src="//berlincafe.es/wp-content/plugins/slider-revolution/sr6/assets/js/rs6.min.js?ver=6.7.20" defer async id="revmin-js"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/themes/rekon-child/js/cafeberlin_scripts.js?ver=1.0" id="cafeberlin-scripts-js"></script>
+<script type="text/javascript" id="rekon-woocommerce-js-extra">
+/* <![CDATA[ */
+var rekon_woo_options = {"ajaxurl":"https://berlincafe.es/wp-admin/admin-ajax.php","view_more_text":"View More","view_less_text":"View Less"};
+//# sourceURL=rekon-woocommerce-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/themes/rekon/js/woocommerce.js?ver=20150330" id="rekon-woocommerce-js"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.6.2" id="sourcebuster-js-js"></script>
+<script type="text/javascript" id="wc-order-attribution-js-extra">
+/* <![CDATA[ */
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":false,"ajaxurl":"https://berlincafe.es/wp-admin/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+//# sourceURL=wc-order-attribution-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.6.2" id="wc-order-attribution-js"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.34.4" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.34.4" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.34.4","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"e_interactions":true,"e_editor_one":true,"import-export-customization":true},"urls":{"assets":"https:\/\/berlincafe.es\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/berlincafe.es\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/berlincafe.es\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"4f54eafbda"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":9659,"title":"Programa%20%E2%80%93%20Caf%C3%A9%20Berl%C3%ADn","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.34.4" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://berlincafe.es/wp-content/themes/rekon/js/isotope.pkgd.min.js?ver=6.9.6" id="isotope-pkgd-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://berlincafe.es/wp-includes/js/wp-emoji-release.min.js?ver=6.9.6"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://berlincafe.es/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+</body>
+</html>
