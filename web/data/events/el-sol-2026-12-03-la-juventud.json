@@ -1,0 +1,20 @@
+{
+ "titulo": "LA JUVENTUD",
+ "fecha": "2026-12-03",
+ "hora": "20:30",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://dice.fm/partner/tickets/event/av82dv-la-juventud-3rd-dec-el-sol-madrid-tickets",
+ "url": "https://salaelsol.com/eventos/la-juventud-2/",
+ "imagen": "https://salaelsol.com/wp-content/uploads/2026/10/La-Juventud_.jpg",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Conciertos",
+  "Conciertos",
+  "Conciertos"
+ ],
+ "sala": "el-sol",
+ "id": "el-sol-2026-12-03-la-juventud"
+}

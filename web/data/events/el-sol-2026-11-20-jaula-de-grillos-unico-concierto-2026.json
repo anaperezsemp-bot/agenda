@@ -1,0 +1,23 @@
+{
+ "titulo": "JAULA DE GRILLOS - Único concierto 2026",
+ "fecha": "2026-11-20",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://entradium.com/es/events/jaula-de-grillos-unico-concierto-2026",
+ "url": "https://salaelsol.com/eventos/jaula-de-grillos-unico-concierto-2026/",
+ "imagen": "https://salaelsol.com/wp-content/uploads/2026/11/jdg.jpg",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Conciertos",
+  "Conciertos",
+  "Conciertos"
+ ],
+ "sala": "el-sol",
+ "id": "el-sol-2026-11-20-jaula-de-grillos-unico-concierto-2026",
+ "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/11/5e/de/115ede60-d207-1e38-c7ea-bc4329014398/mzaf_18422536991063377210.plus.aac.p.m4a",
+ "cancion": "Luces de Madrid",
+ "enlace_audio": "https://music.apple.com/es/album/luces-de-madrid/215095636?i=215095722&uo=4"
+}

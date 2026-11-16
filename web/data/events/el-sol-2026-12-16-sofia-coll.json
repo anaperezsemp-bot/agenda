@@ -1,0 +1,20 @@
+{
+ "titulo": "SOFÍA COLL",
+ "fecha": "2026-12-16",
+ "hora": "20:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://www.ticketmaster.es/event/sofia-coll-entradas/817621921",
+ "url": "https://salaelsol.com/eventos/sofia-coll/",
+ "imagen": "https://salaelsol.com/wp-content/uploads/2026/11/6ac6020a55d15.jpeg",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Conciertos",
+  "Conciertos",
+  "Conciertos"
+ ],
+ "sala": "el-sol",
+ "id": "el-sol-2026-12-16-sofia-coll"
+}

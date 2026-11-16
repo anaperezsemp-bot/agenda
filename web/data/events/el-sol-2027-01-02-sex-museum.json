@@ -1,0 +1,20 @@
+{
+ "titulo": "Sex Museum",
+ "fecha": "2027-01-02",
+ "hora": "20:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://dice.fm/event/av8p7q-sex-museum-2nd-jan-el-sol-madrid-tickets?lng=es",
+ "url": "https://salaelsol.com/eventos/sex-museum-3/",
+ "imagen": "https://salaelsol.com/wp-content/uploads/2026/10/Cartel-Sex-Museum-2-enero-2027.png",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Conciertos",
+  "Conciertos",
+  "Conciertos"
+ ],
+ "sala": "el-sol",
+ "id": "el-sol-2027-01-02-sex-museum"
+}

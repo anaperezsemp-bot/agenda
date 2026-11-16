@@ -1,18 +1,16 @@
 {
  "titulo": "RUDI D",
  "fecha": "2026-11-21",
- "hora": "21:00",
- "precio_min": 8.0,
- "precio_max": 10.0,
+ "hora": null,
+ "precio_min": null,
+ "precio_max": null,
  "agotado": false,
  "url_entradas": "https://mutick.com/e/entradas-rudi-d-en-madrid-fotomaton",
- "url": "https://madridenvivo.com/evento/rudi-d-3/",
- "imagen": null,
+ "url": "https://mutick.com/e/entradas-rudi-d-en-madrid-fotomaton",
+ "imagen": "https://mutick.com/img/eventos/9719a017-3da1-49ee-ab05-5893872c577c/9719a017-3da1-49ee-ab05-5893872c577c_portada.jpg",
  "generos": [],
  "descripcion": "",
- "categorias": [
-  "Pop / Rock"
- ],
+ "categorias": [],
  "sala": "fotomaton",
  "id": "fotomaton-2026-11-21-rudi-d"
 }

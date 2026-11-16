@@ -1,0 +1,20 @@
+{
+ "titulo": "THE ULTIMATE STONE ROSES",
+ "fecha": "2027-01-01",
+ "hora": "20:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://mutick.com/e/entradas-the-ultimate-stone-roses-madrid",
+ "url": "https://salaelsol.com/eventos/the-ultimate-stone-roses/",
+ "imagen": "https://salaelsol.com/wp-content/uploads/2026/04/theultimatestoneroses.png",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Conciertos",
+  "Conciertos",
+  "Conciertos"
+ ],
+ "sala": "el-sol",
+ "id": "el-sol-2027-01-01-the-ultimate-stone-roses"
+}

@@ -1,0 +1,23 @@
+{
+ "titulo": "UN PINGÜINO EN MI ASCENSOR - El concierto Navideño",
+ "fecha": "2026-12-04",
+ "hora": "20:30",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://ticketandroll.com/evento/un-pinguino-en-mi-ascensor-el-concierto-navideno-sala-el-sol-madrid",
+ "url": "https://salaelsol.com/eventos/un-pinguino-en-mi-ascensor-el-concierto-navideno/",
+ "imagen": "https://salaelsol.com/wp-content/uploads/2026/11/el-sol-cartel-navidad-2026.jpg",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Conciertos",
+  "Conciertos",
+  "Conciertos"
+ ],
+ "sala": "el-sol",
+ "id": "el-sol-2026-12-04-un-pinguino-en-mi-ascensor-el-concierto-navideno",
+ "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/49/dc/60/49dc6083-fff2-8fd3-f00e-d4224c0e2125/mzaf_17026077169393472940.plus.aac.p.m4a",
+ "cancion": "Espiando a Mi Vecina",
+ "enlace_audio": "https://music.apple.com/es/album/espiando-a-mi-vecina/106332893?i=106331899&uo=4"
+}

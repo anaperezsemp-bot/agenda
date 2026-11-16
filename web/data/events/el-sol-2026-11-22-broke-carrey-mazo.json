@@ -1,17 +1,19 @@
 {
  "titulo": "BROKE CARREY [Mazo]",
  "fecha": "2026-11-22",
- "hora": "21:00",
- "precio_min": 17.0,
- "precio_max": 17.0,
+ "hora": "19:00",
+ "precio_min": null,
+ "precio_max": null,
  "agotado": false,
  "url_entradas": "https://dice.fm/event/q2ddk9-broke-carrey-en-mazo-22nd-nov-el-sol-madrid-tickets?lng=es",
- "url": "https://madridenvivo.com/evento/broke-carrey-mazo/",
- "imagen": null,
+ "url": "https://salaelsol.com/eventos/broke-carrey-mazo/",
+ "imagen": "https://salaelsol.com/wp-content/uploads/2026/10/BROKE.avif",
  "generos": [],
  "descripcion": "",
  "categorias": [
-  "Músicas negras"
+  "Conciertos",
+  "Conciertos",
+  "Conciertos"
  ],
  "sala": "el-sol",
  "id": "el-sol-2026-11-22-broke-carrey-mazo"

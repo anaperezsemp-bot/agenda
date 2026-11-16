@@ -1,0 +1,20 @@
+{
+ "titulo": "THE CHANDALS",
+ "fecha": "2026-12-11",
+ "hora": "20:30",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://entradium.com/es/events/11-dic-the-chandals",
+ "url": "https://salaelsol.com/eventos/the-chandals-3/",
+ "imagen": "https://salaelsol.com/wp-content/uploads/2026/11/chandals.png",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Conciertos",
+  "Conciertos",
+  "Conciertos"
+ ],
+ "sala": "el-sol",
+ "id": "el-sol-2026-12-11-the-chandals"
+}

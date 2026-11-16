@@ -1,18 +1,16 @@
 {
  "titulo": "INCONSCIENCIA ARTIFICIAL",
  "fecha": "2026-11-20",
- "hora": "21:00",
- "precio_min": 10.0,
- "precio_max": 12.0,
+ "hora": null,
+ "precio_min": null,
+ "precio_max": null,
  "agotado": false,
  "url_entradas": "https://mutick.com/e/entradas-inconsciencia-artificial-en-madrid-fotomaton",
- "url": "https://madridenvivo.com/evento/inconsciencia-artificial-3/",
- "imagen": null,
+ "url": "https://mutick.com/e/entradas-inconsciencia-artificial-en-madrid-fotomaton",
+ "imagen": "https://mutick.com/img/eventos/7f4943ab-a281-4b88-adcd-8610f1de663e/7f4943ab-a281-4b88-adcd-8610f1de663e_portada.jpg",
  "generos": [],
  "descripcion": "",
- "categorias": [
-  "Pop / Rock"
- ],
+ "categorias": [],
  "sala": "fotomaton",
  "id": "fotomaton-2026-11-20-inconsciencia-artificial"
 }

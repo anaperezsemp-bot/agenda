@@ -2,17 +2,22 @@
  "titulo": "DELACUEVA",
  "fecha": "2026-11-18",
  "hora": "20:30",
- "precio_min": 15.0,
- "precio_max": 15.0,
+ "precio_min": null,
+ "precio_max": null,
  "agotado": false,
- "url_entradas": "https://www.entradas.com/event/delacueva-sala-el-sol-21659347/",
- "url": "https://madridenvivo.com/evento/delacueva-5/",
- "imagen": null,
+ "url_entradas": "https://www.entradas.com/event/delacueva-sala-el-sol-21659347/?affiliate=ADE",
+ "url": "https://salaelsol.com/eventos/delacueva/",
+ "imagen": "https://salaelsol.com/wp-content/uploads/2026/11/delacueva.jpeg",
  "generos": [],
  "descripcion": "",
  "categorias": [
-  "Pop / Rock"
+  "Conciertos",
+  "Conciertos",
+  "Conciertos"
  ],
  "sala": "el-sol",
- "id": "el-sol-2026-11-18-delacueva"
+ "id": "el-sol-2026-11-18-delacueva",
+ "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/fe/83/02fe8389-a70c-d579-02c2-ec89d842a957/mzaf_12896952899676823392.plus.aac.p.m4a",
+ "cancion": "Así Bailaban Los Muertos",
+ "enlace_audio": "https://music.apple.com/es/album/as%C3%AD-bailaban-los-muertos/1818612235?i=1818612277&uo=4"
 }

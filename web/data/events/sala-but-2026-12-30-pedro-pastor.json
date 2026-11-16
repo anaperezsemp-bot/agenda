@@ -1,0 +1,19 @@
+{
+ "titulo": "PEDRO PASTOR",
+ "fecha": "2026-12-30",
+ "hora": null,
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://www.songkick.com/es/concerts/43108288-pedro-pastor-at-sala-but",
+ "url": null,
+ "imagen": "https://www.salabut.es/wp-content/uploads/2026/08/18oct-pedro-pastor-torrelodones-2025-640x640-1-150x150.jpg",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [],
+ "sala": "sala-but",
+ "id": "sala-but-2026-12-30-pedro-pastor",
+ "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/f9/f4/cbf9f489-6016-5da2-e71e-497343b4a0d4/mzaf_13063186793847185241.plus.aac.p.m4a",
+ "cancion": "Verde Selva",
+ "enlace_audio": "https://music.apple.com/es/album/verde-selva/929199327?i=929199403&uo=4"
+}

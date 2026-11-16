@@ -1,0 +1,19 @@
+{
+ "titulo": "MACY GRAY",
+ "fecha": "2026-12-14",
+ "hora": null,
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://ochoymedioclub.com/conciertos/macy-gray/",
+ "url": null,
+ "imagen": "https://www.salabut.es/wp-content/uploads/2026/08/retrato3-150x150.jpg",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [],
+ "sala": "sala-but",
+ "id": "sala-but-2026-12-14-macy-gray",
+ "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/ba/1a/99ba1ae7-f42d-eb03-a23b-3bab61089aaa/mzaf_6172601734692837897.plus.aac.p.m4a",
+ "cancion": "I Try",
+ "enlace_audio": "https://music.apple.com/es/album/i-try/157506704?i=157507006&uo=4"
+}

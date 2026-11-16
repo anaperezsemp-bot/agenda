@@ -1,0 +1,20 @@
+{
+ "titulo": "TRONKAS [Mazo]",
+ "fecha": "2026-11-21",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://dice.fm/event/53lnw8-tronkas-en-mazo-21st-nov-el-sol-madrid-tickets?lng=es",
+ "url": "https://salaelsol.com/eventos/tronkas-mazo/",
+ "imagen": "https://salaelsol.com/wp-content/uploads/2026/10/TRONKAS.avif",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Conciertos",
+  "Conciertos",
+  "Conciertos"
+ ],
+ "sala": "el-sol",
+ "id": "el-sol-2026-11-21-tronkas-mazo"
+}

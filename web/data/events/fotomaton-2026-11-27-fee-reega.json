@@ -1,18 +1,16 @@
 {
  "titulo": "FEE REEGA",
  "fecha": "2026-11-27",
- "hora": "21:00",
- "precio_min": 10.0,
- "precio_max": 12.0,
+ "hora": null,
+ "precio_min": null,
+ "precio_max": null,
  "agotado": false,
  "url_entradas": "https://mutick.com/e/entradas-fee-reega-en-madrid-fotomaton",
- "url": "https://madridenvivo.com/evento/fee-reega/",
- "imagen": null,
+ "url": "https://mutick.com/e/entradas-fee-reega-en-madrid-fotomaton",
+ "imagen": "https://mutick.com/img/eventos/2e61f3ea-e285-4d00-ae40-dc8c9e88f0e4/2e61f3ea-e285-4d00-ae40-dc8c9e88f0e4_portada.jpg",
  "generos": [],
  "descripcion": "",
- "categorias": [
-  "Pop / Rock"
- ],
+ "categorias": [],
  "sala": "fotomaton",
  "id": "fotomaton-2026-11-27-fee-reega"
 }

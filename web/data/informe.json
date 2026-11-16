@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T18:25:44+00:00",
+ "generado": "2026-11-16T18:33:08+00:00",
  "salas": [
   {
    "sala": "Café La Palma",
@@ -19,7 +19,7 @@
   {
    "sala": "Maravillas Club",
    "conciertos": 5,
-   "error": null
+   "error": "ParseError: mismatched tag: line 93, column 2"
   },
   {
    "sala": "Sala Galileo Galilei",
@@ -33,17 +33,17 @@
   },
   {
    "sala": "Sala But",
-   "conciertos": 3,
+   "conciertos": 15,
    "error": null
   },
   {
    "sala": "Copérnico",
    "conciertos": 30,
-   "error": null
+   "error": "0 conciertos leídos; se mantienen los anteriores"
   },
   {
    "sala": "Sala El Sol",
-   "conciertos": 11,
+   "conciertos": 36,
    "error": null
   },
   {
@@ -59,7 +59,7 @@
   {
    "sala": "El Sótano",
    "conciertos": 1,
-   "error": null
+   "error": "0 conciertos leídos; se mantienen los anteriores"
   },
   {
    "sala": "Wurlitzer Ballroom",
@@ -83,7 +83,7 @@
   },
   {
    "sala": "Fotomatón Bar",
-   "conciertos": 4,
+   "conciertos": 10,
    "error": null
   },
   {
