@@ -1,0 +1,18 @@
+{
+ "titulo": "Quartet Tarantino",
+ "fecha": "2027-05-21",
+ "hora": "20:45",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://dice.fm/event/bvlyyg-quartet-tarantino-21st-may-el-stano-madrid-tickets?lng=es",
+ "url": null,
+ "imagen": "https://www.salaelsotano.com/wp-content/uploads/2026/11/Quartet_Tarantino_1080x1350-240x300.jpg",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "conciertos"
+ ],
+ "sala": "el-sotano",
+ "id": "el-sotano-2027-05-21-quartet-tarantino"
+}
