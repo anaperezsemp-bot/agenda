@@ -51,6 +51,14 @@
 "enlace": "https://music.apple.com/es/album/the-bee/1776756675?i=1776757129&uo=4"
 }
 },
+"angel-stanich": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/96/2b/db962b0b-51c7-50a8-898e-0c834554be17/mzaf_14120732494650115625.plus.aac.p.m4a",
+"cancion": "Mátame Camión",
+"enlace": "https://music.apple.com/es/album/m%C3%A1tame-cami%C3%B3n/1278834534?i=1278834541&uo=4"
+}
+},
 "angel-stanich-band": {
 "f": "2026-11-16",
 "r": null
@@ -115,6 +123,10 @@
 "enlace": "https://music.apple.com/es/album/aquellas-cosas-que-sol%C3%ADamos-hacer-feat-poncho-k/1797342587?i=1797342905&uo=4"
 }
 },
+"brothers-in": {
+"f": "2026-11-16",
+"r": null
+},
 "brothers-in-band": {
 "f": "2026-11-16",
 "r": null
@@ -158,6 +170,10 @@
 "cancion": "Si Quieres",
 "enlace": "https://music.apple.com/es/album/si-quieres/1599787496?i=1599787926&uo=4"
 }
+},
+"carles-benavent": {
+"f": "2026-11-16",
+"r": null
 },
 "carles-benavent-trio": {
 "f": "2026-11-16",
@@ -464,6 +480,10 @@
 "r": null
 },
 "jazz-con-sabor-a-club-2026-aciz": {
+"f": "2026-11-16",
+"r": null
+},
+"jazz-con-sabor-a-club-2026-carles-benavent": {
 "f": "2026-11-16",
 "r": null
 },
