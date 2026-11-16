@@ -8,6 +8,9 @@ def probe(u):
     except Exception as e:
         return {"error":str(e)[:120]}
     t=r.text
+    import hashlib,os
+    os.makedirs('raw',exist_ok=True)
+    open('raw/'+re.sub(r'[^a-z0-9]+','_',u.lower())[8:90]+'.txt','w').write(t[:400000])
     info={"status":r.status_code,"final":r.url,"len":len(t),"ctype":r.headers.get("content-type","")}
     info["generator"]=re.findall(r'<meta name="generator" content="([^"]+)"',t)[:3]
     info["ldtypes"]=re.findall(r'"@type"\s*:\s*"(\w*Event)"',t)[:5]
