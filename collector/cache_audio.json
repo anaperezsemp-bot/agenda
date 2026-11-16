@@ -31,6 +31,14 @@
 "f": "2026-11-16",
 "r": null
 },
+"afilador": {
+"f": "2026-11-16",
+"r": null
+},
+"afilador-berlangalan-javier-diaz-ena": {
+"f": "2026-11-16",
+"r": null
+},
 "aga": {
 "f": "2026-11-16",
 "r": {
@@ -75,6 +83,14 @@
 "f": "2026-11-16",
 "r": null
 },
+"amante": {
+"f": "2026-11-16",
+"r": null
+},
+"amante-nacho-garcia-y-su-ukelele": {
+"f": "2026-11-16",
+"r": null
+},
 "amorphis": {
 "f": "2026-11-16",
 "r": {
@@ -96,6 +112,10 @@
 }
 },
 "angel-stanich-band": {
+"f": "2026-11-16",
+"r": null
+},
+"aniversario-belle-and-sebastian": {
 "f": "2026-11-16",
 "r": null
 },
@@ -291,6 +311,10 @@
 "f": "2026-11-16",
 "r": null
 },
+"captains": {
+"f": "2026-11-16",
+"r": null
+},
 "carameloraro": {
 "f": "2026-11-16",
 "r": {
@@ -379,6 +403,18 @@
 "enlace": "https://music.apple.com/es/album/la-leyenda/6809842129?i=6809842132&uo=4"
 }
 },
+"charnego": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/47/3a/aa473a29-db98-af11-e250-695e1942356c/mzaf_15040684855410575078.plus.aac.p.m4a",
+"cancion": "Macho Beta",
+"enlace": "https://music.apple.com/es/album/macho-beta/1790420121?i=1790420126&uo=4"
+}
+},
+"charnego-calatrava-vulneravle": {
+"f": "2026-11-16",
+"r": null
+},
 "chico-blanco-live-a-v": {
 "f": "2026-11-16",
 "r": null
@@ -387,11 +423,23 @@
 "f": "2026-11-16",
 "r": null
 },
+"chuck-ragan": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/28/6e/e1286ea6-1410-1cfa-8d3c-f3f4c87da4dc/mzaf_9024590605064905594.plus.aac.p.m4a",
+"cancion": "Something May Catch Fire",
+"enlace": "https://music.apple.com/es/album/something-may-catch-fire/1880821801?i=1880821806&uo=4"
+}
+},
 "ciao-franco": {
 "f": "2026-11-16",
 "r": null
 },
 "ciao-franco-homenaje-a-franco-battiato-duo": {
+"f": "2026-11-16",
+"r": null
+},
+"circuito-open-mic": {
 "f": "2026-11-16",
 "r": null
 },
@@ -403,12 +451,24 @@
 "enlace": "https://music.apple.com/es/album/everything/1812816405?i=1812816675&uo=4"
 }
 },
+"clamores-comedy-club": {
+"f": "2026-11-16",
+"r": null
+},
 "claramente": {
 "f": "2026-11-16",
 "r": {
 "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/9a/d5/d19ad538-e97d-72b3-8597-6943ee59a9d3/mzaf_8507295472471144914.plus.aac.p.m4a",
 "cancion": "Migajas De Amor",
 "enlace": "https://music.apple.com/es/album/migajas-de-amor/1798067080?i=1798067081&uo=4"
+}
+},
+"claudia-arenas": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/57/b0/3f57b0cf-8bd4-d154-7b8e-785946ec39d3/mzaf_758408625291349627.plus.aac.p.m4a",
+"cancion": "nadie es para ti",
+"enlace": "https://music.apple.com/es/album/nadie-es-para-ti/6809322246?i=6809322256&uo=4"
 }
 },
 "clearwater-creedence-revival": {
@@ -471,6 +531,14 @@
 "enlace": "https://music.apple.com/es/album/barcelona/1869270830?i=1869270936&uo=4"
 }
 },
+"cuban-brunch": {
+"f": "2026-11-16",
+"r": null
+},
+"cuban-brunch-pedro-pablo": {
+"f": "2026-11-16",
+"r": null
+},
 "cupido": {
 "f": "2026-11-16",
 "r": null
@@ -486,6 +554,14 @@
 "cvba-morales-los-moralistas": {
 "f": "2026-11-16",
 "r": null
+},
+"dani-molgar": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2f/c1/6c/2fc16c83-a77a-efb1-8951-93f8d9e07146/mzaf_7264882664953657927.plus.aac.p.m4a",
+"cancion": "OLQS",
+"enlace": "https://music.apple.com/es/album/olqs/1869030416?i=1869030418&uo=4"
+}
 },
 "david-y-carlos-de-jacoba-presentan-lorqueando-federico": {
 "f": "2026-11-16",
@@ -515,6 +591,10 @@
 "enlace": "https://music.apple.com/es/album/as%C3%AD-bailaban-los-muertos/1818612235?i=1818612277&uo=4"
 }
 },
+"deloreans-y-elastic": {
+"f": "2026-11-16",
+"r": null
+},
 "delta-tango-romeo": {
 "f": "2026-11-16",
 "r": {
@@ -530,6 +610,10 @@
 "cancion": "Como todo el Mundo",
 "enlace": "https://music.apple.com/es/album/como-todo-el-mundo/1650871159?i=1650871174&uo=4"
 }
+},
+"descubre-la-escena-de-tu-ciudad": {
+"f": "2026-11-16",
+"r": null
 },
 "dimitri-papanikas-cuenta": {
 "f": "2026-11-16",
@@ -608,6 +692,10 @@
 }
 },
 "dseed-seymor-stoner-grunge": {
+"f": "2026-11-16",
+"r": null
+},
+"duck-nitrate": {
 "f": "2026-11-16",
 "r": null
 },
@@ -691,6 +779,10 @@
 "f": "2026-11-16",
 "r": null
 },
+"emilio-santoro-as-elvis-the-ultimate-tribute-experience": {
+"f": "2026-11-16",
+"r": null
+},
 "estrella-fugaz": {
 "f": "2026-11-16",
 "r": {
@@ -735,6 +827,14 @@
 "f": "2026-11-16",
 "r": null
 },
+"fee-reega": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/21/ac/81/21ac8122-2a86-0991-3b3f-120317684d44/mzaf_18016862422475719835.plus.aac.p.m4a",
+"cancion": "Varsovia, la Ciudad",
+"enlace": "https://music.apple.com/es/album/varsovia-la-ciudad/939996520?i=939996528&uo=4"
+}
+},
 "festival-transgresivo": {
 "f": "2026-11-16",
 "r": null
@@ -748,6 +848,10 @@
 "r": null
 },
 "fortuna-felipe-sexo": {
+"f": "2026-11-16",
+"r": null
+},
+"fotocopia": {
 "f": "2026-11-16",
 "r": null
 },
@@ -772,6 +876,10 @@
 }
 },
 "frankie-and-the-witch-fingers-iguana-death-cult": {
+"f": "2026-11-16",
+"r": null
+},
+"fullstop-concierto-a-beneficio-de-adf": {
 "f": "2026-11-16",
 "r": null
 },
@@ -883,6 +991,14 @@
 "f": "2026-11-16",
 "r": null
 },
+"heavenphetamine": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c4/db/de/c4dbdec2-4ad0-fd8c-0f13-33964370c74a/mzaf_6494446114148929557.plus.aac.p.m4a",
+"cancion": "SONZAI",
+"enlace": "https://music.apple.com/es/album/sonzai/1765095643?i=1765095953&uo=4"
+}
+},
 "henri-herbert-the-fury": {
 "f": "2026-11-16",
 "r": {
@@ -894,6 +1010,14 @@
 "high-fade-twice-as-nice-tour": {
 "f": "2026-11-16",
 "r": null
+},
+"horse-jumper-of-love": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/d2/e5/8ad2e503-b5ea-4111-8ddd-9318b232c63d/mzaf_13847505648176080834.plus.aac.p.m4a",
+"cancion": "Ugly Brunette",
+"enlace": "https://music.apple.com/es/album/ugly-brunette/1492128295?i=1492128304&uo=4"
+}
 },
 "ibeyi": {
 "f": "2026-11-16",
@@ -922,6 +1046,14 @@
 "impulso-roberto-fonseca-trio-andres-coayo-buena-vista-social": {
 "f": "2026-11-16",
 "r": null
+},
+"inconsciencia-artificial": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/4e/8d/55/4e8d55f0-9e1a-48d9-25b4-41d14e1e28e9/mzaf_4031337816520837328.plus.aac.p.m4a",
+"cancion": "Una Presencia Aterradora",
+"enlace": "https://music.apple.com/es/album/una-presencia-aterradora/1458721615?i=1458721707&uo=4"
+}
 },
 "inercia-sonora": {
 "f": "2026-11-16",
@@ -1032,6 +1164,14 @@
 }
 },
 "jockey-club-la-fortuna": {
+"f": "2026-11-16",
+"r": null
+},
+"joe-cool-sunglasses": {
+"f": "2026-11-16",
+"r": null
+},
+"joe-cool-sunglasses-ninja-bonita": {
 "f": "2026-11-16",
 "r": null
 },
@@ -1215,6 +1355,14 @@
 "f": "2026-11-16",
 "r": null
 },
+"liturgy": {
+"f": "2026-11-16",
+"r": null
+},
+"liturgy-simon-del-desierto": {
+"f": "2026-11-16",
+"r": null
+},
 "lo-que-pasa-en-las-vegas": {
 "f": "2026-11-16",
 "r": null
@@ -1307,6 +1455,14 @@
 "enlace": "https://music.apple.com/es/album/caminos-habituales-feat-miguelito-garc%C3%ADa/6810745067?i=6810745071&uo=4"
 }
 },
+"lubiana": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/0c/3a/fc0c3a84-2ed0-3814-cd0b-a862625e04a0/mzaf_12314460675251067128.plus.aac.p.m4a",
+"cancion": "Terre Rouge",
+"enlace": "https://music.apple.com/es/album/terre-rouge/1765310436?i=1765310443&uo=4"
+}
+},
 "luis-brea": {
 "f": "2026-11-16",
 "r": {
@@ -1371,6 +1527,22 @@
 "enlace": "https://music.apple.com/es/album/mareado/1557370791?i=1557370798&uo=4"
 }
 },
+"marcelo-criminal": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/1f/02/381f0208-b61d-39b8-f007-2b867b13177d/mzaf_2076246382178822388.plus.aac.p.m4a",
+"cancion": "Solenoide",
+"enlace": "https://music.apple.com/es/album/solenoide/6813095618?i=6813095875&uo=4"
+}
+},
+"mardom": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/6e/8c/a26e8c97-83ba-8610-6c65-aed8dc4baaa2/mzaf_5994923510706303897.plus.aac.p.m4a",
+"cancion": "Enero",
+"enlace": "https://music.apple.com/es/album/enero/1738013524?i=1738013786&uo=4"
+}
+},
 "maria-arnal": {
 "f": "2026-11-16",
 "r": {
@@ -1406,6 +1578,14 @@
 "mario-morante-y-los-demonios": {
 "f": "2026-11-16",
 "r": null
+},
+"marta-soto": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/73/57/80/7357809a-619a-a61a-0060-01694c1e43f2/mzaf_10587108435124376020.plus.aac.p.m4a",
+"cancion": "Quiero verte",
+"enlace": "https://music.apple.com/es/album/quiero-verte/1292693823?i=1292693911&uo=4"
+}
 },
 "matthew-mole": {
 "f": "2026-11-16",
@@ -1663,6 +1843,14 @@
 "f": "2026-11-16",
 "r": null
 },
+"multipla": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c2/65/48/c2654890-c6fd-a4c7-a6ce-cd9b2616b90a/mzaf_8991802402808366170.plus.aac.p.m4a",
+"cancion": "Sidecar",
+"enlace": "https://music.apple.com/es/album/sidecar/1734830534?i=1734830670&uo=4"
+}
+},
 "nacho-sarria": {
 "f": "2026-11-16",
 "r": null
@@ -1727,6 +1915,14 @@
 "f": "2026-11-16",
 "r": null
 },
+"nino-peluca": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/77/96/b7/7796b79d-7d47-be69-4839-707543fb5ace/mzaf_17270136168395451076.plus.aac.p.m4a",
+"cancion": "Cada Día",
+"enlace": "https://music.apple.com/es/album/cada-di-a/6793994461?i=6793994462&uo=4"
+}
+},
 "noches-caleidoscopicas": {
 "f": "2026-11-16",
 "r": null
@@ -1783,6 +1979,26 @@
 "f": "2026-11-16",
 "r": null
 },
+"pablo-y-los-ciervos-dorados": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/14/e4/0b14e415-559b-9969-c39d-cec049ec7d7e/mzaf_16601012470823992060.plus.aac.p.m4a",
+"cancion": "Vino",
+"enlace": "https://music.apple.com/es/album/vino/1896423051?i=6767202267&uo=4"
+}
+},
+"pablo-y-los-ciervos-dorados-troya": {
+"f": "2026-11-16",
+"r": null
+},
+"pablopatodo": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/94/b5/9b/94b59be0-316d-ae16-4100-c51a221127ae/mzaf_3733347593948365811.plus.aac.p.m4a",
+"cancion": "Mejor Mañana",
+"enlace": "https://music.apple.com/es/album/mejor-ma%C3%B1ana/1668943576?i=1668943578&uo=4"
+}
+},
 "pablopatodo-era-paraiso": {
 "f": "2026-11-16",
 "r": null
@@ -1830,6 +2046,14 @@
 "peawees": {
 "f": "2026-11-16",
 "r": null
+},
+"pedro-pablo": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d9/c6/26/d9c62644-f979-671f-6da6-639be046e6d9/mzaf_16073831936313403386.plus.aac.p.m4a",
+"cancion": "Como Tu",
+"enlace": "https://music.apple.com/es/album/como-tu/355269794?i=355269852&uo=4"
+}
 },
 "pedro-pastor": {
 "f": "2026-11-16",
@@ -1963,6 +2187,14 @@
 "enlace": "https://music.apple.com/es/album/fuimos/1590853792?i=1590853795&uo=4"
 }
 },
+"polvora": {
+"f": "2026-11-16",
+"r": null
+},
+"polvora-leather-boys": {
+"f": "2026-11-16",
+"r": null
+},
 "polyphia": {
 "f": "2026-11-16",
 "r": {
@@ -2015,6 +2247,22 @@
 "f": "2026-11-16",
 "r": null
 },
+"quick-lime": {
+"f": "2026-11-16",
+"r": null
+},
+"quick-lime-polar-bule": {
+"f": "2026-11-16",
+"r": null
+},
+"ramonas": {
+"f": "2026-11-16",
+"r": null
+},
+"ramonas-new-york-puppets-seis-pistolas": {
+"f": "2026-11-16",
+"r": null
+},
 "raule": {
 "f": "2026-11-16",
 "r": {
@@ -2059,6 +2307,14 @@
 "f": "2026-11-16",
 "r": null
 },
+"risk-it": {
+"f": "2026-11-16",
+"r": null
+},
+"risk-it-breathing-pit-beef": {
+"f": "2026-11-16",
+"r": null
+},
 "rizoma-2026": {
 "f": "2026-11-16",
 "r": null
@@ -2086,6 +2342,14 @@
 "royal-blood-gira-vibra-mahou-by-mad-cool": {
 "f": "2026-11-16",
 "r": null
+},
+"rudi-d": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview62/v4/0b/47/6d/0b476dda-2fcf-03ab-90ca-bc6ce79d28fc/mzaf_6555412453854679897.plus.aac.p.m4a",
+"cancion": "Amaneceres y tempestades",
+"enlace": "https://music.apple.com/es/album/amaneceres-y-tempestades/1180120006?i=1180120013&uo=4"
+}
 },
 "rupatrupa": {
 "f": "2026-11-16",
@@ -2327,6 +2591,10 @@
 "f": "2026-11-16",
 "r": null
 },
+"superindies": {
+"f": "2026-11-16",
+"r": null
+},
 "supernova-oasis-tribute": {
 "f": "2026-11-16",
 "r": null
@@ -2411,6 +2679,10 @@
 "f": "2026-11-16",
 "r": null
 },
+"the-ex": {
+"f": "2026-11-16",
+"r": null
+},
 "the-interrupters": {
 "f": "2026-11-16",
 "r": {
@@ -2431,6 +2703,10 @@
 "f": "2026-11-16",
 "r": null
 },
+"the-ks": {
+"f": "2026-11-16",
+"r": null
+},
 "the-manana-culture": {
 "f": "2026-11-16",
 "r": {
@@ -2440,6 +2716,14 @@
 }
 },
 "the-nomad-zone": {
+"f": "2026-11-16",
+"r": null
+},
+"the-saadies": {
+"f": "2026-11-16",
+"r": null
+},
+"the-saadies-thee-abisales": {
 "f": "2026-11-16",
 "r": null
 },
@@ -2483,6 +2767,14 @@
 "enlace": "https://music.apple.com/es/album/entre-dos-tierras/1789518087?i=1789518100&uo=4"
 }
 },
+"tinez": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/59/ad/8359ad07-4291-be8d-669d-2514f2061a93/mzaf_11683540213376693473.plus.aac.p.m4a",
+"cancion": "Qué tal?",
+"enlace": "https://music.apple.com/es/album/qu%C3%A9-tal/1747985641?i=1747985646&uo=4"
+}
+},
 "todo-mal-presenta-apunalame": {
 "f": "2026-11-16",
 "r": null
@@ -2495,7 +2787,15 @@
 "enlace": "https://music.apple.com/es/album/tri%C3%A1ngulo-de-amor-bizarro/1848906670?i=1848906676&uo=4"
 }
 },
+"tristicis-en-sound-isidro": {
+"f": "2026-11-16",
+"r": null
+},
 "tronkas-mazo": {
+"f": "2026-11-16",
+"r": null
+},
+"tu-otra-bonita-en-acustico": {
 "f": "2026-11-16",
 "r": null
 },
@@ -2518,6 +2818,22 @@
 "cancion": "Sale el sol",
 "enlace": "https://music.apple.com/es/album/sale-el-sol/1793073114?i=1793073118&uo=4"
 }
+},
+"verbena-en-la-ballena": {
+"f": "2026-11-16",
+"r": null
+},
+"verbena-en-la-ballena-con-pulp-version": {
+"f": "2026-11-16",
+"r": null
+},
+"verbena-en-la-ballena-con-ultimos-clientes": {
+"f": "2026-11-16",
+"r": null
+},
+"vermu-nueva-orleans": {
+"f": "2026-11-16",
+"r": null
 },
 "vernet": {
 "f": "2026-11-16",

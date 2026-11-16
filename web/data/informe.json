@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T18:46:07+00:00",
+ "generado": "2026-11-16T20:11:56+00:00",
  "salas": [
   {
    "sala": "Café La Palma",
@@ -58,7 +58,7 @@
   },
   {
    "sala": "El Sótano",
-   "conciertos": 28,
+   "conciertos": 32,
    "error": null
   },
   {
