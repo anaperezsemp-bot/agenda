@@ -60,3 +60,30 @@ def test_generos():
         "ALBERTO BALLESTEROS", ["Pop", "Rock", "Folk"])
     assert generos_y_titulo("Chema Saiz (Festival JazzMadrid)", ["Madrid", "jazz", "blues", "Maravillas"]) == (
         "Chema Saiz (Festival JazzMadrid)", ["Jazz", "Blues"])
+
+
+def test_escuchar(tmp_path):
+    import escuchar
+    assert escuchar.cabeza_de_cartel("LINDA BURNETTI + MIRAGÜANO") == "LINDA BURNETTI"
+    assert escuchar.cabeza_de_cartel("Hinds") == "Hinds"
+    assert escuchar.cabeza_de_cartel("Jesse & Joy") == "Jesse & Joy"
+    respuestas = {
+        "Hinds": {"results": [
+            {"artistName": "Hinds Tribute", "previewUrl": "x"},
+            {"artistName": "HINDS", "previewUrl": "https://a/p.m4a", "trackName": "Garden", "trackViewUrl": "https://m/1"}]},
+        "Nadie": {"results": []},
+        "Nadie + Otro": {"results": []},
+    }
+    llamadas = []
+    def get_json(url, params):
+        llamadas.append(params["term"])
+        return respuestas[params["term"]]
+    conciertos = [{"titulo": "Hinds"}, {"titulo": "Nadie + Otro"}, {"titulo": "Hinds"}]
+    cache = tmp_path / "cache.json"
+    escuchar.enriquecer(conciertos, cache, get_json, HOY, dormir=lambda s: None)
+    assert conciertos[0]["audio"] == "https://a/p.m4a" and conciertos[2]["cancion"] == "Garden"
+    assert "audio" not in conciertos[1]
+    assert llamadas == ["Hinds", "Nadie + Otro", "Nadie"]
+    # segunda ejecución: todo sale de la caché
+    escuchar.enriquecer([{"titulo": "Hinds"}], cache, get_json, HOY, dormir=lambda s: None)
+    assert llamadas == ["Hinds", "Nadie + Otro", "Nadie"]

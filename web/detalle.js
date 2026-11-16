@@ -59,6 +59,8 @@
         <h1>${esc(c.titulo)}</h1>
         ${c.agotado ? `<p><span class="tag-agotado">Entradas agotadas</span></p>` : ""}
         <dl class="datos">${filas.map(([k, v]) => `<dt>${k}</dt><dd>${k === "Sala" ? v : esc(v)}</dd>`).join("")}</dl>
+        ${c.audio ? `<div class="audio-detalle"><audio controls preload="none" src="${esc(c.audio)}"></audio>
+          <p>Muestra de «${esc(c.cancion || "")}» · ${c.enlace_audio ? `<a href="${esc(c.enlace_audio)}" target="_blank" rel="noopener">Apple Music</a>` : "Apple Music"}</p></div>` : ""}
         ${c.descripcion ? `<p class="descripcion">${esc(c.descripcion)}</p>` : ""}
         <div class="enlaces">
           <a class="btn" href="https://www.youtube.com/results?search_query=${q}" target="_blank" rel="noopener">Ver en YouTube</a>

@@ -63,10 +63,35 @@
     if (c.h) meta.push(`<span class="hora">${esc(c.h)}</span>`);
     if (c.a) meta.push(`<span class="tag-agotado">Agotado</span>`);
     else if (c.p !== undefined) meta.push(`<span class="precio">${esc(precioTexto(c.p))}</span>`);
-    return `<li><a class="row${c.a ? " agotado" : ""}" href="detalle.html?id=${encodeURIComponent(c.id)}">
+    const boton = c.au
+      ? `<button class="escuchar" type="button" data-audio="${esc(c.au)}" aria-label="Escuchar a ${esc(c.g)}" aria-pressed="false"></button>`
+      : "";
+    return `<li class="item"><a class="row${c.a ? " agotado" : ""}${c.au ? " con-audio" : ""}" href="detalle.html?id=${encodeURIComponent(c.id)}">
       <div class="info"><div class="grupo">${esc(c.g)}</div><div class="sala">${esc(sala)}</div></div>
-      <div class="meta">${meta.join(" ")}</div></a></li>`;
+      <div class="meta">${meta.join(" ")}</div></a>${boton}</li>`;
   }
+
+  // ---- Escuchar sin salir del listado ---------------------------------------
+  // Un único reproductor para toda la página: pulsar otro grupo para el anterior.
+  const reproductor = new Audio();
+  let botonActivo = null;
+  function marcar(boton, sonando) {
+    if (!boton) return;
+    boton.setAttribute("aria-pressed", String(sonando));
+    boton.classList.toggle("sonando", sonando);
+  }
+  function alternarAudio(boton) {
+    if (boton === botonActivo && !reproductor.paused) {
+      reproductor.pause();
+      return;
+    }
+    marcar(botonActivo, false);
+    botonActivo = boton;
+    if (reproductor.src !== boton.dataset.audio) reproductor.src = boton.dataset.audio;
+    reproductor.play().then(() => marcar(boton, true), () => marcar(boton, false));
+  }
+  reproductor.addEventListener("pause", () => marcar(botonActivo, false));
+  reproductor.addEventListener("ended", () => marcar(botonActivo, false));
 
   function pintarLote() {
     const lista = $("lista");
@@ -231,6 +256,10 @@
       else f[k] = f[k].filter((x) => x !== v);
       guardarFiltros(f);
       pintar();
+    });
+    $("lista").addEventListener("click", (e) => {
+      const b = e.target.closest(".escuchar");
+      if (b) alternarAudio(b);
     });
     observador = new IntersectionObserver((entradas) => {
       if (entradas.some((e) => e.isIntersecting)) pintarLote();

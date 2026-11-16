@@ -12,6 +12,7 @@ from pathlib import Path
 import requests
 import yaml
 
+import escuchar
 from normalize import generos_y_titulo, id_concierto
 from sources import jsonld, rss, tec
 
@@ -46,6 +47,8 @@ def a_listado(c):
         fila["a"] = 1
     if c["generos"]:
         fila["gen"] = c["generos"]
+    if c.get("audio"):
+        fila["au"] = c["audio"]
     return fila
 
 
@@ -106,6 +109,12 @@ def main():
             conciertos[c["id"]] = c
         informe.append((sala["nombre"], len(nuevos), error))
 
+    def get_json(url, params):
+        r = sesion.get(url, params=params, timeout=20)
+        r.raise_for_status()
+        return r.json()
+
+    busquedas = escuchar.enriquecer(list(conciertos.values()), AQUI / "cache_audio.json", get_json, hoy)
     ordenados = sorted(conciertos.values(), key=lambda c: (c["fecha"], c["hora"] or "99", c["titulo"]))
     agenda = {
         "generado": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -134,7 +143,7 @@ def main():
         ),
         encoding="utf-8",
     )
-    print(f"{len(ordenados)} conciertos desde {hoy.isoformat()}")
+    print(f"{len(ordenados)} conciertos desde {hoy.isoformat()}; {busquedas} búsquedas de audio")
     for nombre, n, error in informe:
         print(f"  {nombre}: {n}" + (f"  ⚠ {error}" if error else ""))
     # Si ninguna sala devolvió nada, algo va mal: el workflow lo marcará como fallo.

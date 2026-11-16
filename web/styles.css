@@ -96,6 +96,27 @@ main { max-width: 960px; margin: 0 auto; padding: 0 16px 48px; }
 .row .grupo { font-weight: 650; font-size: 17px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .row .sala { color: var(--muted); font-size: 14px; }
 .dia li { min-width: 0; }
+.item { position: relative; }
+.row.con-audio { padding-right: 64px; }
+.escuchar {
+  position: absolute; right: 12px; top: 50%; transform: translateY(-50%);
+  width: 40px; height: 40px; border-radius: 50%; cursor: pointer;
+  border: 1px solid var(--line); background: var(--bg);
+  display: grid; place-items: center;
+}
+.escuchar::before {
+  content: ""; width: 0; height: 0; margin-left: 3px;
+  border-style: solid; border-width: 7px 0 7px 12px;
+  border-color: transparent transparent transparent var(--text);
+}
+.escuchar.sonando { background: var(--accent); border-color: var(--accent); }
+.escuchar.sonando::before {
+  margin-left: 0; width: 12px; height: 14px; border: 0;
+  border-left: 4px solid var(--accent-text); border-right: 4px solid var(--accent-text);
+}
+.audio-detalle { margin: 16px 0; }
+.audio-detalle audio { width: 100%; }
+.audio-detalle p { margin: 4px 0 0; font-size: 14px; color: var(--muted); }
 .row .meta { display: flex; flex-direction: column; align-items: flex-end; gap: 2px; font-size: 14px; white-space: nowrap; }
 .row .meta .hora { font-variant-numeric: tabular-nums; font-weight: 600; }
 .row .meta .precio { color: var(--muted); }
