@@ -163,6 +163,14 @@
 "enlace": "https://music.apple.com/es/album/musa/1886699252?i=1886699260&uo=4"
 }
 },
+"claramente": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/9a/d5/d19ad538-e97d-72b3-8597-6943ee59a9d3/mzaf_8507295472471144914.plus.aac.p.m4a",
+"cancion": "Migajas De Amor",
+"enlace": "https://music.apple.com/es/album/migajas-de-amor/1798067080?i=1798067081&uo=4"
+}
+},
 "codigo-31-zoem-pch-okami": {
 "f": "2026-11-16",
 "r": null
@@ -207,6 +215,14 @@
 "f": "2026-11-16",
 "r": null
 },
+"delta-tango-romeo": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/54/33/e8543353-c8ef-f338-cd5e-4616bd419a68/mzaf_11921086893209533220.plus.aac.p.m4a",
+"cancion": "Samarcanda",
+"enlace": "https://music.apple.com/es/album/samarcanda/1794593101?i=1794593102&uo=4"
+}
+},
 "depresion-sonora": {
 "f": "2026-11-16",
 "r": {
@@ -250,6 +266,18 @@
 "cancion": "Dejarlo estar",
 "enlace": "https://music.apple.com/es/album/dejarlo-estar/1867470611?i=1867470614&uo=4"
 }
+},
+"dseed": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/f7/e5/1df7e524-95d8-f6df-1a02-764635b10f6d/mzaf_12498925514335803115.plus.aac.p.m4a",
+"cancion": "The Joker",
+"enlace": "https://music.apple.com/es/album/the-joker/1853834010?i=1853834011&uo=4"
+}
+},
+"dseed-seymor-stoner-grunge": {
+"f": "2026-11-16",
+"r": null
 },
 "duo-jatekok": {
 "f": "2026-11-16",
@@ -603,6 +631,22 @@
 "f": "2026-11-16",
 "r": null
 },
+"mazo": {
+"f": "2026-11-16",
+"r": null
+},
+"mazo-estrella-fugaz": {
+"f": "2026-11-16",
+"r": null
+},
+"mazo-minibus-intergalactic": {
+"f": "2026-11-16",
+"r": null
+},
+"mazo-sanisidro": {
+"f": "2026-11-16",
+"r": null
+},
 "meute": {
 "f": "2026-11-16",
 "r": {
@@ -699,6 +743,18 @@
 "enlace": "https://music.apple.com/es/album/sargento-de-hierro/1348460969?i=1348461644&uo=4"
 }
 },
+"mr-cobol": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/06/0a/73/060a7391-0a32-6ae7-ec89-2cb12fa152d7/mzaf_12554426133063721226.plus.aac.p.m4a",
+"cancion": "Raro",
+"enlace": "https://music.apple.com/es/album/raro/1793749376?i=1793749377&uo=4"
+}
+},
+"mr-cobol-zbrass": {
+"f": "2026-11-16",
+"r": null
+},
 "mucho-muchacho-friends-xmas": {
 "f": "2026-11-16",
 "r": null
@@ -791,6 +847,14 @@
 "f": "2026-11-16",
 "r": null
 },
+"plattenbau-alemania": {
+"f": "2026-11-16",
+"r": null
+},
+"plattenbau-alemania-pulso-vacio": {
+"f": "2026-11-16",
+"r": null
+},
 "pole": {
 "f": "2026-11-16",
 "r": {
@@ -816,6 +880,18 @@
 }
 },
 "propaganda-machine-stoner": {
+"f": "2026-11-16",
+"r": null
+},
+"protozoo": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/5e/ab/59/5eab5997-6af1-3281-8336-6dccd5827dd1/mzaf_10952391317361215901.plus.aac.p.m4a",
+"cancion": "El Puente De Los Suicidas (2022 Remastered Version)",
+"enlace": "https://music.apple.com/es/album/el-puente-de-los-suicidas-2022-remastered-version/1648212250?i=1648212561&uo=4"
+}
+},
+"protozoo-paula-vogel": {
 "f": "2026-11-16",
 "r": null
 },
@@ -856,6 +932,10 @@
 "r": null
 },
 "red-moon-rise-before-my-time": {
+"f": "2026-11-16",
+"r": null
+},
+"rincarnation": {
 "f": "2026-11-16",
 "r": null
 },
@@ -927,6 +1007,18 @@
 "enlace": "https://music.apple.com/es/album/la-bella-muerte-feat-kase-o/1308352840?i=1308355444&uo=4"
 }
 },
+"sick-buzos": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/d9/ac/dc/d9acdcaf-8fe6-3e69-a9ff-cc05ad5aa7f5/mzaf_4827186759096276126.plus.aac.p.m4a",
+"cancion": "Man Called Storm",
+"enlace": "https://music.apple.com/es/album/man-called-storm/1522005701?i=1522005706&uo=4"
+}
+},
+"sick-buzos-leone": {
+"f": "2026-11-16",
+"r": null
+},
 "sienna": {
 "f": "2026-11-16",
 "r": null
@@ -958,6 +1050,10 @@
 "cancion": "Que Vienen los Rojos",
 "enlace": "https://music.apple.com/es/album/que-vienen-los-rojos/6812732484?i=6812732485&uo=4"
 }
+},
+"soul-track": {
+"f": "2026-11-16",
+"r": null
 },
 "space-hammu": {
 "f": "2026-11-16",
