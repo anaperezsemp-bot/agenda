@@ -99,7 +99,31 @@
 "enlace": "https://music.apple.com/es/album/the-bee/1776756675?i=1776757129&uo=4"
 }
 },
+"ana-franco": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/e3/f9/41e3f946-f642-1437-7429-66d1f45b84c3/mzaf_3278277379975299737.plus.aac.p.m4a",
+"cancion": "Julia y Luna (feat. La Joya)",
+"enlace": "https://music.apple.com/es/album/julia-y-luna-feat-la-joya/6821767611?i=6821767613&uo=4"
+}
+},
+"ana-franco-la-joya": {
+"f": "2026-11-16",
+"r": null
+},
 "andres-iwasaki-en-vibra-mahou": {
+"f": "2026-11-16",
+"r": null
+},
+"angel-rostaing": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/22/43/ca/2243ca3f-09b8-d105-e079-9b248d519459/mzaf_7737721515067653628.plus.aac.p.m4a",
+"cancion": "Don't Be Sad",
+"enlace": "https://music.apple.com/es/album/dont-be-sad/1874025718?i=1874025721&uo=4"
+}
+},
+"angel-rostaing-joel-reyes": {
 "f": "2026-11-16",
 "r": null
 },
@@ -125,6 +149,14 @@
 "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/af/4b/a7af4b0a-3009-ae3f-a0dc-9a2f18e68037/mzaf_11983309153211970715.plus.aac.p.m4a",
 "cancion": "Buen Viaje",
 "enlace": "https://music.apple.com/es/album/buen-viaje/1841843373?i=1841843446&uo=4"
+}
+},
+"anouck-the-band": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/f1/0e/74f10e96-75f6-807a-4865-decf5915c7d4/mzaf_12137753383526467868.plus.aac.p.m4a",
+"cancion": "Háblame de ella",
+"enlace": "https://music.apple.com/es/album/h%C3%A1blame-de-ella/6809399681?i=6809399684&uo=4"
 }
 },
 "apricot-jam": {
@@ -219,6 +251,14 @@
 "enlace": "https://music.apple.com/es/album/parques/1614855825?i=1614855832&uo=4"
 }
 },
+"beth-orton": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/18/5d/3d185db8-4121-1378-1112-3d9bd5b93eb7/mzaf_16725788335727440356.plus.aac.p.m4a",
+"cancion": "Cigarette Curls",
+"enlace": "https://music.apple.com/es/album/cigarette-curls/1858195306?i=1858195410&uo=4"
+}
+},
 "big-bands-festival-ucm-galapagar": {
 "f": "2026-11-16",
 "r": null
@@ -228,6 +268,10 @@
 "r": null
 },
 "blanco-palamera-en-madrid-son-estrella-galicia-cafe-berlin-3": {
+"f": "2026-11-16",
+"r": null
+},
+"blinded-by-passion-uk": {
 "f": "2026-11-16",
 "r": null
 },
@@ -327,6 +371,10 @@
 "f": "2026-11-16",
 "r": null
 },
+"carey": {
+"f": "2026-11-16",
+"r": null
+},
 "carino": {
 "f": "2026-11-16",
 "r": {
@@ -422,6 +470,14 @@
 "chico-blanco-live-a-v-nazzz-juguete-en-madrid-son-estrella-g": {
 "f": "2026-11-16",
 "r": null
+},
+"chico-chico": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bc/f3/c9/bcf3c966-88c1-e1d0-4958-84f94f8bc58e/mzaf_15847998633132860696.plus.aac.p.m4a",
+"cancion": "Menino Bonito (Ao Vivo)",
+"enlace": "https://music.apple.com/es/album/menino-bonito-ao-vivo/1823089765?i=1823089771&uo=4"
+}
 },
 "chuck-ragan": {
 "f": "2026-11-16",
@@ -603,6 +659,14 @@
 "enlace": "https://music.apple.com/es/album/samarcanda/1794593101?i=1794593102&uo=4"
 }
 },
+"delvon-lamarr-organ-trio": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a6/24/1a/a6241acd-585d-83ca-b216-12112545cc2a/mzaf_17042057623555821460.plus.aac.p.m4a",
+"cancion": "Move on Up (Live)",
+"enlace": "https://music.apple.com/es/album/move-on-up-live/1447724681?i=1447724682&uo=4"
+}
+},
 "depresion-sonora": {
 "f": "2026-11-16",
 "r": {
@@ -622,6 +686,14 @@
 "dimitri-papanikas-cuenta-pier-paolo-pasolini": {
 "f": "2026-11-16",
 "r": null
+},
+"dizzy-dros": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/92/4f/92/924f9295-3246-46c7-3936-32b35f014434/mzaf_13087452466610776734.plus.aac.p.m4a",
+"cancion": "OMAR",
+"enlace": "https://music.apple.com/es/album/omar/6771967893?i=6771968062&uo=4"
+}
 },
 "dogteeh": {
 "f": "2026-11-16",
@@ -783,6 +855,14 @@
 "f": "2026-11-16",
 "r": null
 },
+"ernan-lopez-nussa": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/c5/66/8d/c5668db9-669d-dd52-cb5c-fc3d6e314e4b/mzaf_6153265158779163537.plus.aac.p.m4a",
+"cancion": "Isla",
+"enlace": "https://music.apple.com/es/album/isla/152513834?i=152513931&uo=4"
+}
+},
 "estrella-fugaz": {
 "f": "2026-11-16",
 "r": {
@@ -842,6 +922,14 @@
 "fiasco": {
 "f": "2026-11-16",
 "r": null
+},
+"flore-benguigui-the-sensible-notes": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/9e/df/5c9edf71-52da-eb2a-11a6-04befa724ba9/mzaf_4009901490526525747.plus.aac.p.m4a",
+"cancion": "More Understanding Than A Man",
+"enlace": "https://music.apple.com/es/album/more-understanding-than-a-man/1842228331?i=1842228537&uo=4"
+}
 },
 "fortuna": {
 "f": "2026-11-16",
@@ -1019,6 +1107,10 @@
 "enlace": "https://music.apple.com/es/album/ugly-brunette/1492128295?i=1492128304&uo=4"
 }
 },
+"hoss-swet-1987": {
+"f": "2026-11-16",
+"r": null
+},
 "ibeyi": {
 "f": "2026-11-16",
 "r": {
@@ -1062,6 +1154,14 @@
 "inercia-sonora-casa-lucas-y-lu-migues": {
 "f": "2026-11-16",
 "r": null
+},
+"infinity-song": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/a0/02/5da00256-9188-db99-5eb5-e76a1722cf0d/mzaf_5387510807940719237.plus.aac.p.m4a",
+"cancion": "Hurricane",
+"enlace": "https://music.apple.com/es/album/hurricane/1894949981?i=6762663293&uo=4"
+}
 },
 "inverfest-2026": {
 "f": "2026-11-16",
@@ -1287,6 +1387,10 @@
 "enlace": "https://music.apple.com/es/album/felicidad/40567748?i=40567750&uo=4"
 }
 },
+"la-jorni": {
+"f": "2026-11-16",
+"r": null
+},
 "la-juventud": {
 "f": "2026-11-16",
 "r": null
@@ -1313,6 +1417,14 @@
 "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/26/3e/7d/263e7d60-3b53-1f40-e4a3-5c446ccb5418/mzaf_8515986206561275804.plus.aac.p.m4a",
 "cancion": "Curva de Consumo Ascendente",
 "enlace": "https://music.apple.com/es/album/curva-de-consumo-ascendente/1767302412?i=1767302414&uo=4"
+}
+},
+"lady-banana": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/2d/a6/642da677-ea84-5237-f778-0f0ced11f3d3/mzaf_13088272408466938995.plus.aac.p.m4a",
+"cancion": "Bora Bora",
+"enlace": "https://music.apple.com/es/album/bora-bora/1746300428?i=1746300619&uo=4"
 }
 },
 "las-eras-arg": {
@@ -1368,6 +1480,14 @@
 "r": null
 },
 "lo-que-pasa-en-las-vegas-ultimos-solitarios-50-anos-sin-exit": {
+"f": "2026-11-16",
+"r": null
+},
+"los-better": {
+"f": "2026-11-16",
+"r": null
+},
+"los-better-filantropos-time-money": {
 "f": "2026-11-16",
 "r": null
 },
@@ -1679,6 +1799,14 @@
 "f": "2026-11-16",
 "r": null
 },
+"migala": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/8b/2e/218b2e3d-8e80-a0b4-2583-5425eaa82676/mzaf_1986501934744391743.plus.aac.p.m4a",
+"cancion": "Aquel Incencio",
+"enlace": "https://music.apple.com/es/album/aquel-incencio/80475561?i=80475527&uo=4"
+}
+},
 "migue-de-antilopez": {
 "f": "2026-11-16",
 "r": {
@@ -1835,6 +1963,14 @@
 "f": "2026-11-16",
 "r": null
 },
+"mt-jones": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/39/80/fb39806a-aed0-a9d3-562d-fb101e9f1d5b/mzaf_14680392542322548819.plus.aac.p.m4a",
+"cancion": "All I Do",
+"enlace": "https://music.apple.com/es/album/all-i-do/1833255782?i=1833255788&uo=4"
+}
+},
 "mucho-muchacho-friends-xmas": {
 "f": "2026-11-16",
 "r": null
@@ -1935,6 +2071,14 @@
 "enlace": "https://music.apple.com/es/album/qu%C3%A9-va/1810691423?i=1810691424&uo=4"
 }
 },
+"nouvelle-vague": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/e2/f3/14e2f3b5-bdd2-5bd7-3de8-2ab769fe078a/mzaf_3103507802513293642.plus.aac.p.m4a",
+"cancion": "In a Manner of Speaking (feat. Camille)",
+"enlace": "https://music.apple.com/es/album/in-a-manner-of-speaking-feat-camille/1693635993?i=1693636273&uo=4"
+}
+},
 "omaga": {
 "f": "2026-11-16",
 "r": null
@@ -2009,6 +2153,14 @@
 "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/73/69/4b736929-1ffe-0494-8134-65014befa0bb/mzaf_255958436454438740.plus.aac.p.m4a",
 "cancion": "Lost In Translation",
 "enlace": "https://music.apple.com/es/album/lost-in-translation/6811894187?i=6811894387&uo=4"
+}
+},
+"paloma-morphy": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b7/c0/78/b7c07898-a80e-512e-3fd4-cfdd14750941/mzaf_617851481286447203.plus.aac.p.m4a",
+"cancion": "si la ves",
+"enlace": "https://music.apple.com/es/album/si-la-ves/6799234594?i=6799234595&uo=4"
 }
 },
 "panda-bear-sonic-boom": {
@@ -2151,6 +2303,18 @@
 "f": "2026-11-16",
 "r": null
 },
+"pijamas-social-club": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/85/a7/06/85a70683-0b52-a800-b32b-6e4f47e13720/mzaf_11144054155578874015.plus.aac.p.m4a",
+"cancion": "Godstar",
+"enlace": "https://music.apple.com/es/album/godstar/1878652036?i=1878652037&uo=4"
+}
+},
+"pijamas-social-club-fueu": {
+"f": "2026-11-16",
+"r": null
+},
 "pinone-stoner-grunge": {
 "f": "2026-11-16",
 "r": null
@@ -2202,6 +2366,10 @@
 "cancion": "Playing God",
 "enlace": "https://music.apple.com/es/album/playing-god/1621719117?i=1621719118&uo=4"
 }
+},
+"por-el-aire": {
+"f": "2026-11-16",
+"r": null
 },
 "porretas": {
 "f": "2026-11-16",
@@ -2477,6 +2645,14 @@
 "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/23/52/cf/2352cf4b-ba6b-093d-4e93-87e0c93fa85f/mzaf_8444733662699596132.plus.aac.p.m4a",
 "cancion": "Die On This Hill",
 "enlace": "https://music.apple.com/es/album/die-on-this-hill/1841769601?i=1841769602&uo=4"
+}
+},
+"skinshape": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/2a/20/482a20dc-f2d7-4552-a970-8b646144b934/mzaf_14523800642368600661.plus.aac.p.m4a",
+"cancion": "Don't Call My Name",
+"enlace": "https://music.apple.com/es/album/dont-call-my-name/1231461693?i=1231462302&uo=4"
 }
 },
 "slift": {
@@ -2776,6 +2952,10 @@
 }
 },
 "todo-mal-presenta-apunalame": {
+"f": "2026-11-16",
+"r": null
+},
+"triada": {
 "f": "2026-11-16",
 "r": null
 },
