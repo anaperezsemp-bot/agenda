@@ -1,0 +1,18 @@
+{
+ "titulo": "Bechamel",
+ "fecha": "2027-02-26",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://dice.fm/event/x9vq3m-bechamel-26th-feb-el-stano-madrid-tickets?lng=es",
+ "url": null,
+ "imagen": "https://www.salaelsotano.com/wp-content/uploads/2026/11/CARTEL_BECHAMEL_768X768-300x300.jpg",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "conciertos"
+ ],
+ "sala": "el-sotano",
+ "id": "el-sotano-2027-02-26-bechamel"
+}

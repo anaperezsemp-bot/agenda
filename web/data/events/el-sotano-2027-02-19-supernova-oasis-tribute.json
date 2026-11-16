@@ -1,0 +1,18 @@
+{
+ "titulo": "Supernova Oasis Tribute",
+ "fecha": "2027-02-19",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://entradium.com/es/events/tributo-a-oasis-en-madrid-por-supernova-oasis-tribute",
+ "url": null,
+ "imagen": "https://www.salaelsotano.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-12.19.46-212x300.jpeg",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "conciertos"
+ ],
+ "sala": "el-sotano",
+ "id": "el-sotano-2027-02-19-supernova-oasis-tribute"
+}

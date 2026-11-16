@@ -1,0 +1,18 @@
+{
+ "titulo": "Manussian",
+ "fecha": "2026-12-11",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://tickety.es/event/manussian-en-directo-desde-el-sotano",
+ "url": null,
+ "imagen": "https://www.salaelsotano.com/wp-content/uploads/2026/10/MANUSSIAN_v9.3-212x300.png",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "conciertos"
+ ],
+ "sala": "el-sotano",
+ "id": "el-sotano-2026-12-11-manussian"
+}
