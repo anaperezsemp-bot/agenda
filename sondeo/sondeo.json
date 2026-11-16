@@ -1,33 +1,62 @@
 {
- "https://siroco.es/agenda/": {
+ "https://madridenvivo.com/robots.txt": {
   "status": 200,
-  "final": "https://siroco.es/agenda/",
-  "len": 611360,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [
-   "WordPress 7.1.4",
-   "Site Kit by Google 1.191.0",
-   "Elementor 4.4.0; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto"
-  ],
+  "final": "https://madridenvivo.com/robots.txt",
+  "len": 195,
+  "ctype": "text/plain",
+  "generator": [],
   "ldtypes": [],
   "ldcount": 0,
-  "feeds": [
-   "https://siroco.es/feed/",
-   "https://siroco.es/comments/feed/"
-  ],
+  "feeds": [],
+  "hints": [],
+  "text": "# robots.txt # Permite acceso pero con moderaciÃ³n User-agent: * Crawl-delay: 10 Allow: / # Opcional: si quieres excluir carpetas sensibles Disallow: /admin/ Disallow: /private/ Disallow: /tmp/"
+ },
+ "https://madridenvivo.com/wp-json/wp/v2/types": {
+  "status": 200,
+  "final": "https://madridenvivo.com/wp-json/wp/v2/types",
+  "len": 31359,
+  "ctype": "application/json; charset=UTF-8",
+  "generator": [],
+  "ldtypes": [],
+  "ldcount": 0,
+  "feeds": [],
   "hints": [
-   "dice.fm",
-   "entradium",
-   "eventbrite",
-   "events-manager",
    "wp-json"
   ],
-  "text": " Agenda - Siroco Agenda Clubbing Conciertos ARTLAB Contacto Agenda Clubbing Conciertos ARTLAB Contacto Agenda Buscar cerca&#8230; Buscar Show Advanced Search Buscar cerca&#8230; Location Options País Todos los países España Región Todas las regiones Estado / Condado Estado / Condado Dentro 5 10 25 50 100 unidades de distancia Millas Kilómetros Categoría Categoría ZDestacado Otros Festival Tributos Fast expos Conciertos Clubbing Cancelado Vaciar todo Buscar Hoy Lun Mar Mié Jue Vie Sáb Dom l m m j v s d 26 27 9:00 PM &#8211; Officer John 28 29 + 12:00 AM &#8211; D.E.P Pringa Studio: Fukcnormal + Klandestina + Xandiyei 12:00 AM &#8211; D.E.P Pringa Studio 9:00 PM &#8211; SANTA ANA y la Santabanda más&#8230; 30 + 12:00 AM &#8211; Pogo Halloween: Julietta Ferrari + Montenegro + Pogo Djs más&#8230; 31 + 12:00 AM &#8211; Wicked Fridays w/ Badadan: Unity Sound &amp; Luv Messenger + AI-D Selectress x Dj Kennah 12:00 AM &#8211; Wicked Fridays w/ Badadan: Unity Sound &amp; Luv Messenger + AI-D Selectress x Dj Kennah más&#8230; 1 + 12:00 AM &#8211; Discoscuro: Giggy Devy + LKTA + Estrella Or + Wize más&#8230; 2 12:00 AM &#8211; Discoscuro: Giggy Devy + LKTA + Estrella Or + Wize 9:00 PM &#8211; Lu Jr 3 4 9:00 PM &#8211; Wistimber 5 12:00 AM &#8211; Fer Xplosion + Gema Electrofunken 11:59 PM &#8211; From Disco to Disco Pussy Power edition: Dj Palo + Eme Dj + K[alma] 9:00 PM &#8211; Gavarnie 6 + 12:00 AM &#8211; Presión: RXDRIGUEZZ + YABIWASABI + anagm + Solveig 9:00 PM &#8211; Sugarcrash m"
+  "body": "{\"post\":{\"description\":\"\",\"hierarchical\":false,\"has_archive\":false,\"name\":\"Entradas\",\"slug\":\"post\",\"icon\":\"dashicons-admin-post\",\"taxonomies\":[\"category\",\"post_tag\"],\"rest_base\":\"posts\",\"rest_namespace\":\"wp\\/v2\",\"template\":[],\"template_lock\":false,\"yoast_head\":\"<!-- This site is optimized with the Yoast SEO plugin v28.8 - https:\\/\\/yoast.com\\/product\\/yoast-seo-wordpress\\/ -->\\n<title>Madrid en Vivo -<\\/title>\\n<meta name=\\\"robots\\\" content=\\\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\\\" \\/>\\n<link rel=\\\"canonical\\\" href=\\\"https:\\/\\/madridenvivo.com\\/\\\" \\/>\\n<m"
  },
- "https://madridenvivo.com/": {
+ "https://madridenvivo.com/wp-json/wp/v2/evento?per_page=2": {
   "status": 200,
-  "final": "https://madridenvivo.com/",
-  "len": 239239,
+  "final": "https://madridenvivo.com/wp-json/wp/v2/evento?per_page=2",
+  "len": 22608,
+  "ctype": "application/json; charset=UTF-8",
+  "generator": [],
+  "ldtypes": [],
+  "ldcount": 0,
+  "feeds": [],
+  "hints": [
+   "wp-json"
+  ],
+  "body": "[{\"id\":802401,\"date\":\"2026-11-16T15:42:29\",\"date_gmt\":\"2026-11-16T14:42:29\",\"guid\":{\"rendered\":\"https:\\/\\/madridenvivo.com\\/?post_type=evento&#038;p=802401\"},\"modified\":\"2026-11-16T15:42:33\",\"modified_gmt\":\"2026-11-16T14:42:33\",\"slug\":\"canal-street-jazz-band-26\",\"status\":\"publish\",\"type\":\"evento\",\"link\":\"https:\\/\\/madridenvivo.com\\/evento\\/canal-street-jazz-band-26\\/\",\"title\":{\"rendered\":\"CANAL STREET JAZZ BAND\"},\"content\":{\"rendered\":\"\\n<p class=\\\"wp-block-paragraph\\\"><strong>La Canal<\\/strong>, con sus cinco miembros, cada uno aportando sus ideas, desarrollando no s\\u00f3lo un estilo de Jazz"
+ },
+ "https://madridenvivo.com/wp-json/wp/v2/taxonomies": {
+  "status": 200,
+  "final": "https://madridenvivo.com/wp-json/wp/v2/taxonomies",
+  "len": 2576,
+  "ctype": "application/json; charset=UTF-8",
+  "generator": [],
+  "ldtypes": [],
+  "ldcount": 0,
+  "feeds": [],
+  "hints": [
+   "wp-json"
+  ],
+  "body": "{\"category\":{\"name\":\"Categor\\u00edas\",\"slug\":\"category\",\"description\":\"\",\"types\":[\"post\"],\"hierarchical\":true,\"rest_base\":\"categories\",\"rest_namespace\":\"wp\\/v2\",\"_links\":{\"collection\":[{\"href\":\"https:\\/\\/madridenvivo.com\\/wp-json\\/wp\\/v2\\/taxonomies\"}],\"wp:items\":[{\"href\":\"https:\\/\\/madridenvivo.com\\/wp-json\\/wp\\/v2\\/categories\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}},\"post_tag\":{\"name\":\"Etiquetas\",\"slug\":\"post_tag\",\"description\":\"\",\"types\":[\"post\",\"evento\",\"sala\",\"pregunta\"],\"hierarchical\":false,\"rest_base\":\"tags\",\"rest_namespace\":\"wp\\/v2\",\"_links\":{\""
+ },
+ "https://madridenvivo.com/evento/jesse-joy/": {
+  "status": 200,
+  "final": "https://madridenvivo.com/evento/jesse-joy/",
+  "len": 118461,
   "ctype": "text/html; charset=UTF-8",
   "generator": [],
   "ldtypes": [],
@@ -39,196 +68,40 @@
   "hints": [
    "wp-json"
   ],
-  "text": " Madrid en Vivo - Agenda de Conciertos y Espectáculos en Madrid --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> ASOCIACIÓN DE SALAS DE CONCIERTOS Y ESPECTÁCULOS Agenda Noticias Actualidad Entrevistas Noticias de salas FLAMENCO CAPITAL EN SINTONÍA MEV Podcast Playlist Salas Podcast Proyectos DESTACADOS DE AGENDA 16 de noviembre del 2026 ESPECIAL EMOCIONES --> Teatro Flamenco Madrid Tres pases: 17:00h, 19:00h y 20:45h DESTACADOS DE AGENDA 16 de noviembre del 2026 JAZZ CON SABOR A CLUB 26: KIRK MACDONALD &amp; FABIO MIANO QUARTET (Festival JazzMadrid) --> Café Central Ateneo Dos pases: 20:00h y 22:00h DESTACADOS DE AGENDA 16 de noviembre del 2026 JESSE &amp; JOY --> La Riviera 21:00h DESTACADOS DE AGENDA 16 de noviembre del 2026 JULIO IGLESIAS EXPERIENCE POR JULIO IGLESIAS JR. --> Nuevo Teatro Alcalá 20:00h DESTACADOS DE AGENDA 17 de noviembre del 2026 ESPECTÁCULO FLAMENCO: CARLOS RIVERO + PAULA MORENO --> Tablao Ópera Flamenca Tres pases: 18:30h, 20:00h y 21:30h DESTACADOS DE AGENDA 17 de noviembre del 2026 JAZZ CON SABOR A CLUB 26: KIRK MACDONALD &amp; FABIO MIANO QUARTET (Festival JazzMadrid) --> Café Central Ateneo Dos pases: 20:00h y 22:00h Agenda Destacada --> BUSCADOR AVANZADO ▼ Salas Todas Babylon Barracudas Rock Bar Beer Station Big Mama Ballroom Bule Bule Cadavra Club Cadillac Solitario Café Berlín Café Central Ateneo Café El Despertar Café La Palma Candela Cardamomo Casa de la Música d"
+  "text": " Concierto JESSE &amp; JOY en Madrid - Madrid en Vivo --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> ASOCIACIÓN DE SALAS DE CONCIERTOS Y ESPECTÁCULOS Agenda Noticias Actualidad Entrevistas Noticias de salas FLAMENCO CAPITAL EN SINTONÍA MEV Podcast Playlist Salas Podcast Proyectos Pop / Rock 16 de noviembre del 2026 JESSE &amp; JOY La Riviera LUNES 16 Jesse &amp; Joy , uno de los dúos más importantes y exitosos de la música latina contemporánea, anuncia su primera gira en España. Los hermanos mexicanos visitarán nuestro país el próximo mes de noviembre dentro de su aclamado El Despecho Tour, una gira internacional que continúa recorriendo escenarios de todo el mundo y que hará parada en Madrid. La llegada de Jesse &amp; Joy a España supone uno de los momentos más esperados por sus seguidores. Tras más de veinte años de trayectoria, millones de oyentes en todo el mundo y una colección de éxitos que forman parte de la banda sonora de varias generaciones, el dúo aterriza por primera vez en nuestro país con un espectáculo que reúne los grandes himnos de su carrera junto a las canciones de su etapa más reciente. Categoría: Pop / Rock Precio: 45€ Pase: 21:00h Comprar entradas --> --> ¡SUSCRÍBETE A NUESTRA NEWSLETTER! DESCUBRE TODAS LAS NOVEDADES He leído y acepto el Aviso Legal y la Política de Privacidad &#916; --> COLABORADORES Contacto Calle San Bernardo 5-7, Escalera C, 1o, Oficina 33, 28013, Madrid &#109&#105&#103&#117&#101&#"
  },
- "https://conciertoscopernico.com/feed/": {
+ "https://madridenvivo.com/sala/la-riviera/": {
   "status": 200,
-  "final": "https://conciertoscopernico.com/feed/",
-  "len": 28671,
-  "ctype": "text/xml;charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [
-   "DICE.FM",
-   "Dice.fm",
-   "entradium",
-   "fever"
-  ],
-  "text": " Conciertos Copérnico https://conciertoscopernico.com/ Conciertos de grupos musicales en la Sala Copérnico de Madrid Tue, 27 Oct 2026 11:32:49 +0000 es hourly 1 https://wordpress.org/?v=7.1.4 RODRIGO Y GABRILA &#8211; 8 de Mayo https://conciertoscopernico.com/rodrigo-y-gabrila-8-de-mayo/ Fri, 08 May 2026 16:20:10 +0000 https://conciertoscopernico.com/?p=4970 El dúo de guitarristas mexicanos ganadores de un Grammy, Rodrigo y Gabriela, regresa el año que viene a España con su gira 'OurHome Tour'. Tendremos la oportunidad de disfrutar de su directo el 7 de mayo en La (2) de Apolo, en Barcelona, y el 8 de mayo en la Sala Copérnico de Madrid. Las La entrada RODRIGO Y GABRILA &#8211; 8 de Mayo se publicó primero en Conciertos Copérnico . ]]> El dúo de guitarristas mexicanos ganadores de un Grammy, Rodrigo y Gabriela , regresa el año que viene a España con su gira &#8216;OurHome Tour&#8217; . Tendremos la oportunidad de disfrutar de su directo el 7 de mayo en La (2) de Apolo, en Barcelona, y el 8 de mayo en la Sala Copérnico de Madrid . Las entradas estarán a la venta a partir de este viernes 12 de junio a las 10:00h a través de doctormusic.com y entradas.com . El precio será de 39,50€ (IVA y gastos de distribución incluidos). La entrada RODRIGO Y GABRILA &#8211; 8 de Mayo se publicó primero en Conciertos Copérnico . ]]> MERCROMINA &#8211; 17 de Abril https://conciertoscopernico.com/mercromina-17-de-abril/ Fri, 17 Apr 2026 08:48:09 +0000 https://conciertoscopernico.com/?p=5146 Mercr"
- },
- "https://www.laganzua.net/robots.txt": {
-  "status": 200,
-  "final": "https://www.laganzua.net/robots.txt",
-  "len": 794,
-  "ctype": "text/plain",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "text": "# robots.txt generated at http://www.mcanerin.com User-agent: * Disallow: /foro_musica/index.php?action=admin* Disallow: /foro_musica/index.php?action=calendar* Disallow: /foro_musica/index.php?action=login* Disallow: /foro_musica/index.php?action=printpage* Disallow: /foro_musica/index.php?action=profile* Disallow: /foro_musica/index.php?action=register* Disallow: /foro_musica/index.php?action=stats* Disallow: /foro_musica/index.php?PHPSESSID=* Disallow: /foro_musica/index.php?*wap* Disallow: /foro_musica/index.php?*wap2* Disallow: /conciertos/votar.php User-agent: anthropic-ai Disallow: / User-agent: Claude-Web Disallow: / User-agent: PetalBot Disallow: / User-agent: Baiduspider Disallow: / User-agent: Bytespider Disallow: / User-agent: ClaudeBot Disallow: /"
- },
- "https://www.laganzua.net/conciertos/salas-conciertos/sala-nazca": {
-  "status": 200,
-  "final": "https://www.laganzua.net/conciertos/salas-conciertos/sala-nazca",
-  "len": 85861,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [
-   "MusicEvent",
-   "MusicEvent",
-   "MusicEvent",
-   "MusicEvent",
-   "MusicEvent"
-  ],
-  "ldcount": 8,
-  "feeds": [
-   "https://www.laganzua.net/conciertos/feed.php"
-  ],
-  "hints": [
-   "Fever",
-   "Ticketmaster"
-  ],
-  "text": " Sala Nazca La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; conciertos &gt; salas de conciertos &gt; sala Nazca sala Nazca - Conciertos Artista: L.a. Guns Fecha: sábado 21 de noviembre de 2026 Sala: Sala Nazca Localidad: Madrid compra tu entrada Próximos Conciertos en sala Nazca Concierto de L.a. Guns en Madrid sábado 21 de noviembre de 2026 Madrid Sala Nazca Precio: 36.00 entradas Concierto de Split Dogs en Madrid jueves 26 de noviembre de 2026 Madrid Sala Nazca Precio: 23.00 entradas Concierto de Combichrist + Xpq-21 en Madrid sábado 5 de diciembre de 2026 Madrid Sala Nazca Precio: 32.10 entradas Concierto de Dark Christmas Festival Madrid 2026 en Madrid sábado 12 de diciembre de 2026 Madrid Sala Nazca Precio: 29.01 entradas Concierto de Ignite en Madrid viernes 15 de enero de 2027 Madrid Sala Nazca Concierto de Suicide Commando en Madrid sábado 16 de enero de 2027 Madrid Sala Nazca Precio: 29.01 entradas Concierto de Ktulu en Madrid sábado 30 de enero de 2027 Madrid Sala Nazca Precio: 22.00 entradas Concierto de Invisible Limits en Madrid viernes 5 de febrero de 2027 Madrid Sala Nazca Precio: 29.01 entradas Información de sala Nazca sala Nazca Calle de Orense, 24 Madrid Ver en Google Maps Otras Salas de Conciertos e"
- },
- "https://www.laganzua.net/conciertos/salas-conciertos/sala-chango": {
-  "status": 200,
-  "final": "https://www.laganzua.net/conciertos/salas-conciertos/sala-chango",
-  "len": 67431,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [
-   "MusicEvent"
-  ],
-  "ldcount": 1,
-  "feeds": [
-   "https://www.laganzua.net/conciertos/feed.php"
-  ],
-  "hints": [
-   "Fever",
-   "Ticketmaster"
-  ],
-  "text": " Sala Changó La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; conciertos &gt; salas de conciertos &gt; Sala Changó Sala Changó - Conciertos Artista: Slow Pilot - Homenaje A Jeff Buckley Fecha: jueves 25 de febrero de 2027 Sala: Sala Changó Localidad: Madrid compra tu entrada Próximos Conciertos en Sala Changó Concierto de Slow Pilot - Homenaje A Jeff Buckley en Madrid jueves 25 de febrero de 2027 Madrid Sala Changó Precio: 28.00 entradas Información de Sala Changó Sala Changó Calle de Covarrubias, 42, Chamberí Madrid Ver en Google Maps Otras Salas de Conciertos en Madrid Sala Movistar Arena sala La Riviera sala El Sol Palacio Vistalegre sala BUT Sala Villanos Live las Ventas Sala Wagon sala Copérnico sala Mon Live Estadio Riyadh Air Metropolitano sala Nazca sala Clamores Teatro Eslava Ifema Teatro Circo Price The Lenovo Garage, Autocine sala Siroco sala Independance Club Sala Lula Club sala Wurlitzer Ballroom Fun House sala Café Berlin sala Galileo Galilei sala Joy Eslava sala Moby Dick sala Shoko sala Vesta Teatro La Latina Otros Conciertos en Madrid Beth Orton Sala Villanos, Madrid lunes 16 de noviembre de 2026 ver entradas Homer El Mero Mero Sala Copérnico, Madrid lunes 16 de noviembre de 2026 ver entradas Kidd Voodo"
- },
- "https://www.laganzua.net/conciertos/salas-conciertos/sala-villanos": {
-  "status": 200,
-  "final": "https://www.laganzua.net/conciertos/salas-conciertos/sala-villanos",
-  "len": 91836,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [
-   "MusicEvent",
-   "MusicEvent",
-   "MusicEvent",
-   "MusicEvent",
-   "MusicEvent"
-  ],
-  "ldcount": 10,
-  "feeds": [
-   "https://www.laganzua.net/conciertos/feed.php"
-  ],
-  "hints": [
-   "Fever",
-   "Ticketmaster"
-  ],
-  "text": " Sala Villanos La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; conciertos &gt; salas de conciertos &gt; Sala Villanos Sala Villanos - Conciertos Artista: Dante Spinetta Fecha: viernes 9 de abril de 2027 Sala: Sala Villanos Localidad: Madrid compra tu entrada Próximos Conciertos en Sala Villanos Concierto de Beth Orton en Madrid lunes 16 de noviembre de 2026 Madrid Sala Villanos Precio: 31.30 entradas Concierto de The Sadies en Madrid jueves 3 de diciembre de 2026 Madrid Sala Villanos Precio: 28.00 entradas Concierto de Diegote en Madrid jueves 10 de diciembre de 2026 Madrid Sala Villanos Precio: 19.80 entradas Concierto de Zahara Rave en Madrid viernes 18 de diciembre de 2026 Madrid Sala Villanos Precio: 27.50 entradas Concierto de Begut en Madrid viernes 15 de enero de 2027 Madrid Sala Villanos Precio: 22.00 entradas Concierto de Zahara Rave - Segunda Fecha Madrid en Madrid viernes 22 de enero de 2027 Madrid Sala Villanos Precio: 27.50 entradas Concierto de Gazella en Madrid sábado 23 de enero de 2027 Madrid Sala Villanos Precio: 20.00 entradas Concierto de Pancho Varona en Madrid viernes 29 de enero de 2027 Madrid Sala Villanos Precio: 24.50 entradas Concierto de El Nido en Madrid sábado 30 de enero de 2027 Madrid Sa"
- },
- "https://www.laganzua.net/conciertos/salas-conciertos/sala-lula-club": {
-  "status": 200,
-  "final": "https://www.laganzua.net/conciertos/salas-conciertos/sala-lula-club",
-  "len": 70009,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [
-   "MusicEvent",
-   "MusicEvent"
-  ],
-  "ldcount": 2,
-  "feeds": [
-   "https://www.laganzua.net/conciertos/feed.php"
-  ],
-  "hints": [
-   "Fever",
-   "Ticketmaster"
-  ],
-  "text": " Lula Club La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; conciertos &gt; salas de conciertos &gt; Sala Lula Club Sala Lula Club - Conciertos Artista: The Milk Carton Kids Fecha: jueves 21 de enero de 2027 Sala: Lula Club Localidad: Madrid compra tu entrada Próximos Conciertos en Sala Lula Club Concierto de The Milk Carton Kids en Madrid jueves 21 de enero de 2027 Madrid Lula Club Precio: 30.80 entradas Concierto de Maika Makovski en Madrid jueves 11 de febrero de 2027 Madrid Lula Club Precio: 27.50 entradas Información de Sala Lula Club Sala Lula Club Gran Vía, 54, Centro Madrid Ver en Google Maps Otras Salas de Conciertos en Madrid Sala Movistar Arena sala La Riviera sala El Sol Palacio Vistalegre sala BUT Sala Villanos Live las Ventas Sala Wagon sala Copérnico sala Mon Live Estadio Riyadh Air Metropolitano sala Nazca sala Clamores Teatro Eslava Ifema Teatro Circo Price The Lenovo Garage, Autocine sala Siroco sala Independance Club sala Wurlitzer Ballroom Fun House sala Café Berlin Sala Changó sala Galileo Galilei sala Joy Eslava sala Moby Dick sala Shoko sala Vesta Teatro La Latina Otros Conciertos en Madrid Beth Orton Sala Villanos, Madrid lunes 16 de noviembre de 2026 ver entradas Homer El Mero Mero Sala Copérnic"
- },
- "https://www.laganzua.net/conciertos/salas-conciertos/sala-lab-wagon": {
-  "status": 200,
-  "final": "https://www.laganzua.net/error.php",
-  "len": 17472,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "text": " Página no encontrada | La Ganzua La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; Página no encontrada PÁGINA NO ENCONTRADA LO SENTIMOS, LA P&Aacute;GINA QUE BUSCAS YA NO EST&Aacute; EN LA GANZ&Uacute;A Despu&eacute;s de cumplir m&aacute;s de 20 a&ntilde;os en la red, algunas p&aacute;ginas se han independizado y habitan otros espacios de La Ganz&uacute;a. Otras est&aacute;n okupando otras webs (si vienes desde alg&uacute;n link externo) y otras... vuelven por Navidad o cuando Google quiere... No te preocupes, todav&iacute;a hay miles de p&aacute;ginas conviviendo en esta web y que puedes visitar; ser&aacute;s bienvenid@. más en La Ganzúa actualidad laganzua.net &copy; copyright 2001-2026 gestión y desarrollo: Amplitude &nbsp; Noticias Agenda de Conciertos Festivales de Música Crónicas de Conciertos &nbsp; Críticas de Discos Entrevistas Especiales Foro &nbsp; publicidad y promoción contacto mapa web créditos protección de datos &nbsp; laganzua.net &copy; copyright 2001-2026 gestión y desarrollo Amplitude contacto publicidad créditos mapa web protección de datos "
- },
- "https://www.laganzua.net/conciertos/salas-conciertos/sala-mon-live": {
-  "status": 200,
-  "final": "https://www.laganzua.net/conciertos/salas-conciertos/sala-mon-live",
-  "len": 91635,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [
-   "MusicEvent",
-   "MusicEvent",
-   "MusicEvent",
-   "MusicEvent",
-   "MusicEvent"
-  ],
-  "ldcount": 10,
-  "feeds": [
-   "https://www.laganzua.net/conciertos/feed.php"
-  ],
-  "hints": [
-   "Fever",
-   "Ticketmaster"
-  ],
-  "text": " Sala Mon Live La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; conciertos &gt; salas de conciertos &gt; sala Mon Live sala Mon Live - Conciertos Artista: Blutengel + Psideralic Fecha: sábado 13 de febrero de 2027 Sala: Sala Mon Live Localidad: Madrid compra tu entrada Próximos Conciertos en sala Mon Live Concierto de Airbag en Madrid viernes 20 de noviembre de 2026 Madrid Sala Mon Live Precio: 24.20 entradas Concierto de Airbag - Segunda Fecha Madrid en Madrid sábado 21 de noviembre de 2026 Madrid Sala Mon Live Precio: 24.20 entradas Concierto de Catupecu Machu en Madrid viernes 27 de noviembre de 2026 Madrid Sala Mon Live Precio: 38.99 entradas Concierto de Avalanch en Madrid viernes 29 de enero de 2027 Madrid Sala Mon Live Concierto de Lewis Potter en Madrid viernes 5 de febrero de 2027 Madrid Sala Mon Live Precio: 22.00 entradas Concierto de Blutengel + Psideralic en Madrid sábado 13 de febrero de 2027 Madrid Sala Mon Live Precio: 40.30 entradas Concierto de Dirty Honey en Madrid viernes 26 de febrero de 2027 Madrid Sala Mon Live Precio: 28.00 entradas Concierto de Julia Jacklin en Madrid martes 2 de marzo de 2027 Madrid Sala Mon Live Precio: 31.50 entradas Concierto de Foyone en Madrid sábado 6 de marzo de 2027 Mad"
- },
- "https://www.laganzua.net/conciertos/salas-conciertos/sala-uni": {
-  "status": 200,
-  "final": "https://www.laganzua.net/error.php",
-  "len": 17472,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "text": " Página no encontrada | La Ganzua La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; Página no encontrada PÁGINA NO ENCONTRADA LO SENTIMOS, LA P&Aacute;GINA QUE BUSCAS YA NO EST&Aacute; EN LA GANZ&Uacute;A Despu&eacute;s de cumplir m&aacute;s de 20 a&ntilde;os en la red, algunas p&aacute;ginas se han independizado y habitan otros espacios de La Ganz&uacute;a. Otras est&aacute;n okupando otras webs (si vienes desde alg&uacute;n link externo) y otras... vuelven por Navidad o cuando Google quiere... No te preocupes, todav&iacute;a hay miles de p&aacute;ginas conviviendo en esta web y que puedes visitar; ser&aacute;s bienvenid@. más en La Ganzúa actualidad laganzua.net &copy; copyright 2001-2026 gestión y desarrollo: Amplitude &nbsp; Noticias Agenda de Conciertos Festivales de Música Crónicas de Conciertos &nbsp; Críticas de Discos Entrevistas Especiales Foro &nbsp; publicidad y promoción contacto mapa web créditos protección de datos &nbsp; laganzua.net &copy; copyright 2001-2026 gestión y desarrollo Amplitude contacto publicidad créditos mapa web protección de datos "
- },
- "https://www.laganzua.net/conciertos/salas-conciertos/": {
-  "status": 200,
-  "final": "https://www.laganzua.net/conciertos/salas-conciertos/",
-  "len": 66202,
+  "final": "https://madridenvivo.com/sala/la-riviera/",
+  "len": 127456,
   "ctype": "text/html; charset=UTF-8",
   "generator": [],
   "ldtypes": [],
   "ldcount": 0,
   "feeds": [
-   "https://www.laganzua.net/conciertos/feed.php"
+   "https://madridenvivo.com/feed/",
+   "https://madridenvivo.com/comments/feed/"
   ],
   "hints": [
-   "Fever",
-   "fever"
+   "wp-json"
   ],
-  "text": " Salas de Conciertos en España La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; conciertos &gt; salas de conciertos en España Salas de conciertos en España Encuentra salas de conciertos en España por comunidad autónoma y ciudad. Descubre sus próximos conciertos, consulta dónde disfrutar de la música en directo y encuentra entradas para tus próximos eventos. Selecciona Salas por Comunidad Autónoma Madrid Cataluña Andalucia Valencia Euskadi Galicia Castilla Leon Aragon Murcia Navarra Asturias Cantabria Castilla La Mancha Canarias La Rioja Baleares COMUNIDAD AUTÓNOMA Madrid Madrid Sala Movistar Arena sala La Riviera sala El Sol Palacio Vistalegre sala BUT Sala Villanos Live las Ventas Sala Wagon sala Copérnico sala Mon Live Estadio Riyadh Air Metropolitano sala Nazca Movistar Arena, La Sala sala Clamores Teatro Eslava Ifema Teatro Circo Price sala Siroco The Lenovo Garage, Autocine sala Independance Club Sala Lula Club sala Wurlitzer Ballroom Fun House sala Café Berlin Sala Changó sala Galileo Galilei sala Joy Eslava sala Moby Dick sala Shoko sala Vesta Teatro La Latina COMUNIDAD AUTÓNOMA Cataluña Barcelona Palau Sant Jordi sala Apolo sala Razzmatazz 2 sala Razzmatazz 1 Sala Paral·lel 62 Sant Jordi Club sala Wolf Estadi Ol"
+  "text": " Madrid en Vivo - La Riviera --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> ASOCIACIÓN DE SALAS DE CONCIERTOS Y ESPECTÁCULOS Agenda Noticias Actualidad Entrevistas Noticias de salas FLAMENCO CAPITAL EN SINTONÍA MEV Podcast Playlist Salas Podcast Proyectos La Riviera La Riviera se ha convertido en una de las salas de conciertos&nbsp;más imprescindibles de la capital y por su escenario han pasado los grandes nombres del panorama nacional e internacional. La Riviera &nbsp;es una discoteca emplazada a orillas del Manzanares. Es el único local aclimatable de la capital, lo que la convierte en un oasis todas las estaciones del año en pleno centro de Madrid. La sala ha visto pasar casi cinco décadas de magia nocturna, convirtiéndose en una de las que más importantes y variados eventos ha celebrado en Madrid. Con 1.500 metros cuadrados, presididos por un espectacular escenario que puede adaptarse para organizar cualquier acontecimiento, La Riviera integra en un mismo entorno diferentes ambientes, adecuados para todas las exigencias. Categoría: Pop / Rock Dirección: Paseo Bajo de la Virgen del Puerto, s/n, 28005, Madrid Teléfono: 913652415 Email: administracion@salariviera.com Web: https://salariviera.com Transporte público: &lt;M> Puerta del Ángel BENY JR Pop / Rock 19/10/2026 19:30h 76,76 € Ver evento BENY JR Pop / Rock 20/10/2026 19:30h 76,76 € Ver evento AN EVENING WITH BAND OF HORSES &#8211; CELEBRATING 20 YEARS OF EVERYTHING ALL T"
  },
- "https://cadavraclub.com/live": {
-  "status": 404,
-  "final": "https://cadavraclub.com/live",
-  "len": 20,
+ "https://madridenvivo.com/agenda/": {
+  "status": 200,
+  "final": "https://madridenvivo.com/agenda-de-conciertos-y-espectaculo/",
+  "len": 214224,
   "ctype": "text/html; charset=UTF-8",
   "generator": [],
   "ldtypes": [],
   "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "text": "Página no encontrada"
+  "feeds": [
+   "https://madridenvivo.com/feed/",
+   "https://madridenvivo.com/comments/feed/"
+  ],
+  "hints": [
+   "wp-json"
+  ],
+  "text": " Madrid en Vivo - Agenda de conciertos y espectáculos ASOCIACIÓN DE SALAS DE CONCIERTOS Y ESPECTÁCULOS Agenda Noticias Actualidad Entrevistas Noticias de salas FLAMENCO CAPITAL EN SINTONÍA MEV Podcast Playlist Salas Podcast Proyectos DESTACADOS DE AGENDA 16 de noviembre del 2026 ESPECIAL EMOCIONES --> Teatro Flamenco Madrid Tres pases: 17:00h, 19:00h y 20:45h DESTACADOS DE AGENDA 16 de noviembre del 2026 JAZZ CON SABOR A CLUB 26: KIRK MACDONALD &amp; FABIO MIANO QUARTET (Festival JazzMadrid) --> Café Central Ateneo Dos pases: 20:00h y 22:00h DESTACADOS DE AGENDA 16 de noviembre del 2026 JESSE &amp; JOY --> La Riviera 21:00h DESTACADOS DE AGENDA 16 de noviembre del 2026 JULIO IGLESIAS EXPERIENCE POR JULIO IGLESIAS JR. --> Nuevo Teatro Alcalá 20:00h DESTACADOS DE AGENDA 17 de noviembre del 2026 ESPECTÁCULO FLAMENCO: CARLOS RIVERO + PAULA MORENO --> Tablao Ópera Flamenca Tres pases: 18:30h, 20:00h y 21:30h DESTACADOS DE AGENDA 17 de noviembre del 2026 JAZZ CON SABOR A CLUB 26: KIRK MACDONALD &amp; FABIO MIANO QUARTET (Festival JazzMadrid) --> Café Central Ateneo Dos pases: 20:00h y 22:00h Agenda --> BUSCADOR AVANZADO ▼ Salas Todas Babylon Barracudas Rock Bar Beer Station Big Mama Ballroom Bule Bule Cadavra Club Cadillac Solitario Café Berlín Café Central Ateneo Café El Despertar Café La Palma Candela Cardamomo Casa de la Música de Fuenlabrada Cien por Cien Clamores Contraclub Corral de la Morería Dime Que Me Quieres El Perro Club El Sol El Sótano Elefante Blanco Fotomatón Fulani"
  }
 }
