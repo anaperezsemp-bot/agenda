@@ -1,0 +1,18 @@
+{
+ "titulo": "CHICO CHICO",
+ "fecha": "2026-11-26",
+ "hora": "20:30",
+ "precio_min": 22.0,
+ "precio_max": 25.0,
+ "agotado": false,
+ "url_entradas": "https://salavillanos.es/evento/chico-chico/",
+ "url": "https://madridenvivo.com/evento/chico-chico/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "villanos",
+ "id": "villanos-2026-11-26-chico-chico"
+}

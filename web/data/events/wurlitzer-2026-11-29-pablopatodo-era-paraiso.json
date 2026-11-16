@@ -1,0 +1,21 @@
+{
+ "titulo": "Pablopatodo + era paraiso",
+ "fecha": "2026-11-29",
+ "hora": "21:00",
+ "precio_min": 8.0,
+ "precio_max": 10.0,
+ "agotado": false,
+ "url_entradas": "https://entradium.com/es/events/proyecto-huellas-pablopatodo-era-paraiso",
+ "url": "https://wurlitzerballroom.com/concierto/pablopatodo-era-paraiso-2026-11-29",
+ "imagen": null,
+ "generos": [
+  "Indie"
+ ],
+ "descripcion": "",
+ "categorias": [
+  "Punk pop",
+  "indie rock"
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-11-29-pablopatodo-era-paraiso"
+}

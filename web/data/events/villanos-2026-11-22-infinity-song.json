@@ -1,0 +1,18 @@
+{
+ "titulo": "INFINITY SONG",
+ "fecha": "2026-11-22",
+ "hora": "20:30",
+ "precio_min": 25.0,
+ "precio_max": 30.0,
+ "agotado": false,
+ "url_entradas": "https://salavillanos.es/evento/infinity-song/",
+ "url": "https://madridenvivo.com/evento/infinity-song/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "villanos",
+ "id": "villanos-2026-11-22-infinity-song"
+}

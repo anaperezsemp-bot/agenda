@@ -1,0 +1,23 @@
+{
+ "titulo": "Charnego + Calatrava + Vulneravle",
+ "fecha": "2026-12-11",
+ "hora": "21:00",
+ "precio_min": 12.0,
+ "precio_max": 15.0,
+ "agotado": false,
+ "url_entradas": "https://entradium.com/es/events/charnego-calatrava-vulneravle-madrid",
+ "url": "https://wurlitzerballroom.com/concierto/charnego-calatrava-vulneravle-2026-12-11",
+ "imagen": null,
+ "generos": [
+  "Rock",
+  "Punk"
+ ],
+ "descripcion": "",
+ "categorias": [
+  "Punk-rock",
+  "rock",
+  "punk"
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-12-11-charnego-calatrava-vulneravle"
+}

@@ -1,0 +1,18 @@
+{
+ "titulo": "BANDA AL9",
+ "fecha": "2026-11-24",
+ "hora": "20:30",
+ "precio_min": 15.0,
+ "precio_max": 18.0,
+ "agotado": false,
+ "url_entradas": "https://www.funhousemusicbar.com/conciertos/banda-al9/",
+ "url": "https://madridenvivo.com/evento/banda-al9/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "fun-house",
+ "id": "fun-house-2026-11-24-banda-al9"
+}

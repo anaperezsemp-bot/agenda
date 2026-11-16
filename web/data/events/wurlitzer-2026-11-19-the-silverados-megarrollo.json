@@ -1,0 +1,22 @@
+{
+ "titulo": "The Silverados + Megarrollo",
+ "fecha": "2026-11-19",
+ "hora": "21:00",
+ "precio_min": 10.0,
+ "precio_max": 13.0,
+ "agotado": false,
+ "url_entradas": "https://mutick.com/e/the-silverados-megarrollo",
+ "url": "https://wurlitzerballroom.com/concierto/the-silverados-2026-11-19",
+ "imagen": null,
+ "generos": [
+  "Punk"
+ ],
+ "descripcion": "",
+ "categorias": [
+  "Revival mod",
+  "New Wave",
+  "Punk"
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-11-19-the-silverados-megarrollo"
+}

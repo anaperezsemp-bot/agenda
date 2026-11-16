@@ -1,0 +1,22 @@
+{
+ "titulo": "Marcelo Criminal",
+ "fecha": "2027-01-22",
+ "hora": "21:00",
+ "precio_min": 16.51,
+ "precio_max": 16.51,
+ "agotado": false,
+ "url_entradas": "https://dice.fm/event/q2pvdy-marcelo-criminal-en-mazo-22nd-jan-wurlitzer-ballroom-madrid-tickets?utm_source=chatgpt.com",
+ "url": "https://wurlitzerballroom.com/concierto/marcelo-criminal-2027-01-22",
+ "imagen": null,
+ "generos": [
+  "Indie"
+ ],
+ "descripcion": "",
+ "categorias": [
+  "Indie pop",
+  "Lo-fi",
+  "Bedroom pop"
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2027-01-22-marcelo-criminal"
+}

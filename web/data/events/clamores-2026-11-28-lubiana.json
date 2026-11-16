@@ -1,0 +1,18 @@
+{
+ "titulo": "LUBIANA",
+ "fecha": "2026-11-28",
+ "hora": "22:30",
+ "precio_min": 15.0,
+ "precio_max": 18.0,
+ "agotado": false,
+ "url_entradas": "https://link.dice.fm/l7d2bc40b4bf?dice_id=l7d2bc40b4bf",
+ "url": "https://madridenvivo.com/evento/lubiana/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "Lubiana es una aclamada cantante, compositora y música belgo-camerunesa nacida en 1993. Destaca en la escena musical internacional por fusionar de manera única el jazz, la música soul y el pop con profundas raíces de la música tradicional africana.",
+ "categorias": [
+  "Músicas negras"
+ ],
+ "sala": "clamores",
+ "id": "clamores-2026-11-28-lubiana"
+}

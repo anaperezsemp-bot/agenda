@@ -1,0 +1,21 @@
+{
+ "titulo": "JULIA DEBIS – LA MEMORIA EN VIVO",
+ "fecha": "2026-11-26",
+ "hora": "20:00",
+ "precio_min": 10.0,
+ "precio_max": 12.0,
+ "agotado": false,
+ "url_entradas": "https://cafeberlinentradas.com/events/julia-debis-la-memoria-en-vivo",
+ "url": "https://madridenvivo.com/evento/julia-debis-la-memoria-en-vivo/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "cafe-berlin",
+ "id": "cafe-berlin-2026-11-26-julia-debis-la-memoria-en-vivo",
+ "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a2/f8/e5/a2f8e5ea-c1d7-52e3-8c5d-acafcb5a1f90/mzaf_15268669654582500204.plus.aac.p.m4a",
+ "cancion": "Tu Disco Favorito",
+ "enlace_audio": "https://music.apple.com/es/album/tu-disco-favorito/1692784480?i=1692784956&uo=4"
+}

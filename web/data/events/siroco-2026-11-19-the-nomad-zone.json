@@ -1,0 +1,18 @@
+{
+ "titulo": "THE NOMAD ZONE",
+ "fecha": "2026-11-19",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://madridenvivo.com/evento/the-nomad-zone/",
+ "url": "https://madridenvivo.com/evento/the-nomad-zone/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "siroco",
+ "id": "siroco-2026-11-19-the-nomad-zone"
+}

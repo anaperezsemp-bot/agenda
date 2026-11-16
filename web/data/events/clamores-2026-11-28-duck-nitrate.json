@@ -1,0 +1,18 @@
+{
+ "titulo": "DUCK NITRATE",
+ "fecha": "2026-11-28",
+ "hora": "18:00",
+ "precio_min": 10.0,
+ "precio_max": 12.0,
+ "agotado": false,
+ "url_entradas": "https://www.eventim-light.com/es/a/66eaa4e12728f40b35d6a5f6/e/6a0f524e5222f3e3b26dc034",
+ "url": "https://madridenvivo.com/evento/duck-nitrate-8/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "Duck Nitrate explora y dinamita con energía la vertiente más rock y funky de artistas clásicos y contemporáneos. Duck Nitrate, nacido en 2013, actualmente está formado por 4 músicos provenientes de Wichita (EEUU), Berisso (Argentina), Madrid y Granada, 4 músicos de los “elegidos”, entre muchos, por formar parte de la familia “Rockin’1000” en Madrid 2023.\n\nTras más de 60 conciertos en escenarios diversos de la geografía española, aterrizan en la mítica sala Clamores de Madrid con ganas de haceros vibrar con una selección de música de calidad.",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "clamores",
+ "id": "clamores-2026-11-28-duck-nitrate"
+}

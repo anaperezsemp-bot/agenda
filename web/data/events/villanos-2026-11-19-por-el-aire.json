@@ -1,0 +1,20 @@
+{
+ "titulo": "POR EL AIRE",
+ "fecha": "2026-11-19",
+ "hora": "21:00",
+ "precio_min": 18.0,
+ "precio_max": 21.0,
+ "agotado": false,
+ "url_entradas": "https://salavillanos.es/evento/por-el-aire/",
+ "url": "https://madridenvivo.com/evento/por-el-aire/",
+ "imagen": null,
+ "generos": [
+  "Flamenco"
+ ],
+ "descripcion": "Lin Cortés, Josemi Carmona, Alana Sinkëy y Miryam Latrece se reúnen para ofrecernos un encuentro musical único, donde la personalidad y el talento de los cuatro artistas se funden en un mismo universo sonoro.\n\nA través de composiciones originales y algunos clásicos del flamenco, nos invitan a viajar por su mundo de libertad, improvisación y emoción, donde la música fluye sin etiquetas ni fronteras. Una experiencia llena de complicidad y magia, para dejarse llevar y disfrutar de lo inesperado.",
+ "categorias": [
+  "Flamenco"
+ ],
+ "sala": "villanos",
+ "id": "villanos-2026-11-19-por-el-aire"
+}

@@ -1,0 +1,18 @@
+{
+ "titulo": "chuck Ragan",
+ "fecha": "2026-12-19",
+ "hora": "22:30",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": true,
+ "url_entradas": "https://wurlitzerballroom.com/concierto/chuck-ragan-2026-12-19-2",
+ "url": "https://wurlitzerballroom.com/concierto/chuck-ragan-2026-12-19-2",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Punk Acustico"
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-12-19-chuck-ragan"
+}

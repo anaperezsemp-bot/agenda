@@ -1,0 +1,18 @@
+{
+ "titulo": "OSCAR AVENDAÑO Y REPOSADO",
+ "fecha": "2026-11-21",
+ "hora": "18:30",
+ "precio_min": 12.0,
+ "precio_max": 15.0,
+ "agotado": false,
+ "url_entradas": "https://www.funhousemusicbar.com/conciertos/",
+ "url": "https://madridenvivo.com/evento/oscar-avendano-y-reposado/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "fun-house",
+ "id": "fun-house-2026-11-21-oscar-avendano-y-reposado"
+}

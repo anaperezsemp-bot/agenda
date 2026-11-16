@@ -1,0 +1,18 @@
+{
+ "titulo": "MOSQUITO PICK",
+ "fecha": "2026-11-29",
+ "hora": "19:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://www.funhousemusicbar.com/conciertos",
+ "url": "https://madridenvivo.com/evento/mosquito-pick-2/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "fun-house",
+ "id": "fun-house-2026-11-29-mosquito-pick"
+}

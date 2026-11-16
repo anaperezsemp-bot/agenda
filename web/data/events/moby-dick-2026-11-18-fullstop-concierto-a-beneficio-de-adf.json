@@ -1,0 +1,18 @@
+{
+ "titulo": "FULLSTOP. CONCIERTO A BENEFICIO DE ADF",
+ "fecha": "2026-11-18",
+ "hora": "20:30",
+ "precio_min": 16.0,
+ "precio_max": 20.0,
+ "agotado": false,
+ "url_entradas": "https://entradium.com/events/concierto-solidario-de-pop-rock",
+ "url": "https://madridenvivo.com/evento/fullstop-concierto-a-beneficio-de-adf/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "Ven a disfrutar de un concierto solidario único con Full Stop, a favor de la Asociación de Displasia Fibrosa. Cantaremos y bailaremos versiones de canciones de pop rock de hoy y de siempre en la Sala Moby Dick de Madrid, que colabora con el evento.\n\nSerá el próximo 18 de noviembre a las 21h (apertura de puertas 20:30h).\n\nTe esperamos, y si no puedes acudir, colabora con la Fila 0. Para nosotros tu aportación es muy importante y te lo agradecemos de corazón.",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "moby-dick",
+ "id": "moby-dick-2026-11-18-fullstop-concierto-a-beneficio-de-adf"
+}

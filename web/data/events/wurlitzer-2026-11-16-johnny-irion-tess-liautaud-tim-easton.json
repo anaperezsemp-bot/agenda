@@ -1,0 +1,23 @@
+{
+ "titulo": "JOHNNY IRION + TESS LIAUTAUD + TIM EASTON",
+ "fecha": "2026-11-16",
+ "hora": "21:00",
+ "precio_min": 18.0,
+ "precio_max": 21.0,
+ "agotado": false,
+ "url_entradas": "https://mutick.com/e/johnny-irion-tess-liautaud-tim-easton",
+ "url": "https://wurlitzerballroom.com/concierto/johnny-irion-tess-liautaud-tim-easton-2026-11-16",
+ "imagen": null,
+ "generos": [
+  "Country",
+  "Folk"
+ ],
+ "descripcion": "",
+ "categorias": [
+  "americana",
+  "folk",
+  "country"
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-11-16-johnny-irion-tess-liautaud-tim-easton"
+}

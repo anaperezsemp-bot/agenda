@@ -1,0 +1,21 @@
+{
+ "titulo": "heavenphetamine",
+ "fecha": "2026-12-09",
+ "hora": "21:00",
+ "precio_min": 12.0,
+ "precio_max": 15.0,
+ "agotado": false,
+ "url_entradas": "https://www.eventim-light.com/es/a/65ccb62bb77bff1d4226f1fe/e/6aa7b04d1d87a89b45d22808",
+ "url": "https://wurlitzerballroom.com/concierto/heavenphetamine-2026-12-09",
+ "imagen": null,
+ "generos": [
+  "Punk"
+ ],
+ "descripcion": "",
+ "categorias": [
+  "rock psicodelico",
+  "post punk"
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-12-09-heavenphetamine"
+}

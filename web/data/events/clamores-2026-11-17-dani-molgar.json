@@ -1,0 +1,18 @@
+{
+ "titulo": "DANI MOLGAR",
+ "fecha": "2026-11-17",
+ "hora": "20:30",
+ "precio_min": 10.0,
+ "precio_max": 12.0,
+ "agotado": false,
+ "url_entradas": "https://www.eventim-light.com/es/a/66eaa4e12728f40b35d6a5f6/e/6adb81809ffebff2375b8f15",
+ "url": "https://madridenvivo.com/evento/dani-molgar/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "Hay cosas que no sabemos decir en voz alta, pero que tenemos que sacar de alguna manera. Dani Molgar encuentra en la música la forma de gritar en silencio. Lo que grité callada es todo aquello que un día no pudo decirse y hoy se convierte en canciones.",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "clamores",
+ "id": "clamores-2026-11-17-dani-molgar"
+}

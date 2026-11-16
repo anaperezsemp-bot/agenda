@@ -1,0 +1,21 @@
+{
+ "titulo": "Polvora + Leather boys",
+ "fecha": "2026-12-13",
+ "hora": "21:00",
+ "precio_min": 16.0,
+ "precio_max": 16.0,
+ "agotado": false,
+ "url_entradas": "https://entradium.com/es/events/polvora-en-madrid",
+ "url": "https://wurlitzerballroom.com/concierto/polvora-2026-12-13",
+ "imagen": null,
+ "generos": [
+  "Rock"
+ ],
+ "descripcion": "",
+ "categorias": [
+  "hard rock",
+  "rock"
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-12-13-polvora-leather-boys"
+}

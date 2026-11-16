@@ -1,0 +1,18 @@
+{
+ "titulo": "LADY BANANA",
+ "fecha": "2026-11-27",
+ "hora": "20:00",
+ "precio_min": 16.5,
+ "precio_max": 16.5,
+ "agotado": false,
+ "url_entradas": "https://ochoymedioclub.com/conciertos/lady-banana/?srsltid=AfmBOoq8jFElAKnjp8fL72uBUrS4COC0e7VEhzZm-K1kYiBuL6JBU5h4",
+ "url": "https://madridenvivo.com/evento/lady-banana/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "sala-uni",
+ "id": "sala-uni-2026-11-27-lady-banana"
+}

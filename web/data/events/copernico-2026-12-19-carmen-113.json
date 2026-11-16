@@ -1,0 +1,19 @@
+{
+ "titulo": "CARMEN 113",
+ "fecha": "2026-12-19",
+ "hora": null,
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://conciertoscopernico.com/carmen-113-19-diciembre/",
+ "url": "https://conciertoscopernico.com/carmen-113-19-diciembre/",
+ "imagen": "https://conciertoscopernico.com/wp-content/uploads/2026/05/MADRID-Post-scaled.jpg",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [],
+ "sala": "copernico",
+ "id": "copernico-2026-12-19-carmen-113",
+ "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/be/71/92/be719259-7ecb-00a4-31c1-85f9171fa390/mzaf_631290529821786915.plus.aac.p.m4a",
+ "cancion": "Discutir Desnudos",
+ "enlace_audio": "https://music.apple.com/es/album/discutir-desnudos/1339673191?i=1339673492&uo=4"
+}

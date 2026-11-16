@@ -1,0 +1,23 @@
+{
+ "titulo": "Penny & The Pits + tovar",
+ "fecha": "2026-11-18",
+ "hora": "21:00",
+ "precio_min": 12.0,
+ "precio_max": 15.0,
+ "agotado": false,
+ "url_entradas": "https://mutick.com/e/mad-psych-fest-penny-the-pits-tovar-en-madrid",
+ "url": "https://wurlitzerballroom.com/concierto/penny-the-pits-2026-11-18",
+ "imagen": null,
+ "generos": [
+  "Garage",
+  "Psicodelia"
+ ],
+ "descripcion": "",
+ "categorias": [
+  "punk roc",
+  "garage",
+  "psicodelia"
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-11-18-penny-the-pits-tovar"
+}

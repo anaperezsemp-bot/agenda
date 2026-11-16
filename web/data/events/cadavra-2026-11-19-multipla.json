@@ -1,0 +1,18 @@
+{
+ "titulo": "MULTIPLA",
+ "fecha": "2026-11-19",
+ "hora": "21:00",
+ "precio_min": 12.0,
+ "precio_max": 15.0,
+ "agotado": false,
+ "url_entradas": "https://dice.fm/event/bbgrpm-mltipla-19th-nov-cadavra-madrid-tickets?lng=es",
+ "url": "https://madridenvivo.com/evento/multipla/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "Múltipla destaca por una madurez sonora sorprendente y un pulso melódico muy definido, a pesar de la juventud de sus integrantes. El trío zaragozano de guitarra, bajo y batería entrelaza con acierto las texturas guitarreras de los noventa —con esas dinámicas contrastadas que oscilan entre el murmullo y la explosión al estilo de los Smashing Pumpkins o los Pixies— con la elegancia de los arpegios ochenteros de The Smiths y The Cure, sin perder de vista la inmediatez y la urgencia del post-punk contemporáneo de Fontaines D.C..\n\nEse magnetismo en estudio ha encontrado una traducción perfecta en el directo, un formato que, en palabras de la crítica especializada, se va calentando a fuego lento hasta atrapar por completo al oyente en su universo. Tras el reconocimiento cosechado con su primer vinilo Lola/Tan desconocido y su paso por festivales de gran calado, Múltipla afianza su propuesta con el lanzamiento de su segundo álbum de la mano de Subterfuge Records, precedido por la fuerza y el mensaje de su último adelanto, «Conectados y separados»",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "cadavra",
+ "id": "cadavra-2026-11-19-multipla"
+}

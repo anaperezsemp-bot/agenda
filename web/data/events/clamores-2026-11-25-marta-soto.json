@@ -1,0 +1,18 @@
+{
+ "titulo": "MARTA SOTO",
+ "fecha": "2026-11-25",
+ "hora": "20:30",
+ "precio_min": 18.0,
+ "precio_max": 20.0,
+ "agotado": false,
+ "url_entradas": "https://www.eventim-light.com/es/a/66eaa4e12728f40b35d6a5f6/e/69cc029b7a8bd04e37ce4ba1",
+ "url": "https://madridenvivo.com/evento/marta-soto/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "La Marta Soto presenta su álbum Reinicio en un formato íntimo y esencial, acompañada únicamente de su guitarra y su voz. Con esta propuesta, busca regalar a sus seguidores un momento puro, donde las canciones pueden escucharse en su forma más cruda y sincera.\n\nPero este formato no es casual: tal y como sugiere el nombre del disco, la artista apuesta por un verdadero “reinicio”, regresando a sus orígenes en pequeñas salas, donde todo comenzó. Un gesto que no solo da sentido al título del álbum, sino que también refleja el momento personal y artístico que está viviendo.",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "clamores",
+ "id": "clamores-2026-11-25-marta-soto"
+}

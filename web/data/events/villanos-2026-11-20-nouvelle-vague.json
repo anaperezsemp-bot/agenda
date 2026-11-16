@@ -1,0 +1,18 @@
+{
+ "titulo": "NOUVELLE VAGUE",
+ "fecha": "2026-11-20",
+ "hora": "21:00",
+ "precio_min": 25.0,
+ "precio_max": 40.0,
+ "agotado": false,
+ "url_entradas": "https://salavillanos.es/evento/nouvelle-vague/",
+ "url": "https://madridenvivo.com/evento/nouvelle-vague/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Músicas negras"
+ ],
+ "sala": "villanos",
+ "id": "villanos-2026-11-20-nouvelle-vague"
+}

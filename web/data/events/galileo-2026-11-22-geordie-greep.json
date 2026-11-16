@@ -1,0 +1,18 @@
+{
+ "titulo": "GEORDIE GREEP",
+ "fecha": "2026-11-22",
+ "hora": "20:30",
+ "precio_min": 24.0,
+ "precio_max": 24.0,
+ "agotado": false,
+ "url_entradas": "https://dice.fm/event/xeygam-geordie-greep-en-madrid-son-estrella-galicia-22nd-nov-galileo-galilei-madrid-tickets?lng=es",
+ "url": "https://madridenvivo.com/evento/geordie-greep/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "galileo",
+ "id": "galileo-2026-11-22-geordie-greep"
+}

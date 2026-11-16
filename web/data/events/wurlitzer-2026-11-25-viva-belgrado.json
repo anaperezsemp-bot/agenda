@@ -1,0 +1,16 @@
+{
+ "titulo": "VIVA BELGRADO",
+ "fecha": "2026-11-25",
+ "hora": "21:00",
+ "precio_min": 18.0,
+ "precio_max": 18.0,
+ "agotado": true,
+ "url_entradas": "https://wurlitzerballroom.com/concierto/viva-belgrado-2026-11-25",
+ "url": "https://wurlitzerballroom.com/concierto/viva-belgrado-2026-11-25",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-11-25-viva-belgrado"
+}

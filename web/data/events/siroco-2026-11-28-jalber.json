@@ -1,0 +1,18 @@
+{
+ "titulo": "JÁLBER",
+ "fecha": "2026-11-28",
+ "hora": "17:00",
+ "precio_min": 16.0,
+ "precio_max": 16.0,
+ "agotado": false,
+ "url_entradas": "https://entradium.com/events/jalber-en-concierto-madrid",
+ "url": "https://madridenvivo.com/evento/jalber/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "siroco",
+ "id": "siroco-2026-11-28-jalber"
+}

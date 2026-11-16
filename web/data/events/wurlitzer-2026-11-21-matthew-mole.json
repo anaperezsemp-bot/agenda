@@ -1,0 +1,20 @@
+{
+ "titulo": "Matthew Mole",
+ "fecha": "2026-11-21",
+ "hora": "21:00",
+ "precio_min": 22.0,
+ "precio_max": 22.0,
+ "agotado": false,
+ "url_entradas": "https://feverup.com/m/645816",
+ "url": "https://wurlitzerballroom.com/concierto/matthew-mole-2026-11-21",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Folk pop",
+  "Indie folk",
+  "Singer-songwriter"
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-11-21-matthew-mole"
+}

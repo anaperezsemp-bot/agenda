@@ -1,0 +1,18 @@
+{
+ "titulo": "TINEZ",
+ "fecha": "2026-11-20",
+ "hora": "22:30",
+ "precio_min": 12.0,
+ "precio_max": 15.0,
+ "agotado": false,
+ "url_entradas": "https://www.eventim-light.com/es/a/66eaa4e12728f40b35d6a5f6/e/6ab550c0c1eff14dc538e470",
+ "url": "https://madridenvivo.com/evento/tinez-2/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "Íñigo Martínez de Nanclares, conocido como Tinez, es un rapero, cantante y compositor de Donostia que inició su carrera profesional en 2022. Tras años de experimentar con la música, lanzó su primer sencillo, «Qué tal?», que superó las 1.000.000 reproducciones, seguido de «Si Supieras», con más de 700,000. Su rápido crecimiento le ha llevado a agotar entradas en conciertos en Madrid, Segovia y Donostia, además de presentarse ante más de 10,000 personas en la Semana Grande de su ciudad. También ha compartido escenario con artistas como Danny Ocean, Khaled y JC el Diamante.\n\nEl 15 de mayo de 2025 publicó su primr álbum «ALL IN» que cuenta ya con más de 600 mil reproducciones consolidándose así como una de las promesas emergentes de la música urbana en España.",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "clamores",
+ "id": "clamores-2026-11-20-tinez"
+}

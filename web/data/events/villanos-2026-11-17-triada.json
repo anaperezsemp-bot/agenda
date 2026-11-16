@@ -1,0 +1,18 @@
+{
+ "titulo": "TRIADA",
+ "fecha": "2026-11-17",
+ "hora": "20:30",
+ "precio_min": 20.0,
+ "precio_max": 25.0,
+ "agotado": false,
+ "url_entradas": "https://salavillanos.es/evento/triada/",
+ "url": "https://madridenvivo.com/evento/triada/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "villanos",
+ "id": "villanos-2026-11-17-triada"
+}

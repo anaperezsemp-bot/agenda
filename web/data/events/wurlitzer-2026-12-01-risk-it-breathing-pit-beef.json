@@ -1,0 +1,21 @@
+{
+ "titulo": "Risk it! + Breathing + Pit Beef",
+ "fecha": "2026-12-01",
+ "hora": "21:00",
+ "precio_min": 16.0,
+ "precio_max": 18.0,
+ "agotado": false,
+ "url_entradas": "https://www.eventim-light.com/es/a/66ebfc182728f40b35d6a9e8/e/6a96f95b7338615c220ae2d1",
+ "url": "https://wurlitzerballroom.com/concierto/risk-it-breathing-2026-12-01",
+ "imagen": null,
+ "generos": [
+  "Punk"
+ ],
+ "descripcion": "",
+ "categorias": [
+  "hardcore",
+  "punk"
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-12-01-risk-it-breathing-pit-beef"
+}

@@ -1,0 +1,23 @@
+{
+ "titulo": "Ramoñas + New York Puppets + Seis Pistolas",
+ "fecha": "2026-12-03",
+ "hora": "21:00",
+ "precio_min": 10.0,
+ "precio_max": 12.0,
+ "agotado": false,
+ "url_entradas": "https://www.notikumi.com/2026/12/3/festival-de-tributos-punk-is-not-death-madrid",
+ "url": "https://wurlitzerballroom.com/concierto/ramonas-new-york-puppets-seis-pistolas-2026-12-03",
+ "imagen": null,
+ "generos": [
+  "Punk",
+  "Tributo"
+ ],
+ "descripcion": "",
+ "categorias": [
+  "Punk",
+  "Versiones",
+  "Tributo"
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-12-03-ramonas-new-york-puppets-seis-pistolas"
+}

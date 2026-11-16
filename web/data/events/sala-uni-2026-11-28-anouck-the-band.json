@@ -1,0 +1,18 @@
+{
+ "titulo": "ANOUCK THE BAND",
+ "fecha": "2026-11-28",
+ "hora": null,
+ "precio_min": 16.5,
+ "precio_max": 16.5,
+ "agotado": false,
+ "url_entradas": "https://ochoymedioclub.com/conciertos/anouck-the-band/",
+ "url": "https://madridenvivo.com/evento/anouck-the-band-3/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "Tras varios años publicando pequeñas píldoras, Anouck presenta su primer larga duración en la sala UNI. Acompañada con banda, Anouck nos presentará “Hablame de ella” en una noche que promete ser el destelleante inicio de una de una artista tan necesaria como única en el panorama musical español actual. Por ahora ha adelantado ya algunas canciones canciones que formarán parte del disco como Margaritas o Au Soleil.",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "sala-uni",
+ "id": "sala-uni-2026-11-28-anouck-the-band"
+}

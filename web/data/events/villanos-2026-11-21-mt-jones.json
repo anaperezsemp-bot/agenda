@@ -1,0 +1,18 @@
+{
+ "titulo": "MT JONES",
+ "fecha": "2026-11-21",
+ "hora": "21:00",
+ "precio_min": 23.0,
+ "precio_max": 28.0,
+ "agotado": false,
+ "url_entradas": "https://salavillanos.es/evento/mt-jones/",
+ "url": "https://madridenvivo.com/evento/mt-jones/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Músicas negras"
+ ],
+ "sala": "villanos",
+ "id": "villanos-2026-11-21-mt-jones"
+}

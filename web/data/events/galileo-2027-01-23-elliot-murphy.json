@@ -1,0 +1,21 @@
+{
+ "titulo": "ELLIOT MURPHY",
+ "fecha": "2027-01-23",
+ "hora": "18:30",
+ "precio_min": 32.0,
+ "precio_max": 32.0,
+ "agotado": false,
+ "url_entradas": "https://ventas.geeticket.com/par-public/rest/entrada/9173763",
+ "url": "https://madridenvivo.com/evento/elliot-murphy-2/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "Elliott James Murphy es un cantautor de rock, novelista y periodista estadounidense que ha consolidado una de las carreras más respetadas y prolíficas de la música de autor. Irrumpió en la escena musical en 1973 con su aclamado álbum debut Aquashow, el cual llamó rápidamente la atención de la crítica y le valió comparaciones con figuras de la talla de Bob Dylan y Lou Reed. A lo largo de más de cinco décadas de trayectoria, ha publicado más de 35 discos en los que combina la energía del rock clásico con una lírica poética, literaria y profundamente narrativa, colaborando de forma estrecha con artistas legendarios como Bruce Springsteen.\n\nA pesar de sus raíces en Long Island, Nueva York, Murphy encontró su público más fiel y su hogar espiritual en el viejo continente, convirtiéndose en un verdadero artista de culto en Europa tras mudarse a París a finales de los años ochenta. Esta faceta transatlántica se complementa con su talento literario, bajo el cual ha publicado diversas novelas y colecciones de relatos. Su valiosa aportación a la cultura europea le ha valido prestigiosos reconocimientos en Francia, tales como el título de Chevalier de l’Ordre des Arts et des Lettres, confirmando su estatus como un creador incombustible que sigue recorriendo los escenarios internacionales.",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "galileo",
+ "id": "galileo-2027-01-23-elliot-murphy",
+ "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1f/07/a2/1f07a258-05b1-73c6-1139-ca8217413438/mzaf_16161973452307916317.plus.aac.p.m4a",
+ "cancion": "Better Days",
+ "enlace_audio": "https://music.apple.com/es/album/better-days/311542421?i=311542462&uo=4"
+}

@@ -1,0 +1,18 @@
+{
+ "titulo": "JALONER & DABE",
+ "fecha": "2026-11-27",
+ "hora": "21:00",
+ "precio_min": 25.0,
+ "precio_max": 25.0,
+ "agotado": false,
+ "url_entradas": "https://jalonerentradas.com/#jaloner-tour-sala-galileo-galilei-madrid",
+ "url": "https://madridenvivo.com/evento/jaloner-dabe-2/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Músicas negras"
+ ],
+ "sala": "galileo",
+ "id": "galileo-2026-11-27-jaloner-dabe"
+}

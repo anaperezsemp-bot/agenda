@@ -1,0 +1,22 @@
+{
+ "titulo": "Quick Lime + Polar + Bule",
+ "fecha": "2026-12-12",
+ "hora": "21:00",
+ "precio_min": 10.0,
+ "precio_max": 15.0,
+ "agotado": false,
+ "url_entradas": "https://www.giglon.com/todos?idEvent=radix-party-we-are-polar-bule-quicklime",
+ "url": "https://wurlitzerballroom.com/concierto/quick-lime-2026-12-12",
+ "imagen": null,
+ "generos": [
+  "Punk"
+ ],
+ "descripcion": "",
+ "categorias": [
+  "harcore",
+  "punk",
+  "emo"
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-12-12-quick-lime-polar-bule"
+}

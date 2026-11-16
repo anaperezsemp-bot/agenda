@@ -1,0 +1,18 @@
+{
+ "titulo": "GOMZ",
+ "fecha": "2026-11-26",
+ "hora": "21:00",
+ "precio_min": 16.0,
+ "precio_max": 16.0,
+ "agotado": false,
+ "url_entradas": "https://es.ra.co/events/2499035",
+ "url": "https://madridenvivo.com/evento/gomz-3/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "siroco",
+ "id": "siroco-2026-11-26-gomz"
+}

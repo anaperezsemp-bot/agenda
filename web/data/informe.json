@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T18:05:39+00:00",
+ "generado": "2026-11-16T18:25:44+00:00",
  "salas": [
   {
    "sala": "Café La Palma",
@@ -19,6 +19,86 @@
   {
    "sala": "Maravillas Club",
    "conciertos": 5,
+   "error": null
+  },
+  {
+   "sala": "Sala Galileo Galilei",
+   "conciertos": 11,
+   "error": null
+  },
+  {
+   "sala": "Café Berlín",
+   "conciertos": 18,
+   "error": null
+  },
+  {
+   "sala": "Sala But",
+   "conciertos": 3,
+   "error": null
+  },
+  {
+   "sala": "Copérnico",
+   "conciertos": 30,
+   "error": null
+  },
+  {
+   "sala": "Sala El Sol",
+   "conciertos": 11,
+   "error": null
+  },
+  {
+   "sala": "Siroco",
+   "conciertos": 13,
+   "error": null
+  },
+  {
+   "sala": "Fun House",
+   "conciertos": 22,
+   "error": null
+  },
+  {
+   "sala": "El Sótano",
+   "conciertos": 1,
+   "error": null
+  },
+  {
+   "sala": "Wurlitzer Ballroom",
+   "conciertos": 30,
+   "error": null
+  },
+  {
+   "sala": "Cadavra",
+   "conciertos": 3,
+   "error": null
+  },
+  {
+   "sala": "Clamores",
+   "conciertos": 14,
+   "error": null
+  },
+  {
+   "sala": "Moby Dick",
+   "conciertos": 6,
+   "error": null
+  },
+  {
+   "sala": "Fotomatón Bar",
+   "conciertos": 4,
+   "error": null
+  },
+  {
+   "sala": "Shôko",
+   "conciertos": 0,
+   "error": null
+  },
+  {
+   "sala": "Villanos",
+   "conciertos": 18,
+   "error": null
+  },
+  {
+   "sala": "Sala Uni",
+   "conciertos": 3,
    "error": null
   }
  ]

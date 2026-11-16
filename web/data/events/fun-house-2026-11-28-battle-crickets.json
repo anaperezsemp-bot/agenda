@@ -1,0 +1,18 @@
+{
+ "titulo": "BATTLE CRICKETS",
+ "fecha": "2026-11-28",
+ "hora": "18:00",
+ "precio_min": 8.0,
+ "precio_max": 8.0,
+ "agotado": false,
+ "url_entradas": "https://www.funhousemusicbar.com/conciertos/battle-crickets/",
+ "url": "https://madridenvivo.com/evento/battle-crickets/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "fun-house",
+ "id": "fun-house-2026-11-28-battle-crickets"
+}

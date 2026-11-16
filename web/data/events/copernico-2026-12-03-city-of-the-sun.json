@@ -1,0 +1,19 @@
+{
+ "titulo": "CITY OF THE SUN",
+ "fecha": "2026-12-03",
+ "hora": null,
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://conciertoscopernico.com/city-of-the-sun-3-de-diciembre/",
+ "url": "https://conciertoscopernico.com/city-of-the-sun-3-de-diciembre/",
+ "imagen": "https://conciertoscopernico.com/wp-content/uploads/2026/07/731158513_4518189171759609_5823685307983656551_n.jpg",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [],
+ "sala": "copernico",
+ "id": "copernico-2026-12-03-city-of-the-sun",
+ "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/a0/d2/7ea0d2d4-1ca9-6885-3ba3-850a88c728ed/mzaf_217560838902587819.plus.aac.p.m4a",
+ "cancion": "Everything",
+ "enlace_audio": "https://music.apple.com/es/album/everything/1812816405?i=1812816675&uo=4"
+}

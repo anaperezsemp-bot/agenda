@@ -1,0 +1,18 @@
+{
+ "titulo": "CIRCUITO (OPEN MIC)",
+ "fecha": "2026-11-18",
+ "hora": "21:00",
+ "precio_min": 7.0,
+ "precio_max": 7.0,
+ "agotado": false,
+ "url_entradas": "http://www.cadavraclub.com/",
+ "url": "https://madridenvivo.com/evento/circuito-open-mic-6/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "cadavra",
+ "id": "cadavra-2026-11-18-circuito-open-mic"
+}

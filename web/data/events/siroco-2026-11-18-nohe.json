@@ -1,0 +1,18 @@
+{
+ "titulo": "NOHE",
+ "fecha": "2026-11-18",
+ "hora": "21:00",
+ "precio_min": 10.0,
+ "precio_max": 10.0,
+ "agotado": false,
+ "url_entradas": "https://link.dice.fm/v14c5a13a2c4",
+ "url": "https://madridenvivo.com/evento/nohe/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "siroco",
+ "id": "siroco-2026-11-18-nohe"
+}

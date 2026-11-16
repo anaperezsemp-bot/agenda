@@ -1,0 +1,23 @@
+{
+ "titulo": "The saadies + Thee Abisales",
+ "fecha": "2026-12-06",
+ "hora": "21:00",
+ "precio_min": 12.0,
+ "precio_max": 12.0,
+ "agotado": false,
+ "url_entradas": "https://ticketandroll.com/evento/cocierto-the-saadies-thee-abisales",
+ "url": "https://wurlitzerballroom.com/concierto/the-saadies-thee-abisales-2026-12-06",
+ "imagen": null,
+ "generos": [
+  "Garage",
+  "Rock"
+ ],
+ "descripcion": "",
+ "categorias": [
+  "garage",
+  "rock",
+  "60's"
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-12-06-the-saadies-thee-abisales"
+}

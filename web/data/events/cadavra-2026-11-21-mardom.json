@@ -1,0 +1,18 @@
+{
+ "titulo": "MARDOM",
+ "fecha": "2026-11-21",
+ "hora": "21:00",
+ "precio_min": 12.0,
+ "precio_max": 15.0,
+ "agotado": false,
+ "url_entradas": "http://www.cadavraclub.com/",
+ "url": "https://madridenvivo.com/evento/mardom-7/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "cadavra",
+ "id": "cadavra-2026-11-21-mardom"
+}

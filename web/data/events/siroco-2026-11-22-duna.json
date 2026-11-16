@@ -1,0 +1,18 @@
+{
+ "titulo": "DUNA",
+ "fecha": "2026-11-22",
+ "hora": "20:00",
+ "precio_min": 18.0,
+ "precio_max": 18.0,
+ "agotado": false,
+ "url_entradas": "https://dice.fm/event/mxwp99-duna-en-mazo-segunda-fecha-22nd-nov-siroco-madrid-tickets?lng=es",
+ "url": "https://madridenvivo.com/evento/duna/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "siroco",
+ "id": "siroco-2026-11-22-duna"
+}

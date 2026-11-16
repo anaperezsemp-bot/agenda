@@ -1,0 +1,21 @@
+{
+ "titulo": "CERVATANA",
+ "fecha": "2027-02-11",
+ "hora": "21:00",
+ "precio_min": 20.0,
+ "precio_max": 20.0,
+ "agotado": false,
+ "url_entradas": "https://feverup.com/m/677140",
+ "url": "https://madridenvivo.com/evento/cervatana/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "Tras el golpe en la mesa que supuso su álbum debut, CERVATANA vuelve a la carga con La Leyenda, una oda a la capacidad de la música para ponernos en movimiento. Planteada como un viaje psicodélico, la canción transita por géneros como el krautrock, el electro punk o los sonidos más ácidos de la rave, e incorpora también escalas árabes que abren pequeños espacios de calma entre tanta intensidad.\n\nCon el fuego como símbolo de un renacer, La Leyenda amplía el universo del trío y lleva su particular lenguaje hacia nuevos territorios. Además, el videoclip que acompaña al lanzamiento, dirigido por Adrián Lorenzo y grabado con ayuda de Asier Merlaza, refleja la energía desbordante que caracteriza a CERVATANA sobre las tablas. Y es que bien pueden corroborarlo quienes les descubrieron teloneando a Los Delinqüentes, quienes les han visto en festivales como Monkey Weekend SON Estrella Galicia, Bilbao BBK Live o Canela Party, entre muchos otros, o incluso quienes se toparon por casualidad con su ya mítica actuación en La Revuelta: CERVATANA cuenta con uno de los directos más potentes del panorama.",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "sala-but",
+ "id": "sala-but-2027-02-11-cervatana",
+ "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/58/8a/89/588a89af-3c70-5d3d-a67b-edab31f5b203/mzaf_8166280446948070275.plus.aac.p.m4a",
+ "cancion": "La Leyenda",
+ "enlace_audio": "https://music.apple.com/es/album/la-leyenda/6809842129?i=6809842132&uo=4"
+}

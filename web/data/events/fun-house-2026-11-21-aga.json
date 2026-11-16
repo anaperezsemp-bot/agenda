@@ -1,0 +1,18 @@
+{
+ "titulo": "AGA",
+ "fecha": "2026-11-21",
+ "hora": "12:30",
+ "precio_min": 8.0,
+ "precio_max": 8.0,
+ "agotado": false,
+ "url_entradas": "https://www.funhousemusicbar.com/conciertos/",
+ "url": "https://madridenvivo.com/evento/aga/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "fun-house",
+ "id": "fun-house-2026-11-21-aga"
+}

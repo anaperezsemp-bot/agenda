@@ -1,0 +1,18 @@
+{
+ "titulo": "NIÑO PELUCA",
+ "fecha": "2026-11-17",
+ "hora": "20:30",
+ "precio_min": 10.0,
+ "precio_max": 12.0,
+ "agotado": false,
+ "url_entradas": "https://tickets.baila.fm/nino-peluca-madrid-2026",
+ "url": "https://madridenvivo.com/evento/nino-peluca/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "Primer concierto de NIÑO PELUCA. Presentación de su disco «FLORES DE INVIERNO».\n\nNIÑO PELUCA es una banda que surge de la necesidad de crear música original. » FLORES DE INVIERNO » es el primer disco de esta banda compuesta por Iván Mella, teclista y componente de IZAL, aparte de haber sido músico de casi un centenar de proyectos y artistas en su dilatada carrera. Y Gabriel Luján, jovencísimo talento multi-instrumentista y cantante de ÍNDICA entre otros proyectos. La madurez y la energía cogidas de la mano y compartiendo una pasión. LA MÚSICA.\n\nEn directo integran la banda una » pequeña gran familia » con la que comparten escenarios desde hace un par de años.",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "moby-dick",
+ "id": "moby-dick-2026-11-17-nino-peluca"
+}

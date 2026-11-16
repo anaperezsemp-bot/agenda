@@ -1,0 +1,20 @@
+{
+ "titulo": "miaw",
+ "fecha": "2026-11-17",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://feverup.com/m/648911",
+ "url": "https://wurlitzerballroom.com/concierto/miaw-2026-11-17",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Deconstructed pop",
+  "UK bass",
+  "Shoegaze."
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-11-17-miaw"
+}

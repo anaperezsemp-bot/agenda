@@ -1,0 +1,19 @@
+{
+ "titulo": "RIKAS",
+ "fecha": "2026-12-09",
+ "hora": null,
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://conciertoscopernico.com/rikas-9-de-diciembre/",
+ "url": "https://conciertoscopernico.com/rikas-9-de-diciembre/",
+ "imagen": "https://conciertoscopernico.com/wp-content/uploads/2026/06/3e0c9839-03e2-48a9-b714-ba7ae5d49188.jpg",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [],
+ "sala": "copernico",
+ "id": "copernico-2026-12-09-rikas",
+ "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/40/06/c8400667-d04e-0d03-d5f1-32940cfb2ce6/mzaf_12116394351788605406.plus.aac.p.m4a",
+ "cancion": "Last Train to London",
+ "enlace_audio": "https://music.apple.com/es/album/last-train-to-london/1862624607?i=1862624850&uo=4"
+}

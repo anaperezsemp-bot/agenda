@@ -1,0 +1,18 @@
+{
+ "titulo": "DUNA",
+ "fecha": "2026-11-27",
+ "hora": "21:00",
+ "precio_min": 18.0,
+ "precio_max": 18.0,
+ "agotado": false,
+ "url_entradas": "https://dice.fm/partner/tickets/event/nvrvn5-duna-en-mazo-27th-nov-siroco-madrid-tickets?dice_id=10601131&dice_channel=web&dice_tags=organic&dice_campaign=MAZO+Madriz&dice_feature=mio_marketing&_branch_match_id=1640136308860589554&utm_source=web&utm_campaign=MAZO+Madriz&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1U9LM0gxSTRMMrIws7CvK0pNSy0qysxLj08qyi8vTi2ydcssSk3LrwAAJcAgZDwAAAA%3D&lng=es",
+ "url": "https://madridenvivo.com/evento/duna-2/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "siroco",
+ "id": "siroco-2026-11-27-duna"
+}

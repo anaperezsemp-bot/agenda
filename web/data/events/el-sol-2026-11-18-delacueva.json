@@ -1,0 +1,18 @@
+{
+ "titulo": "DELACUEVA",
+ "fecha": "2026-11-18",
+ "hora": "20:30",
+ "precio_min": 15.0,
+ "precio_max": 15.0,
+ "agotado": false,
+ "url_entradas": "https://www.entradas.com/event/delacueva-sala-el-sol-21659347/",
+ "url": "https://madridenvivo.com/evento/delacueva-5/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "el-sol",
+ "id": "el-sol-2026-11-18-delacueva"
+}

@@ -1,0 +1,21 @@
+{
+ "titulo": "KIDS ROCK FAMILY",
+ "fecha": "2026-11-29",
+ "hora": "12:00",
+ "precio_min": 14.0,
+ "precio_max": 14.0,
+ "agotado": false,
+ "url_entradas": "https://www.dinaticket.com/es/provider/19966/event/4911531",
+ "url": "https://madridenvivo.com/evento/kids-rock-family-25/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "galileo",
+ "id": "galileo-2026-11-29-kids-rock-family",
+ "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/f1/e6/e6/f1e6e63b-8b93-e6f6-5333-47ea359f856a/mzaf_579877643479320028.plus.aac.p.m4a",
+ "cancion": "Kids Rock Family",
+ "enlace_audio": "https://music.apple.com/es/album/kids-rock-family/1446631902?i=1446631913&uo=4"
+}

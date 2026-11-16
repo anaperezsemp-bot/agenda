@@ -1,0 +1,21 @@
+{
+ "titulo": "MICROMAMBO",
+ "fecha": "2026-11-27",
+ "hora": "22:30",
+ "precio_min": 20.0,
+ "precio_max": 25.0,
+ "agotado": false,
+ "url_entradas": "https://cafeberlinentradas.com/es/events/micromambo-madrid-cafe-berlin/sessions/27-11-2026-22-30-cafe-berlin",
+ "url": "https://madridenvivo.com/evento/micromambo-5/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "cafe-berlin",
+ "id": "cafe-berlin-2026-11-27-micromambo",
+ "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/82/ee/1982eef9-8502-932c-9ae4-326f0c706212/mzaf_17223164928222027411.plus.aac.p.m4a",
+ "cancion": "Un mundo raro",
+ "enlace_audio": "https://music.apple.com/es/album/un-mundo-raro/1843418525?i=1843418875&uo=4"
+}

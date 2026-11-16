@@ -1,0 +1,18 @@
+{
+ "titulo": "LA JORNI",
+ "fecha": "2026-11-28",
+ "hora": "13:00",
+ "precio_min": 15.0,
+ "precio_max": 17.0,
+ "agotado": false,
+ "url_entradas": "https://salavillanos.es/evento/la-jorni/",
+ "url": "https://madridenvivo.com/evento/la-jorni-2/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Músicas negras"
+ ],
+ "sala": "villanos",
+ "id": "villanos-2026-11-28-la-jorni"
+}

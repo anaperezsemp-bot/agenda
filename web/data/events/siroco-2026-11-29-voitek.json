@@ -1,0 +1,18 @@
+{
+ "titulo": "VOITEK",
+ "fecha": "2026-11-29",
+ "hora": "20:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://madridenvivo.com/evento/voitek/",
+ "url": "https://madridenvivo.com/evento/voitek/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "siroco",
+ "id": "siroco-2026-11-29-voitek"
+}

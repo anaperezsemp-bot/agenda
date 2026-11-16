@@ -1,0 +1,18 @@
+{
+ "titulo": "wedge",
+ "fecha": "2026-11-23",
+ "hora": "21:00",
+ "precio_min": 20.0,
+ "precio_max": 22.0,
+ "agotado": false,
+ "url_entradas": "https://entradium.com/es/events/wedge-en-madrid",
+ "url": "https://wurlitzerballroom.com/concierto/wedge-2026-11-23",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "krautrock"
+ ],
+ "sala": "wurlitzer",
+ "id": "wurlitzer-2026-11-23-wedge"
+}

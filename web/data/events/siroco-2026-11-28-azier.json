@@ -1,0 +1,18 @@
+{
+ "titulo": "AZIER",
+ "fecha": "2026-11-28",
+ "hora": "21:00",
+ "precio_min": 16.0,
+ "precio_max": 16.0,
+ "agotado": false,
+ "url_entradas": "https://tickets.baila.fm/concierto-en-madrid-de-azier-2026-11-28",
+ "url": "https://madridenvivo.com/evento/azier-7/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "siroco",
+ "id": "siroco-2026-11-28-azier"
+}

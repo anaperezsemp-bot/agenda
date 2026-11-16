@@ -1,0 +1,18 @@
+{
+ "titulo": "MARILIA (ELLA BAILA SOLA)",
+ "fecha": "2026-11-19",
+ "hora": "21:00",
+ "precio_min": 30.0,
+ "precio_max": 30.0,
+ "agotado": false,
+ "url_entradas": "https://ventas.geeticket.com/par-public/rest/entrada/9026781",
+ "url": "https://madridenvivo.com/evento/marilia-ella-baila-sola/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "galileo",
+ "id": "galileo-2026-11-19-marilia-ella-baila-sola"
+}

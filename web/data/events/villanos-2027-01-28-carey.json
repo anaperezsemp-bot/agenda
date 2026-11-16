@@ -1,0 +1,18 @@
+{
+ "titulo": "CAREY",
+ "fecha": "2027-01-28",
+ "hora": "20:30",
+ "precio_min": 15.0,
+ "precio_max": 15.0,
+ "agotado": false,
+ "url_entradas": "https://salavillanos.es/evento/carey/",
+ "url": "https://madridenvivo.com/evento/carey-6/",
+ "imagen": null,
+ "generos": [],
+ "descripcion": "La propuesta musical de Carey se define por una identidad artística artesanal y meticulosa, completamente alejada de las prisas comerciales y los algoritmos. Su sonido se construye mediante una cuidada arquitectura armónica donde conviven arreglos complejos de guitarra repletos de novenas y séptimas con melodías vocales profundas y expresivas, utilizando giros musicales y tonalidades específicas que sirven como canal para plasmar versos cargados de emotividad y vivencias personales.\n\nEste ideario sonoro se nutre de un amplio abanico de influencias globales que fusiona la música clásica de Bach o la guitarra de Barrios con el tango de Piazzolla. En sus composiciones se entrelazan ritmos tradicionales como la habanera, las danzas folclóricas y la ranchera clásica, combinados con texturas procedentes de África, México y el pop contemporáneo, dando como resultado un tercer álbum rico en matices que se ve reforzado por la colaboración de diversas voces de la escena musical.",
+ "categorias": [
+  "Pop / Rock"
+ ],
+ "sala": "villanos",
+ "id": "villanos-2027-01-28-carey"
+}
