@@ -15,6 +15,10 @@
 "f": "2026-11-16",
 "r": null
 },
+"airblues": {
+"f": "2026-11-16",
+"r": null
+},
 "alejandro-astola": {
 "f": "2026-11-16",
 "r": {
@@ -31,6 +35,10 @@
 "f": "2026-11-16",
 "r": null
 },
+"amanda-gris": {
+"f": "2026-11-16",
+"r": null
+},
 "amorphis": {
 "f": "2026-11-16",
 "r": {
@@ -43,9 +51,25 @@
 "f": "2026-11-16",
 "r": null
 },
+"apricot-jam": {
+"f": "2026-11-16",
+"r": null
+},
+"apricot-jam-improv-session": {
+"f": "2026-11-16",
+"r": null
+},
 "arde-bogota-sold-out": {
 "f": "2026-11-16",
 "r": null
+},
+"arima-soul": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/da/d6/a0/dad6a0fc-aa85-5081-ced5-a3471569eb80/mzaf_10030292952419067185.plus.aac.p.m4a",
+"cancion": "Amets",
+"enlace": "https://music.apple.com/es/album/amets/1542783776?i=1542783779&uo=4"
+}
 },
 "atico-11": {
 "f": "2026-11-16",
@@ -71,7 +95,19 @@
 "enlace": "https://music.apple.com/es/album/los-rockeros-van-al-infierno-remasterizado/892532010?i=892532095&uo=4"
 }
 },
+"benito-kamelas": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b0/cf/ff/b0cfff34-8aad-347f-d1c5-7a799d4336e1/mzaf_2146610074001263241.plus.aac.p.m4a",
+"cancion": "Aquellas Cosas Que Solíamos Hacer (feat. Poncho K)",
+"enlace": "https://music.apple.com/es/album/aquellas-cosas-que-sol%C3%ADamos-hacer-feat-poncho-k/1797342587?i=1797342905&uo=4"
+}
+},
 "brothers-in-band": {
+"f": "2026-11-16",
+"r": null
+},
+"burning": {
 "f": "2026-11-16",
 "r": null
 },
@@ -90,6 +126,18 @@
 "cancion": "Horas contigo",
 "enlace": "https://music.apple.com/es/album/horas-contigo/1665294958?i=1665294974&uo=4"
 }
+},
+"carameloraro": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/63/f5/2e63f5b8-fa83-8b90-8b1f-bb8e14d02008/mzaf_2657499458139307935.plus.aac.p.m4a",
+"cancion": "Vendaval",
+"enlace": "https://music.apple.com/es/album/vendaval/1862873726?i=1862873731&uo=4"
+}
+},
+"carameloraro-gekko": {
+"f": "2026-11-16",
+"r": null
 },
 "carino": {
 "f": "2026-11-16",
@@ -127,6 +175,14 @@
 "enlace": "https://music.apple.com/es/album/la-isla-del-deseo-feat-arde-bogot%C3%A1/1860397463?i=1860397624&uo=4"
 }
 },
+"concierto-navidad": {
+"f": "2026-11-16",
+"r": null
+},
+"concierto-navidad-escuela-esmuva": {
+"f": "2026-11-16",
+"r": null
+},
 "cora-yako": {
 "f": "2026-11-16",
 "r": {
@@ -139,6 +195,18 @@
 "f": "2026-11-16",
 "r": null
 },
+"cvba": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/33/f6/2c/33f62c7f-c3aa-bf44-3845-a2f8da1f371f/mzaf_2550256386286309030.plus.aac.p.m4a",
+"cancion": "Mi Dios",
+"enlace": "https://music.apple.com/es/album/mi-dios/1496783110?i=1496783113&uo=4"
+}
+},
+"cvba-morales-los-moralistas": {
+"f": "2026-11-16",
+"r": null
+},
 "depresion-sonora": {
 "f": "2026-11-16",
 "r": {
@@ -146,6 +214,14 @@
 "cancion": "Como todo el Mundo",
 "enlace": "https://music.apple.com/es/album/como-todo-el-mundo/1650871159?i=1650871174&uo=4"
 }
+},
+"dogteeh": {
+"f": "2026-11-16",
+"r": null
+},
+"dogteeh-fiebre-de-las-montanas-rocosas": {
+"f": "2026-11-16",
+"r": null
 },
 "dominguinho": {
 "f": "2026-11-16",
@@ -199,6 +275,18 @@
 "f": "2026-11-16",
 "r": null
 },
+"el-chojin": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/67/79/4c67796c-0829-a1f8-6c1b-e1516d58d77d/mzaf_9896863996160005331.plus.aac.p.m4a",
+"cancion": "El Mundo Sigue Girando",
+"enlace": "https://music.apple.com/es/album/el-mundo-sigue-girando/1876248460?i=1876248475&uo=4"
+}
+},
+"el-chojin-gira-balance": {
+"f": "2026-11-16",
+"r": null
+},
 "eluveitie": {
 "f": "2026-11-16",
 "r": {
@@ -220,6 +308,18 @@
 "r": null
 },
 "extasis": {
+"f": "2026-11-16",
+"r": null
+},
+"fan-theories": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/03/76/bc/0376bc10-9857-094b-81c2-0f7f2df627ce/mzaf_10601535002683779262.plus.aac.p.m4a",
+"cancion": "Kids in Heatwaves",
+"enlace": "https://music.apple.com/es/album/kids-in-heatwaves/1601738844?i=1601738845&uo=4"
+}
+},
+"fiasco": {
 "f": "2026-11-16",
 "r": null
 },
@@ -255,6 +355,22 @@
 "enlace": "https://music.apple.com/es/album/salvavidas/1798724890?i=1798724891&uo=4"
 }
 },
+"gonzalo-hermida": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3b/0e/e3/3b0ee350-56bf-4734-3b11-62faae1af57e/mzaf_5277514584240270326.plus.aac.p.m4a",
+"cancion": "Que No Se Acabe la Noche",
+"enlace": "https://music.apple.com/es/album/que-no-se-acabe-la-noche/1820663980?i=1820663981&uo=4"
+}
+},
+"gotthard": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bf/98/09/bf98098d-ddff-d826-d24c-76b49eecbb8e/mzaf_1215471307138421753.plus.aac.p.m4a",
+"cancion": "Anytime Anywhere",
+"enlace": "https://music.apple.com/es/album/anytime-anywhere/1460470765?i=1460471165&uo=4"
+}
+},
 "grankhan-fastah-selectah": {
 "f": "2026-11-16",
 "r": {
@@ -262,6 +378,10 @@
 "cancion": "Désolé",
 "enlace": "https://music.apple.com/es/album/d%C3%A9sol%C3%A9/1511712186?i=1511712659&uo=4"
 }
+},
+"guilty-pleasures": {
+"f": "2026-11-16",
+"r": null
 },
 "hazas": {
 "f": "2026-11-16",
@@ -278,6 +398,22 @@
 "cancion": "Unknown (To You)",
 "enlace": "https://music.apple.com/es/album/unknown-to-you/1435617573?i=1435617772&uo=4"
 }
+},
+"jazz": {
+"f": "2026-11-16",
+"r": null
+},
+"jazz-con-sabor-a-club-2026-aciz": {
+"f": "2026-11-16",
+"r": null
+},
+"jazz-con-sabor-a-club-2026-carles-benavent-trio-entradas-ago": {
+"f": "2026-11-16",
+"r": null
+},
+"jazz-con-sabor-a-club-2026-carles-benavent-trio-segundo-pase": {
+"f": "2026-11-16",
+"r": null
 },
 "jesse-joy": {
 "f": "2026-11-16",
@@ -383,6 +519,10 @@
 "f": "2026-11-16",
 "r": null
 },
+"los-primos": {
+"f": "2026-11-16",
+"r": null
+},
 "los-punsetes": {
 "f": "2026-11-16",
 "r": {
@@ -391,7 +531,19 @@
 "enlace": "https://music.apple.com/es/album/opini%C3%B3n-de-m-a/1872445176?i=1872445299&uo=4"
 }
 },
+"los-rebeldes": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/97/06/589706ac-3bef-28a3-21ba-47af3fd825cc/mzaf_18180773163888541288.plus.aac.p.m4a",
+"cancion": "Mediterraneo",
+"enlace": "https://music.apple.com/es/album/mediterraneo/942842281?i=942842288&uo=4"
+}
+},
 "los-rulillos": {
+"f": "2026-11-16",
+"r": null
+},
+"los-unmasked": {
 "f": "2026-11-16",
 "r": null
 },
@@ -402,6 +554,22 @@
 "cancion": "Caminos habituales (feat. Miguelito García)",
 "enlace": "https://music.apple.com/es/album/caminos-habituales-feat-miguelito-garc%C3%ADa/6810745067?i=6810745071&uo=4"
 }
+},
+"mad-dogs": {
+"f": "2026-11-16",
+"r": null
+},
+"maluco-sabe": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0a/ad/98/0aad98c5-522d-5d12-4fba-eb8875883347/mzaf_17977678821449871992.plus.aac.p.m4a",
+"cancion": "No es × ti",
+"enlace": "https://music.apple.com/es/album/no-es-ti/1807123074?i=1807123075&uo=4"
+}
+},
+"maluco-sabe-la-trasgueria": {
+"f": "2026-11-16",
+"r": null
 },
 "maria-arnal": {
 "f": "2026-11-16",
@@ -431,12 +599,24 @@
 "f": "2026-11-16",
 "r": null
 },
+"mario-morante-y-los-demonios": {
+"f": "2026-11-16",
+"r": null
+},
 "meute": {
 "f": "2026-11-16",
 "r": {
 "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/48/8a/46488aee-d99c-5afd-1a67-34ba1877587d/mzaf_3721184224963340902.plus.aac.p.m4a",
 "cancion": "You & Me",
 "enlace": "https://music.apple.com/es/album/you-me/1390123962?i=1390123968&uo=4"
+}
+},
+"michael-foster": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/11/e1/d911e10f-4541-8113-b2d9-44fe6a6cdc24/mzaf_11578279942763140416.plus.aac.p.m4a",
+"cancion": "A estas alturas",
+"enlace": "https://music.apple.com/es/album/a-estas-alturas/1866536249?i=1866536254&uo=4"
 }
 },
 "michael-schenker-group": {
@@ -477,6 +657,14 @@
 "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/60/93/b1/6093b172-b266-1df2-4004-e4669d34c3b3/mzaf_14056803265374600986.plus.aac.p.m4a",
 "cancion": "N.W.O.",
 "enlace": "https://music.apple.com/es/album/n-w-o/297744447?i=297744451&uo=4"
+}
+},
+"miniver": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/50/d6/ea/50d6ead1-f614-6706-3aef-9477c5d22b77/mzaf_7794295080388612325.plus.aac.p.m4a",
+"cancion": "Baile Inolvidable",
+"enlace": "https://music.apple.com/es/album/baile-inolvidable/1841994959?i=1841994960&uo=4"
 }
 },
 "miss-caffeina": {
@@ -575,6 +763,34 @@
 "enlace": "https://music.apple.com/es/album/let-her-go/1650365607?i=1650365624&uo=4"
 }
 },
+"per-verso": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/61/05/74/61057474-7817-029c-3f81-d7a1a1247c6e/mzaf_4846199496319159884.plus.aac.p.m4a",
+"cancion": "Simple Necesidad",
+"enlace": "https://music.apple.com/es/album/simple-necesidad/1833101231?i=1833101303&uo=4"
+}
+},
+"pinone-stoner-grunge": {
+"f": "2026-11-16",
+"r": null
+},
+"pinone-stoner-grunge-super-danes": {
+"f": "2026-11-16",
+"r": null
+},
+"pisco-pomelo": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ea/44/f5/ea44f55d-55d0-995d-f18f-c5681a9bf860/mzaf_8053396399477517925.plus.aac.p.m4a",
+"cancion": "Tropicártico",
+"enlace": "https://music.apple.com/es/album/tropic%C3%A1rtico/1729777378?i=1729777390&uo=4"
+}
+},
+"pisco-pomelo-ego-carajo": {
+"f": "2026-11-16",
+"r": null
+},
 "pole": {
 "f": "2026-11-16",
 "r": {
@@ -599,6 +815,10 @@
 "enlace": "https://music.apple.com/es/album/pongamos-que-hablo-de-madrid/307380707?i=307380713&uo=4"
 }
 },
+"propaganda-machine-stoner": {
+"f": "2026-11-16",
+"r": null
+},
 "puno-dragon": {
 "f": "2026-11-16",
 "r": {
@@ -608,6 +828,38 @@
 }
 },
 "puno-dragon-segunda-fecha": {
+"f": "2026-11-16",
+"r": null
+},
+"punto-de-equilibrio": {
+"f": "2026-11-16",
+"r": null
+},
+"raule": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7e/5e/20/7e5e2029-491b-662e-df60-6028e333aada/mzaf_3483756504183297304.plus.aac.p.m4a",
+"cancion": "Cómo No Te Voy a Querer",
+"enlace": "https://music.apple.com/es/album/c%C3%B3mo-no-te-voy-a-querer/1692983560?i=1692983927&uo=4"
+}
+},
+"rebrote": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/12/26/25122660-f9ac-4648-b6ce-06f68b56f24b/mzaf_17349109410966037107.plus.aac.p.m4a",
+"cancion": "Cuando no estás tú",
+"enlace": "https://music.apple.com/es/album/cuando-no-esta-s-tu/1871238395?i=1871238405&uo=4"
+}
+},
+"red-moon-rise": {
+"f": "2026-11-16",
+"r": null
+},
+"red-moon-rise-before-my-time": {
+"f": "2026-11-16",
+"r": null
+},
+"romantica-sekta": {
 "f": "2026-11-16",
 "r": null
 },
@@ -646,6 +898,10 @@
 "cancion": "1984",
 "enlace": "https://music.apple.com/es/album/1984/1066960935?i=1066961478&uo=4"
 }
+},
+"samurai": {
+"f": "2026-11-16",
+"r": null
 },
 "selene-casas": {
 "f": "2026-11-16",
@@ -691,6 +947,10 @@
 "enlace": "https://music.apple.com/es/album/what-about-me/1322208932?i=1322209816&uo=4"
 }
 },
+"sonora": {
+"f": "2026-11-16",
+"r": null
+},
 "sons-of-aguirre-scila": {
 "f": "2026-11-16",
 "r": {
@@ -715,6 +975,14 @@
 "enlace": "https://music.apple.com/es/album/tempted/1443783189?i=1443783445&uo=4"
 }
 },
+"sr-bizarro": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b6/a7/03/b6a70328-140b-debf-d60c-66cc63e303f5/mzaf_9211863118507399334.plus.aac.p.m4a",
+"cancion": "Somos Coincidencia",
+"enlace": "https://music.apple.com/es/album/somos-coincidencia/1820918131?i=1820918132&uo=4"
+}
+},
 "standstill": {
 "f": "2026-11-16",
 "r": null
@@ -735,6 +1003,14 @@
 "enlace": "https://music.apple.com/es/album/terra/1598974283?i=1598974295&uo=4"
 }
 },
+"tarzan-y-su-madre": {
+"f": "2026-11-16",
+"r": null
+},
+"tarzan-y-su-madre-artista-invitado": {
+"f": "2026-11-16",
+"r": null
+},
 "tatta": {
 "f": "2026-11-16",
 "r": {
@@ -746,6 +1022,30 @@
 "tatta-48280": {
 "f": "2026-11-16",
 "r": null
+},
+"the-interrupters": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/51/19/f4511911-9a26-d11b-1ec3-57f46b08999b/mzaf_17479201253202503296.plus.aac.p.m4a",
+"cancion": "She's Kerosene",
+"enlace": "https://music.apple.com/es/album/shes-kerosene/1485072426?i=1485072429&uo=4"
+}
+},
+"the-manana-culture": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/84/48/96/8448969d-4985-9ed0-05d4-1934137b7fa5/mzaf_6973965739453577988.plus.aac.p.m4a",
+"cancion": "Rekall Inc.",
+"enlace": "https://music.apple.com/es/album/rekall-inc/1884679534?i=1884679537&uo=4"
+}
+},
+"till-lindemann": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/cb/fc/33cbfcaf-bd82-3bb1-8091-b9ba36634d67/mzaf_11117815251949325071.plus.aac.p.m4a",
+"cancion": "Entre dos tierras",
+"enlace": "https://music.apple.com/es/album/entre-dos-tierras/1789518087?i=1789518100&uo=4"
+}
 },
 "triangulo-de-amor-bizarro": {
 "f": "2026-11-16",
@@ -763,6 +1063,18 @@
 "enlace": "https://music.apple.com/es/album/sale-el-sol/1793073114?i=1793073118&uo=4"
 }
 },
+"vernet": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2f/c7/e5/2fc7e5c8-1dbe-cf15-19ee-39d9e468ea23/mzaf_1402546700293367571.plus.aac.p.m4a",
+"cancion": "Tus tatuajes",
+"enlace": "https://music.apple.com/es/album/tus-tatuajes/1878696855?i=1878696856&uo=4"
+}
+},
+"vernet-no-time-to-funk": {
+"f": "2026-11-16",
+"r": null
+},
 "wistimber": {
 "f": "2026-11-16",
 "r": {
@@ -770,6 +1082,22 @@
 "cancion": "Copa de Vino",
 "enlace": "https://music.apple.com/es/album/copa-de-vino/6795570710?i=6795570932&uo=4"
 }
+},
+"wuolja": {
+"f": "2026-11-16",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/c9/af/82c9af5e-d20d-9d25-a980-3139e144a3d9/mzaf_14056772596629556073.plus.aac.p.m4a",
+"cancion": "Space Stoner",
+"enlace": "https://music.apple.com/es/album/space-stoner/1781324359?i=1781324360&uo=4"
+}
+},
+"wuolja-desert-gnomos": {
+"f": "2026-11-16",
+"r": null
+},
+"x-star": {
+"f": "2026-11-16",
+"r": null
 },
 "xoel-lopez": {
 "f": "2026-11-16",
