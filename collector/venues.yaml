@@ -57,8 +57,14 @@ salas:
     nombre: Sala But
     barrio: Malasaña
     web: https://www.salabut.es/agenda-conciertos/
-    fuente: madridenvivo
-    mev: 406357
+    fuente: html
+    url: https://www.salabut.es/agenda-conciertos/
+    html:
+      bloque: 'class="elementor-element elementor-element-\w+ e-con-full e-grid'
+      titulo: 'elementor-heading-title[^>]*>(.*?)</span>'
+      fecha: 'elementor-heading-title[^>]*>.*?</span>.*?elementor-heading-title[^>]*>(.*?)</span>'
+      entradas: 'class="elementor-button elementor-button-link[^"]*" href="([^"]+)"'
+      imagen: '<img[^>]+src="([^"]+)"'
   - id: copernico
     nombre: Copérnico
     barrio: Chamberí
@@ -76,8 +82,18 @@ salas:
     nombre: Sala El Sol
     barrio: Centro
     web: https://salaelsol.com/agenda/
-    fuente: madridenvivo
-    mev: 61576
+    fuente: html
+    url: https://salaelsol.com/agenda/
+    solo_categorias: [Conciertos]
+    html:
+      bloque: 'class="agenda gran-contenedor-agenda'
+      generos: 'class="categoria-12">(.*?)</strong>'
+      titulo: 'class="nombre_evento">(.*?)</p>'
+      fecha: 'class="fecha-superior">(.*?)</p>'
+      hora: 'class="espacio">(.*?)</span>'
+      enlace: 'class="nombre_evento"><a href="([^"]+)"'
+      entradas: 'href="([^"]+)" class="Tickets"'
+      imagen: '<img[^>]+src="([^"]+)"'
   - id: siroco
     nombre: Siroco
     barrio: Malasaña
@@ -94,8 +110,17 @@ salas:
     nombre: El Sótano
     barrio: La Latina
     web: https://www.salaelsotano.com/
-    fuente: madridenvivo
-    mev: 61577
+    fuente: html
+    url: https://www.salaelsotano.com/
+    solo_categorias: [conciertos]
+    html:
+      bloque: 'class="evento-club-item \w+Type'
+      generos: 'class="evento-club-item (\w+)Type'
+      titulo: '<h3>(.*?)</h3>'
+      fecha: 'class="evento-club-fecha">(.*?)</p>'
+      hora: 'class="evento-club-fecha">(.*?)</p>'
+      entradas: 'class="evento-club-boton" href="([^"]+)"'
+      imagen: '<img[^>]+src="([^"]+)"'
   - id: wurlitzer
     nombre: Wurlitzer Ballroom
     barrio: Centro
@@ -133,8 +158,15 @@ salas:
     nombre: Fotomatón Bar
     barrio: Conde Duque
     web: https://mutick.com/v/fotomaton
-    fuente: madridenvivo
-    mev: 61581
+    fuente: html
+    url: https://mutick.com/v/fotomaton
+    html:
+      bloque: 'class="d-flex justify-content-center col-12 col-sm-8 col-lg-6 my-3 evento-grid"'
+      titulo: 'class="evento-grid-info-titulo">(.*?)</h2>'
+      quitar: '\s+en Madrid\s*$'
+      fecha: 'evento-grid-info-fecha">(.*?)</div>'
+      enlace: '<a href="([^"]+)"'
+      imagen: '<img src="([^"]+)"'
   - id: shoko
     nombre: Shôko
     barrio: Embajadores
