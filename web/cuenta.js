@@ -1,4 +1,4 @@
-// Cuentas de usuario con Supabase: sesión, preferencias y lista "voy a ir".
+// Cuentas de usuario con Supabase: sesión, preferencias, "tengo entrada" y favoritos.
 // Si config.js no tiene datos, Cuenta.activa es false y la web funciona sin cuentas.
 
 const Cuenta = (() => {
@@ -66,31 +66,34 @@ const Cuenta = (() => {
     if (error) throw error;
   }
 
-  async function voyLista() {
+  // Listas de conciertos de cada persona: "voy" (tengo entrada) y "favoritos".
+  async function lista(tabla) {
     const c = await sb();
     const u = await usuario();
     if (!u) return [];
-    const hoy = Agenda.hoyISO();
-    const { data, error } = await c.from("voy").select("concierto_id, fecha, titulo, sala")
-      .eq("user_id", u.id).gte("fecha", hoy).order("fecha");
+    const { data, error } = await c.from(tabla).select("concierto_id, fecha, titulo, sala")
+      .eq("user_id", u.id).gte("fecha", Agenda.hoyISO()).order("fecha");
     if (error) throw error;
     return data;
   }
 
-  async function marcarVoy(concierto, voy) {
+  async function marcar(tabla, concierto, si) {
     const c = await sb();
     const u = await usuario();
-    if (voy) {
-      const { error } = await c.from("voy").upsert({
-        user_id: u.id, concierto_id: concierto.id, fecha: concierto.fecha,
-        titulo: concierto.titulo, sala: concierto.sala,
-      });
-      if (error) throw error;
-    } else {
-      const { error } = await c.from("voy").delete().eq("user_id", u.id).eq("concierto_id", concierto.id);
-      if (error) throw error;
-    }
+    const { error } = si
+      ? await c.from(tabla).upsert({
+          user_id: u.id, concierto_id: concierto.id, fecha: concierto.fecha,
+          titulo: concierto.titulo, sala: concierto.sala,
+        })
+      : await c.from(tabla).delete().eq("user_id", u.id).eq("concierto_id", concierto.id);
+    if (error) throw error;
   }
 
-  return { activa, usuario, entrar, salir, perfil, guardarPerfil, voyLista, marcarVoy };
+  return {
+    activa, usuario, entrar, salir, perfil, guardarPerfil,
+    voyLista: () => lista("voy"),
+    favLista: () => lista("favoritos"),
+    marcarVoy: (c, si) => marcar("voy", c, si),
+    marcarFav: (c, si) => marcar("favoritos", c, si),
+  };
 })();

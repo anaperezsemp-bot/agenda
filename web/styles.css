@@ -209,6 +209,23 @@ footer.pie { max-width: 960px; margin: 0 auto; padding: 0 16px 32px; color: var(
   display: inline-block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em;
   color: var(--accent-text); background: var(--accent); border-radius: 6px; padding: 1px 6px;
 }
-.btn-voy[aria-pressed="true"] { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
 .top-acciones { display: flex; gap: 8px; }
 a.btn { text-decoration: none; display: inline-flex; align-items: center; }
+
+/* Favorito y "Tengo entrada" en el detalle */
+.titular { display: flex; align-items: flex-start; gap: 12px; }
+.titular h1 { flex: 1; min-width: 0; }
+.marcas { display: flex; gap: 8px; flex-shrink: 0; }
+.marcas[hidden] { display: none; }
+.icono {
+  width: 44px; height: 44px; border-radius: 50%; cursor: pointer;
+  border: 1px solid var(--line); background: var(--surface);
+  display: grid; place-items: center; padding: 0;
+}
+.icono svg { width: 22px; height: 22px; fill: none; stroke: var(--text); stroke-width: 1.8; stroke-linejoin: round; }
+.icono[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); }
+.icono[aria-pressed="true"] svg { stroke: var(--accent-text); }
+.icono#fav[aria-pressed="true"] svg path { fill: var(--accent-text); }
+.icono:disabled { opacity: 0.6; }
+.fav-mini { color: var(--accent); }
+#fs-mios .switch + .switch { margin-top: 10px; }

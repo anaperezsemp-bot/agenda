@@ -7,7 +7,7 @@
   const DIAS_TIRA = 14;
 
   let datos = null;
-  let mio = null; // { salas, generos, voy:Set } cuando hay sesión
+  let mio = null; // { salas, generos, voy:Set, fav:Set } cuando hay sesión
   let filtrados = [];
   let pintados = 0;
   let observador = null;
@@ -23,6 +23,8 @@
       pmax: p.get("pmax") ?? "",
       sinagotados: p.get("sinagotados") === "1",
       mios: p.get("mios") === "1",
+      fav: p.get("fav") === "1",
+      entrada: p.get("entrada") === "1",
       barrio: lista("barrio"),
       sala: lista("sala"),
       gen: lista("gen"),
@@ -52,6 +54,8 @@
       if (pmax !== null && (c.p === undefined || c.p > pmax)) return false;
       if (f.sinagotados && c.a) return false;
       if (f.mios && mio && !(mio.salas.includes(c.s) || (c.gen || []).some((g) => mio.generos.includes(g)))) return false;
+      if (f.fav && mio && !mio.fav.has(c.id)) return false;
+      if (f.entrada && mio && !mio.voy.has(c.id)) return false;
       if (f.sala.length && !f.sala.includes(c.s)) return false;
       if (f.barrio.length && !f.barrio.includes(datos.salas[c.s]?.b)) return false;
       if (f.gen.length && !(c.gen || []).some((g) => f.gen.includes(g))) return false;
@@ -64,14 +68,14 @@
     const sala = datos.salas[c.s]?.n || c.s;
     const meta = [];
     if (c.h) meta.push(`<span class="hora">${esc(c.h)}</span>`);
-    if (mio?.voy.has(c.id)) meta.push(`<span class="tag-voy">Vas</span>`);
+    if (mio?.voy.has(c.id)) meta.push(`<span class="tag-voy" title="Tengo entrada">Entrada</span>`);
     if (c.a) meta.push(`<span class="tag-agotado">Agotado</span>`);
     else if (c.p !== undefined) meta.push(`<span class="precio">${esc(precioTexto(c.p))}</span>`);
     const boton = c.au
       ? `<button class="escuchar" type="button" data-audio="${esc(c.au)}" aria-label="Escuchar a ${esc(c.g)}" aria-pressed="false"></button>`
       : "";
     return `<li class="item"><a class="row${c.a ? " agotado" : ""}${c.au ? " con-audio" : ""}" href="detalle.html?id=${encodeURIComponent(c.id)}">
-      <div class="info"><div class="grupo">${esc(c.g)}</div><div class="sala">${esc(sala)}</div></div>
+      <div class="info"><div class="grupo">${mio?.fav.has(c.id) ? `<span class="fav-mini" aria-label="Favorito">♥</span> ` : ""}${esc(c.g)}</div><div class="sala">${esc(sala)}</div></div>
       <div class="meta">${meta.join(" ")}</div></a>${boton}</li>`;
   }
 
@@ -159,7 +163,9 @@
     if (!f.dia && (f.desde || f.hasta)) chips.push(["fecha", `${f.desde || "…"} – ${f.hasta || "…"}`]);
     if (f.pmax !== "") chips.push(["pmax", f.pmax === "0" ? "Gratis" : `Hasta ${f.pmax} €`]);
     if (f.sinagotados) chips.push(["sinagotados", "Sin agotados"]);
-    if (f.mios) chips.push(["mios", "Mis favoritos"]);
+    if (f.mios) chips.push(["mios", "Mis salas y géneros"]);
+    if (f.fav) chips.push(["fav", "Favoritos"]);
+    if (f.entrada) chips.push(["entrada", "Tengo entrada"]);
     f.barrio.forEach((b) => chips.push([`barrio:${b}`, b]));
     f.sala.forEach((s) => chips.push([`sala:${s}`, nombreSala(s)]));
     f.gen.forEach((g) => chips.push([`gen:${g}`, g]));
@@ -191,6 +197,8 @@
     form.pmax.value = f.pmax;
     form.sinagotados.checked = f.sinagotados;
     form.mios.checked = f.mios;
+    form.fav.checked = f.fav;
+    form.entrada.checked = f.entrada;
     $("fs-mios").hidden = !mio;
     const conConciertos = new Set(datos.conciertos.map((c) => c.s));
     const salas = Object.entries(datos.salas)
@@ -222,6 +230,8 @@
       pmax: form.pmax.value,
       sinagotados: form.sinagotados.checked,
       mios: form.mios.checked,
+      fav: form.fav.checked,
+      entrada: form.entrada.checked,
       barrio: marcados("barrio"),
       sala: marcados("sala"),
       gen: marcados("gen"),
@@ -262,6 +272,8 @@
       else if (k === "pmax") f.pmax = "";
       else if (k === "sinagotados") f.sinagotados = false;
       else if (k === "mios") f.mios = false;
+      else if (k === "fav") f.fav = false;
+      else if (k === "entrada") f.entrada = false;
       else f[k] = f[k].filter((x) => x !== v);
       guardarFiltros(f);
       pintar();
@@ -290,15 +302,18 @@
     cargarMio();
   }
 
-  // Con sesión iniciada: favoritos para el filtro "Mis favoritos" y la marca "Vas".
+  // Con sesión iniciada: salas y géneros favoritos, conciertos favoritos y con entrada.
   // Se carga después de pintar para que la agenda no espere a la cuenta.
   async function cargarMio() {
     if (typeof Cuenta === "undefined" || !Cuenta.activa) return;
     $("mi-cuenta").hidden = false;
     try {
       if (!(await Cuenta.usuario())) return;
-      const [perfil, voy] = await Promise.all([Cuenta.perfil(), Cuenta.voyLista()]);
-      mio = { salas: perfil.salas, generos: perfil.generos, voy: new Set(voy.map((v) => v.concierto_id)) };
+      const [perfil, voy, fav] = await Promise.all([
+        Cuenta.perfil(), Cuenta.voyLista(), Cuenta.favLista().catch(() => []),
+      ]);
+      const ids = (l) => new Set(l.map((v) => v.concierto_id));
+      mio = { salas: perfil.salas, generos: perfil.generos, voy: ids(voy), fav: ids(fav) };
       pintar();
     } catch (e) {
       console.warn("No se pudo cargar la cuenta", e);

@@ -1,4 +1,4 @@
--- Cuentas de la agenda: preferencias de cada persona y conciertos a los que va a ir.
+-- Cuentas de la agenda: preferencias de cada persona, conciertos con entrada (voy) y favoritos.
 -- Ejecutar una vez en Supabase: SQL Editor → New query → pegar → Run.
 
 create table if not exists public.perfiles (
@@ -28,4 +28,19 @@ create policy "perfil propio" on public.perfiles
 
 drop policy if exists "voy propio" on public.voy;
 create policy "voy propio" on public.voy
+  for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
+
+-- Favoritos (añadido después; en un proyecto ya creado basta con favoritos.sql).
+create table if not exists public.favoritos (
+  user_id      uuid not null references auth.users (id) on delete cascade,
+  concierto_id text not null,
+  fecha        date not null,
+  titulo       text not null,
+  sala         text not null,
+  created_at   timestamptz not null default now(),
+  primary key (user_id, concierto_id)
+);
+alter table public.favoritos enable row level security;
+drop policy if exists "favorito propio" on public.favoritos;
+create policy "favorito propio" on public.favoritos
   for all using (auth.uid() = user_id) with check (auth.uid() = user_id);

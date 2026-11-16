@@ -1,4 +1,4 @@
-// Página "Mi cuenta": entrar con un enlace al correo, elegir favoritos y ver "voy a ir".
+// Página "Mi cuenta": entrar con un enlace al correo, elegir favoritos y ver tus conciertos.
 
 (() => {
   const { esc, nombreDia, cargar } = Agenda;
@@ -7,7 +7,7 @@
   function pintarEntrada(aviso = "") {
     raiz.innerHTML = `
       <h1>Mi cuenta</h1>
-      <p>Guarda tus salas y géneros favoritos y la lista de conciertos a los que vas a ir.</p>
+      <p>Guarda tus salas y géneros favoritos, tus conciertos favoritos y los que ya tienen entrada.</p>
       <form id="entrar" class="form-cuenta">
         <label>Tu correo<input type="email" name="email" required autocomplete="email" placeholder="nombre@correo.com"></label>
         <button class="btn btn-primary" type="submit">Enviarme un enlace para entrar</button>
@@ -36,7 +36,9 @@
   }
 
   async function pintarCuenta(usuario) {
-    const [agenda, perfil, voy] = await Promise.all([cargar("data/agenda.json"), Cuenta.perfil(), Cuenta.voyLista()]);
+    const [agenda, perfil, voy, fav] = await Promise.all([
+      cargar("data/agenda.json"), Cuenta.perfil(), Cuenta.voyLista(), Cuenta.favLista().catch(() => []),
+    ]);
     const salas = Object.entries(agenda.salas)
       .map(([id, s]) => [id, s.n])
       .sort((a, b) => a[1].localeCompare(b[1], "es"));
@@ -44,18 +46,25 @@
       .sort((a, b) => a.localeCompare(b, "es"))
       .map((g) => [g, g]);
     const nombreSala = (id) => agenda.salas[id]?.n || id;
+    const listaConciertos = (l, vacio) => l.length
+      ? `<ul class="voy-lista">${l.map((v) => `
+          <li><a class="row" href="detalle.html?id=${encodeURIComponent(v.concierto_id)}">
+            <div class="info"><div class="grupo">${esc(v.titulo)}</div><div class="sala">${esc(nombreSala(v.sala))}</div></div>
+            <div class="meta"><span class="hora">${esc(nombreDia(v.fecha))}</span></div></a></li>`).join("")}</ul>`
+      : `<p class="nota">${vacio}</p>`;
 
     raiz.innerHTML = `
       <h1>Mi cuenta</h1>
       <p class="nota">Has entrado como ${esc(usuario.email)}.</p>
 
       <section class="bloque">
-        <h2>Voy a ir</h2>
-        ${voy.length ? `<ul class="voy-lista">${voy.map((v) => `
-          <li><a class="row" href="detalle.html?id=${encodeURIComponent(v.concierto_id)}">
-            <div class="info"><div class="grupo">${esc(v.titulo)}</div><div class="sala">${esc(nombreSala(v.sala))}</div></div>
-            <div class="meta"><span class="hora">${esc(nombreDia(v.fecha))}</span></div></a></li>`).join("")}</ul>`
-          : `<p class="nota">Todavía no has marcado ningún concierto. Hazlo con «Voy a ir» en el detalle de cada uno.</p>`}
+        <h2>Tengo entrada</h2>
+        ${listaConciertos(voy, "Todavía no has marcado ninguno. Hazlo con el icono de entrada en el detalle de cada concierto.")}
+      </section>
+
+      <section class="bloque">
+        <h2>Favoritos</h2>
+        ${listaConciertos(fav, "Todavía no tienes favoritos. Márcalos con el corazón en el detalle de cada concierto.")}
       </section>
 
       <form id="prefs" class="bloque">
