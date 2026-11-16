@@ -21,6 +21,9 @@ CADUCIDAD = 30          # días antes de volver a buscar un grupo sin resultado
 _CORTES = re.compile(r"\s+(?:\+|w/|con|feat\.?|ft\.?)\s+|\s*[:|–—]\s*|\s+-\s+|,\s*", re.IGNORECASE)
 
 
+_FORMACION = re.compile(r"\s+(?:tr[ií]o|quartet|cuarteto|quintet|quinteto|band|banda)\s*$", re.IGNORECASE)
+
+
 def cabeza_de_cartel(titulo):
     """'Grupo A + Grupo B' -> 'Grupo A'; 'GIRA 2026: Grupo' se queda como está si no hay más."""
     partes = [p.strip() for p in _CORTES.split(titulo) if p.strip()]
@@ -48,6 +51,8 @@ def enriquecer(conciertos, cache_path, get_json, hoy=None, dormir=time.sleep):
         # empieza por el nombre de un ciclo ("Ciclo 2026: Grupo"), lo que va tras los dos puntos.
         tras_ciclo = c["titulo"].split(":", 1)[1] if ":" in c["titulo"] else ""
         candidatos = [c["titulo"], cabeza_de_cartel(c["titulo"]), tras_ciclo.strip(), cabeza_de_cartel(tras_ciclo)]
+        # "Carles Benavent Trío" suele estar en Apple Music como "Carles Benavent".
+        candidatos += [_FORMACION.sub("", n) for n in candidatos]
         candidatos = list(dict.fromkeys(n for n in candidatos if slug(n)))
         for nombre in candidatos:
             clave = slug(nombre)
