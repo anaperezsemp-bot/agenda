@@ -1,184 +1,8 @@
 {
- "https://salagalileo.es/programacion/": {
-  "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
- },
- "https://salagalileo.es/wp-json/mec/v1/events": {
-  "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
- },
- "https://salagalileo.es/feed/": {
-  "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
- },
- "https://berlincafe.es/programas/": {
+ "https://siroco.es/agenda/": {
   "status": 200,
-  "final": "https://berlincafe.es/programas/",
-  "len": 174765,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [
-   "WordPress 6.9.6",
-   "WooCommerce 10.6.2",
-   "Redux 4.4.17"
-  ],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [
-   "https://berlincafe.es/feed/",
-   "https://berlincafe.es/comments/feed/"
-  ],
-  "hints": [
-   "dice.fm",
-   "fever",
-   "mutick",
-   "wp-json"
-  ],
-  "text": " Programa &#8211; Café Berlín Programa Info Alquiler Sala Rider Técnico FAQs Berlineses Streaming Newsletter Carta Tienda Programa Info Alquiler Sala Rider Técnico FAQs Berlineses Streaming Newsletter Carta Tienda Shopping-cart Instagram Facebook-f Twitter Tiktok Youtube Programa Suscribete a nuestra Newsletter All Berlín Club Café Berlín Mar 17 Nov Blanco Palamera en Madrid | SON Estrella Galicia – Café Berlín 360º 20:00 Entradas desde: 16,69€ Leer más ENTRADAS Mié 18 Nov Cloud Nothings en Madrid | SON Estrella Galicia 20:00 Entradas desde: 18€ Leer más ENTRADAS Jue 19 Nov KABEAUSHÉ PRESENTS: IGGY SWAGGERING UNGRATEFUL INCESSANT LITTLE PEEEAAAAAAAA 20:00 Entradas desde: 16,38€ Leer más ENTRADAS Jue 19 Nov AFROJAM 22:00 Entradas desde: 8€ Leer más ENTRADAS Jue 19 Nov Danze Afrika Club 23:59 Entradas desde: 12€ Leer más ENTRADAS Vie 20 Nov David y Carlos de Jacoba presentan “Lorqueando Federico” &#8211; 9ºFFC 20:00 Entradas desde: 16€ Leer más ENTRADAS Vie 20 Nov Svaneborg Kardyb en microdosis 22:00 Entradas desde: 27,50€ Leer más ENTRADAS Vie 20 Nov Pulso · Toni Aparisi &amp; Arnau Obiols 23:59 Entradas desde: 12€ Leer más ENTRADAS Sáb 21 Nov MILES &amp; COLTRANE 100 AÑOS por SO WHAT PROJECT &#8211; JAZZ CON SABOR A CLUB 2026 20:00 Entradas desde: 20€ Leer más ENTRADAS Sáb 21 Nov Luis “El Zambo” presenta “Conexión Santiago” &#8211; 9º FFC 22:30 Entradas desde: 18€ Leer más ENTRADAS Sáb 21 Nov Gilda Club presenta Retiro Electrónico · Maduro + Toni Carot + Cabin Luv Affair + Ya"
- },
- "https://berlincafe.es/wp-json/tribe/events/v1/events": {
-  "status": 404,
-  "final": "https://berlincafe.es/wp-json/tribe/events/v1/events",
-  "len": 149,
-  "ctype": "application/json; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "body": "{\"code\":\"rest_no_route\",\"message\":\"No se ha encontrado ninguna ruta que coincida con la URL y el m\\u00e9todo de la solicitud.\",\"data\":{\"status\":404}}"
- },
- "https://berlincafe.es/feed/": {
-  "status": 200,
-  "final": "https://berlincafe.es/feed/",
-  "len": 47056,
-  "ctype": "application/rss+xml; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "text": " Café Berlín https://berlincafe.es Café Berlín - Madrid - Sala de Conciertos - Café Berlín CaféBerlínMusicClub Sat, 08 Aug 2026 19:58:25 +0000 es hourly 1 https://wordpress.org/?v=6.9.6 https://berlincafe.es/wp-content/uploads/2022/09/cropped-favicon_cafe_berlin_512x512-32x32.png Café Berlín https://berlincafe.es 32 32 Volver al Berlín https://berlincafe.es/volver-al-berlin/ Thu, 28 May 2026 07:11:56 +0000 https://berlincafe.es/?p=4781 Continue reading Volver al Berlín ]]> Antonio Reyes y Rycardo Moreno nos sumergen en una experiencia como las de antes. Hay conciertos que hacen afición y hay lugares que también. Vuelvo al Café Berlín después de dos años y medio de ausencias y me pierdo “La leyenda del tiempo” la primera que han hecho Antonio Reyes y Rycardo Moreno . Me lo dicen oídos de confianza. Es la primera vez que se encuentran guitarrista y cantaor y se produce el milagro del flamenco de toda la vida. Una guitarra y una voz, no hay una combinación más potente (e inmersiva). Cuando bajo las escaleras Antonio está cantando por alegrías y te invaden los ecos de Camarón y de la bahía. Hay dos palmeros que asisten al encuentro con las sonrisas de las grandes ocasiones y que subrayan el compás en los momentos cruciales. Si no te gusta esto así difícilmente te vas a aficionar al flamenco. Podrás ir a los shows de Rosalía o podrás escuchar cantar por bulerías en los de C Tangana pero te perderás la esencia de este arte. Estamos en el V festival flamenco de Club , un esfuerzo qu"
- },
- "https://www.salabut.es/agenda-conciertos/": {
-  "status": 200,
-  "final": "https://www.salabut.es/agenda-conciertos/",
-  "len": 242734,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [
-   "WPML ver:4.7.4 stt:1,2;",
-   "Elementor 4.2.2; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
-  ],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [
-   "https://www.salabut.es/feed/",
-   "https://www.salabut.es/comments/feed/"
-  ],
-  "hints": [
-   "dice.fm",
-   "fever",
-   "songkick",
-   "ticketmaster",
-   "wp-json"
-  ],
-  "text": " Agenda Conciertos - Sala But Ir al contenido Conciertos Sesiones Eventos Cómo llegar FAQS Main Menu Conciertos Sesiones Eventos Cómo llegar FAQS AGENDA No hay conciertos previstos para esta semana. Consulte la agenda en los próximos días para futuras actualizaciones. NEMZZZ 22 OCTUBRE 2026 COMPRAR ENTRADAS VANGOURA 23 OCTUBRE 2026 COMPRAR ENTRADAS PARADISE 30 OCTUBRE 2026 CAMBIO DE SALA &#8211; UÑAS CHUNG LEE COMPRAR ENTRADAS MALA GESTIÓN 4 NOVIEMBRE 2026 COMPRAR ENTRADAS KID FRANCESCOLI 5 NOVIEMBRE 2026 COMPRAR ENTRADAS NEVERLAND BARI 6 NOVIEMBRE 2026 COMPRAR ENTRADAS TORTOISE 8 NOVIEMBRE 2026 COMPRAR ENTRADAS NIÑOS BRAVOS 13 NOVIEMBRE 2026 COMPRAR ENTRADAS THE URS 15 NOVIEMBRE 2026 COMPRAR ENTRADAS KID VOODO 16 NOVIEMBRE 2026 COMPRAR ENTRADAS L0RNA 18 NOVIEMBRE 2026 COMPRAR ENTRADAS L0RNA 19 NOVIEMBRE 2026 COMPRAR ENTRADAS BUHOS 20 NOVIEMBRE 2026 COMPRAR ENTRADAS COBRAH 25 NOVIEMBRE 2026 COMPRAR ENTRADAS JIMENA AMARILLO + ARIETE + CARMEN LANCHO + PICCOLO 26 NOVIEMBRE 2026 COMPRAR ENTRADAS FACCIANUVOLA + FRANCO126 27 NOVIEMBRE 2026 COMPRAR ENTRADAS SARAMALACARA 29 NOVIEMBRE 2026 COMPRAR ENTRADAS IBEYI 1 DICIEMBRE 2026 COMPRAR ENTRADAS LA SRA TOMASA 4 DICIEMBRE 2026 COMPRAR ENTRADAS THE SHEEPDOGS 6 DICIEMBRE 2026 COMPRAR ENTRADAS CECILIO G 10 DICIEMBRE 2026 COMPRAR ENTRADAS STICKY M.A. 13 DICIEMBRE 2026 COMPRAR ENTRADAS MACY GRAY 14 DICIEMBRE 2026 COMPRAR ENTRADAS PEDRO PASTOR 30 DICIEMBRE 2026 COMPRAR ENTRADAS Departamento de Grupos y Venta B2B TELÉFONO (+34) 910053082 MAIL"
- },
- "https://www.salabut.es/wp-json/tribe/events/v1/events": {
-  "status": 404,
-  "final": "https://www.salabut.es/wp-json/tribe/events/v1/events",
-  "len": 149,
-  "ctype": "application/json; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "body": "{\"code\":\"rest_no_route\",\"message\":\"No se ha encontrado ninguna ruta que coincida con la URL y el m\\u00e9todo de la solicitud.\",\"data\":{\"status\":404}}"
- },
- "https://conciertoscopernico.com/conciertos-copernico/": {
-  "status": 200,
-  "final": "https://conciertoscopernico.com/conciertos-copernico/",
-  "len": 177435,
-  "ctype": "text/html",
-  "generator": [
-   "WordPress 7.1.4"
-  ],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [
-   "https://conciertoscopernico.com/feed/",
-   "https://conciertoscopernico.com/comments/feed/"
-  ],
-  "hints": [
-   "wp-json"
-  ],
-  "text": " Conciertos Copernico --> --> --> Saltar al contenido Toggle Navigation INICIO CONCIERTOS Toggle Navigation Home Conciertos Rider Contacto Toggle Navigation Rider Contacto Conciertos Diana 2025-03-17T11:52:50+01:00 PRÃXIMOS CONCIERTOS AquÃ­ tienes los conciertos de los grupos que se subirÃ¡n prÃ³ximamente a nuestro escenario. Entra en el concierto que te apetezca asistir y consigue tu entrada en el enlace indicado. Solo darÃ¡ opciÃ³n de compra, si hay entradas disponibles. No te pierdas los Conciertos de CopÃ©rnico Live y anticipate en adquirir tu entrada. SPIKE AND THE GIMME GIMMES &#8211; 20 de Noviembre SPIKE AND THE GIMME GIMMES &#8211; 20 de Noviembre SPIKE AND THE GIMME GIMMES &#8211; 20 de Noviembre Clearwater Creedence Revival &#8211; 21 Noviembre Clearwater Creedence Revival &#8211; 21 Noviembre Clearwater Creedence Revival &#8211; 21 Noviembre JALEZZ &#8211; 22 de Noviembre JALEZZ &#8211; 22 de Noviembre JALEZZ &#8211; 22 de Noviembre BUM MOTION CLUB &#8211; 26 de Noviembre BUM MOTION CLUB &#8211; 26 de Noviembre BUM MOTION CLUB &#8211; 26 de Noviembre Frankie and The Witch Fingers + Iguana Death Cult &#8211; 27 de Noviembre Frankie and The Witch Fingers + Iguana Death Cult &#8211; 27 de Noviembre Frankie and The Witch Fingers + Iguana Death Cult &#8211; 27 de Noviembre LOS GANGLIOS &#8211; 28 de Noviembre LOS GANGLIOS &#8211; 28 de Noviembre LOS GANGLIOS &#8211; 28 de Noviembre BERNAL &#8211; 29 de Noviembre BERNAL &#8211; 29 de Noviembre BERNAL &#8211; 29 de Novi"
- },
- "https://conciertoscopernico.com/wp-json/tribe/events/v1/events": {
-  "status": 200,
-  "final": "https://conciertoscopernico.com/wp-json/tribe/events/v1/events",
-  "len": 218,
-  "ctype": "application/json; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [
-   "wp-json"
-  ],
-  "body": "{\"events\":[],\"rest_url\":\"https:\\/\\/conciertoscopernico.com\\/wp-json\\/tribe\\/events\\/v1\\/events\\/?page=1&per_page=10&start_date=2026-11-16 00:00:00&end_date=2028-11-16 23:59:59&status=publish\",\"total\":0,\"total_pages\":0}"
- },
- "https://salaelsol.com/agenda/": {
-  "status": 200,
-  "final": "https://salaelsol.com/agenda/",
-  "len": 491318,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [
-   "WordPress 7.1.4",
-   "Site Kit by Google 1.189.0",
-   "Elementor 4.3.5; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto"
-  ],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [
-   "https://salaelsol.com/feed/",
-   "https://salaelsol.com/comments/feed/"
-  ],
-  "hints": [
-   "dice.fm",
-   "entradium",
-   "events-manager",
-   "mutick",
-   "ticketmaster",
-   "wp-json"
-  ],
-  "text": " Agenda - Sala El Sol Ir al contenido Agenda Clubbing El Sol La Sala Historia Información Sala Información Técnica Descargas FAQS Acceso De Menores Eventos Privados Contacto Agenda Clubbing El Sol La Sala Historia Información Sala Información Técnica Descargas FAQS Acceso De Menores Eventos Privados Contacto Agenda Clubbing El Sol La Sala Historia Información Sala Información Técnica Descargas FAQS Acceso De Menores Eventos Privados Contacto Agenda Clubbing El Sol La Sala Historia Información Sala Información Técnica Descargas FAQS Acceso De Menores Eventos Privados Contacto Agenda Agenda Todo Todo Conciertos Conciertos Clubbing Clubbing Hoy Lun Mar Mié Jue Vie Sáb Dom l m m j v s d 26 27 9:00 PM &#8211; CALEQUI Y LAS PANTERAS (CINCO MARTES PARA AMARTE) 28 9:00 PM &#8211; JUAN INGARAMO (MAZO MADRID) 29 12:30 AM &#8211; FUK D@: RebelBunnie + Poto con Rocoto + Lua de Santana + Megane Mercury + Torvvic 9:00 PM &#8211; Un Pingüino en mi Ascensor (El Sol presenta) 30 12:30 AM &#8211; FIESTA WACHA: Lloraemon + FresaKill ( aka Chikiturri) + Masoguai 9:00 PM &#8211; KATE CLOVER + BOSTON BABIES 1 12:30 AM &#8211; GUACAMAYOS AL SOL PRESENTA: Funk-a-Pride: El Cuerpo del Disco + Gee Contreras + Wera 8:30 PM &#8211; FIESTA LA DEMO SWING LAB 2 12:00 AM &#8211; GUMMY: Daniel Träumt + Valero + Iván 8:30 PM &#8211; LA TREMENDA (FESTIVAL SON Y SOLES) 3 4 5 6 12:30 AM &#8211; DANCE LAB: Charly Sodiaz + C. Velvet + Juan Paul 7 12:30 AM &#8211; AFTER SHOW CHICO TRUJILLO: Azombike + Guacamayo Djs "
- },
- "https://salaelsol.com/wp-json/tribe/events/v1/events": {
-  "status": 404,
-  "final": "https://salaelsol.com/wp-json/tribe/events/v1/events",
-  "len": 149,
-  "ctype": "application/json; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "body": "{\"code\":\"rest_no_route\",\"message\":\"No se ha encontrado ninguna ruta que coincida con la URL y el m\\u00e9todo de la solicitud.\",\"data\":{\"status\":404}}"
- },
- "https://salaelsol.com/feed/": {
-  "status": 200,
-  "final": "https://salaelsol.com/feed/",
-  "len": 1101,
-  "ctype": "application/rss+xml; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "text": " Sala El Sol https://salaelsol.com/ Sala de Conciertos y Clubbing Mon, 16 Nov 2026 10:34:34 +0000 es hourly 1 https://wordpress.org/?v=7.1.4 https://salaelsol.com/wp-content/uploads/2022/02/cropped-cropped-sala-el-sol-madrid-conciertos-clubbing-favicon-32x32.png Sala El Sol https://salaelsol.com/ 32 32 "
- },
- "https://siroco.es/conciertos/": {
-  "status": 200,
-  "final": "https://siroco.es/conciertos/",
-  "len": 195254,
+  "final": "https://siroco.es/agenda/",
+  "len": 611360,
   "ctype": "text/html; charset=UTF-8",
   "generator": [
    "WordPress 7.1.4",
@@ -192,307 +16,59 @@
    "https://siroco.es/comments/feed/"
   ],
   "hints": [
+   "dice.fm",
+   "entradium",
+   "eventbrite",
+   "events-manager",
    "wp-json"
   ],
-  "text": " Conciertos - Siroco Agenda Clubbing Conciertos ARTLAB Contacto Agenda Clubbing Conciertos ARTLAB Contacto Conciertos Ver programación conciertos Club ARTLAB Espacio Club Siroco Club se encuentra en la planta baja de la sala y ha sido testigo de directos para el recuerdo, albergando conciertos de todo tipo de música, trayendo a artistas y promotoras tanto del panorama nacional como internacional, y apostando por la música de calidad en el ocio nocturno de Madrid. Espacio ARTLAB Siroco ArtLab , el nuevo espacio a pie de calle, es un espacio para el arte digital y toda la Industria Creativa y Cultural, donde el mundo físico y el mundo digital se fusionan. Transformamos nuestro espacio para satisfacer necesidades culturales actuales y futuras, integrando nuevos lenguajes y públicos con una infraestructura y equipamientos digitales devanguardia. Un espacio multidisciplinar con 12 pantallas digitales, un techo de LED inteligente y un sistema de audio de máxima calidad d&amp;b audiotechnik. Acogemos exposiciones de arte digital, showcases, acústicos, presentaciones de libros, sesiones de música electrónica en directo, programas de radio… son algunas de las propuestas que han tenido cabida en esta última temporada. Deja vacío este campo si eres humano: Instagram Facebook Twitter Youtube Desde 1989 en Madrid. // Conciertos // // Clubbing // // Fast Expos // Calle San Dimas 3 28015, Madrid La Sala • Nosotros • Rider • Fotos / Vídeos • Descargas • Nuestros Flyers • Acceso Menores • Spo"
+  "text": " Agenda - Siroco Agenda Clubbing Conciertos ARTLAB Contacto Agenda Clubbing Conciertos ARTLAB Contacto Agenda Buscar cerca&#8230; Buscar Show Advanced Search Buscar cerca&#8230; Location Options País Todos los países España Región Todas las regiones Estado / Condado Estado / Condado Dentro 5 10 25 50 100 unidades de distancia Millas Kilómetros Categoría Categoría ZDestacado Otros Festival Tributos Fast expos Conciertos Clubbing Cancelado Vaciar todo Buscar Hoy Lun Mar Mié Jue Vie Sáb Dom l m m j v s d 26 27 9:00 PM &#8211; Officer John 28 29 + 12:00 AM &#8211; D.E.P Pringa Studio: Fukcnormal + Klandestina + Xandiyei 12:00 AM &#8211; D.E.P Pringa Studio 9:00 PM &#8211; SANTA ANA y la Santabanda más&#8230; 30 + 12:00 AM &#8211; Pogo Halloween: Julietta Ferrari + Montenegro + Pogo Djs más&#8230; 31 + 12:00 AM &#8211; Wicked Fridays w/ Badadan: Unity Sound &amp; Luv Messenger + AI-D Selectress x Dj Kennah 12:00 AM &#8211; Wicked Fridays w/ Badadan: Unity Sound &amp; Luv Messenger + AI-D Selectress x Dj Kennah más&#8230; 1 + 12:00 AM &#8211; Discoscuro: Giggy Devy + LKTA + Estrella Or + Wize más&#8230; 2 12:00 AM &#8211; Discoscuro: Giggy Devy + LKTA + Estrella Or + Wize 9:00 PM &#8211; Lu Jr 3 4 9:00 PM &#8211; Wistimber 5 12:00 AM &#8211; Fer Xplosion + Gema Electrofunken 11:59 PM &#8211; From Disco to Disco Pussy Power edition: Dj Palo + Eme Dj + K[alma] 9:00 PM &#8211; Gavarnie 6 + 12:00 AM &#8211; Presión: RXDRIGUEZZ + YABIWASABI + anagm + Solveig 9:00 PM &#8211; Sugarcrash m"
  },
- "https://siroco.es/wp-json/tribe/events/v1/events": {
-  "status": 404,
-  "final": "https://siroco.es/wp-json/tribe/events/v1/events",
-  "len": 149,
-  "ctype": "application/json; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "body": "{\"code\":\"rest_no_route\",\"message\":\"No se ha encontrado ninguna ruta que coincida con la URL y el m\\u00e9todo de la solicitud.\",\"data\":{\"status\":404}}"
- },
- "https://siroco.es/feed/": {
+ "https://madridenvivo.com/": {
   "status": 200,
-  "final": "https://siroco.es/feed/",
-  "len": 1022,
-  "ctype": "application/rss+xml; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "text": " Siroco https://siroco.es/ Sala de Conciertos y Clubbing Wed, 11 Nov 2026 13:04:17 +0000 es hourly 1 https://wordpress.org/?v=7.1.4 https://siroco.es/wp-content/uploads/2019/02/logo_negro_72px.png Siroco https://siroco.es/ 32 32 "
- },
- "https://www.funhousemusicbar.com/conciertos": {
-  "status": 200,
-  "final": "https://www.funhousemusicbar.com/conciertos/",
-  "len": 38206,
+  "final": "https://madridenvivo.com/",
+  "len": 239239,
   "ctype": "text/html; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "text": " Eventos Inicio Conciertos Sobre la sala Servicios Rider Contacto Normativa y entradas Conciertos 16 Nov 20:00h Dani Laj and The Looks + Cel Ray Reserva 17 Nov 20:30h THEE ELIAM Reserva 18 Nov 20:30h Dead Finks + La Llama Reserva 19 Nov 21:00h Superfuzz Reserva 21 Nov 12:30h AGA Reserva 21 Nov 18:30h Óscar Avendaño y Reposado Reserva 21 Nov 20:30h OMAGA + PERRO CANIBAL Reserva 22 Nov 12:30h Vilma y los señores Reserva 24 Nov 20:30h BANDA AL9 Reserva 25 Nov 20:30h MOJO THUNDER Reserva 26 Nov 20:30h Julitodemicorason y Ellos Son Reserva 27 Nov 20:30h Brighton 64 + Javier Sun Reserva 28 Nov 12:30h SUENA BABILONIA Reserva 28 Nov 18:00h Battle Crickets Reserva 28 Nov 21:00h Aaron Rux Reserva 29 Nov 12:00h Tesouro + m.a.p.a Reserva 02 Dic 20:30h Los hermanos Reid + vikini Reserva 06 Dic 21:30h The Loved Ones Reserva 10 Dic 20:00h Nick Mitchell Maiato Reserva 12 Dic 12:00h CLEARWATER COMPANION Reserva 13 Dic 13:00h Ron&#038;Blues Reserva 18 Dic 12:30h LOS CHICOS 25º aniversario en El Sol Reserva 18 Dic 20:30h GIBONES + R.D.I Reserva 20 Dic 12:30h DR. MAN Reserva 29 Dic 21:30h FER CABILDO &#038; LOS RIFFMAKERS Reserva 02 Ene 21:00h The Bank Robbers Reserva 09 Ene 13:00h HOWLIN&#8217; RAMBLERS Reserva 19 Feb 20:00h Jose Insaciable y Los Coringas Reserva 21 Feb 19:00h THE MONSTERS Reserva 20 Mar 18:00h MOTOHARU OKAMURA Reserva Sobre Sala Fun House Agenda de conciertos Política de privacidad Aviso legal y política de cookies © Fun House Music Bar - 2026 "
- },
- "https://www.salaelsotano.com/": {
-  "status": 200,
-  "final": "https://www.salaelsotano.com/",
-  "len": 380010,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [
-   "WordPress 6.9.11",
-   "Redux 4.5.18",
-   "Elementor 4.4.0; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
-  ],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [
-   "https://www.salaelsotano.com/feed/",
-   "https://www.salaelsotano.com/comments/feed/"
-  ],
-  "hints": [
-   "dice.fm",
-   "entradium",
-   "wp-json"
-  ],
-  "text": " La sala - El S&oacute;tano Club &ndash; Live Concerts &amp; Club La sala FAQs / Recursos Contacto Entradas La sala Destacado en El Sótano: JUE. 19/11/2026 - 21:30h Lussy en Vibra Mahou JUE. 19/11/2026 - 23:59h WHO IS IN DA HOUSE: Maria Arias, The Riggies VIE. 20/11/2026 - 23:59h WHEREVER: Yins, Hadex, Milu, Karina Marber, Saett SÁB. 21/11/2026 - 17:00h AVISPERO TARDEO: Willy Dejota, Javi Sánchez, Carpantis SÁB. 21/11/2026 - 23:59h BAKALAO: Alberto Tapia, Ingelmo, Monty DOM. 22/11/2026 - 18:00h BOSSA: Grau, Héctor Pericet, Kily Ruiz, NAAT DOM. 22/11/2026 - 23:59h RIOT CLUB: ARZADOUS, Arok Shiva, DAVID MENA JUE. 26/11/2026 - 20:30h SUBKULTUR JUE. 26/11/2026 - 23:59h 128 BPM: Herrera, Adri Cassy, Danz Collective, Alzuru, Manrii VIE. 27/11/2026 - 20:00h Coche Amarillo + Kirófano VIE. 27/11/2026 - 23:59h AXIOM CLUBBING: Elesbaan, Perk, SERGIO GALLEGO, R1TON, SÚPER PÄ Y ARTIMANYA SÁB. 28/11/2026 - 17:00h AVISPERO TARDEO: Lof, Jose Martín, Fernanda Brightside SÁB. 28/11/2026 - 23:59h HOUSENATION: Dimmish, Irene Gutierrez, Yannik DOM. 29/11/2026 - 18:00h BOSSA: Héctor Pericet ALL DAY LONG DOM. 29/11/2026 - 23:59h Babylon Whore, Arok Shiva, BIGOT3X JUE. 03/12/2026 Momentos Alhambra: Sara Del Valle JUE. 03/12/2026 - 23:59h SHE BEATS: Pájaro Negro, Brisa Then, Eva Levy VIE. 04/12/2026 - 21:00h Andrés Iwasaki en Vibra Mahou VIE. 04/12/2026 - 23:59h TORMENTA: Bembi B2B CAMILA DI RAUSO, DJ CHRIS, Giulia Mad B2B INA HOUSEZ, Vico Deep, Yhago SÁB. 05/12/2026 - 17:00h AVISPERO TARDEO: Abril Z"
- },
- "https://www.salaelsotano.com/wp-json/tribe/events/v1/events": {
-  "status": 404,
-  "final": "https://www.salaelsotano.com/wp-json/tribe/events/v1/events",
-  "len": 149,
-  "ctype": "application/json; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "body": "{\"code\":\"rest_no_route\",\"message\":\"No se ha encontrado ninguna ruta que coincida con la URL y el m\\u00e9todo de la solicitud.\",\"data\":{\"status\":404}}"
- },
- "https://wurlitzerballroom.com/agenda": {
-  "status": 200,
-  "final": "https://wurlitzerballroom.com/agenda",
-  "len": 117834,
-  "ctype": "text/html; charset=utf-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [
-   "dice.fm",
-   "entradium",
-   "fever",
-   "giglon",
-   "mutick"
-  ],
-  "text": " Agenda de conciertos | Wurlitzer Ballroom Madrid WURLITZER Ballroom · Madrid Agenda DJs Rider Menores Dónde Programación Agenda 30 fechas. Alguna te va a cambiar el año. noviembre de 2026 14 fechas LUN 16 NOV JOHNNY IRION + TESS LIAUTAUD + TIM EASTON americana folk country Puertas 21:00 18€/21€ Entradas → Más info → MAR 17 NOV miaw Deconstructed pop UK bass Shoegaze. Puertas 21:00 Entradas → Más info → MIÉ 18 NOV mad Psych Fest Penny &amp; The Pits + tovar punk roc garage psicodelia Puertas 21:00 12€/15€ Entradas → Más info → JUE 19 NOV The Silverados + Megarrollo Revival mod New Wave Punk Puertas 21:00 10€/13€ Entradas → Más info → VIE 20 NOV ACAROS+ MIAU! + ATOMIZADOR Puertas 21:00 10€ Entradas en taquilla Más info → SÁB 21 NOV Matthew Mole Folk pop Indie folk Singer-songwriter Puertas 21:00 22€ Entradas → Más info → DOM 22 NOV henri herbert &amp; the fury rock and roll Puertas 21:00 12€/15€ Entradas → Más info → LUN 23 NOV wedge krautrock Puertas 21:00 16/20€/22€ Entradas → Más info → MIÉ 25 NOV Agotado VIVA BELGRADO Puertas 21:00 18 Entradas agotadas Más info → JUE 26 NOV drunk in palace + sinopia Puertas 21:00 7€/9€ Entradas en taquilla Más info → VIE 27 NOV mad psych fest mengers + maria bc Art Punk dream pop Puertas 21:00 16€/18€ Entradas → Más info → SÁB 28 NOV Rick Blaine Records FRANCISCO NIXON + BELCOS &amp; ION DE LUIS + PARADE + STAR TRIP + RICARDO ALDARONDO After DJ: RICARDO ALDARONDO Puertas 21:00 20€/23€ Entradas → Más info → DOM 29 NOV Proyecto Huellas Pablo"
- },
- "https://wurlitzerballroom.com/wp-json/tribe/events/v1/events": {
-  "status": 404,
-  "final": "https://wurlitzerballroom.com/wp-json/tribe/events/v1/events",
-  "len": 5207,
-  "ctype": "text/html; charset=utf-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "text": " Wurlitzer Ballroom | Sala de conciertos en Madrid 404 Esta página no existe Se cayó del cartel. Prueba otra vez. Volver "
- },
- "https://cadavraclub.com/": {
-  "status": 200,
-  "final": "https://cadavraclub.com/",
-  "len": 35743,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [
-   "dice.fm",
-   "entradium"
-  ],
-  "text": " CADAVRA CLUB CLUB LIVE INSTAGRAM FACEBOOK SOUNDCLOUD TICKETS Wed 18th Nov — CIRCUITO w/ MIDGVRD & Dani Rich + Ginia + Asha Montiel + Codrey + Sarazzz + Karlitos TICKETS Thu 19th Nov — CDVR w/ Múltipla TICKETS Thu 19th Nov — ANFANG w/ D-Leria + Serna TICKETS Fri 20th Nov — RITMO URBANO FEST w/ Frijo TICKETS Sat 21st Nov – CDVR w/ Mardom TICKETS Wed 25th Nov – ARA w/ Prenda + Cecilia Lisbon TICKETS Thu 26th Nov – CDVR w/ AGUASMIL + ERIC ROHMER TICKETS Fri 27th Nov — SIGH.CLUB 9 YEARS w/ Carl Finlow aka Random Factor + Innuendo + Cesc TICKETS Fri 27th Nov – LOTURA w/ SDH + RAWLA TICKETS Sat 28th Nov — CRIMINAL CRISIS w/ Mor Elian + frankydrama + Bother + Valle + Dis.tant TICKETS Thu 03rd Dec — CDVR w/ Henshin! + Ramona Flores + Todo Bien Todo Mal TICKETS Thu 03rd Dec – CDVR w/ Henshin! + Ramona Flores + Todo Bien Todo Mal TICKETS Fri 04th Dec – CDVR w/ Tikismikis TICKETS Sat 05th Dec – CDVR w/ Hide Tyson TICKETS Wed 09th Dec – CDVR w/ KARLAN TICKETS Thu 10th Dec – CDVR w/ QRCLAN TICKETS Fri 11th Dec – CDVR w/ The Fractal Sound TICKETS Sat 12th Dec — HOLLYWOOD w/ DANIELLE + TWO EX TICKETS Sat 12th Dec – CDVR w/ Pijama + Bravo Maldonado TICKETS Fri 18th Dec – CDVR w/ Los Domingos + Mea Culpa SUBSCRIBE TO OUR NEWSLETTER Suscríbete a nuestra newsletter SUSCRIBIRSE "
- },
- "https://cadavraclub.com/wp-json/tribe/events/v1/events": {
-  "status": 404,
-  "final": "https://cadavraclub.com/wp-json/tribe/events/v1/events",
-  "len": 20,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "text": "Página no encontrada"
- },
- "https://www.salaclamores.es/calendario": {
-  "status": 200,
-  "final": "https://www.salaclamores.es/calendario",
-  "len": 79456,
-  "ctype": "text/html; charset=utf-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [
-   "WEBFLOW",
-   "webflow"
-  ],
-  "text": " Próximos conciertos y actuaciones LIVE MUSIC DANCE CLUB Nosotros CALENDARIO contacto CONCIERTOS DESTACADOS Calendario ¿Te preguntas qué está pasando en la escena musical de Madrid? ‍ Te invitamos a explorar la programación de los próximos conciertos. ¡Hay actuaciones que no te puedes perder! En cada evento, la música en directo te hará vivir una experiencia única, que te transportará a un mundo de sonidos y emociones inigualable. Tuesday 17 November 10€ + G.G. Martes 17 de Noviembre 20:00 Dani Molgar (Pop electrónico) Wednesday 18 November 10€ + G.G. Miércoles 18 de Noviembre 20:00 Claudia Arenas (Pop) Thursday 19 November 27€ + G.G Jueves 19 de Noviembre 20:00 Tu Otra Bonita (Pop/Rock) Friday 20 November 12€ + G.G. Viernes 20 de Noviembre 22:00 Tinez (Dancehall) Friday 20 November Dsd 10€ + G.G Viernes 20 de Noiembre 23:55 Dancehall Good Again en Madrid Saturday 21 November 10€ + G.G. Sábado 21 de Noviembre 22:00 Rebel Punk: Leonor SS + Simulacra + Miss Penas Saturday 21 November Dsd Free Sábado 21 de Noviembre 23:55 Clamores Dance Club: Erre Conway &amp; Tony Karate. (Urban Top Hits, R&amp;B) Sunday 22 November 27€ + G.G Domingo 22 de Noviembre 12:30 Tu Otra Bonita (Pop/Rock) Sunday 22 November 15€ + G.G. Domingo 22 de Noviembre 20:30 Canal Street Jazz Band Monday 23 November 18,74 € Lunes 23 de Noviembre 20:00 Oval: Horse Jumper of Love - 10 Year Anniversary (Indie Rock) Wednesday 25 November 18€ + G.G. Miércoles 25 de Noviembre 20:00 Marta Soto (Pop Flamenco) Thursday 26"
- },
- "https://www.mobydickclub.com/programacion.php": {
-  "status": 200,
-  "final": "https://www.mobydickclub.com/programacion.php",
-  "len": 61554,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [
-   "entradium",
-   "seetickets",
-   "ticketmaster"
-  ],
-  "text": " Moby Dick Club Moby Dick Club Nuevos Ministerios , Santiago Bernabéu, Cuzco Bus: 3, 5, 27, 40, 43, 126, 147, 149. AVENIDA DE BRASIL, 5. MADRID --> Moby Dick Club INICIO PROGRAMACIÓN LA SALA CONTACTO EVENTOS y RODAJES Moby Dick Club Apúntate a nuestro NEWSLETTER * campos obligatorios email * * --> Nombre Apellido Cumpleaños / ( dd / mm ) AUTORIZACIÓN EXPRESA: El cliente autoriza expresamente, a través de la marcación de la presente casilla, para la recepción de comunicaciones comerciales relacionadas con nuestra entidad a través del correo electrónico (Email). Email We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. Learn more about Mailchimp's privacy practices here. RESUMEN: Información básica sobre protección de datos. Responsable: LA LENTEJA SL (MOBY DICK). Finalidad: Envío de ofertas y comunicación de eventos de LA LENTEJA SL (MOBY DICK). Legitimación: Consentimiento. Destinatarios: No se cederán datos a terceros, salvo los casos en que exista obligación legal. Derechos: Acceder, rectificar y suprimir los datos, así como otros derechos, como se explica en la información adicional. Puede consultar la información adicional y detallada sobre protección de datos en la propia empresa. Moby Dick Club Programación de conciertos · NOVIEMBRE 2026 NIÑO PELUCA MARTES 17 de NOVIEMBRE. 20:30h. ANTICIPADA: 10€. TAQUILLA: 12€. Primer concierto de NIÑO PELUCA. Presentación de "
- },
- "https://mutick.com/v/fotomaton": {
-  "status": 200,
-  "final": "https://mutick.com/v/fotomaton",
-  "len": 51533,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [
-   "Mutick",
-   "mutick"
-  ],
-  "text": " Fotomatón - Mutick Acceder Crear Evento Fotomatón Fotomatón bar es, desde su apertura en 2006, una sala de conciertos de referencia en la escena indie de Madrid. Eventos en Fotomatón ANIVERSARIO BELLE AND SEBASTIAN en Madrid 19 de noviembre (2026) Fotomatón , Madrid INCONSCIENCIA ARTIFICIAL en Madrid 20 de noviembre (2026) Fotomatón , Madrid RUDI D en Madrid 21 de noviembre (2026) Fotomatón , Madrid FEE REEGA en Madrid 27 de noviembre (2026) Fotomatón , Madrid AMANTE + NACHO GARCIA Y SU UKELELE en Madrid 28 de noviembre (2026) Fotomatón , Madrid JOE COOL SUNGLASSES + NINJA BONITA en Madrid 28 de noviembre (2026) Fotomatón , Madrid BLINDED BY PASSION (UK) en Madrid 11 de diciembre (2026) Fotomatón , Madrid ANA FRANCO + LA JOYA en Madrid 12 de diciembre (2026) Fotomatón , Madrid ANGEL ROSTAING + JOEL REYES en Madrid 12 de diciembre (2026) Fotomatón , Madrid PIJAMAS SOCIAL CLUB + FUEU en Madrid 18 de diciembre (2026) Fotomatón , Madrid Información Quienes Somos Contacto Categorías Festival Indie Metal Pop Rock Contacto WhatsApp Horario: 10 a 21h Corazón de María, 64, 28002, Madrid, España hola@mutick.com Social Media © Copyright 2026 Mutick Condiciones de Compra | Aviso Legal | Política de Privacidad | Política de Cookies "
- },
- "https://shokomadrid.com/collections/eventos-shoko-madrid": {
-  "status": 200,
-  "final": "https://shokomadrid.com/collections/eventos-shoko-madrid",
-  "len": 383537,
-  "ctype": "text/html; charset=utf-8",
   "generator": [],
   "ldtypes": [],
   "ldcount": 0,
   "feeds": [
-   "/collections/eventos-shoko-madrid.atom"
-  ],
-  "hints": [
-   "Shopify",
-   "shopify"
-  ],
-  "text": " Shôko Madrid Events Skip to content Menu Buy tickets Club Concerts Gallery News Corporate Events Contact English Español Translation missing: en.accessibility.submit English / Español Buy tickets VIP tables Contact us hola@shokomadrid.com\">+34 91 354 16 80 hola@shokomadrid.com CorporateEvents +34663701571 eventos@shokomadrid.com\"> Corporate Events +34 663 70 15 71 eventos@shokomadrid.com Visit us Calle de Toledo, 86 Madrid, Spain Buy tickets VIP tables Club This month at Shôko All View all events Saturday, 31.10.2026 HALLOWEEN Buy tickets ♡ Thursday, 29.10.2026 SWAG CITY Buy tickets ♡ Friday, 30.10.2026 THE ROOM Buy tickets ♡ Saturday, 24.10.2026 TARDEO LA TROPI Buy tickets ♡ Saturday, 31.10.2026 TARDEO LA TROPI Buy tickets ♡ Sunday, 1.11.2026 LARESIDENCIA Buy tickets ♡ Monday, 2.11.2026 FUCKING MONDAY Buy tickets ♡ Thursday, 5.11.2026 SWAG CITY Buy tickets ♡ Friday, 6.11.2026 THE ROOM Buy tickets ♡ Saturday, 7.11.2026 PURE SHÔKO Buy tickets ♡ Sunday, 8.11.2026 LA RESIDENCIA Buy tickets ♡ Wednesday, 21.10.2026 YAISEL LM - CRAZY Buy tickets ♡ Wednesday, 28.10.2026 HALLOWEEN - CRAZY Buy tickets ♡ Saturday, 7.11.2026 TARDEO LA TROPI Buy tickets ♡ Monday, 9.11.2026 FUCKING MONDAY Buy tickets ♡ Wednesday, 11.11.2026 CRAZY Buy tickets ♡ Wednesday, 4.11.2026 CRAZY Buy tickets ♡ Thursday, 12.11.2026 3ROBI - POP THAT PARTY Buy tickets ♡ Friday, 13.11.2026 THE ROOM Buy tickets ♡ Saturday, 14.11.2026 PURE SHÔKO Buy tickets ♡ Sunday, 15.11.2026 LARESIDENCIA Buy tickets ♡ Monday, 16.11.2"
- },
- "https://shokomadrid.com/collections/eventos-shoko-madrid/products.json": {
-  "status": 200,
-  "final": "https://shokomadrid.com/collections/eventos-shoko-madrid/products.json",
-  "len": 40641,
-  "ctype": "application/json; charset=utf-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [
-   "shopify"
-  ],
-  "body": "{\"products\":[{\"id\":15844554342774,\"title\":\"HALLOWEEN - PURE SHÔKO   Saturday, 31.10.2026\",\"handle\":\"pure-shoko-saturday-31-10-2026\",\"body_html\":\"\\u003cp\\u003e\\u003cmeta charset=\\\"utf-8\\\"\\u003eThe most iconic night. PURE SHÔKO is the heart of the weekend — an experience that blends madness with the sounds of Trap, UK Drill, RnB, Hip Hop, Reggaetón and Afrobeats. Boundless energy and the unmistakable signature of our finest nights.\\u003c\\/p\\u003e\",\"published_at\":\"2026-08-18T19:06:51+02:00\",\"created_at\":\"2026-08-18T19:06:51+02:00\",\"updated_at\":\"2026-11-16T19:13:32+01:00\",\"vendor\":\"Shôko Madrid\",\""
- },
- "https://www.salanazca.com/": {
-  "error": "HTTPSConnectionPool(host='www.salanazca.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError"
- },
- "https://salanazca.es/": {
-  "error": "HTTPSConnectionPool(host='salanazca.es', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTT"
- },
- "https://changoclub.com/": {
-  "status": 200,
-  "final": "https://changoclub.com/",
-  "len": 138062,
-  "ctype": "text/html; charset=UTF-8",
-  "generator": [
-   "WordPress 7.1.4",
-   "Elementor 4.4.0; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
-  ],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [
-   "https://changoclub.com/feed/",
-   "https://changoclub.com/comments/feed/"
+   "https://madridenvivo.com/feed/",
+   "https://madridenvivo.com/comments/feed/"
   ],
   "hints": [
    "wp-json"
   ],
-  "text": " Chango Club &#8211; Web Hosting Management Service Home About Us IT Services Cloud Services Tech Support Data Security Software Dev Resources Contact Support 213-210-6744 Sales 213-210-6744 Home About Us IT Services Cloud Services Tech Support Data Security Software Dev Resources Contact Home admin 2026-07-17T00:28:05+00:00 ARE YOU LOOKING FOR SUPERIOR TECH IT SUPPORT? We provide affordable , highly responsive IT Support and Services for small and medium businesses. GET STARTED NOW IT CONSULTING We provide strategic IT consulting services to help businesses make smarter technology decisions and achieve their goals. Our experts analyze your current systems, identify opportunities for improvement, and deliver tailored technology strategies that enhance efficiency, security, and scalability. IT SUPPORT We provide reliable and responsive IT support to keep your business technology running smoothly. From troubleshooting and system maintenance to monitoring and technical assistance, our team helps minimize downtime, improve performance, and ensure your IT environment remains secure and efficient. Who We Are We focus on bringing value and solve business challenges through the delivery of modern IT services and solutions We are a trusted IT services company committed to helping businesses succeed through innovative technology solutions. Our goal is to simplify complex IT challenges and deliver reliable, secure, and scalable services that enable organizations to focus on what they do"
+  "text": " Madrid en Vivo - Agenda de Conciertos y Espectáculos en Madrid --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> ASOCIACIÓN DE SALAS DE CONCIERTOS Y ESPECTÁCULOS Agenda Noticias Actualidad Entrevistas Noticias de salas FLAMENCO CAPITAL EN SINTONÍA MEV Podcast Playlist Salas Podcast Proyectos DESTACADOS DE AGENDA 16 de noviembre del 2026 ESPECIAL EMOCIONES --> Teatro Flamenco Madrid Tres pases: 17:00h, 19:00h y 20:45h DESTACADOS DE AGENDA 16 de noviembre del 2026 JAZZ CON SABOR A CLUB 26: KIRK MACDONALD &amp; FABIO MIANO QUARTET (Festival JazzMadrid) --> Café Central Ateneo Dos pases: 20:00h y 22:00h DESTACADOS DE AGENDA 16 de noviembre del 2026 JESSE &amp; JOY --> La Riviera 21:00h DESTACADOS DE AGENDA 16 de noviembre del 2026 JULIO IGLESIAS EXPERIENCE POR JULIO IGLESIAS JR. --> Nuevo Teatro Alcalá 20:00h DESTACADOS DE AGENDA 17 de noviembre del 2026 ESPECTÁCULO FLAMENCO: CARLOS RIVERO + PAULA MORENO --> Tablao Ópera Flamenca Tres pases: 18:30h, 20:00h y 21:30h DESTACADOS DE AGENDA 17 de noviembre del 2026 JAZZ CON SABOR A CLUB 26: KIRK MACDONALD &amp; FABIO MIANO QUARTET (Festival JazzMadrid) --> Café Central Ateneo Dos pases: 20:00h y 22:00h Agenda Destacada --> BUSCADOR AVANZADO ▼ Salas Todas Babylon Barracudas Rock Bar Beer Station Big Mama Ballroom Bule Bule Cadavra Club Cadillac Solitario Café Berlín Café Central Ateneo Café El Despertar Café La Palma Candela Cardamomo Casa de la Música d"
  },
- "https://www.changoclub.es/": {
-  "error": "HTTPSConnectionPool(host='www.changoclub.es', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVer"
- },
- "https://salavillanos.es/": {
-  "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
- },
- "https://www.villanos.es/": {
-  "error": "HTTPSConnectionPool(host='www.villanos.es', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"H"
- },
- "https://labwagon.es/": {
-  "error": "HTTPSConnectionPool(host='labwagon.es', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTP"
- },
- "https://salalabwagon.com/": {
-  "error": "HTTPSConnectionPool(host='salalabwagon.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("
- },
- "https://salauni.es/": {
+ "https://conciertoscopernico.com/feed/": {
   "status": 200,
-  "final": "https://salauni.es/",
-  "len": 75726,
-  "ctype": "text/html; charset=utf-8",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "text": " INICIO INICIO RECORRIDO GALERIA AGENDA RIDER CONTACTO INICIO RECORRIDO GALERIA AGENDA RIDER CONTACTO CHAMBERÍ SE ENCIENDE EN LA SALA UNI LA MEJOR MÚSICA EN VIVO EN UNI VIVE LA ENERGÍA DE UNI EN VIVO SALA UNI En el corazón de Chamberí, un barrio con alma, céntrico, lleno de vida y con una mezcla única de tradición y cultura urbana, Sala Uni es un espacio para la música en directo y todo lo que ocurre a su alrededor. Con un aforo de 300 personas, damos cabida a conciertos, fiestas, sesiones y propuestas que forman parte de la escena cultural madrileña. Creemos en los artistas con personalidad, en las ideas que generan comunidad y en los espacios donde siempre hay algo nuevo por descubrir. De la mano del equipo de OchoyMedio, seguimos apostando por una programación diversa, inquieta y conectada con la cultura musical de la ciudad. Una sala de proximidad, abierta y en constante movimiento. Os esperamos en Sala Uni. VER VIDEO-TOUR RECORRIDO VER AGENDA UBICACIÓN C. de Cea Bermúdez 21, Chamberí, (28003) Madrid, España ¡CONTÁCTANOS! Nombre Correo electrónico Mensaje Política de privacidad Acepto que mis datos serán utilizados con el objetivo de brindarme servicios, productos y asistencia, conformes a la política de privacidad. ENVIAR Calle de Cea Bermúdez 21, Chambarí, Madrid, Spain 28003 info@salauni.es +34615840254 © SALA UNI - MADRID - 2026 Iniciar sesión E-mail Contraseña Iniciar sesión Loading... ¿Olvidaste tu contraseña? Iniciar sesión con Facebook Iniciar sesión con Google Si"
- },
- "https://www.salauni.com/": {
-  "status": 200,
-  "final": "https://www.salauni.com/",
-  "len": 114,
-  "ctype": "text/html",
-  "generator": [],
-  "ldtypes": [],
-  "ldcount": 0,
-  "feeds": [],
-  "hints": [],
-  "text": " "
- },
- "https://salamonlive.com/": {
-  "error": "HTTPSConnectionPool(host='salamonlive.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\""
- },
- "https://monlive.es/": {
-  "error": "HTTPSConnectionPool(host='monlive.es', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPS"
- },
- "https://lulaclub.com/": {
-  "error": "HTTPSConnectionPool(host='lulaclub.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTT"
- },
- "https://www.lulaclub.es/": {
-  "error": "HTTPSConnectionPool(host='www.lulaclub.es', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<"
- },
- "https://conciertos.club/madrid/locales/sala-nazca": {
-  "status": 200,
-  "final": "https://conciertos.club/madrid/locales/sala-nazca",
-  "len": 84611,
-  "ctype": "text/html;charset=UTF-8",
+  "final": "https://conciertoscopernico.com/feed/",
+  "len": 28671,
+  "ctype": "text/xml;charset=UTF-8",
   "generator": [],
   "ldtypes": [],
   "ldcount": 0,
   "feeds": [],
   "hints": [
-   "Ticketmaster",
-   "fever",
-   "ticketmaster"
+   "DICE.FM",
+   "Dice.fm",
+   "entradium",
+   "fever"
   ],
-  "text": " Conciertos en Sala Nazca de Madrid - Locales --> Conciertos A Coruña Álava - Vitoria-Gasteiz Albacete Alicante Almería Asturias Ávila Badajoz Baleares Barcelona Bilbao - Bizkaia Burgos Cáceres Cádiz Cantabria - Santander Castellón Ceuta Ciudad Real Córdoba Cuenca Gipuzkoa - San Sebastián-Donostia Girona Granada Guadalajara Huelva Huesca Jaén La Rioja - Logroño Las Palmas León Lleida Lugo Madrid Málaga Melilla Murcia Navarra - Pamplona-Iruña Ourense Palencia Pontevedra - Vigo Salamanca Segovia Sevilla Soria Tarragona Tenerife Teruel Toledo Valencia Valladolid Zamora Zaragoza Festivales Locales Artistas Entradas ﻿ Inicio Festivales Conciertos en: Madrid Barcelona Valencia Zaragoza Bilbao - Bizkaia Murcia Alicante Baleares Valladolid Asturias A Coruña Pontevedra - Vigo Málaga Almería Córdoba Jaén Sevilla Granada &nbsp;+&nbsp; A Coruña Álava - Vitoria-Gasteiz Albacete Alicante Almería Asturias Ávila Badajoz Baleares Barcelona Bilbao - Bizkaia Burgos Cáceres Cádiz Cantabria - Santander Castellón Ceuta Ciudad Real Córdoba Cuenca Gipuzkoa - San Sebastián-Donostia Girona Granada Guadalajara Huelva Huesca Jaén La Rioja - Logroño Las Palmas León Lleida Lugo Madrid Málaga Melilla Murcia Navarra - Pamplona-Iruña Ourense Palencia Pontevedra - Vigo Salamanca Segovia Sevilla Soria Tarragona Tenerife Teruel Toledo Valencia Valladolid Zamora Zaragoza Conciertos en Madrid > Locales de Madrid Sala Nazca Madrid Madrid --> Madrid Madrid Dirección: --> Dirección: Calle Orense, 24 28020 Madrid Bus"
+  "text": " Conciertos Copérnico https://conciertoscopernico.com/ Conciertos de grupos musicales en la Sala Copérnico de Madrid Tue, 27 Oct 2026 11:32:49 +0000 es hourly 1 https://wordpress.org/?v=7.1.4 RODRIGO Y GABRILA &#8211; 8 de Mayo https://conciertoscopernico.com/rodrigo-y-gabrila-8-de-mayo/ Fri, 08 May 2026 16:20:10 +0000 https://conciertoscopernico.com/?p=4970 El dúo de guitarristas mexicanos ganadores de un Grammy, Rodrigo y Gabriela, regresa el año que viene a España con su gira 'OurHome Tour'. Tendremos la oportunidad de disfrutar de su directo el 7 de mayo en La (2) de Apolo, en Barcelona, y el 8 de mayo en la Sala Copérnico de Madrid. Las La entrada RODRIGO Y GABRILA &#8211; 8 de Mayo se publicó primero en Conciertos Copérnico . ]]> El dúo de guitarristas mexicanos ganadores de un Grammy, Rodrigo y Gabriela , regresa el año que viene a España con su gira &#8216;OurHome Tour&#8217; . Tendremos la oportunidad de disfrutar de su directo el 7 de mayo en La (2) de Apolo, en Barcelona, y el 8 de mayo en la Sala Copérnico de Madrid . Las entradas estarán a la venta a partir de este viernes 12 de junio a las 10:00h a través de doctormusic.com y entradas.com . El precio será de 39,50€ (IVA y gastos de distribución incluidos). La entrada RODRIGO Y GABRILA &#8211; 8 de Mayo se publicó primero en Conciertos Copérnico . ]]> MERCROMINA &#8211; 17 de Abril https://conciertoscopernico.com/mercromina-17-de-abril/ Fri, 17 Apr 2026 08:48:09 +0000 https://conciertoscopernico.com/?p=5146 Mercr"
+ },
+ "https://www.laganzua.net/robots.txt": {
+  "status": 200,
+  "final": "https://www.laganzua.net/robots.txt",
+  "len": 794,
+  "ctype": "text/plain",
+  "generator": [],
+  "ldtypes": [],
+  "ldcount": 0,
+  "feeds": [],
+  "hints": [],
+  "text": "# robots.txt generated at http://www.mcanerin.com User-agent: * Disallow: /foro_musica/index.php?action=admin* Disallow: /foro_musica/index.php?action=calendar* Disallow: /foro_musica/index.php?action=login* Disallow: /foro_musica/index.php?action=printpage* Disallow: /foro_musica/index.php?action=profile* Disallow: /foro_musica/index.php?action=register* Disallow: /foro_musica/index.php?action=stats* Disallow: /foro_musica/index.php?PHPSESSID=* Disallow: /foro_musica/index.php?*wap* Disallow: /foro_musica/index.php?*wap2* Disallow: /conciertos/votar.php User-agent: anthropic-ai Disallow: / User-agent: Claude-Web Disallow: / User-agent: PetalBot Disallow: / User-agent: Baiduspider Disallow: / User-agent: Bytespider Disallow: / User-agent: ClaudeBot Disallow: /"
  },
  "https://www.laganzua.net/conciertos/salas-conciertos/sala-nazca": {
   "status": 200,
@@ -517,16 +93,142 @@
   ],
   "text": " Sala Nazca La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; conciertos &gt; salas de conciertos &gt; sala Nazca sala Nazca - Conciertos Artista: L.a. Guns Fecha: sábado 21 de noviembre de 2026 Sala: Sala Nazca Localidad: Madrid compra tu entrada Próximos Conciertos en sala Nazca Concierto de L.a. Guns en Madrid sábado 21 de noviembre de 2026 Madrid Sala Nazca Precio: 36.00 entradas Concierto de Split Dogs en Madrid jueves 26 de noviembre de 2026 Madrid Sala Nazca Precio: 23.00 entradas Concierto de Combichrist + Xpq-21 en Madrid sábado 5 de diciembre de 2026 Madrid Sala Nazca Precio: 32.10 entradas Concierto de Dark Christmas Festival Madrid 2026 en Madrid sábado 12 de diciembre de 2026 Madrid Sala Nazca Precio: 29.01 entradas Concierto de Ignite en Madrid viernes 15 de enero de 2027 Madrid Sala Nazca Concierto de Suicide Commando en Madrid sábado 16 de enero de 2027 Madrid Sala Nazca Precio: 29.01 entradas Concierto de Ktulu en Madrid sábado 30 de enero de 2027 Madrid Sala Nazca Precio: 22.00 entradas Concierto de Invisible Limits en Madrid viernes 5 de febrero de 2027 Madrid Sala Nazca Precio: 29.01 entradas Información de sala Nazca sala Nazca Calle de Orense, 24 Madrid Ver en Google Maps Otras Salas de Conciertos e"
  },
- "https://www.songkick.com/venues/3530444-sala-nazca": {
-  "status": 406,
-  "final": "https://www.songkick.com/venues/3530444-sala-nazca",
-  "len": 0,
-  "ctype": "text/html; charset=utf-8",
+ "https://www.laganzua.net/conciertos/salas-conciertos/sala-chango": {
+  "status": 200,
+  "final": "https://www.laganzua.net/conciertos/salas-conciertos/sala-chango",
+  "len": 67431,
+  "ctype": "text/html; charset=UTF-8",
+  "generator": [],
+  "ldtypes": [
+   "MusicEvent"
+  ],
+  "ldcount": 1,
+  "feeds": [
+   "https://www.laganzua.net/conciertos/feed.php"
+  ],
+  "hints": [
+   "Fever",
+   "Ticketmaster"
+  ],
+  "text": " Sala Changó La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; conciertos &gt; salas de conciertos &gt; Sala Changó Sala Changó - Conciertos Artista: Slow Pilot - Homenaje A Jeff Buckley Fecha: jueves 25 de febrero de 2027 Sala: Sala Changó Localidad: Madrid compra tu entrada Próximos Conciertos en Sala Changó Concierto de Slow Pilot - Homenaje A Jeff Buckley en Madrid jueves 25 de febrero de 2027 Madrid Sala Changó Precio: 28.00 entradas Información de Sala Changó Sala Changó Calle de Covarrubias, 42, Chamberí Madrid Ver en Google Maps Otras Salas de Conciertos en Madrid Sala Movistar Arena sala La Riviera sala El Sol Palacio Vistalegre sala BUT Sala Villanos Live las Ventas Sala Wagon sala Copérnico sala Mon Live Estadio Riyadh Air Metropolitano sala Nazca sala Clamores Teatro Eslava Ifema Teatro Circo Price The Lenovo Garage, Autocine sala Siroco sala Independance Club Sala Lula Club sala Wurlitzer Ballroom Fun House sala Café Berlin sala Galileo Galilei sala Joy Eslava sala Moby Dick sala Shoko sala Vesta Teatro La Latina Otros Conciertos en Madrid Beth Orton Sala Villanos, Madrid lunes 16 de noviembre de 2026 ver entradas Homer El Mero Mero Sala Copérnico, Madrid lunes 16 de noviembre de 2026 ver entradas Kidd Voodo"
+ },
+ "https://www.laganzua.net/conciertos/salas-conciertos/sala-villanos": {
+  "status": 200,
+  "final": "https://www.laganzua.net/conciertos/salas-conciertos/sala-villanos",
+  "len": 91836,
+  "ctype": "text/html; charset=UTF-8",
+  "generator": [],
+  "ldtypes": [
+   "MusicEvent",
+   "MusicEvent",
+   "MusicEvent",
+   "MusicEvent",
+   "MusicEvent"
+  ],
+  "ldcount": 10,
+  "feeds": [
+   "https://www.laganzua.net/conciertos/feed.php"
+  ],
+  "hints": [
+   "Fever",
+   "Ticketmaster"
+  ],
+  "text": " Sala Villanos La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; conciertos &gt; salas de conciertos &gt; Sala Villanos Sala Villanos - Conciertos Artista: Dante Spinetta Fecha: viernes 9 de abril de 2027 Sala: Sala Villanos Localidad: Madrid compra tu entrada Próximos Conciertos en Sala Villanos Concierto de Beth Orton en Madrid lunes 16 de noviembre de 2026 Madrid Sala Villanos Precio: 31.30 entradas Concierto de The Sadies en Madrid jueves 3 de diciembre de 2026 Madrid Sala Villanos Precio: 28.00 entradas Concierto de Diegote en Madrid jueves 10 de diciembre de 2026 Madrid Sala Villanos Precio: 19.80 entradas Concierto de Zahara Rave en Madrid viernes 18 de diciembre de 2026 Madrid Sala Villanos Precio: 27.50 entradas Concierto de Begut en Madrid viernes 15 de enero de 2027 Madrid Sala Villanos Precio: 22.00 entradas Concierto de Zahara Rave - Segunda Fecha Madrid en Madrid viernes 22 de enero de 2027 Madrid Sala Villanos Precio: 27.50 entradas Concierto de Gazella en Madrid sábado 23 de enero de 2027 Madrid Sala Villanos Precio: 20.00 entradas Concierto de Pancho Varona en Madrid viernes 29 de enero de 2027 Madrid Sala Villanos Precio: 24.50 entradas Concierto de El Nido en Madrid sábado 30 de enero de 2027 Madrid Sa"
+ },
+ "https://www.laganzua.net/conciertos/salas-conciertos/sala-lula-club": {
+  "status": 200,
+  "final": "https://www.laganzua.net/conciertos/salas-conciertos/sala-lula-club",
+  "len": 70009,
+  "ctype": "text/html; charset=UTF-8",
+  "generator": [],
+  "ldtypes": [
+   "MusicEvent",
+   "MusicEvent"
+  ],
+  "ldcount": 2,
+  "feeds": [
+   "https://www.laganzua.net/conciertos/feed.php"
+  ],
+  "hints": [
+   "Fever",
+   "Ticketmaster"
+  ],
+  "text": " Lula Club La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; conciertos &gt; salas de conciertos &gt; Sala Lula Club Sala Lula Club - Conciertos Artista: The Milk Carton Kids Fecha: jueves 21 de enero de 2027 Sala: Lula Club Localidad: Madrid compra tu entrada Próximos Conciertos en Sala Lula Club Concierto de The Milk Carton Kids en Madrid jueves 21 de enero de 2027 Madrid Lula Club Precio: 30.80 entradas Concierto de Maika Makovski en Madrid jueves 11 de febrero de 2027 Madrid Lula Club Precio: 27.50 entradas Información de Sala Lula Club Sala Lula Club Gran Vía, 54, Centro Madrid Ver en Google Maps Otras Salas de Conciertos en Madrid Sala Movistar Arena sala La Riviera sala El Sol Palacio Vistalegre sala BUT Sala Villanos Live las Ventas Sala Wagon sala Copérnico sala Mon Live Estadio Riyadh Air Metropolitano sala Nazca sala Clamores Teatro Eslava Ifema Teatro Circo Price The Lenovo Garage, Autocine sala Siroco sala Independance Club sala Wurlitzer Ballroom Fun House sala Café Berlin Sala Changó sala Galileo Galilei sala Joy Eslava sala Moby Dick sala Shoko sala Vesta Teatro La Latina Otros Conciertos en Madrid Beth Orton Sala Villanos, Madrid lunes 16 de noviembre de 2026 ver entradas Homer El Mero Mero Sala Copérnic"
+ },
+ "https://www.laganzua.net/conciertos/salas-conciertos/sala-lab-wagon": {
+  "status": 200,
+  "final": "https://www.laganzua.net/error.php",
+  "len": 17472,
+  "ctype": "text/html; charset=UTF-8",
   "generator": [],
   "ldtypes": [],
   "ldcount": 0,
   "feeds": [],
   "hints": [],
-  "text": ""
+  "text": " Página no encontrada | La Ganzua La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; Página no encontrada PÁGINA NO ENCONTRADA LO SENTIMOS, LA P&Aacute;GINA QUE BUSCAS YA NO EST&Aacute; EN LA GANZ&Uacute;A Despu&eacute;s de cumplir m&aacute;s de 20 a&ntilde;os en la red, algunas p&aacute;ginas se han independizado y habitan otros espacios de La Ganz&uacute;a. Otras est&aacute;n okupando otras webs (si vienes desde alg&uacute;n link externo) y otras... vuelven por Navidad o cuando Google quiere... No te preocupes, todav&iacute;a hay miles de p&aacute;ginas conviviendo en esta web y que puedes visitar; ser&aacute;s bienvenid@. más en La Ganzúa actualidad laganzua.net &copy; copyright 2001-2026 gestión y desarrollo: Amplitude &nbsp; Noticias Agenda de Conciertos Festivales de Música Crónicas de Conciertos &nbsp; Críticas de Discos Entrevistas Especiales Foro &nbsp; publicidad y promoción contacto mapa web créditos protección de datos &nbsp; laganzua.net &copy; copyright 2001-2026 gestión y desarrollo Amplitude contacto publicidad créditos mapa web protección de datos "
+ },
+ "https://www.laganzua.net/conciertos/salas-conciertos/sala-mon-live": {
+  "status": 200,
+  "final": "https://www.laganzua.net/conciertos/salas-conciertos/sala-mon-live",
+  "len": 91635,
+  "ctype": "text/html; charset=UTF-8",
+  "generator": [],
+  "ldtypes": [
+   "MusicEvent",
+   "MusicEvent",
+   "MusicEvent",
+   "MusicEvent",
+   "MusicEvent"
+  ],
+  "ldcount": 10,
+  "feeds": [
+   "https://www.laganzua.net/conciertos/feed.php"
+  ],
+  "hints": [
+   "Fever",
+   "Ticketmaster"
+  ],
+  "text": " Sala Mon Live La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; conciertos &gt; salas de conciertos &gt; sala Mon Live sala Mon Live - Conciertos Artista: Blutengel + Psideralic Fecha: sábado 13 de febrero de 2027 Sala: Sala Mon Live Localidad: Madrid compra tu entrada Próximos Conciertos en sala Mon Live Concierto de Airbag en Madrid viernes 20 de noviembre de 2026 Madrid Sala Mon Live Precio: 24.20 entradas Concierto de Airbag - Segunda Fecha Madrid en Madrid sábado 21 de noviembre de 2026 Madrid Sala Mon Live Precio: 24.20 entradas Concierto de Catupecu Machu en Madrid viernes 27 de noviembre de 2026 Madrid Sala Mon Live Precio: 38.99 entradas Concierto de Avalanch en Madrid viernes 29 de enero de 2027 Madrid Sala Mon Live Concierto de Lewis Potter en Madrid viernes 5 de febrero de 2027 Madrid Sala Mon Live Precio: 22.00 entradas Concierto de Blutengel + Psideralic en Madrid sábado 13 de febrero de 2027 Madrid Sala Mon Live Precio: 40.30 entradas Concierto de Dirty Honey en Madrid viernes 26 de febrero de 2027 Madrid Sala Mon Live Precio: 28.00 entradas Concierto de Julia Jacklin en Madrid martes 2 de marzo de 2027 Madrid Sala Mon Live Precio: 31.50 entradas Concierto de Foyone en Madrid sábado 6 de marzo de 2027 Mad"
+ },
+ "https://www.laganzua.net/conciertos/salas-conciertos/sala-uni": {
+  "status": 200,
+  "final": "https://www.laganzua.net/error.php",
+  "len": 17472,
+  "ctype": "text/html; charset=UTF-8",
+  "generator": [],
+  "ldtypes": [],
+  "ldcount": 0,
+  "feeds": [],
+  "hints": [],
+  "text": " Página no encontrada | La Ganzua La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; Página no encontrada PÁGINA NO ENCONTRADA LO SENTIMOS, LA P&Aacute;GINA QUE BUSCAS YA NO EST&Aacute; EN LA GANZ&Uacute;A Despu&eacute;s de cumplir m&aacute;s de 20 a&ntilde;os en la red, algunas p&aacute;ginas se han independizado y habitan otros espacios de La Ganz&uacute;a. Otras est&aacute;n okupando otras webs (si vienes desde alg&uacute;n link externo) y otras... vuelven por Navidad o cuando Google quiere... No te preocupes, todav&iacute;a hay miles de p&aacute;ginas conviviendo en esta web y que puedes visitar; ser&aacute;s bienvenid@. más en La Ganzúa actualidad laganzua.net &copy; copyright 2001-2026 gestión y desarrollo: Amplitude &nbsp; Noticias Agenda de Conciertos Festivales de Música Crónicas de Conciertos &nbsp; Críticas de Discos Entrevistas Especiales Foro &nbsp; publicidad y promoción contacto mapa web créditos protección de datos &nbsp; laganzua.net &copy; copyright 2001-2026 gestión y desarrollo Amplitude contacto publicidad créditos mapa web protección de datos "
+ },
+ "https://www.laganzua.net/conciertos/salas-conciertos/": {
+  "status": 200,
+  "final": "https://www.laganzua.net/conciertos/salas-conciertos/",
+  "len": 66202,
+  "ctype": "text/html; charset=UTF-8",
+  "generator": [],
+  "ldtypes": [],
+  "ldcount": 0,
+  "feeds": [
+   "https://www.laganzua.net/conciertos/feed.php"
+  ],
+  "hints": [
+   "Fever",
+   "fever"
+  ],
+  "text": " Salas de Conciertos en España La Ganzua Revista de Música Independiente 16-11-2026 PORTADA NOTICIAS AGENDA CONCIERTOS CONCIERTOS DESTACADOS AGENDA DE CONCIERTOS CONCIERTOS GRATUITOS SALAS DE CONCIERTOS FESTIVALES CRÓNICAS CONCIERTOS DISCOS DISCOS POP DISCOS ROCK / METAL DISCOS HIPHOP / VARIOS ENTREVISTAS ESPECIALES FORO laganzua.net &gt; conciertos &gt; salas de conciertos en España Salas de conciertos en España Encuentra salas de conciertos en España por comunidad autónoma y ciudad. Descubre sus próximos conciertos, consulta dónde disfrutar de la música en directo y encuentra entradas para tus próximos eventos. Selecciona Salas por Comunidad Autónoma Madrid Cataluña Andalucia Valencia Euskadi Galicia Castilla Leon Aragon Murcia Navarra Asturias Cantabria Castilla La Mancha Canarias La Rioja Baleares COMUNIDAD AUTÓNOMA Madrid Madrid Sala Movistar Arena sala La Riviera sala El Sol Palacio Vistalegre sala BUT Sala Villanos Live las Ventas Sala Wagon sala Copérnico sala Mon Live Estadio Riyadh Air Metropolitano sala Nazca Movistar Arena, La Sala sala Clamores Teatro Eslava Ifema Teatro Circo Price sala Siroco The Lenovo Garage, Autocine sala Independance Club Sala Lula Club sala Wurlitzer Ballroom Fun House sala Café Berlin Sala Changó sala Galileo Galilei sala Joy Eslava sala Moby Dick sala Shoko sala Vesta Teatro La Latina COMUNIDAD AUTÓNOMA Cataluña Barcelona Palau Sant Jordi sala Apolo sala Razzmatazz 2 sala Razzmatazz 1 Sala Paral·lel 62 Sant Jordi Club sala Wolf Estadi Ol"
+ },
+ "https://cadavraclub.com/live": {
+  "status": 404,
+  "final": "https://cadavraclub.com/live",
+  "len": 20,
+  "ctype": "text/html; charset=UTF-8",
+  "generator": [],
+  "ldtypes": [],
+  "ldcount": 0,
+  "feeds": [],
+  "hints": [],
+  "text": "Página no encontrada"
  }
 }

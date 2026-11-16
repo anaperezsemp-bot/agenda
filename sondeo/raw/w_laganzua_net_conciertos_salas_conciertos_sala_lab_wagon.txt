@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="es-ES" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=5.0" />
+<meta name="robots" content="noindex, follow">
+<title>Página no encontrada | La Ganzua</title>
+<meta name=description content="Página no encontrada en La Ganzua">
+<meta name="theme-color" content="#933">
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="https://www.laganzua.net/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.laganzua.net/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.laganzua.net/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="48x48" href="https://www.laganzua.net/favicon-48x48.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://www.laganzua.net/favicon-192x192.png">
+<link rel="apple-touch-icon" type="image/png" sizes="167x167" href="https://www.laganzua.net/favicon-167x167.png">
+<link rel="apple-touch-icon" type="image/png" sizes="180x180" href="https://www.laganzua.net/favicon-180x180.png">
+<style>
+#cuerpo,.menu li a:hover{background-color:#fafafa}#capamadre,#cuerpo,#titulares{margin:0 auto}.subnav-content a,a{text-decoration:none}#header,*,body,html{margin:0;padding:0}#cuerpo,.flechita,.nav{overflow:hidden}.bannertop{width:100%;height:100px}body,html{width:100%;text-align:center;font-family:Arial,Helvetica Neue,Verdana,sans-serif;background:url(/imagenes/backg.jpg) repeat-x #2d3335}#capamadre{padding-top:0;z-index:1060;position:relative;height:automin-height:100%}#header{position:relative;left:0;width:100%;background-color:#000}.screen-reader-text{clip: rect(1px, 1px, 1px, 1px);word-wrap: normal !important;border:0;-webkit-clip-path:inset(50%);clip-path: inset(50%);height: 1px;margin: -1px;overflow: hidden;padding: 0;position: absolute;width:1px;font-size: 0.9em}.screen-reader-text:focus {clip: auto !important;background-color: #000;-webkit-clip-path: none;clip-path: none;color: #444;display: block;font-size: 0.9em;height: auto;left: 5px;line-height: normal;padding: 15px 23px 14px;text-decoration: none;top: 5px;width: auto;z-index: 100000;}#titulares hr,hr{border:0;height:1px;color:#b4bfcb;background-color:#b4bfcb}.cabeceratop{float:right;text-align:right;color:#ccc}#breadcrumb,#titulares li,.logo,.nav,.parrafo,.subnav-content a{text-align:left}.logo{float:left}.buscartop,.buscartopmv{margin-top:5px}.buscartop input[type=search],.buscartopmv input[type=search]{float:left;width:80%;height:30px;background-color:transparent;font-size:1.1em;font-weight:500;text-align:right;padding:5px;border-bottom:1px solid #8ba2a9;border-top:none;border-left:none;border-right:none;outline:0}.buscartop input[type=text]:focus,.buscartopmv input[type=text]:focus{width:80%;height:30px;text-align:left;border-bottom:1px solid #fafafa;border-top:none;border-left:none;border-right:none}.buscartop input[type=submit],.buscartopmv input[type=submit]{background:url(/imagenes/lupa.png) 10px 6px no-repeat #8ba2a9;border:0;color:#000;width:auto;height:30px;padding:6px 6px 6px 35px}#navegaciontop{clear:both;padding-top:2px;background-color:#f96}.flechita{background-repeat:no-repeat;background-color:#933;background-image:url(/imagenes/menuflechitaporfotos.gif);height:8px}.nav{width:100%;height:100%;position:sticky;background-color:#transparent;max-height:0;transition:max-height .5s ease-out}.hamb-line,.menu li a{background-color:#fff}.nav ul{list-style:none;border-bottom:1px solid #e0e0e0}.menu a{display:block;padding:10px;color:#000}.menu a:hover{background-color:transparent}.menu li{font-weight:600}.menu li a{color:#000;border-top:1px solid #e0e0e0;font-size:1em}.menu li a:hover{color:#933}.hamb{cursor:pointer;padding:20px;display:inline-block}.hamb-line,.subnav:hover .subnav-content{display:block}.hamb-line{height:2px;position:relative;width:24px}.hamb-line::after,.hamb-line::before{background-color:#fff;content:'';display:block;height:100%;position:absolute;transition:.2s ease-out;width:100%}.hamb-line::before{top:5px}.hamb-line::after{top:-5px}.side-menu{display:none}.side-menu:checked~nav{max-height:100%}.side-menu:checked~.hamb .hamb-line{background:0 0}.side-menu:checked~.hamb .hamb-line::before{transform:rotate(-45deg);top:0}.side-menu:checked~.hamb .hamb-line::after{transform:rotate(45deg);top:0}.subnav-content{background-color:fff;width:100%;z-index:100;opacity:.9;font-weight:500}.subnav-content a{color:#000;padding-top:10px;padding-bottom:10px;padding-left:20px}#encabezadonoticias{background-color:#8ba2a9;border-top:1px solid #000;border-bottom:1px solid #000}#breadcrumb{color:#000}a{color:#fff}#ultimasnoticias{margin-top:0;width:100%;background-color:#933;border-bottom:1px solid #000;overflow:auto}#ultimasnoticias h1{font-size:1.15em;color:#fafafa;font-weight:700}#portada{padding-top:20px;padding-bottom:20px}#bloquenoticiasdestacadas{margin:0 auto;padding-top:40px;width:95%}.parrafo{padding-left:10px;padding-bottom:15px;line-height:1.8em;font-size:1.2em}.masenlaganzua a,.rojo{color:#933}#titulares{padding-top:5px;background-color:#f7fcfe;height:auto;border-left:1px solid #b6c3c7;font-size:1em;line-height:1.5em;color:#6e6e6e}#titulares a{color:#6a7b80}#titulares a:hover{text-decoration:underline;-moz-text-decoration-color:#933;text-decoration-color:#933}#titulares li{list-style:none;color:#000;padding:2px 15px 30px 20px;font-size:.95em;line-height:1.5em}.masenlaganzua{padding-top:10px;padding-bottom:10px;text-align:center}.azuloscuro{color:#6a7b80}@media screen and (min-device-width :741px){.cabeceratop,.logo{margin-top:10px;height:auto}#cuerpo,.nav,.subnav-content{position:relative}#cuerpo,#pie{clear:both;width:100%}#cuerpo,#menub,#pie{width:100%}#menub,.menu a{padding-top:5px;color:#000}.menu li a,.nav{background-color:transparent}#breadcrumb,#portada,.menu li,.nav{float:left}#menub,#pie,#ultimasnoticias,.bordeli a{text-align:left}#pie p,.nav{padding-left:5px}#menub{background-color:#fafafa;height:40px;border-bottom:1px solid #000;margin:0 auto}.nav{max-height:none;top:0;width:fit-content;overflow:visible}.menu li a{font-size:.8em;border:1px solid #fafafa}.subnav-content{display:none;z-index:100;width:200px;left:0;background-color:#fff;opacity:.9}.subnav-content a{color:#000;text-align:left;padding-left:5px}.subnav-content a:hover{background-color:#f0f0f0;color:#000}.bordeli a{display:block;border-left:3px solid #fff;padding-top:10px;padding-bottom:10px}.bordeli a:hover{border-left:3px solid #933}#piemovil,.buscartopmv,.hamb{display:none}#capamadre{min-width:1104px;width:1104px}#header{height:106px}.logo{width:25%;margin-left:10px}.cabeceratop{width:63%;padding-right:10px}.buscartop{float:right;background-color:transparent;width:38%;margin-left:5px;margin-right:5px;margin-top:21px}.buscartop input[type=search]{color:#fafafa}.publicidadlateral{max-width:300px}#navegaciontop{height:54px}.flechita{background-position:650px 0}#portada{width:770px}#encabezadonoticias{height:30px}#breadcrumb{float:left;width:60%;padding:10px;font-size:90%}#ultimasnoticias{padding:10px 10px 10px 100px}#titulares{float:right;width:330px}#bloquenoticiasdestacadas{width:85%}#pie{font-size:.8em;height:155px;background-color:#000;color:#f96}#pie p{line-height:1.6em}#pie a:hover{text-decoration:underline;color:#bfbfbf}#pie a:visited{color:#ccc}}@media screen and (max-width:740px){#ultimasnoticias,.publicidad{text-align:center}#breadcrumb,#dia{font-size:80%}#piemovil{font-size:90%}#cuerpo a,#piemovil a:visited{text-decoration:none}#menub{position:relative;bottom:80px;text-align:right;z-index:100}.menub{background-color:none}#header{height:82px;margin-top:0;padding-top:0}.cabeceratop{width:25%;height:100%;padding-right:10px}#pie,.buscartop{display:none}.buscartopmv{background-color:#f0f0f0;width:100%;height:30px}.buscartopmv input[type=search]{color:#000}#navegaciontop{height:8px}.flechita{background-position:20px 0}#encabezadonoticias{height:30px}#breadcrumb{width:100%;padding-left:5px}#ultimasnoticias{padding-top:5px;padding-bottom:5px;height:auto}#portada{padding-top:5px}h1{font-size:1.1em;line-height:1.3em}#bloquenoticiasdestacadas{width:96%}#bloquenoticiasdestacadas h3{font-size:90%}#titulares{width:96%;border:none}#piemovil{width:100%;height:auto;background-color:#000;color:#fff;text-align:left;font-weight:400;padding:5px}#piemovil p{line-height:2em;padding-left:7px}#piemovil a:hover{color:#fff;text-decoration:underline}#piemovil a:visited{color:#ccc}}@media screen and (max-width:568px){#bloquenoticiasdestacadas{width:90%}#bloquenoticiasdestacadas img{max-width:100%; height:auto}.masenlaganzua{font-size:1.1em}}@media screen and (max-device-width :480px){#encabezadonoticias{height:30px}#breadcrumb{padding-bottom:5px}}
+</style>
+</head>
+<body>
+<div id="capamadre">
+<div id="header">
+<div class="logo"><a href="https://www.laganzua.net/"><img src="/imagenes/logoganzua2024.png" width="169" height="79" alt="laganzua.net: revista de música independiente" title="laganzua.net: revista de música independiente"/></a></div>
+<div class="cabeceratop">
+<div id="header-text" class="screen-reader-text">
+<span id="site-title">
+<a href="https://www.laganzua.net/" title="La Ganzua">La Ganzua</a>
+</span>
+<p id="site-description">Revista de Música Independiente</p>
+</div>
+<div id="dia">
+16-11-2026<a name="top" id="top"></a>
+</div>
+<div class="buscartop">
+<form method="GET" action="busqueda.php" target="_top">
+<input name="q" type="search" aria-label="Buscar" required/>
+<input type="submit" aria-label="Buscar" value=''>
+</form>
+</div>
+</div>
+</div>
+<div id="navegaciontop">
+<div class="flechita"></div>
+<div id="menub" class="menub">
+<input class="side-menu" type="checkbox" id="side-menu"/>
+<label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
+<nav class="nav">
+<ul class="menu">
+<li><a href="https://www.laganzua.net/">PORTADA</a></li>
+<li><a  href="https://www.laganzua.net/noticias/">NOTICIAS</a></li>
+<li class="subnav">
+<p class="subnavbtn"><a  href="https://www.laganzua.net/conciertos/">AGENDA CONCIERTOS <img width="12" height="6" class="fdown" src="/imagenes/fdown.png" alt="Conciertos"/></a></p>
+<div class="subnav-content">
+<p class="bordeli"><a href="https://www.laganzua.net/conciertos/">CONCIERTOS DESTACADOS</a></p>
+<p class="bordeli"><a href="https://www.laganzua.net/conciertos/agenda-conciertos">AGENDA DE CONCIERTOS</a></p>
+<p class="bordeli"><a href="https://www.laganzua.net/conciertos/conciertos-gratis">CONCIERTOS GRATUITOS</a></p>
+<p class="bordeli"><a href="https://www.laganzua.net/conciertos/salas-conciertos/">SALAS DE CONCIERTOS</a></p>
+</div>
+</li>
+<li><a  href="https://www.laganzua.net/festivales/">FESTIVALES</a></li>
+<li><a  href="https://www.laganzua.net/cronicas-conciertos/">CRÓNICAS CONCIERTOS</a></li>
+<li class="subnav">
+<p class="subnavbtn"><a href="https://www.laganzua.net/discos/">DISCOS <img width="12" height="6" class="fdown" src="/imagenes/fdown.png" alt="Comentarios de Discos"/></a></p>
+<div class="subnav-content">
+<p class="bordeli"><a href="https://www.laganzua.net/discos/discos-pop">DISCOS POP</a></p>
+<p class="bordeli"><a href="https://www.laganzua.net/discos/discos-rock">DISCOS ROCK / METAL</a></p>
+<p class="bordeli"><a href="https://www.laganzua.net/discos/discos-hiphop-mestizaje">DISCOS HIPHOP / VARIOS</a></p>
+</div>
+</li>
+<li><a  href="https://www.laganzua.net/entrevistas/">ENTREVISTAS</a></li>
+<li><a  href="https://www.laganzua.net/especiales/">ESPECIALES</a></li>
+<li><a  href="https://www.laganzua.net/foro_musica/">FORO</a></li>
+<li> <div class="buscartopmv"><form method="GET" action="https://www.laganzua.net/busqueda.php" target="_top">
+<input name="q" type="search" placeholder="Buscar" required autofocus/>
+<input type="submit" aria-label="Buscar" value=''>
+</form>
+</div></li>
+</ul>
+</nav>
+</div>
+</div>
+<div id="cuerpo">
+<div id="encabezadonoticias">
+<div id="breadcrumb">
+<span itemscope itemtype="https://schema.org/BreadcrumbList">
+  <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+    <a itemprop="item" href="https://www.laganzua.net/">
+      <span itemprop="name">laganzua.net</span>
+    </a>
+    <meta itemprop="position" content="1" />
+  </span> &gt;
+  <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+    <span itemprop="name">Página no encontrada</span>
+    <meta itemprop="position" content="2" />
+  </span>
+</span>
+</div>
+</div>
+<div id="ultimasnoticias">
+<h1>PÁGINA NO ENCONTRADA</h1>
+</div>
+<div id="portada">
+<div id="bloquenoticiasdestacadas">
+<div style="width:100%; background-color:#000"><img src="/imagenes/404error.jpg" width="450" height="300" alt="Página No Encontrada"/></div>
+<p class="parrafo"><strong>LO SENTIMOS, LA P&Aacute;GINA QUE BUSCAS YA NO EST&Aacute; EN LA GANZ&Uacute;A</strong></p>
+<p class="parrafo">Despu&eacute;s de cumplir m&aacute;s de 20 a&ntilde;os en la red, algunas p&aacute;ginas se han independizado y habitan otros espacios de La Ganz&uacute;a. Otras est&aacute;n okupando otras webs (si vienes desde alg&uacute;n link externo) y otras... vuelven por Navidad o cuando Google quiere...</p>
+<p class="parrafo">No te preocupes, todav&iacute;a hay miles de p&aacute;ginas conviviendo en esta web y que puedes visitar; ser&aacute;s bienvenid@.</p>
+<div style="clear:both; height:0"></div>  
+</div>
+</div>
+<div id="titulares">
+<p class="masenlaganzua"><span class="azuloscuro"><strong>más en La Ganzúa</strong><img loading="lazy" src="/cronicas-conciertos/imagenes/barritatitulares.gif" alt="titulares" width="48" height="6"></span></p>
+<hr><br>
+<br>  
+<p class="masenlaganzua"><a href="https://www.laganzua.net/noticias/" title="noticias de música independiente"><strong>actualidad</strong></a></p>
+<hr>
+</div>
+</div>  
+<div id="pie">
+<div style="float:left; width:250px; margin-right:10px;border-right:1px solid #993333; height:150px;">
+<p><img src="/imagenes/logovacio.jpg" width="50" height="49"  alt="La Ganzua: revista de música independiente"/><a href="https://www.laganzua.net/">laganzua.net</a></p>
+<p>&copy; copyright 2001-2026</p>
+<p>gestión y desarrollo: <a href="http://www.amplitude.es" target="_blank" title="Diseño Web en Galicia">Amplitude</a></p>
+</div>
+<div style="float:left; width:240px; margin-right:10px;border-right:1px solid #993333; height:150px;">
+<p>&nbsp;</p>
+<p><a href="https://www.laganzua.net/noticias/">Noticias</a></p>
+<p><a href="https://www.laganzua.net/conciertos/">Agenda de Conciertos</a></p>
+<p><a href="https://www.laganzua.net/festivales/">Festivales de Música</a></p>
+<p><a href="https://www.laganzua.net/cronicas-conciertos/">Crónicas de Conciertos</a></p>
+</div>
+<div style="float:left; width:190px; margin-right:10px;border-right:1px solid #993333; height:150px;">
+<p>&nbsp;</p>
+<p><a href="https://www.laganzua.net/discos/">Críticas de Discos</a></p>
+<p><a href="https://www.laganzua.net/entrevistas/">Entrevistas</a></p>
+<p><a href="https://www.laganzua.net/especiales/">Especiales</a></p>
+<p><a href="https://www.laganzua.net/foro_musica/">Foro</a></p>
+</div>
+<div style="float:left; width:180px; margin-right:10px;border-right:1px solid #993333; height:150px;">
+<p>&nbsp;</p>
+<p><a href="https://www.laganzua.net/publicidad/">publicidad y promoción</a></p>
+<p><a href="https://www.laganzua.net/contacto/">contacto</a></p>
+<p><a href="https://www.laganzua.net/mapa/">mapa web</a></p>
+<p><a href="https://www.laganzua.net/creditos/">créditos</a></p>
+<p><a href="https://www.laganzua.net/privacidad.php">protección de datos</a></p>
+<p>&nbsp;</p>
+</div>
+<div style="float:left; width:140px; margin-right:2px; margin-top:5px;">
+<p><a href="https://www.facebook.com/laganzua/" target="_blank"><img style="border:0px;" src="/imagenes/facebooklaganzua.gif"  alt="La Ganzua en Facebook
+" width="30" height="30" title="La Ganzua en Facebook"/></a> <a href="https://twitter.com/laganzuaweb/" target="_blank"><img style="border:0px;" src="/imagenes/twitterlaganzua.gif"  alt="La Ganzua en Twitter
+" width="30" height="30" title="La Ganzua en Twitter"/></a> <a href="https://www.instagram.com/laganzuarevista/" target="_blank"><img style="border:0px;" src="/imagenes/instagramlaganzua.png"  alt="La Ganzua en Instagram" width="30" height="30" title="La Ganzua en Instagram"/></a></p>
+<p><a href="https://www.youtube.com/user/laganzuarevista" target="_blank"><img style="border:0px;" src="/imagenes/youtubelaganzua.gif"  alt="La Ganzua en Youtube" width="30" height="30" title="La Ganzua en Youtube"/></a> </p>
+</div>
+<a href="#top"><img src="/imagenes/flechatop.png" width="30" height="30"  alt="Volver Arriba"/></a> </div>  
+<div id="piemovil">
+<p align="right" style="margin-right:10px;"><a href="#top"><img src="/imagenes/flechatop.png" width="30" height="30"  alt="Volver Arriba"/></a></p>
+<p><a href="https://www.laganzua.net/">laganzua.net</a> &copy; copyright 2001-2026</p>
+<p>gestión y desarrollo <a href="http://www.amplitude.es/" title="Amplitude Diseño Web en Galicia">Amplitude</a></p>
+<p><a href="https://www.laganzua.net/contacto/" title="Contactar con La Ganzua">contacto</a></p>
+<p><a href="https://www.laganzua.net/publicidad/" title="Insertar Publicidad en La Ganzua">publicidad</a></p>
+<p><a href="https://www.laganzua.net/creditos/" title="Equipo de La Ganzua">créditos</a></p>
+<p><a href="https://www.laganzua.net/mapa/" title="Mapa Web">mapa web</a></p>
+<p><a href="https://www.laganzua.net/privacidad.php">protección de datos</a></p>
+</div>
+</div>
+</body>
+</html>
