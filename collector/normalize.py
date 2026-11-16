@@ -134,3 +134,15 @@ def generos_y_titulo(titulo, etiquetas):
         if clave in GENEROS:
             generos.append(GENEROS[clave])
     return titulo, list(dict.fromkeys(generos))  # sin repetidos, en orden
+
+
+_MARCA_AGOTADO = re.compile(
+    r"\s*(?:[-–—:|]\s*)?[(\[]?\s*(?:entradas\s+)?(?:agotad[oa]s?|sold\s*out|completo)\s*[)\]]?\s*[!.]*\s*$",
+    re.IGNORECASE,
+)
+
+
+def quitar_agotado(titulo):
+    """'Grupo (Sold Out)' -> ('Grupo', True). La marca se quita del nombre y pasa al estado."""
+    limpio = _MARCA_AGOTADO.sub("", titulo).strip()
+    return (limpio, True) if limpio and limpio != titulo.strip() else (titulo, False)

@@ -87,3 +87,25 @@ def test_escuchar(tmp_path):
     # segunda ejecución: todo sale de la caché
     escuchar.enriquecer([{"titulo": "Hinds"}], cache, get_json, HOY, dormir=lambda s: None)
     assert llamadas == ["Hinds", "Nadie + Otro", "Nadie"]
+
+
+def test_quitar_agotado():
+    from normalize import quitar_agotado
+    assert quitar_agotado("Arde Bogotá (Sold Out)") == ("Arde Bogotá", True)
+    assert quitar_agotado("CARLES BENAVENT TRÍO – ENTRADAS AGOTADAS") == ("CARLES BENAVENT TRÍO", True)
+    assert quitar_agotado("Editors + Big Sleep (Sold Out)") == ("Editors + Big Sleep", True)
+    assert quitar_agotado("Los Completos") == ("Los Completos", False)
+    assert quitar_agotado("Completo") == ("Completo", False)
+
+
+def test_escuchar_ciclo(tmp_path):
+    import escuchar
+    llamadas = []
+    def get_json(url, params):
+        llamadas.append(params["term"])
+        if params["term"] == "CARLES BENAVENT TRÍO":
+            return {"results": [{"artistName": "Carles Benavent Trío", "previewUrl": "https://a/c.m4a"}]}
+        return {"results": []}
+    c = [{"titulo": "Jazz con Sabor A Club 2026: CARLES BENAVENT TRÍO"}]
+    escuchar.enriquecer(c, tmp_path / "c.json", get_json, HOY, dormir=lambda s: None)
+    assert c[0]["audio"] == "https://a/c.m4a"

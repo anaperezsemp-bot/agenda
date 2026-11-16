@@ -13,7 +13,7 @@ import requests
 import yaml
 
 import escuchar
-from normalize import generos_y_titulo, id_concierto
+from normalize import generos_y_titulo, id_concierto, quitar_agotado
 from sources import jsonld, rss, tec
 
 AQUI = Path(__file__).resolve().parent
@@ -94,8 +94,10 @@ def main():
                 continue  # p. ej. sesiones de DJ en salas que mezclan conciertos y club
             if incluir and not incluir & {g.lower() for g in ev["generos"]}:
                 continue  # p. ej. exposiciones o presentaciones de libros
-            titulo, generos = generos_y_titulo(ev["titulo"], ev["generos"])
-            ev = dict(ev, titulo=titulo, generos=generos, categorias=ev["generos"])
+            titulo, marcado = quitar_agotado(ev["titulo"])
+            titulo, generos = generos_y_titulo(titulo, ev["generos"])
+            ev = dict(ev, titulo=titulo, generos=generos, categorias=ev["generos"],
+                      agotado=ev["agotado"] or marcado)
             c = dict(ev, sala=sala["id"], fecha=ev["fecha"].isoformat())
             c["id"] = id_concierto(sala["id"], ev["fecha"], ev["titulo"])
             nuevos.append(c)

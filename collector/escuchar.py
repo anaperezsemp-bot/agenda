@@ -44,8 +44,11 @@ def enriquecer(conciertos, cache_path, get_json, hoy=None, dormir=time.sleep):
     cache = json.loads(cache_path.read_text(encoding="utf-8")) if cache_path.exists() else {}
     hechas = 0
     for c in conciertos:
-        # Primero el título entero; si no aparece, el primer grupo del cartel.
-        candidatos = list(dict.fromkeys(n for n in (c["titulo"], cabeza_de_cartel(c["titulo"])) if slug(n)))
+        # Primero el título entero; si no aparece, el primer grupo del cartel; y si el título
+        # empieza por el nombre de un ciclo ("Ciclo 2026: Grupo"), lo que va tras los dos puntos.
+        tras_ciclo = c["titulo"].split(":", 1)[1] if ":" in c["titulo"] else ""
+        candidatos = [c["titulo"], cabeza_de_cartel(c["titulo"]), tras_ciclo.strip(), cabeza_de_cartel(tras_ciclo)]
+        candidatos = list(dict.fromkeys(n for n in candidatos if slug(n)))
         for nombre in candidatos:
             clave = slug(nombre)
             guardado = cache.get(clave)
