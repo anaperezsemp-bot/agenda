@@ -63,6 +63,7 @@
           <p>Muestra de «${esc(c.cancion || "")}» · ${c.enlace_audio ? `<a href="${esc(c.enlace_audio)}" target="_blank" rel="noopener">Apple Music</a>` : "Apple Music"}</p></div>` : ""}
         ${c.descripcion ? `<p class="descripcion">${esc(c.descripcion)}</p>` : ""}
         <div class="enlaces">
+          ${Cuenta.activa ? `<button class="btn btn-voy" id="voy" type="button" aria-pressed="false">Voy a ir</button>` : ""}
           <a class="btn" href="https://www.youtube.com/results?search_query=${q}" target="_blank" rel="noopener">Ver en YouTube</a>
           <a class="btn" href="https://open.spotify.com/search/${q}" target="_blank" rel="noopener">Escuchar en Spotify</a>
           <a class="btn" href="https://bandcamp.com/search?q=${q}" target="_blank" rel="noopener">Bandcamp</a>
@@ -77,6 +78,38 @@
             ? `<a href="${esc(c.url_entradas)}" target="_blank" rel="noopener">Comprar entradas</a>`
             : `<span>Venta en taquilla</span>`
       }</div>`);
+    prepararVoy(c);
+  }
+
+  // "Voy a ir": sin sesión, lleva a la página de cuenta para entrar.
+  async function prepararVoy(c) {
+    const boton = document.getElementById("voy");
+    if (!boton) return;
+    const usuario = await Cuenta.usuario().catch(() => null);
+    let voy = false;
+    if (usuario) {
+      const lista = await Cuenta.voyLista().catch(() => []);
+      voy = lista.some((v) => v.concierto_id === c.id);
+    }
+    const marcar = () => {
+      boton.setAttribute("aria-pressed", String(voy));
+      boton.textContent = voy ? "✓ Vas a ir" : "Voy a ir";
+    };
+    marcar();
+    boton.addEventListener("click", async () => {
+      if (!usuario) {
+        location.href = "cuenta.html";
+        return;
+      }
+      boton.disabled = true;
+      try {
+        await Cuenta.marcarVoy(c, !voy);
+        voy = !voy;
+        marcar();
+      } finally {
+        boton.disabled = false;
+      }
+    });
   }
 
   iniciar();

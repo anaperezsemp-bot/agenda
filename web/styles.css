@@ -192,3 +192,23 @@ dialog.filtros::backdrop { background: rgb(0 0 0 / 0.45); }
 .comprar a { background: var(--accent); color: var(--accent-text); }
 .comprar span { background: var(--chip); color: var(--muted); }
 footer.pie { max-width: 960px; margin: 0 auto; padding: 0 16px 32px; color: var(--muted); font-size: 13px; }
+
+/* Cuenta */
+.cuenta h2 { font-size: 16px; margin: 20px 0 8px; }
+.form-cuenta { display: flex; flex-direction: column; gap: 12px; margin: 16px 0; }
+.form-cuenta label { display: flex; flex-direction: column; gap: 6px; font-size: 14px; color: var(--muted); }
+.form-cuenta input {
+  font: inherit; color: var(--text); background: var(--surface);
+  border: 1px solid var(--line); border-radius: 8px; padding: 12px; min-height: 44px;
+}
+.nota { color: var(--muted); font-size: 14px; }
+.aviso { background: var(--chip); border-radius: var(--radius); padding: 12px 14px; }
+.voy-lista { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.bloque { margin-bottom: 8px; }
+.tag-voy {
+  display: inline-block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em;
+  color: var(--accent-text); background: var(--accent); border-radius: 6px; padding: 1px 6px;
+}
+.btn-voy[aria-pressed="true"] { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
+.top-acciones { display: flex; gap: 8px; }
+a.btn { text-decoration: none; display: inline-flex; align-items: center; }

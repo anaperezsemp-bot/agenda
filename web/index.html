@@ -12,7 +12,10 @@
   <header class="top" id="top">
     <div class="top-row">
       <h1>Agenda</h1>
-      <button class="btn" id="abrir-filtros" type="button">Filtros<span class="badge" id="n-filtros" hidden></span></button>
+      <div class="top-acciones">
+        <a class="btn" id="mi-cuenta" href="cuenta.html" hidden>Mi cuenta</a>
+        <button class="btn" id="abrir-filtros" type="button">Filtros<span class="badge" id="n-filtros" hidden></span></button>
+      </div>
     </div>
     <nav class="days" id="dias" aria-label="Elegir día"></nav>
     <div class="chips" id="chips"></div>
@@ -28,6 +31,10 @@
         <button class="btn" value="cerrar" type="submit" aria-label="Cerrar">✕</button>
       </header>
       <div class="cuerpo">
+        <fieldset id="fs-mios" hidden>
+          <legend>Para mí</legend>
+          <label class="switch"><input type="checkbox" name="mios" value="1"> Solo mis salas y géneros favoritos</label>
+        </fieldset>
         <fieldset>
           <legend>Fecha</legend>
           <div class="fila">
@@ -70,7 +77,9 @@
     </form>
   </dialog>
 
+  <script src="config.js"></script>
   <script src="comun.js"></script>
+  <script src="cuenta.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

@@ -20,3 +20,13 @@ python -m http.server -d web 8000   # y abrir http://localhost:8000
 
 1. Añadir una entrada en `collector/venues.yaml` con `fuente: tec`, `rss` o `jsonld`.
 2. Si la sala necesita un lector nuevo, crear `collector/sources/<nombre>.py` con una función `leer(sala, get, hoy)` que devuelva la lista de conciertos, y registrarlo en `LECTORES` de `collect.py`.
+
+## Cuentas (Supabase)
+
+Las cuentas son opcionales: si `web/config.js` está vacío, la web funciona sin ellas.
+
+1. Crear un proyecto en Supabase y ejecutar `supabase/schema.sql` en su SQL Editor.
+2. Copiar la Project URL y la clave anon/publishable en `web/config.js`.
+3. En Authentication → URL Configuration, añadir la dirección de la web (y la de pruebas) como Site URL y Redirect URLs.
+
+Cada persona guarda sus salas y géneros favoritos (`perfiles`) y los conciertos a los que va (`voy`). Las reglas de seguridad de `schema.sql` hacen que cada una solo vea y cambie sus propias filas.
