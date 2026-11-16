@@ -147,3 +147,35 @@ def test_html():
     assert (primero["precio_min"], primero["precio_max"]) == (18, 21)
     assert primero["generos"] == ["americana", "folk", "country"]
     assert primero["url_entradas"].startswith("https://mutick.com/")
+
+
+def test_manual():
+    import manual
+    salas = [{"id": "fun-house", "nombre": "Fun House", "barrio": "Chamberí"}]
+    hoja = (
+        "Grupo,Fecha,Hora,Sala,Barrio,Precio,Agotado,Entradas,Géneros\n"
+        "Los Nuevos,20/10/2026,21,Fun House,,12,no,https://e/1,\"Rock, Garage\"\n"
+        "Otra Banda,2026-10-25,20:30,Sala Rara,Lavapiés,gratis,,,\n"
+        "Pasado,01/01/2020,20:00,Fun House,,,,,\n"
+        "Sin fecha,,,Fun House,,,,,\n"
+    )
+    nuevos, errores = manual.conciertos_nuevos(hoja, salas, HOY)
+    assert [c["titulo"] for c in nuevos] == ["Los Nuevos", "Otra Banda"]
+    a, b = nuevos
+    assert a["sala"] == "fun-house" and a["fecha"] == "2026-10-20" and a["hora"] == "21:00"
+    assert a["precio_min"] == 12 and a["agotado"] is False and a["generos"] == ["Rock", "Garage"]
+    assert b["sala"] == "sala-rara" and b["precio_min"] == 0 and salas[-1]["barrio"] == "Lavapiés"
+    assert len(errores) == 1 and "fila 5" in errores[0]
+
+    conciertos = {a["id"]: dict(a), b["id"]: dict(b)}
+    cambios = (
+        "Enlace,Precio,Agotado,Hora,Ocultar\n"
+        f"https://x.pages.dev/detalle.html?id={a['id']},15 €,sí,,\n"
+        f"https://x.pages.dev/detalle.html?id={b['id']},,,,sí\n"
+        "https://x.pages.dev/detalle.html?id=fun-house-2026-12-01-no-existe,,,,\n"
+    )
+    errores = manual.aplicar_cambios(cambios, conciertos, HOY)
+    assert list(conciertos) == [a["id"]]
+    assert conciertos[a["id"]]["precio_min"] == 15 and conciertos[a["id"]]["agotado"] is True
+    assert conciertos[a["id"]]["hora"] == "21:00"  # celda vacía: no cambia
+    assert len(errores) == 1 and "no-existe" in errores[0]

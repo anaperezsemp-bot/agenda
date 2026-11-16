@@ -13,6 +13,7 @@ import requests
 import yaml
 
 import escuchar
+import manual
 from normalize import generos_y_titulo, id_concierto, quitar_agotado
 from sources import html, jsonld, madridenvivo, rss, tec
 
@@ -112,6 +113,26 @@ def main():
         for c in nuevos:
             conciertos[c["id"]] = c
         informe.append((sala["nombre"], len(nuevos), error))
+
+    # Conciertos y correcciones a mano (hoja de cálculo publicada como CSV).
+    conf = yaml.safe_load((AQUI / "manual.yaml").read_text(encoding="utf-8")) or {}
+    for clave, nombre in (("conciertos_csv", "Conciertos a mano"), ("cambios_csv", "Correcciones a mano")):
+        if not conf.get(clave):
+            continue
+        try:
+            r = sesion.get(conf[clave], timeout=30)
+            r.raise_for_status()
+            r.encoding = "utf-8"
+            if clave == "conciertos_csv":
+                nuevos, errores = manual.conciertos_nuevos(r.text, salas, hoy)
+                for c in nuevos:
+                    conciertos[c["id"]] = c
+                informe.append((nombre, len(nuevos), "; ".join(errores) or None))
+            else:
+                errores = manual.aplicar_cambios(r.text, conciertos, hoy)
+                informe.append((nombre, None, "; ".join(errores) or None))
+        except Exception as e:
+            informe.append((nombre, 0, f"{type(e).__name__}: {e}"))
 
     def get_json(url, params):
         r = sesion.get(url, params=params, timeout=20)
