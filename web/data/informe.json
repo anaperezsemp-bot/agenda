@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T22:12:16+00:00",
+ "generado": "2026-11-17T08:00:14+00:00",
  "salas": [
   {
    "sala": "Café La Palma",
@@ -8,7 +8,7 @@
   },
   {
    "sala": "La Riviera",
-   "conciertos": 92,
+   "conciertos": 91,
    "error": null
   },
   {
