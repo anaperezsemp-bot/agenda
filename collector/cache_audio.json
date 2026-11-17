@@ -559,6 +559,10 @@
 "f": "2026-11-16",
 "r": null
 },
+"codigo-31-zoem-pch-lil-warrona": {
+"f": "2026-11-17",
+"r": null
+},
 "codigo-31-zoem-pch-okami": {
 "f": "2026-11-16",
 "r": null
@@ -1387,6 +1391,14 @@
 "enlace": "https://music.apple.com/es/album/felicidad/40567748?i=40567750&uo=4"
 }
 },
+"la-elite": {
+"f": "2026-11-17",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/d4/18/ecd41818-fb73-5224-7ad3-8657d32be216/mzaf_2524966295547634842.plus.aac.p.m4a",
+"cancion": "A 180 Con Mi Monopatín",
+"enlace": "https://music.apple.com/es/album/a-180-con-mi-monopat%C3%ADn/1867254579?i=1867254875&uo=4"
+}
+},
 "la-jorni": {
 "f": "2026-11-16",
 "r": null
@@ -1425,6 +1437,14 @@
 "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/2d/a6/642da677-ea84-5237-f778-0f0ced11f3d3/mzaf_13088272408466938995.plus.aac.p.m4a",
 "cancion": "Bora Bora",
 "enlace": "https://music.apple.com/es/album/bora-bora/1746300428?i=1746300619&uo=4"
+}
+},
+"lagos": {
+"f": "2026-11-17",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/d8/86/f7d886b2-a08f-7836-f533-d8b02d52c0e6/mzaf_1940698862506269830.plus.aac.p.m4a",
+"cancion": "Julia",
+"enlace": "https://music.apple.com/es/album/julia/1567485677?i=1567485680&uo=4"
 }
 },
 "las-eras-arg": {
@@ -1627,6 +1647,14 @@
 "f": "2026-11-16",
 "r": null
 },
+"madrid-en-vivo-sgae-lab": {
+"f": "2026-11-17",
+"r": null
+},
+"madrid-en-vivo-sgae-lab-late-capital-remedios-caseros": {
+"f": "2026-11-17",
+"r": null
+},
 "maluco-sabe": {
 "f": "2026-11-16",
 "r": {
@@ -1798,6 +1826,14 @@
 "middle-name-manners": {
 "f": "2026-11-16",
 "r": null
+},
+"midnight-generation": {
+"f": "2026-11-17",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/e7/c9/b7e7c987-3262-f7e7-a3be-d366e01db484/mzaf_5296640531082102419.plus.aac.p.m4a",
+"cancion": "Don't Wait Up",
+"enlace": "https://music.apple.com/es/album/dont-wait-up/1789425048?i=1789425352&uo=4"
+}
 },
 "migala": {
 "f": "2026-11-16",
@@ -2379,6 +2415,14 @@
 "enlace": "https://music.apple.com/es/album/pongamos-que-hablo-de-madrid/307380707?i=307380713&uo=4"
 }
 },
+"pretoricos": {
+"f": "2026-11-17",
+"r": {
+"audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/16/77/e11677c9-6dca-7116-866c-995f935d4fcc/mzaf_1993720118597310839.plus.aac.p.m4a",
+"cancion": "Manchas Torcidas",
+"enlace": "https://music.apple.com/es/album/manchas-torcidas/1782799279?i=1782799280&uo=4"
+}
+},
 "propaganda-machine-stoner": {
 "f": "2026-11-16",
 "r": null
@@ -2837,6 +2881,10 @@
 },
 "the-buzzos-the-diesel-dogs-the-vil-veins": {
 "f": "2026-11-16",
+"r": null
+},
+"the-cat-empire-proximamente": {
+"f": "2026-11-17",
 "r": null
 },
 "the-chandals": {

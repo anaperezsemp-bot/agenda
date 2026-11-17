@@ -1,0 +1,19 @@
+{
+ "titulo": "Lagos",
+ "fecha": "2027-03-10",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://www.entradas.com/artist/lagos/?affiliate=ABG",
+ "url": "https://salariviera.com/event/lagos/",
+ "imagen": "https://salariviera.com/wp-content/uploads/2026/11/2027-03102027-LAGOS-scaled.png",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [],
+ "sala": "la-riviera",
+ "id": "la-riviera-2027-03-10-lagos",
+ "audio": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/d8/86/f7d886b2-a08f-7836-f533-d8b02d52c0e6/mzaf_1940698862506269830.plus.aac.p.m4a",
+ "cancion": "Julia",
+ "enlace_audio": "https://music.apple.com/es/album/julia/1567485677?i=1567485680&uo=4"
+}

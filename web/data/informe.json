@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T20:28:30+00:00",
+ "generado": "2026-11-17T16:16:58+00:00",
  "salas": [
   {
    "sala": "Café La Palma",
@@ -8,12 +8,12 @@
   },
   {
    "sala": "La Riviera",
-   "conciertos": 92,
+   "conciertos": 94,
    "error": null
   },
   {
    "sala": "El Perro Club",
-   "conciertos": 42,
+   "conciertos": 43,
    "error": null
   },
   {
@@ -33,12 +33,12 @@
   },
   {
    "sala": "Sala But",
-   "conciertos": 15,
+   "conciertos": 14,
    "error": null
   },
   {
    "sala": "Copérnico",
-   "conciertos": 30,
+   "conciertos": 31,
    "error": null
   },
   {
@@ -53,7 +53,7 @@
   },
   {
    "sala": "Fun House",
-   "conciertos": 22,
+   "conciertos": 21,
    "error": null
   },
   {
@@ -63,7 +63,7 @@
   },
   {
    "sala": "Wurlitzer Ballroom",
-   "conciertos": 30,
+   "conciertos": 29,
    "error": null
   },
   {
@@ -83,7 +83,7 @@
   },
   {
    "sala": "Fotomatón Bar",
-   "conciertos": 10,
+   "conciertos": 11,
    "error": null
   },
   {
@@ -93,12 +93,17 @@
   },
   {
    "sala": "Villanos",
-   "conciertos": 18,
+   "conciertos": 17,
    "error": null
   },
   {
    "sala": "Sala Uni",
    "conciertos": 3,
+   "error": null
+  },
+  {
+   "sala": "Conciertos a mano",
+   "conciertos": 0,
    "error": null
   }
  ]
