@@ -1,4 +1,4 @@
 # Hoja de conciertos a mano: enlaces CSV de sus pestañas (Archivo → Compartir → Publicar en la web → CSV).
 # Vacíos = no se usa. Ver collector/manual.py para las columnas.
 conciertos_csv: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSxICVjMKjal9RU5bCNkyG2Hfn09cznMD79EyH1UhX3tjBt9Ao1LNORX1o_eIEB66TbzQfQskNe5pQA/pub?gid=1446080584&single=true&output=csv"
-cambios_csv: ""
+cambios_csv: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSxICVjMKjal9RU5bCNkyG2Hfn09cznMD79EyH1UhX3tjBt9Ao1LNORX1o_eIEB66TbzQfQskNe5pQA/pub?gid=874348872&single=true&output=csv"
