@@ -1,25 +1,25 @@
 {
- "generado": "2026-11-18T20:38:26+00:00",
+ "generado": "2026-11-19T07:33:16+00:00",
  "salas": [
   {
    "sala": "Café La Palma",
-   "conciertos": 30,
+   "conciertos": 29,
    "error": null
   },
   {
    "sala": "La Riviera",
-   "conciertos": 94,
+   "conciertos": 93,
    "error": null
   },
   {
    "sala": "El Perro Club",
-   "conciertos": 43,
+   "conciertos": 41,
    "error": null
   },
   {
    "sala": "Maravillas Club",
    "conciertos": 5,
-   "error": null
+   "error": "ParseError: mismatched tag: line 93, column 2"
   }
  ]
 }
