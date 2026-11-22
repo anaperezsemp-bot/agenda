@@ -1,25 +1,25 @@
 {
- "generado": "2026-11-21T19:23:41+00:00",
+ "generado": "2026-11-22T06:58:13+00:00",
  "salas": [
   {
    "sala": "Café La Palma",
-   "conciertos": 28,
+   "conciertos": 27,
    "error": null
   },
   {
    "sala": "La Riviera",
-   "conciertos": 91,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='salariviera.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&start_date=2026-11-21 (Caused by ConnectTimeoutError(<HTTPSConnection(host='salariviera.com', port=443) at 0x7818152d05f0>, 'Connection to salariviera.com timed out. (connect timeout=30)'))"
+   "conciertos": 90,
+   "error": null
   },
   {
    "sala": "El Perro Club",
-   "conciertos": 40,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='elperroclub.es', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&start_date=2026-11-21 (Caused by ConnectTimeoutError(<HTTPSConnection(host='elperroclub.es', port=443) at 0x7818152d0ce0>, 'Connection to elperroclub.es timed out. (connect timeout=30)'))"
+   "conciertos": 39,
+   "error": null
   },
   {
    "sala": "Maravillas Club",
    "conciertos": 5,
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "error": null
   }
  ]
 }
