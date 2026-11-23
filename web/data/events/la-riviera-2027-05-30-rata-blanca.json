@@ -1,0 +1,16 @@
+{
+ "titulo": "Rata Blanca",
+ "fecha": "2027-05-30",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://www.enterticket.es/eventos/rata-blanca-40-aniversario-en-madrid-la-riviera-177020",
+ "url": "https://salariviera.com/event/rata-blanca-3/",
+ "imagen": "https://salariviera.com/wp-content/uploads/2026/11/2027-05302027-RATA-BLANCA-1-scaled.png",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [],
+ "sala": "la-riviera",
+ "id": "la-riviera-2027-05-30-rata-blanca"
+}

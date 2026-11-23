@@ -1,0 +1,16 @@
+{
+ "titulo": "Avenida",
+ "fecha": "2027-05-14",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://tickets.oneboxtds.com/unitedlive/select/3051538",
+ "url": "https://salariviera.com/event/avenida/",
+ "imagen": "https://salariviera.com/wp-content/uploads/2026/11/2027-05142027-AVENIDA-scaled.png",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [],
+ "sala": "la-riviera",
+ "id": "la-riviera-2027-05-14-avenida"
+}
