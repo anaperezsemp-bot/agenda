@@ -59,7 +59,10 @@
         <h1>${esc(c.titulo)}</h1>
         ${c.agotado ? `<p><span class="tag-agotado">Entradas agotadas</span></p>` : ""}
         <dl class="datos">${filas.map(([k, v]) => `<dt>${k}</dt><dd>${k === "Sala" ? v : esc(v)}</dd>`).join("")}</dl>
-        ${c.descripcion ? `<p class="descripcion">${esc(c.descripcion)}</p>` : ""}
+        ${c.descripcion ? `<details class="mas">
+          <summary>Más información</summary>
+          <p class="descripcion">${esc(c.descripcion)}</p>
+        </details>` : ""}
         <div class="enlaces">
           <a class="btn" href="https://www.youtube.com/results?search_query=${q}" target="_blank" rel="noopener">Ver en YouTube</a>
           <a class="btn" href="https://open.spotify.com/search/${q}" target="_blank" rel="noopener">Escuchar en Spotify</a>

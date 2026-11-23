@@ -12,6 +12,7 @@ from pathlib import Path
 import requests
 import yaml
 
+import miniaturas
 from normalize import generos_y_titulo, id_concierto
 from sources import jsonld, rss, tec
 
@@ -37,9 +38,13 @@ def leer_sala(sala, sesion, hoy):
     return lector.leer(sala, get, hoy)
 
 
-def a_listado(c):
+def a_listado(c, con_miniatura=False):
     """Fila mínima para el listado: claves cortas para que el JSON pese poco."""
     fila = {"id": c["id"], "f": c["fecha"], "h": c["hora"], "g": c["titulo"], "s": c["sala"]}
+    if con_miniatura:
+        fila["i"] = 1  # la web la busca en data/min/<id>.webp
+    if c.get("url_entradas"):
+        fila["e"] = c["url_entradas"]
     if c["precio_min"] is not None:
         fila["p"] = c["precio_min"]
     if c["agotado"]:
@@ -107,12 +112,22 @@ def main():
         informe.append((sala["nombre"], len(nuevos), error))
 
     ordenados = sorted(conciertos.values(), key=lambda c: (c["fecha"], c["hora"] or "99", c["titulo"]))
+
+    def descargar(url):
+        r = sesion.get(url, timeout=30, stream=True)
+        r.raise_for_status()
+        contenido = r.raw.read(miniaturas.MAX_BYTES + 1, decode_content=True)
+        if len(contenido) > miniaturas.MAX_BYTES:
+            raise ValueError("imagen demasiado grande")
+        return contenido
+
+    con_miniatura, fallos_min = miniaturas.actualizar(ordenados, salida / "min", descargar)
     agenda = {
         "generado": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "salas": {
             s["id"]: {"n": s["nombre"], "b": s.get("barrio", ""), "w": s.get("web", "")} for s in salas
         },
-        "conciertos": [a_listado(c) for c in ordenados],
+        "conciertos": [a_listado(c, c["id"] in con_miniatura) for c in ordenados],
     }
     (salida / "agenda.json").write_text(
         json.dumps(agenda, ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
@@ -135,6 +150,7 @@ def main():
         encoding="utf-8",
     )
     print(f"{len(ordenados)} conciertos desde {hoy.isoformat()}")
+    print(f"  miniaturas: {len(con_miniatura)}" + (f"  ⚠ {fallos_min} carteles no se pudieron leer" if fallos_min else ""))
     for nombre, n, error in informe:
         print(f"  {nombre}: {n}" + (f"  ⚠ {error}" if error else ""))
     # Si ninguna sala devolvió nada, algo va mal: el workflow lo marcará como fallo.

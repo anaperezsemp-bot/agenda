@@ -60,3 +60,45 @@ def test_generos():
         "ALBERTO BALLESTEROS", ["Pop", "Rock", "Folk"])
     assert generos_y_titulo("Chema Saiz (Festival JazzMadrid)", ["Madrid", "jazz", "blues", "Maravillas"]) == (
         "Chema Saiz (Festival JazzMadrid)", ["Jazz", "Blues"])
+
+
+def test_miniaturas(tmp_path):
+    from io import BytesIO
+
+    from PIL import Image
+
+    import miniaturas
+
+    cartel = BytesIO()
+    Image.new("RGBA", (800, 1100), (200, 30, 30, 255)).save(cartel, "PNG")
+    conciertos = [
+        {"id": "a", "imagen": "https://x/a.png"},
+        {"id": "b", "imagen": "https://x/roto.png"},
+        {"id": "c", "imagen": None},
+    ]
+    (tmp_path / "viejo.webp").write_bytes(b"x")
+
+    def descargar(url):
+        if "roto" in url:
+            raise OSError("404")
+        return cartel.getvalue()
+
+    hechas, fallos = miniaturas.actualizar(conciertos, tmp_path, descargar)
+    assert hechas == {"a"} and fallos == 1
+    assert not (tmp_path / "viejo.webp").exists()
+    with Image.open(tmp_path / "a.webp") as img:
+        assert img.format == "WEBP" and img.size == (miniaturas.LADO, miniaturas.LADO)
+    assert (tmp_path / "a.webp").stat().st_size < 10_000
+
+    # Ya hecha: no se vuelve a descargar.
+    hechas, _ = miniaturas.actualizar(conciertos[:1], tmp_path, lambda url: 1 / 0)
+    assert hechas == {"a"}
+
+
+def test_listado_con_imagen_y_entradas():
+    from collect import a_listado
+
+    c = {"id": "x", "fecha": "2026-12-01", "hora": "21:00", "titulo": "T", "sala": "s",
+         "precio_min": 10.0, "agotado": False, "generos": [], "url_entradas": "https://dice.fm/t"}
+    assert a_listado(c, True) == {"id": "x", "f": "2026-12-01", "h": "21:00", "g": "T", "s": "s",
+                                  "i": 1, "e": "https://dice.fm/t", "p": 10.0}

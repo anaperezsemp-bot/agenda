@@ -1,0 +1,18 @@
+{
+ "titulo": "FATAL",
+ "fecha": "2026-12-10",
+ "hora": "22:00",
+ "precio_min": 12.0,
+ "precio_max": 12.0,
+ "agotado": false,
+ "url_entradas": "https://entradas.cafelapalma.com/fatal-10-dic-madrid-entradas",
+ "url": "https://cafelapalma.com/programacion/fatal/",
+ "imagen": "https://cafelapalma.com/wp-content/uploads/2026/11/FATAL_14-002-scaled.jpeg",
+ "generos": [],
+ "descripcion": "@ \n\n + gg | 15€ Taquilla\n\nFATAL, la banda valenciana formada en 2025 por integrantes de Mafalda y Funkiwis, empieza a consolidarse y hacerse un hueco en la escena. FATAL surge de la amistad, como una broma que haces sin pensarla dos veces y que al final va en serio. Pero FATAL ya no es una broma, FATAL está ocurriendo ahora mismo.\nAunque el proyecto se gestó a fuego lento entre 2023-2024, aparecen en la escena musical de Valencia en noviembre de 2025. Con “La peor semana del año”, su primer disco de 12 temas, hacen su presentación en febrero de 2026, una gran fiesta de inicio en la que hicieron Sold out en la sala El loco de su ciudad.\n\nSon amigos, son profesionales, y sobre todo se lo pasan bien. Fatal se encuentra actualmente en gira por España.",
+ "categorias": [
+  "Concierto"
+ ],
+ "sala": "cafe-la-palma",
+ "id": "cafe-la-palma-2026-12-10-fatal"
+}

@@ -52,6 +52,7 @@
   --size-control: 40px; /* alto mínimo de botones y campos */
   --size-row: 56px;     /* alto mínimo de una fila de concierto */
   --size-day: 56px;     /* ancho mínimo de un día en la tira */
+  --size-thumb: 64px;   /* miniatura del cartel en la lista */
 
   /* Tipografía */
   --font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
@@ -68,6 +69,7 @@
   --weight-semibold: 600;
   --weight-bold: 700;
   --leading-base: 1.45;
+  --leading-snug: 1.35;
   --leading-tight: 1.15;
   --tracking-tight: -0.02em;
   --tracking-wide: 0.04em;
