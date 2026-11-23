@@ -63,9 +63,17 @@
     if (c.h) meta.push(`<span class="hora">${esc(c.h)}</span>`);
     if (c.a) meta.push(`<span class="tag-agotado">Agotado</span>`);
     else if (c.p !== undefined) meta.push(`<span class="precio">${esc(precioTexto(c.p))}</span>`);
-    return `<li><a class="row${c.a ? " agotado" : ""}" href="detalle.html?id=${encodeURIComponent(c.id)}">
-      <div class="info"><div class="grupo">${esc(c.g)}</div><div class="sala">${esc(sala)}</div></div>
-      <div class="meta">${meta.join(" ")}</div></a></li>`;
+    const imagen = c.i
+      ? `<img class="mini" src="data/min/${encodeURIComponent(c.id)}.webp" width="64" height="64" loading="lazy" decoding="async" alt="">`
+      : `<span class="mini mini-vacia" aria-hidden="true">♪</span>`;
+    // La tarjeta entera lleva al detalle; el botón de entradas va aparte (no se anidan enlaces).
+    const entradas = c.e && !c.a
+      ? `<a class="entradas" href="${esc(c.e)}" target="_blank" rel="noopener" aria-label="Entradas para ${esc(c.g)}">Entradas</a>`
+      : "";
+    return `<li class="row${c.a ? " agotado" : ""}">
+      ${imagen}
+      <div class="info"><a class="grupo" href="detalle.html?id=${encodeURIComponent(c.id)}">${esc(c.g)}</a><div class="sala">${esc(sala)}</div></div>
+      <div class="meta">${meta.join(" ")}${entradas}</div></li>`;
   }
 
   function pintarLote() {
