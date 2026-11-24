@@ -1,0 +1,16 @@
+{
+ "titulo": "Omega",
+ "fecha": "2027-03-18",
+ "hora": "21:00",
+ "precio_min": null,
+ "precio_max": null,
+ "agotado": false,
+ "url_entradas": "https://inverfest.com/events/omega-madrid/",
+ "url": "https://salariviera.com/event/omega/",
+ "imagen": "https://salariviera.com/wp-content/uploads/2026/11/2027-03182027-OMEGA-scaled.png",
+ "generos": [],
+ "descripcion": "",
+ "categorias": [],
+ "sala": "la-riviera",
+ "id": "la-riviera-2027-03-18-omega"
+}
