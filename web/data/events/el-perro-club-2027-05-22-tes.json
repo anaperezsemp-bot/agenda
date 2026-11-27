@@ -1,0 +1,22 @@
+{
+ "titulo": "TES",
+ "fecha": "2027-05-22",
+ "hora": "21:30",
+ "precio_min": 10.0,
+ "precio_max": 12.0,
+ "agotado": false,
+ "url_entradas": "https://elperroclub.es/evento/tes-soul-funk/",
+ "url": "https://elperroclub.es/evento/tes-soul-funk/",
+ "imagen": "https://elperroclub.es/wp-content/uploads/2026/11/TES-277.png",
+ "generos": [
+  "Soul",
+  "Funk"
+ ],
+ "descripcion": "Tras treinta años de descanso ,TES, banda madrileña de Funk, se vuelve a reunir para interpretar versiones de temas de rock, Pop y Funk así como temas propios. Todos ellos  pasados por una batidora Funky. Un concierto para venirse a bailar, saltar y divertirse.\n\n21:30 hs. Anticipadas 10€ – Taquilla 12€",
+ "categorias": [
+  "Conciertos",
+  "Conciertos"
+ ],
+ "sala": "el-perro-club",
+ "id": "el-perro-club-2027-05-22-tes"
+}
