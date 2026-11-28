@@ -1,0 +1,92 @@
+/*
+  Tokens de diseño. Es el único sitio donde viven colores, tipografía,
+  espaciados y radios: styles.css solo usa estas variables.
+
+  Cada variable tiene el mismo nombre que su variable en Figma
+  ("Agenda de conciertos · Diseño"): color/bg ↔ --color-bg,
+  space/16 ↔ --space-16, radius/lg ↔ --radius-lg, font/size/base ↔ --text-base…
+  Si cambias un valor en Figma, cámbialo aquí con el mismo nombre.
+
+  Colecciones de Figma:
+  - Color          → :root
+  - Color oscuro   → @media (prefers-color-scheme: dark)
+  - Espaciado      → --space-*, --radius-*, --size-*
+  - Tipografía     → --font-family, --text-*, --weight-*
+*/
+
+:root {
+  /* Color (modo claro) */
+  --color-bg: #faf8f5;
+  --color-surface: #ffffff;
+  --color-text: #1b1a19;
+  --color-muted: #6b6762;
+  --color-line: #e6e1da;
+  --color-accent: #d6402b;
+  --color-accent-text: #ffffff;
+  --color-chip: #f0ebe4;
+  --color-backdrop: rgb(0 0 0 / 0.45);
+
+  /* Espaciado */
+  --space-2: 2px;
+  --space-4: 4px;
+  --space-6: 6px;
+  --space-8: 8px;
+  --space-10: 10px;
+  --space-12: 12px;
+  --space-14: 14px;
+  --space-16: 16px;
+  --space-20: 20px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-48: 48px;
+
+  /* Radios */
+  --radius-xs: 6px;
+  --radius-sm: 8px;
+  --radius-md: 10px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-full: 999px;
+
+  /* Tamaños */
+  --size-control: 40px; /* alto mínimo de botones y campos */
+  --size-row: 56px;     /* alto mínimo de una fila de concierto */
+  --size-day: 56px;     /* ancho mínimo de un día en la tira */
+  --size-thumb: 64px;   /* miniatura del cartel en la lista */
+
+  /* Tipografía */
+  --font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --text-xs: 11px;
+  --text-sm: 12px;
+  --text-caption: 13px;
+  --text-small: 14px;
+  --text-base: 16px;
+  --text-lg: 17px;
+  --text-xl: 18px;
+  --text-2xl: 22px;
+  --text-3xl: 28px;
+  --weight-regular: 400;
+  --weight-semibold: 600;
+  --weight-bold: 700;
+  --leading-base: 1.45;
+  --leading-snug: 1.35;
+  --leading-tight: 1.15;
+  --tracking-tight: -0.02em;
+  --tracking-wide: 0.04em;
+
+  color-scheme: light dark;
+}
+
+/* Color oscuro */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #141312;
+    --color-surface: #1d1c1a;
+    --color-text: #f2efea;
+    --color-muted: #a39e97;
+    --color-line: #2e2c29;
+    --color-accent: #ff6a52;
+    --color-accent-text: #141312;
+    --color-chip: #2a2825;
+  }
+}
